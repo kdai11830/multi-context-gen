@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Je suis venu discuter avec les
+poissons...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Sont toujours d'accord
+avec moi,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; eux&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>Je suis venu discuter avec les
+poissons...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Sont toujours d'accord
+avec moi,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; eux&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Je nage comme une brêle,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0; je ferais
+sûrement un très mauvais poisson&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;</original>
+			<edited>Je nage comme une brêle,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0; je ferais
+sûrement un très mauvais poisson&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>On dirait que tu as découvert ma
+cachette. &#xE;&#x3;%&#x0;Je me sens comme un
+poisson dans l'eau ici, &#xE;&#x3;&#x2;&#x0;HA HA HA !</original>
+			<edited>On dirait que tu as découvert ma
+cachette. &#xE;&#x3;%&#x0;Je me sens comme un
+poisson dans l'eau ici, &#xE;&#x3;&#x2;&#x0;HA HA HA !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Personne n'a jamais vu un poisson
+dormir.&#xE;&#x3;&#x0;&#x0; Pfff, il suffit pourtant
+d'être un peu patient. Je guette...</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Personne n'a jamais vu un poisson
+dormir.&#xE;&#x3;&#x0;&#x0; Pfff, il suffit pourtant
+d'être un peu patient. Je guette...</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Gros poisson non identifié à midi !
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>Gros poisson non identifié à midi !
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

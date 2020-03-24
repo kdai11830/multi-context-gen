@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Hey there,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; whippersnapper!</original>
+			<edited>Hey there,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; whippersnapper!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Hey there,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; whippersnappers!</original>
+			<edited>Hey there,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; whippersnappers!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks for joining us on the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks for joining us on the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;All right, let's get started.</original>
+			<edited>&#xE;&#x3;#&#x0;All right, let's get started.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;Get ready&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;.&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+Get set...&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;	&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;Get ready&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;.&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+Get set...&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;	&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;Get ready&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;.&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+Get set...&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;Get ready&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;.&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+Get set...&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#xC;&#x0;&#xE;&#xD;&#x1;&#x2;&#x0;Í&#xE;&#x3;&#x7;&#x0;&#xE;&#xD;	&#x0;GO!&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#xD;
+&#x0;&#xE;&#x7;	&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#xC;&#x0;&#xE;&#xD;&#x1;&#x2;&#x0;Í&#xE;&#x3;&#x7;&#x0;&#xE;&#xD;	&#x0;GO!&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#xD;
+&#x0;&#xE;&#x7;	&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Heh heh HORF!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;That was a hoot!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Let's take a gander at the results.&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Heh heh HORF!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;That was a hoot!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Let's take a gander at the results.&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Heh heh HORF!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;That was a hoot!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Let's take a gander at the results.&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Heh heh HORF!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;That was a hoot!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Let's take a gander at the results.&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Heh heh HORF!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;That was a hoot!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Let's take a gander at the results.&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Heh heh HORF!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;That was a hoot!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Let's take a gander at the results.&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Well, medals aren't everything.
+You'll get 'em next time, sprout.&#xE;&#x0;&#x4;&#x0;Thanks for participating in the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Tell your friends! </original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Well, medals aren't everything.
+You'll get 'em next time, sprout.&#xE;&#x0;&#x4;&#x0;Thanks for participating in the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Tell your friends! </edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>I hope you sprouts enjoyed the&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!
+Come back soon!</original>
+			<edited>I hope you sprouts enjoyed the&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!
+Come back soon!</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>I hope you enjoyed the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Tell your friends!</original>
+			<edited>I hope you enjoyed the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Tell your friends!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>I hope you sprouts enjoyed the&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!
+Come back soon!</original>
+			<edited>I hope you sprouts enjoyed the&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x12;&#x15;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!
+Come back soon!</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>You'll also get an extra bonus
+depending on how hard you worked.</original>
+			<edited>You'll also get an extra bonus
+depending on how hard you worked.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x1;&#x0; &#xE;&#xE;	*&#x1;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ, and&#xE;&#x7;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x1;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x2;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#xE;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x1;&#x0; &#xE;&#xE;	*&#x1;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ, and&#xE;&#x7;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x1;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x2;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#xE;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x1;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x1;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x1;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x2;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ, and&#xE;&#x7;&#xE;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x2;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x3;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x3;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x1;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x1;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x1;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x2;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ, and&#xE;&#x7;&#xE;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x2;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x3;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x3;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x1;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x1;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x1;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x2;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#xE;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x2;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x3;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x3;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ, and&#xE;&#x7;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x3;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x4;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x4;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x1;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x1;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x1;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x2;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#xE;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x2;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x3;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x3;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ, and&#xE;&#x7;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x3;&#x0; gets&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x7;&#x2;&#x4;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	*&#x4;Í&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;
+&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;&#xC;&#x0;m&#x0;e&#x0;d&#x0;a&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Medals aren't everything.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+You'll get 'em next time!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Medals aren't everything.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+You'll get 'em next time!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hope you had a "cool" time!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;Heh heh HORF!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hope you had a "cool" time!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;Heh heh HORF!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

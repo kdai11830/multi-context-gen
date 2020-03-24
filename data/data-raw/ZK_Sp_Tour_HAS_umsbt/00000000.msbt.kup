@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hey! &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;Looks like you found me.&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hey! &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;Looks like you found me.&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;How'd you find me?!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;How'd you find me?!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Hah!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You found me!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Pretty good,
+&#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Hah!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You found me!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Pretty good,
+&#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;No! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;You got me! &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;Wait. YOU again?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;
+You have to search elsewhere!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;No! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;You got me! &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;Wait. YOU again?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;
+You have to search elsewhere!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Huh? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Why are you finding me again?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;'&#x0;Go seek in other places.&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Huh? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Why are you finding me again?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;'&#x0;Go seek in other places.&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Hmm. You again? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Sorry. It doesn't
+count. You already found me!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;#&#x0;Hmm. You again? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Sorry. It doesn't
+count. You already found me!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Sorry, but &#xE;&#x11;&#x0;&#x2;&#x0;&#x0; found me
+already!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;	&#x0;Sorry, but &#xE;&#x11;&#x0;&#x2;&#x0;&#x0; found me
+already!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; already found me.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Sorry—you can't claim me too!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; already found me.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Sorry—you can't claim me too!&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Well, I hate to break it to you, but
+&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; already found me.&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;'&#x0;Well, I hate to break it to you, but
+&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; already found me.&#xE;&#x7;&#x8;&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

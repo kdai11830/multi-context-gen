@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hello again, &#xE;&#x5;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+You certainly don't seem to mind
+the cold, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;do you, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;Hello again, &#xE;&#x5;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+You certainly don't seem to mind
+the cold, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;do you, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Still out in this cold, &#xE;&#x5;&#x0;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Still out in this cold, &#xE;&#x5;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Still enjoying our snowy town,
+&#xE;&#x5;&#x0;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;Still enjoying our snowy town,
+&#xE;&#x5;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Aren't your feet getting cold,
+&#xE;&#x5;&#x0;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Aren't your feet getting cold,
+&#xE;&#x5;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Awfully cold to be staying outside
+so long, isn't it, &#xE;&#x5;&#x0;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Awfully cold to be staying outside
+so long, isn't it, &#xE;&#x5;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Wow, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;still roaming around in this
+frosty weather, &#xE;&#x5;&#x7;&#x0;?
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You're going to freeze, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Wow, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;still roaming around in this
+frosty weather, &#xE;&#x5;&#x7;&#x0;?
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You're going to freeze, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

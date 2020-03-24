@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>¿Te apetece echar un rato de pesca
+conmigo?</original>
+			<edited>¿Te apetece echar un rato de pesca
+conmigo?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Vamos pececito,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; seguro que has
+oído hablar de &#xE;&#x5;&#x1;&#x0;. ¡Ven
+a verme!</original>
+			<edited>Vamos pececito,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; seguro que has
+oído hablar de &#xE;&#x5;&#x1;&#x0;. ¡Ven
+a verme!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>¿Con qué maravilloso animal
+acuático nos toparemos hoy?</original>
+			<edited>¿Con qué maravilloso animal
+acuático nos toparemos hoy?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

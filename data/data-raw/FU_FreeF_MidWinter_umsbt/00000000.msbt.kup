@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;It might be dark and cold outside,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+but it's cozy and warm inside!&#xE;&#x0;&#x4;&#x0;One just makes you appreciate
+the other, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;It might be dark and cold outside,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+but it's cozy and warm inside!&#xE;&#x0;&#x4;&#x0;One just makes you appreciate
+the other, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;My favorite thing to do on long
+winter evenings is to take a hot
+bath.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Preferably with bubbles!</original>
+			<edited>&#xE;&#x3;%&#x0;My favorite thing to do on long
+winter evenings is to take a hot
+bath.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Preferably with bubbles!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I like to spend the long, quiet nights
+of winter pondering the important
+questions in life.
+&#xE;&#x3;&#x1;&#x0;I find that puts me right to sleep.</original>
+			<edited>&#xE;&#x3;%&#x0;I like to spend the long, quiet nights
+of winter pondering the important
+questions in life.
+&#xE;&#x3;&#x1;&#x0;I find that puts me right to sleep.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Long winter nights are perfect for
+stargazing.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; The stars look so crisp
+in the cold air!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Long winter nights are perfect for
+stargazing.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; The stars look so crisp
+in the cold air!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Someone told me that if you build a
+snowman at night under the full
+moon,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it comes to life.
+&#xE;&#x3;$&#x0;But that's preposterous.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Right?</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Someone told me that if you build a
+snowman at night under the full
+moon,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it comes to life.
+&#xE;&#x3;$&#x0;But that's preposterous.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Right?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

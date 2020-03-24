@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Tu rends visite à &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, toi
+aussi ?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Tu rends visite à &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, toi
+aussi ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh, coucou, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; est très sollicité&#xE;&#xE;&#x7;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+aujourd'hui, on dirait&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;'&#x0;Je suis un peu jalouse, j'avoue,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh, coucou, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; est très sollicité&#xE;&#xE;&#x7;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+aujourd'hui, on dirait&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;'&#x0;Je suis un peu jalouse, j'avoue,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh, hello, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Vraiment sympa chez &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, tu
+ne trouves pas,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh, hello, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Vraiment sympa chez &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, tu
+ne trouves pas,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; ?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

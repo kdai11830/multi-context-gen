@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ji, ji, ji&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Qué, serás capaz de
+encontrar a todo el mundo?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Si no lo consigues,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡perderás, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;Ji, ji, ji&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Qué, serás capaz de
+encontrar a todo el mundo?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Si no lo consigues,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡perderás, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡Oye!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Deja de holgazanear!&#xE;&#x3;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;Si no encuentras a todo el mundo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡pierdes, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡Oye!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Deja de holgazanear!&#xE;&#x3;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;Si no encuentras a todo el mundo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡pierdes, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡Ahora no es momento de ponerse
+con cuentos! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;¡Venga, date vida y
+encuentra a todo el mundo!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Si no lo haces,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡vas a perder,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡Ahora no es momento de ponerse
+con cuentos! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;¡Venga, date vida y
+encuentra a todo el mundo!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Si no lo haces,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡vas a perder,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;¡Alucina!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Se ha acabado el
+tiempo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Hemos ganado!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;¡Alucina!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Se ha acabado el
+tiempo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Hemos ganado!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

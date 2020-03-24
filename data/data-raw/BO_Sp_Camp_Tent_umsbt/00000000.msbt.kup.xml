@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;What do you think of this town?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;I think it's pretty neat!</original>
+			<edited>&#xE;&#x3;'&#x0;What do you think of this town?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;I think it's pretty neat!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Do you visit this town a lot?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;This is the sort of place&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; you want
+to keep coming back to,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Do you visit this town a lot?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;This is the sort of place&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; you want
+to keep coming back to,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's so nice here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I don't even wanna
+go home.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's so nice here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I don't even wanna
+go home.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Camping always means&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; eating tasty
+food!&#xE;&#x0;&#x4;&#x0;I wonder what tasty stuff&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; there is
+to eat in this town, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Camping always means&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; eating tasty
+food!&#xE;&#x0;&#x4;&#x0;I wonder what tasty stuff&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; there is
+to eat in this town, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;It's weird.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Even though this isn't my
+town,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I feel like I fit in perfectly,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;It's weird.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Even though this isn't my
+town,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I feel like I fit in perfectly,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Are you from this town?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;I'm here camping!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I pretty much just decided to camp
+here on a whim,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but it ended up
+being an awesome decision!&#xE;&#x0;&#x4;&#x0;I'll be seeing you around for a little
+bit, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Are you from this town?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;I'm here camping!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I pretty much just decided to camp
+here on a whim,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but it ended up
+being an awesome decision!&#xE;&#x0;&#x4;&#x0;I'll be seeing you around for a little
+bit, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;You're from this town, aren't you?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;I'm having a great time camping
+here!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;You're from this town, aren't you?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;I'm having a great time camping
+here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm here camping in town,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; so you'll
+be seeing me around for a bit!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;Fruit, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;fish, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;shellfish&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; What's &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;the
+best thing to eat here?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;!&#x0;A huh huh huh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You gotta eat the
+local food&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; when you travel,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm here camping in town,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; so you'll
+be seeing me around for a bit!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;Fruit, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;fish, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;shellfish&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; What's &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;the
+best thing to eat here?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;!&#x0;A huh huh huh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You gotta eat the
+local food&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; when you travel,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;I'm trying to figure out where to
+live.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Near the sea?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Or somewhere
+with a ton of trees?
+Some stores nearby would be nice&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;Man, where the heck should I 
+live?!</original>
+			<edited>&#xE;&#x3;+&#x0;I'm trying to figure out where to
+live.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Near the sea?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Or somewhere
+with a ton of trees?
+Some stores nearby would be nice&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;Man, where the heck should I 
+live?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Where should I live, where should I
+live?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Maybe I'll play rock-paper-
+scissors with myself to decide!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Where should I live, where should I
+live?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Maybe I'll play rock-paper-
+scissors with myself to decide!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Wherever I live, there's gotta be
+lots of food nearby,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Wherever I live, there's gotta be
+lots of food nearby,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Actually, I have something
+important to tell you.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;I'm moving to
+this town!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1A;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; invited me, and I
+figured, why not?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;So you and I are
+gonna be neighbors soon!</original>
+			<edited>&#xE;&#x3;#&#x0;Actually, I have something
+important to tell you.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;I'm moving to
+this town!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1A;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; invited me, and I
+figured, why not?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;So you and I are
+gonna be neighbors soon!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;So right now I'm just camping here,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+but pretty soon I'll be moving to
+this town for good!
+&#xE;&#x3;&#x1A;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; invited me, actually.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;We should hang out once I'm moved
+in,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;So right now I'm just camping here,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+but pretty soon I'll be moving to
+this town for good!
+&#xE;&#x3;&#x1A;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; invited me, actually.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;We should hang out once I'm moved
+in,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1A;&#x0;Oh, hey, um, so &#xE;&#x11;&#x0;&#x2;&#x0;&#x0; invited
+me to move into this town!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;We're gonna be neighbors from now
+on!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; So I'll see you around,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1A;&#x0;Oh, hey, um, so &#xE;&#x11;&#x0;&#x2;&#x0;&#x0; invited
+me to move into this town!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;We're gonna be neighbors from now
+on!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; So I'll see you around,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tents are a lot more comfortable
+than I thought.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x19;&#x0;They're so comfy,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I'm napping even more than usual.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tents are a lot more comfortable
+than I thought.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x19;&#x0;They're so comfy,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I'm napping even more than usual.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It can be kind of a hassle building
+a campfire,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but it's definitely
+worth it.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Warming my feet around the fire
+is soooo sweet,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It can be kind of a hassle building
+a campfire,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but it's definitely
+worth it.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Warming my feet around the fire
+is soooo sweet,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Whenever I camp, I think about what
+life was like before we had all these
+modern conveniences.
+&#xE;&#x3;&#x4;&#x0;I bet life back in the day was so
+relaxing all the time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Whenever I camp, I think about what
+life was like before we had all these
+modern conveniences.
+&#xE;&#x3;&#x4;&#x0;I bet life back in the day was so
+relaxing all the time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Everything tastes better when
+you're camping!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;!&#x0;The fresh air is like a megaphone
+for food.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It really bumps up the
+flavors' volume!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Everything tastes better when
+you're camping!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;!&#x0;The fresh air is like a megaphone
+for food.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It really bumps up the
+flavors' volume!</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;The air in this town smells delicious!&#xE;&#x7;&#x1;&#x0;
+If only I could bottle it and bring
+it back home with me!</original>
+			<edited>&#xE;&#x3;+&#x0;The air in this town smells delicious!&#xE;&#x7;&#x1;&#x0;
+If only I could bottle it and bring
+it back home with me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I've camped in a lot of places,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+but I really like this town.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;!&#x0;It's, like,
+the&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; best&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; town&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ever!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;It's weird to say,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but I kind of want
+to live here!&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should move here!
+Um...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I've camped in a lot of places,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+but I really like this town.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;!&#x0;It's, like,
+the&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; best&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; town&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ever!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;It's weird to say,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but I kind of want
+to live here!&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should move here!
+Um...</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Man, I'm bummed out.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; This town
+seems like a really great place,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but
+I'll have to go home before too long.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xE;&#x0;It &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;breaks my heart,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should live here!
+Yeah, that's sad.</original>
+			<edited>&#xE;&#x3;	&#x0;Man, I'm bummed out.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; This town
+seems like a really great place,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but
+I'll have to go home before too long.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xE;&#x0;It &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;breaks my heart,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should live here!
+Yeah, that's sad.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;I had a funny dream last night that
+I was living in this town!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;It seemed like I was having a real
+good time too.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Say, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;you thinking
+what I'm thinking?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should move here!
+Cool dream!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;I had a funny dream last night that
+I was living in this town!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;It seemed like I was having a real
+good time too.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Say, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;you thinking
+what I'm thinking?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should move here!
+Cool dream!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Well, I really love this town.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Camping here has been a lot of fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Well, I really love this town.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Camping here has been a lot of fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Yeah,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; it is sad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;But I gotta get
+home.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I've got a lot of friends 
+waiting for me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Yeah,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; it is sad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;But I gotta get
+home.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I've got a lot of friends 
+waiting for me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;Yeah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Maybe one day it'll come
+true,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;+&#x0;Yeah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Maybe one day it'll come
+true,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

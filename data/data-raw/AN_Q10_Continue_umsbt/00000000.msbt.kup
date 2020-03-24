@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Ah! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Still one of us left, right?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;It's not over until you find all of us&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Good luck! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>Ah! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Still one of us left, right?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;It's not over until you find all of us&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Good luck! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>There should be one person who's
+still hiding!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;You haven't won yet!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; You gotta find
+all of us! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>There should be one person who's
+still hiding!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;You haven't won yet!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; You gotta find
+all of us! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Huh? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Am I the first one found?
+&#xE;&#x3;&#x15;&#x0;Haha, great!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Well, good luck with the other two!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Can you find them? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Huh? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Am I the first one found?
+&#xE;&#x3;&#x15;&#x0;Haha, great!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Well, good luck with the other two!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Can you find them? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;But&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;you haven't found the other
+two yet, have you?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Whoa! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I'm shocked I went out first!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;But&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;you haven't found the other
+two yet, have you?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Whoa! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I'm shocked I went out first!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Encárgate de que &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+reciba eso, ¿vale, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Encárgate de que &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+reciba eso, ¿vale, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>¿Recuerdas que dijiste que ibas a
+llevarle eso a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; de mi
+parte?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Espero que así arregle algo&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>¿Recuerdas que dijiste que ibas a
+llevarle eso a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; de mi
+parte?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Espero que así arregle algo&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Tú llévale eso a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+de mi parte, ¿vale?</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Tú llévale eso a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+de mi parte, ¿vale?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>¡A ver si llevas ese objeto perdido
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!</original>
+			<edited>¡A ver si llevas ese objeto perdido
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>¡Ocúpate de la entrega!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Es para &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡No te líes!</original>
+			<edited>¡Ocúpate de la entrega!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Es para &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡No te líes!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>¡Encárgate de entregarle eso
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!</original>
+			<edited>¡Encárgate de entregarle eso
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

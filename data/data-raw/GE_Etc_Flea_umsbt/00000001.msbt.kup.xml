@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;¡Eeeeh! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡¿Tenía una pulga?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡Pero qué asco!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;¡Eeeeh! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡¿Tenía una pulga?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡Pero qué asco!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡¿Eso era una pulga?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Puaj!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Gracias...</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡¿Eso era una pulga?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Puaj!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Gracias...</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;¡¿Que tenía una pulga?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡Eso es imposible!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;¡¿Que tenía una pulga?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡Eso es imposible!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¡Te juro que me baño todos
+los días!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Pero quizá ese baño de sales
+con &#xE;&#x5;&#xE;&#x2;&#x1;&#x0; no fue
+una buena idea.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;¡Te juro que me baño todos
+los días!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Pero quizá ese baño de sales
+con &#xE;&#x5;&#xE;&#x2;&#x1;&#x0; no fue
+una buena idea.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡Me alegro de que me hayas quitado
+ese parásito antes de que alguien
+más lo viera, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;¡Me alegro de que me hayas quitado
+ese parásito antes de que alguien
+más lo viera, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Porfa, &#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;porfa, &#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;porfa! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡No se lo
+cuentes a nadie! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡Y menos aún
+a &#xE;&#x5;&#x2;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Porfa, &#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;porfa, &#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;porfa! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡No se lo
+cuentes a nadie! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡Y menos aún
+a &#xE;&#x5;&#x2;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

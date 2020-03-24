@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks for burying that capsule,
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;Keep track of where you put it.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+because I'm going to ask you to dig
+it back up in the future!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks for burying that capsule,
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;Keep track of where you put it.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+because I'm going to ask you to dig
+it back up in the future!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Oh, thank you for burying that
+capsule for me, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;Now, at some point, I'm going to
+ask you to dig it up again.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;But it might be a while, so don't
+forget where you buried it, OK?</original>
+			<edited>&#xE;&#x3;%&#x0;Oh, thank you for burying that
+capsule for me, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;Now, at some point, I'm going to
+ask you to dig it up again.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;But it might be a while, so don't
+forget where you buried it, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Thanks for taking care of that
+capsule for me, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Now,
+don't forget where you buried it.
+&#xE;&#x3;%&#x0;Because at some point, I'm going to
+ask you to dig it back up!</original>
+			<edited>&#xE;&#x3;'&#x0;Thanks for taking care of that
+capsule for me, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Now,
+don't forget where you buried it.
+&#xE;&#x3;%&#x0;Because at some point, I'm going to
+ask you to dig it back up!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

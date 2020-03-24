@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;No te olvides de entregar el
+regalo a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿vale?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;No te olvides de entregar el
+regalo a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿vale?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Quiero hacer las paces con
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, así que entrega
+esto lo antes que puedas.
+&#xE;&#x3;
+&#x0;Espero que esto sirva para
+arreglar las cosas entre
+nosotros,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>Quiero hacer las paces con
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, así que entrega
+esto lo antes que puedas.
+&#xE;&#x3;
+&#x0;Espero que esto sirva para
+arreglar las cosas entre
+nosotros,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¿Tú crees que &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+se estará enfadando más y más
+al dejar que pase el tiempo?
+¡Devuélvele el objeto que
+me prestó lo antes posible!</original>
+			<edited>&#xE;&#x3;	&#x0;¿Tú crees que &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+se estará enfadando más y más
+al dejar que pase el tiempo?
+¡Devuélvele el objeto que
+me prestó lo antes posible!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;No te olvides de entregarle eso
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿vale?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;No te olvides de entregarle eso
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿vale?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Llévale ese paquete misterioso
+directamente a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿vale?</original>
+			<edited>Llévale ese paquete misterioso
+directamente a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿vale?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Has encontrado a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡No olvides entregarle eso!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Has encontrado a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡No olvides entregarle eso!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>En fin, ¿de qué querías
+hablarme, &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>En fin, ¿de qué querías
+hablarme, &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>¿Querías preguntarme algo,
+&#xE;&#x5;&#x7;&#x0;? ¡Te escucho!</original>
+			<edited>¿Querías preguntarme algo,
+&#xE;&#x5;&#x7;&#x0;? ¡Te escucho!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Pues tú querías algo,
+¿no, &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>Pues tú querías algo,
+¿no, &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

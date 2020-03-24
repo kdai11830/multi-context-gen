@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Woohoo! I love coming back to
+my old town. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's changed a lot
+since I lived here, hasn't it?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Woohoo! I love coming back to
+my old town. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's changed a lot
+since I lived here, hasn't it?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm not lost. I'm just wandering
+around! I know this place really
+well. I used to live here!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm not lost. I'm just wandering
+around! I know this place really
+well. I used to live here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I miss the main street here in
+&#xE;&#x5;&#x5;&#x0; so much! Why did I ever
+move away?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I miss the main street here in
+&#xE;&#x5;&#x5;&#x0; so much! Why did I ever
+move away?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I lived here in &#xE;&#x5;&#x5;&#x0; a long
+time ago. I just HAD to come back
+for the great stores and stuff!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I lived here in &#xE;&#x5;&#x5;&#x0; a long
+time ago. I just HAD to come back
+for the great stores and stuff!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Hahaha! I had to be crazy to move
+away from &#xE;&#x5;&#x5;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;I just keep
+on coming back here!</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Hahaha! I had to be crazy to move
+away from &#xE;&#x5;&#x5;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;I just keep
+on coming back here!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

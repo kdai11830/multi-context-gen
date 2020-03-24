@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Assure-toi de donner « ce que tu
+sais » à &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, OK ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Super,
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;merci, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Assure-toi de donner « ce que tu
+sais » à &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, OK ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Super,
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;merci, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Ne fais pas n'importe quoi quand tu
+iras donner son cadeau à
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, d'accord ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Mon amitié avec &#xE;&#xE;&#x8;&#x16;&#x0;Í&#x6;&#x0;l&#x0;u&#x0;i&#x0;&#x8;&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; en dépend,
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;'&#x0;Ne fais pas n'importe quoi quand tu
+iras donner son cadeau à
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, d'accord ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Mon amitié avec &#xE;&#xE;&#x8;&#x16;&#x0;Í&#x6;&#x0;l&#x0;u&#x0;i&#x0;&#x8;&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; en dépend,
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Allez,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; dépêche-toi et va donner son
+cadeau à &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;Allez,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; dépêche-toi et va donner son
+cadeau à &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Va rendre à &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; ce qu'&#xE;&#xE;&#x8;&#x14;&#x0;Í&#x4;&#x0;i&#x0;l&#x0;&#x8;&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; a
+perdu ! &#xE;&#x3;$&#x0;Je suis sûr qu'&#xE;&#xE;&#x8;&#x14;&#x0;Í&#x4;&#x0;i&#x0;l&#x0;&#x8;&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; doit le
+chercher partout, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;Va rendre à &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; ce qu'&#xE;&#xE;&#x8;&#x14;&#x0;Í&#x4;&#x0;i&#x0;l&#x0;&#x8;&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; a
+perdu ! &#xE;&#x3;$&#x0;Je suis sûr qu'&#xE;&#xE;&#x8;&#x14;&#x0;Í&#x4;&#x0;i&#x0;l&#x0;&#x8;&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; doit le
+chercher partout, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Allez, va donner ce paquet à
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Et pas de pause-café
+sur le trajet !</original>
+			<edited>&#xE;&#x3;%&#x0;Allez, va donner ce paquet à
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Et pas de pause-café
+sur le trajet !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Sois sûr de donner&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; l'objet&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; à
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, OK ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0; &#xE;&#xE;&#x8;&#x14;&#x0;Í&#x4;&#x0;I&#x0;l&#x0;&#x8;&#x0;E&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; avait l'air d'y
+tenir !</original>
+			<edited>&#xE;&#x3;%&#x0;Sois sûr de donner&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; l'objet&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; à
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, OK ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0; &#xE;&#xE;&#x8;&#x14;&#x0;Í&#x4;&#x0;I&#x0;l&#x0;&#x8;&#x0;E&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; avait l'air d'y
+tenir !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

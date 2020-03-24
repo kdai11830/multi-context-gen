@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh, nothing? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;OK, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Oh, nothing? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;OK, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;I'm looking for something to put in
+my room, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;not hang on the walls,
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;$&#x0;I'm looking for something to put in
+my room, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;not hang on the walls,
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;This is just a bit too big.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;'&#x0;Maybe something a little smaller,
+&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;This is just a bit too big.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;'&#x0;Maybe something a little smaller,
+&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Kinda small, don't you
+think?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;How about something
+bigger, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Kinda small, don't you
+think?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;How about something
+bigger, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;I'm looking for something to
+put in my room, not stick on my
+walls, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;$&#x0;I'm looking for something to
+put in my room, not stick on my
+walls, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;That's just too big!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;'&#x0;It really should
+be about the same size as my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;That's just too big!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;'&#x0;It really should
+be about the same size as my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;This is too small! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Can you find me
+something the same size as my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;This is too small! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Can you find me
+something the same size as my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm trying to replace my old
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;, so I don't
+want another one, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm trying to replace my old
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;, so I don't
+want another one, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;I want something that I can put
+on my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+This won't work, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;I want something that I can put
+on my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+This won't work, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;But I don't want something to
+hang on my walls! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I need to replace
+my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;But I don't want something to
+hang on my walls! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I need to replace
+my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;I need something to put in place
+of my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xC;&#x0;
+No, this won't work at all.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;I need something to put in place
+of my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xC;&#x0;
+No, this won't work at all.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;But I'm trying to replace my old
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Bring me
+something else, OK?</original>
+			<edited>&#xE;&#x3;'&#x0;But I'm trying to replace my old
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Bring me
+something else, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;I don't think this will work at all.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;I'm hoping for something to hang
+on my wall, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;I don't think this will work at all.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;I'm hoping for something to hang
+on my wall, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Wait a second. I already have
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Bring me something else, OK?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Wait a second. I already have
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Bring me something else, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;That was so sweet of you, but I
+already have one of those,
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;That was so sweet of you, but I
+already have one of those,
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;All right, I'll be sure to give this
+a good home, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;All right, I'll be sure to give this
+a good home, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Let's find this just the right spot
+where it will be happy.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Let's find this just the right spot
+where it will be happy.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh, perfect! Now all I have to do
+is raise my new friend with lots
+and lots of love, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh, perfect! Now all I have to do
+is raise my new friend with lots
+and lots of love, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Check out my beautiful new
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;! Totally
+perfect, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Check out my beautiful new
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;! Totally
+perfect, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;Wow, I can't believe it! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;! How
+totally perfect!
+It's been transformed into
+something even more special,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;Wow, I can't believe it! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;! How
+totally perfect!
+It's been transformed into
+something even more special,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I have to think about exactly
+where it's going to go.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I'll put it
+in my room a little later.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I have to think about exactly
+where it's going to go.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I'll put it
+in my room a little later.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'll put it in my room as soon as I
+get home, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'll put it in my room as soon as I
+get home, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm going to show it off right
+away, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm going to show it off right
+away, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;perfect!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;perfect!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I've got to thank you for this.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Take my &#xE;&#x11;&#x3;&#x2;&#x2;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I've got to thank you for this.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Take my &#xE;&#x11;&#x3;&#x2;&#x2;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks so much!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks so much!</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Wow, &#xE;&#x5;&#x8;&#x0;! You found me
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Wow, &#xE;&#x5;&#x8;&#x0;! You found me
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Wow, &#xE;&#x5;&#x8;&#x0;! You found me
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;And it's customized? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;GREAT!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Wow, &#xE;&#x5;&#x8;&#x0;! You found me
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;And it's customized? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;GREAT!</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;I can't wait to make this a part of
+my room.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; But first I have to think
+about exactly where to put it!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;I can't wait to make this a part of
+my room.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; But first I have to think
+about exactly where to put it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;I'll be sure to put this in my room
+just as soon as I get home!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;I'll be sure to put this in my room
+just as soon as I get home!</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; What's the best place for
+this, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; What's the best place for
+this, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I can't figure out where exactly
+this will go.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I'm going to have
+to give this more thought!</original>
+			<edited>&#xE;&#x3;%&#x0;I can't figure out where exactly
+this will go.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I'm going to have
+to give this more thought!</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;Oh! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I know exactly what to do,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;Oh! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I know exactly what to do,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Yeah, that's perfect, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Yeah, that's perfect, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Here's a thank-you gift!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Here's a thank-you gift!</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;Thanks so much!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;Thanks so much!</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;The way gyroids move is so fun!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I love the idea of putting them
+in my house!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;The way gyroids move is so fun!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I love the idea of putting them
+in my house!</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;If I decorate with fossils, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;my home
+will have a really old-fashioned
+look! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Super old, right?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;If I decorate with fossils, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;my home
+will have a really old-fashioned
+look! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Super old, right?</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Having insects in my house is totally
+chic in a weird way! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I love it,
+&#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Having insects in my house is totally
+chic in a weird way! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I love it,
+&#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Putting a fish in my room is so
+totally aqua-chic, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Putting a fish in my room is so
+totally aqua-chic, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Having a little bit of the ocean
+will make my home sweet as
+an ocean breeze!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Having a little bit of the ocean
+will make my home sweet as
+an ocean breeze!</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'll make this critter a part of my
+home.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;just as soon as I can figure
+out where exactly to put it!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'll make this critter a part of my
+home.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;just as soon as I can figure
+out where exactly to put it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Where should this new little
+friend go, &#xE;&#x5;&#x7;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;OK, &#xE;&#x11;&#x3;&#x2;&#x1;&#x0;! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is
+your new home!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Where should this new little
+friend go, &#xE;&#x5;&#x7;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;OK, &#xE;&#x11;&#x3;&#x2;&#x1;&#x0;! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is
+your new home!</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Don't you think this is a great spot?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;I promise to take good care of you,
+little &#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Don't you think this is a great spot?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;I promise to take good care of you,
+little &#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I guess I should give you something
+for all your help, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I guess I should give you something
+for all your help, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;OK, take this, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's my
+old &#xE;&#x11;&#x3;&#x2;&#x2;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I'm glad it's going to a nice, new
+home, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;OK, take this, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's my
+old &#xE;&#x11;&#x3;&#x2;&#x2;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I'm glad it's going to a nice, new
+home, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh, that's right! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I have a gift for
+you: &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;
+Don't I give the BEST gifts?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh, that's right! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I have a gift for
+you: &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;
+Don't I give the BEST gifts?</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks again for finding this for
+me, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks again for finding this for
+me, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Now &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;THAT's an interesting thought.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+But I'd have to put it on something!
+&#xE;&#x3;+&#x0;Maybe like a table, or a desk...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I'll just figure out the perfect
+place for it later!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Now &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;THAT's an interesting thought.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+But I'd have to put it on something!
+&#xE;&#x3;+&#x0;Maybe like a table, or a desk...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I'll just figure out the perfect
+place for it later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Lemme give
+you&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;
+as a special thanks, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Lemme give
+you&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;
+as a special thanks, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I hope I can count on you if anything
+else comes up, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I hope I can count on you if anything
+else comes up, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

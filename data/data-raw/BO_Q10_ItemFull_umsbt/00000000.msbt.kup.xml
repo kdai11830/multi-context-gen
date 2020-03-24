@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;You win this time, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;Your pockets are full, so I'll mail
+you your present.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;You win this time, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;Your pockets are full, so I'll mail
+you your present.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hats off to you,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x1;&#x0;
+I'll send your prize to your house!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hats off to you,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x1;&#x0;
+I'll send your prize to your house!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Darn it!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I lost!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;But since you won,
+I'll send a prize to your house.</original>
+			<edited>&#xE;&#x3;	&#x0;Darn it!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I lost!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;But since you won,
+I'll send a prize to your house.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;This clean floor makes my feet
+really happy!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;This clean floor makes my feet
+really happy!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;I got what I was looking for!&#xE;&#x0;&#x4;&#x0;How could I not?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Department
+stores have everything!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;I got what I was looking for!&#xE;&#x0;&#x4;&#x0;How could I not?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Department
+stores have everything!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;It always seems like they turn up
+the heat in department stores.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;"&#x0;I broke out in a serious sweat!</original>
+			<edited>&#xE;&#x3;	&#x0;It always seems like they turn up
+the heat in department stores.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;"&#x0;I broke out in a serious sweat!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Customer service in the department
+store is outstanding, right?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Or&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;is it just my imagination?</original>
+			<edited>Customer service in the department
+store is outstanding, right?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Or&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;is it just my imagination?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Just being here makes me feel like
+I'm rich.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Just being here makes me feel like
+I'm rich.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

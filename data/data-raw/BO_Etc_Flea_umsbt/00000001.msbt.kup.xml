@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Un momento&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;
+&#x0;¡Se me ha curado el
+picor!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¿Me has quitado &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;una pulga?</original>
+			<edited>Un momento&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;
+&#x0;¡Se me ha curado el
+picor!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¿Me has quitado &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;una pulga?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¿Me has quitado esa pulga,
+&#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¿Me has quitado esa pulga,
+&#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¡La pulga!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¿Me la has quitado?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¡La pulga!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¿Me la has quitado?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Ahora me siento diez mil veces
+mejor!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Gracias,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Ahora me siento diez mil veces
+mejor!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Gracias,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1A;&#x0;Gracias.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Quizá debería bañarme
+más a menudo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1A;&#x0;Gracias.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Quizá debería bañarme
+más a menudo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Para agradecértelo,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡puedes
+quedarte con esa pulga
+como regalo!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Para agradecértelo,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡puedes
+quedarte con esa pulga
+como regalo!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

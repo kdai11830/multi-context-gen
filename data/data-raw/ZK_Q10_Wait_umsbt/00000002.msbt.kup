@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;C'est pas terminé,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Tu dois trouver tous les joueurs,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+sinon c'est nous qui gagnons la
+partie, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;C'est pas terminé,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Tu dois trouver tous les joueurs,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+sinon c'est nous qui gagnons la
+partie, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Tout va bien, &#xE;&#x5;&#x8;&#x0; ?&#xE;&#x0;&#x4;&#x0;Tu devrais pas être en train de
+courir partout au lieu de discuter
+avec moi ?
+&#xE;&#x3;$&#x0;Si tu perds trop de temps, tu peux
+dire adieu à la victoire,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Tout va bien, &#xE;&#x5;&#x8;&#x0; ?&#xE;&#x0;&#x4;&#x0;Tu devrais pas être en train de
+courir partout au lieu de discuter
+avec moi ?
+&#xE;&#x3;$&#x0;Si tu perds trop de temps, tu peux
+dire adieu à la victoire,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; T'as pas trouvé tout le
+monde encore, je me trompe ?
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ?
+&#xE;&#x3;$&#x0;Si ça continue comme ça,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; on va
+gagner, ça ne fait aucun doute.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1C;&#x0;Enfin, si ça te va comme ça...</original>
+			<edited>&#xE;&#x3;%&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; T'as pas trouvé tout le
+monde encore, je me trompe ?
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ?
+&#xE;&#x3;$&#x0;Si ça continue comme ça,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; on va
+gagner, ça ne fait aucun doute.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1C;&#x0;Enfin, si ça te va comme ça...</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Le temps est écoulé,
+&#xE;&#x5;&#x8;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;T'as pas réussi à trouver tout le
+monde, hein ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Dans ce cas, le jugement est sans
+appel :&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;c'est l'équipe &#xE;&#x5;&#x1;&#x0; qui
+gagne !</original>
+			<edited>&#xE;&#x3;%&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Le temps est écoulé,
+&#xE;&#x5;&#x8;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;T'as pas réussi à trouver tout le
+monde, hein ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Dans ce cas, le jugement est sans
+appel :&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;c'est l'équipe &#xE;&#x5;&#x1;&#x0; qui
+gagne !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;And so.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;we win! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Sorry. I know you
+did your best, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;And so.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;we win! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Sorry. I know you
+did your best, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Heh! We totally won! You did a
+pretty good job seeking,
+though, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;$&#x0;Heh! We totally won! You did a
+pretty good job seeking,
+though, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;We just hid too well, didn't we?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Well, we'll try it some other time.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;
+I bet you'll win then!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;We just hid too well, didn't we?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Well, we'll try it some other time.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;
+I bet you'll win then!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

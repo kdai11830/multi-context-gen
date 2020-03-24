@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Mi casa aún no está presentable
+para recibir visitas.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿No podrías venir otro día?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Mi casa aún no está presentable
+para recibir visitas.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿No podrías venir otro día?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;Cuántas cajas.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; No me imaginaba
+que tuviera tantas cosas.</original>
+			<edited>&#xE;&#x3;
+&#x0;Cuántas cajas.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; No me imaginaba
+que tuviera tantas cosas.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Cuando tenga todo colocado,
+mi casa va a ser la envidia
+del pueblo, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Cuando tenga todo colocado,
+mi casa va a ser la envidia
+del pueblo, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

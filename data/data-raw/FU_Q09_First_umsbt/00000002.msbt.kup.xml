@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Je t'en prie, &#xE;&#x5;&#x8;&#x0;, mets-toi à
+l'aise, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Je t'en prie, &#xE;&#x5;&#x8;&#x0;, mets-toi à
+l'aise, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ce n'est pas un cinq-étoiles, mais
+j'espère que tu t'y sens bien.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ce n'est pas un cinq-étoiles, mais
+j'espère que tu t'y sens bien.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ça me fait plaisir que tu viennes
+chez moi, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ça me fait plaisir que tu viennes
+chez moi, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Pile à l'heure ! Contente de te voir,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;Pile à l'heure ! Contente de te voir,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Youpi ! Je t'attendais !
+Bienvenue chez moi !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Youpi ! Je t'attendais !
+Bienvenue chez moi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Je te proposerais bien
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;,
+mais je suis à sec.</original>
+			<edited>&#xE;&#x3;$&#x0;Je te proposerais bien
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;,
+mais je suis à sec.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

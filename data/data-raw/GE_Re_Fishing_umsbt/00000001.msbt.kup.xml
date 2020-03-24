@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Estoy intentando demostrar que
+a los peces también les interesa
+la moda.
+&#xE;&#x3; &#x0;Por eso he puesto como cebo un
+complemento superchupi, a ver
+si pican.</original>
+			<edited>Estoy intentando demostrar que
+a los peces también les interesa
+la moda.
+&#xE;&#x3; &#x0;Por eso he puesto como cebo un
+complemento superchupi, a ver
+si pican.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Pescar no es lo mío, ¡pero si todo
+el mundo lo hace, yo no voy a ser
+menos, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>Pescar no es lo mío, ¡pero si todo
+el mundo lo hace, yo no voy a ser
+menos, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Pescar me ayuda a pensar, ¿sabes?
+A ver... ¿qué conjunto me pondré
+mañana?...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Cosas así.</original>
+			<edited>Pescar me ayuda a pensar, ¿sabes?
+A ver... ¿qué conjunto me pondré
+mañana?...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Cosas así.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

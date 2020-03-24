@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Dis donc ! Tu m'as l'air sur les
+rotules,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Jouer, c'est comme s'entraîner :
+sans pauses régulières, tu te fais
+plus de mal que de bien !</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Dis donc ! Tu m'as l'air sur les
+rotules,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Jouer, c'est comme s'entraîner :
+sans pauses régulières, tu te fais
+plus de mal que de bien !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, ça fait un moment
+que tu joues, là.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Et si tu faisais une
+petite pause ?
+&#xE;&#x3;&#x6;&#x0;La récupération, c'est important !
+Si tu négliges cette phase, tes
+muscles ne se développeront pas !</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, ça fait un moment
+que tu joues, là.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Et si tu faisais une
+petite pause ?
+&#xE;&#x3;&#x6;&#x0;La récupération, c'est important !
+Si tu négliges cette phase, tes
+muscles ne se développeront pas !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;Temps mort, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Faut faire
+une pause !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Trop jouer n'est pas
+gégé pour ta santé, tu sais !</original>
+			<edited>&#xE;&#x3;(&#x0;Temps mort, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Faut faire
+une pause !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Trop jouer n'est pas
+gégé pour ta santé, tu sais !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;¡Huy, no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Me has encontrado!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Alto ahí&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0; Oye...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tú no eres
+&#xE;&#xE;&#x6;&#xC;&#x4;&#x0;e&#x0;l&#x0;&#x4;&#x0;l&#x0;a&#x0; que busca, ¿verdad?
+&#xE;&#x3;&#x15;&#x0;A ver, ¡el tema es que estoy en
+medio de una partida de escondite
+extremo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Tú no me has visto!</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;¡Huy, no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Me has encontrado!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Alto ahí&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0; Oye...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tú no eres
+&#xE;&#xE;&#x6;&#xC;&#x4;&#x0;e&#x0;l&#x0;&#x4;&#x0;l&#x0;a&#x0; que busca, ¿verdad?
+&#xE;&#x3;&#x15;&#x0;A ver, ¡el tema es que estoy en
+medio de una partida de escondite
+extremo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Tú no me has visto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Estoy jugando al escondite!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¡No hagas ruido, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Estoy jugando al escondite!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¡No hagas ruido, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;¡Oye!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Estoy jugando al escondite!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Si le dices dónde estoy a quien
+me busca, ¡me voy a enfadar tanto
+que te voy a hacer cosquillas locas!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;¡Oye!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Estoy jugando al escondite!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Si le dices dónde estoy a quien
+me busca, ¡me voy a enfadar tanto
+que te voy a hacer cosquillas locas!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;¡¿Qué has hecho?!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;¡¿Qué has hecho?!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

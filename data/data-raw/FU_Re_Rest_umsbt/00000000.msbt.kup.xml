@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Are you OK?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You look a little tired.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;It's always good to take a break if
+you've been playing awhile.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Are you OK?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You look a little tired.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;It's always good to take a break if
+you've been playing awhile.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Oh gosh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;you look really worn out!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;Don't forget to take a break now
+and then.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Oh gosh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;you look really worn out!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;Don't forget to take a break now
+and then.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Is everything all right?&#xE;&#x7;&#x1;&#x0; You look
+kind of tired.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Maybe you should take a break.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Drink some &#xE;&#x5;&#xE;&#x2;&#x0;&#x0; or
+something,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and rest awhile.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Is everything all right?&#xE;&#x7;&#x1;&#x0; You look
+kind of tired.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Maybe you should take a break.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Drink some &#xE;&#x5;&#xE;&#x2;&#x0;&#x0; or
+something,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and rest awhile.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

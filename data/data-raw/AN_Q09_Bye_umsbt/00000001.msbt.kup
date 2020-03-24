@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>¡Hasta más ver, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>¡Hasta más ver, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>¡Vete por la sombra, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>¡Vete por la sombra, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>¡Oye, gracias! ¡Me lo he pasado
+de alucine!&#xE;&#x3; &#x0; Venga, ¡nos vemos!</original>
+			<edited>¡Oye, gracias! ¡Me lo he pasado
+de alucine!&#xE;&#x3; &#x0; Venga, ¡nos vemos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡¿Ein?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡¿Ya te marchas?! &#xE;&#x3;&#xD;&#x0;¡Espera!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Pero si apenas me has hecho
+caso, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡¿Ein?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡¿Ya te marchas?! &#xE;&#x3;&#xD;&#x0;¡Espera!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Pero si apenas me has hecho
+caso, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¿Cómo?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Te largas ya, &#xE;&#x5;&#x8;&#x0;?
+&#xE;&#x3;&#xD;&#x0;¡Pero bueno!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Que aún no te he
+contado lo que me pasó anoche!&#xE;&#x3;	&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¿Cómo?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Te largas ya, &#xE;&#x5;&#x8;&#x0;?
+&#xE;&#x3;&#xD;&#x0;¡Pero bueno!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Que aún no te he
+contado lo que me pasó anoche!&#xE;&#x3;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Pero ¡¿de verdad te piras?! &#xE;&#x3;&#xD;&#x0;¡Será
+posible!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¿A qué vienen esas prisas?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Pero si acabas de llegar!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Pero ¡¿de verdad te piras?! &#xE;&#x3;&#xD;&#x0;¡Será
+posible!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¿A qué vienen esas prisas?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Pero si acabas de llegar!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

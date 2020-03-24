@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Today is February 29th!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It's a day
+that only happens once every
+4 years.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Neat, huh?&#xE;	&#x1;&#x6;&#x2;&#x0;&#x3;&#x0;&#x4;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Today is February 29th!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It's a day
+that only happens once every
+4 years.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Neat, huh?&#xE;	&#x1;&#x6;&#x2;&#x0;&#x3;&#x0;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;I have a feeling that,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; since it's a
+special day,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; something extra special
+is going to happen later!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;I have a feeling that,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; since it's a
+special day,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; something extra special
+is going to happen later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;If I read today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it'll be a book called
+&#xE;&#x5;&#x1D;&#x2;&#x0;&#x0;. </original>
+			<edited>&#xE;&#x3;&#xB;&#x0;If I read today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it'll be a book called
+&#xE;&#x5;&#x1D;&#x2;&#x0;&#x0;. </edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;The next leap day isn't for another
+4 years.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; I hope we're still friends
+when it comes around again.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;The next leap day isn't for another
+4 years.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; I hope we're still friends
+when it comes around again.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;We call this year a leap year!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Every
+4 years, we get an extra day to
+spend however we want.&#xE;	&#x1;&#x6;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;We call this year a leap year!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Every
+4 years, we get an extra day to
+spend however we want.&#xE;	&#x1;&#x6;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;I don't know about you,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but I plan to
+spend my extra day playing until the
+sun sets!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;I don't know about you,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but I plan to
+spend my extra day playing until the
+sun sets!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;It's an extra day of reading,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; baking,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+and learning to tap-dance for me!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;It's an extra day of reading,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; baking,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+and learning to tap-dance for me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;It's like we got a bonus day because
+all the other days were good!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;It's like we got a bonus day because
+all the other days were good!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

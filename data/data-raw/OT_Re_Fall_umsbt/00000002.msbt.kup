@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Mais pourquoi moi ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pourquoi
+MOI ?</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Mais pourquoi moi ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pourquoi
+MOI ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Aaahhh ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Au secours !</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Aaahhh ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Au secours !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Non ! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Ne me regarde pas ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je ne
+veux pas qu'on me voie dans cet
+état !</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Non ! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Ne me regarde pas ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je ne
+veux pas qu'on me voie dans cet
+état !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

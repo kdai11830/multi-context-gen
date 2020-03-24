@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x1;&#x4;&#xC;&#x0;&#xD;&#x0;</original>
+			<edited>&#xE;
+&#x1;&#x4;&#xC;&#x0;&#xD;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x1;&#x4;	&#x0;
+&#x0;</original>
+			<edited>&#xE;
+&#x1;&#x4;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je viens souvent ici, tu sais.
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;C'est le magasin que je préfère,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je viens souvent ici, tu sais.
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;C'est le magasin que je préfère,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;J'adore venir flâner ici, c'est un
+peu ma façon à moi de méditer !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Et
+je médite tous les jours, hi hi hi !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;J'adore venir flâner ici, c'est un
+peu ma façon à moi de méditer !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Et
+je médite tous les jours, hi hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je sais pas pourquoi je m'embête
+à décorer ma maison...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je devrais
+emménager ici, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je sais pas pourquoi je m'embête
+à décorer ma maison...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je devrais
+emménager ici, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Niveau shopping, c'est carrément le
+top du top, cet endroit !!!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Niveau shopping, c'est carrément le
+top du top, cet endroit !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;C'est super flatteur que tu viennes
+faire tes courses à &#xE;&#x5;&#x5;&#x0;...
+Mais laisses-en pour nous, hi hi !</original>
+			<edited>&#xE;&#x3;%&#x0;C'est super flatteur que tu viennes
+faire tes courses à &#xE;&#x5;&#x5;&#x0;...
+Mais laisses-en pour nous, hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Genre,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu es venu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; jusqu'ici juste
+pour faire tes courses ? Je suis trop
+impressionnée, waouh !</original>
+			<edited>&#xE;&#x3;%&#x0;Genre,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu es venu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; jusqu'ici juste
+pour faire tes courses ? Je suis trop
+impressionnée, waouh !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x7;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x7;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x6;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x6;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

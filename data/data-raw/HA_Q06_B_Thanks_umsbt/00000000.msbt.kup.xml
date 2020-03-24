@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks for helping me, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks for helping me, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Looks like we can patch things up!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Looks like we can patch things up!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#xB;&#x0;Oh, yeah!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; I think I pretty much owe
+you a little thank-you present.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;Here. You can have &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+It's the least I can do.</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#xB;&#x0;Oh, yeah!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; I think I pretty much owe
+you a little thank-you present.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;Here. You can have &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+It's the least I can do.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1A;&#x0;Sorry if the sleeves and chest are a
+bit bulgy.</original>
+			<edited>&#xE;&#x3;&#x1A;&#x0;Sorry if the sleeves and chest are a
+bit bulgy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;OK, it's token-of-appreciation time!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+My &#xE;&#x11;&#x3;&#x2;&#x1;&#x0; is all
+you, money!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;OK, it's token-of-appreciation time!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+My &#xE;&#x11;&#x3;&#x2;&#x1;&#x0; is all
+you, money!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Heh heh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Here's a little token of my
+super-pumped appreciation!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Heh heh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Here's a little token of my
+super-pumped appreciation!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks for making that delivery!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Here—&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;take this as a reward!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks for making that delivery!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Here—&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;take this as a reward!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Thank you!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It looks like ol' creaky
+pants and I will be on good terms
+again, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;And, hey&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Here's a little thank-you
+present for your effort, &#xE;&#xE;&#x6;&#x18;&#x6;&#x0;b&#x0;r&#x0;o&#x0;&#xE;&#x0;l&#x0;a&#x0;d&#x0;y&#x0;b&#x0;r&#x0;o&#x0;.</original>
+			<edited>Thank you!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It looks like ol' creaky
+pants and I will be on good terms
+again, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;And, hey&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Here's a little thank-you
+present for your effort, &#xE;&#xE;&#x6;&#x18;&#x6;&#x0;b&#x0;r&#x0;o&#x0;&#xE;&#x0;l&#x0;a&#x0;d&#x0;y&#x0;b&#x0;r&#x0;o&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;.&#xE;&#x7;&#x1;&#x0;
+I really hope it's not something you
+already have!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;.&#xE;&#x7;&#x1;&#x0;
+I really hope it's not something you
+already have!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+I think it'll look good in your place.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+I think it'll look good in your place.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Thanks again! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Thanks again! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Now beat it!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; And remember:&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; keep
+those knees up!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Now beat it!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; And remember:&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; keep
+those knees up!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

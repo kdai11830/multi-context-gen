@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Are you sure?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; That would be great!</original>
+			<edited>&#xE;&#x3;%&#x0;Are you sure?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; That would be great!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;You came all this way just to help
+me?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Thanks a lot, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&amp;&#x0;You came all this way just to help
+me?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Thanks a lot, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Thank you, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; It helps a lot
+to have friends like you!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Thank you, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; It helps a lot
+to have friends like you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;You're too good to me sometimes&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;%&#x0;You're too good to me sometimes&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;You came to take care of me?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Oh, thank you, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;You came to take care of me?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Oh, thank you, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Thanks&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;for taking the time to come
+and save me, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Thanks&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;for taking the time to come
+and save me, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;Cough and&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; cough.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; Thanks&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;Cough and&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; cough.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; Thanks&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Are you&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;a nurse?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Are you&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;a nurse?</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;Oh&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;are you sure?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; Wow, just giving
+this&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;to me&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;Oh&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;are you sure?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; Wow, just giving
+this&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;to me&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

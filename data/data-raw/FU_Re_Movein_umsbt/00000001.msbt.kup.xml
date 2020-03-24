@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Cuando esté instalada podríamos
+quedar para charlar, corazón.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Cuando esté instalada podríamos
+quedar para charlar, corazón.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Qué ganas tengo de colocarlo
+todo y salir a dar un paseo!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Qué ganas tengo de colocarlo
+todo y salir a dar un paseo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡He traído tantos libros que voy
+a tardar un buen ratito en
+ordenarlos todos!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡He traído tantos libros que voy
+a tardar un buen ratito en
+ordenarlos todos!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

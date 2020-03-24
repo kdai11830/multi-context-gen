@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Hi,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; How are you doing?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I came to hang out in &#xE;&#x5;&#x5;&#x0;
+today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3; &#x0;Hi,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; How are you doing?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I came to hang out in &#xE;&#x5;&#x5;&#x0;
+today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;what a coincidence,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;I came to &#xE;&#x5;&#x5;&#x0; today to do
+a little shopping.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;Fancy seeing you
+here as well!</original>
+			<edited>&#xE;&#x3; &#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;what a coincidence,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;I came to &#xE;&#x5;&#x5;&#x0; today to do
+a little shopping.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;Fancy seeing you
+here as well!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;What a surprise&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Nice to see
+you again, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;I had to get something at a store
+here in &#xE;&#x5;&#x5;&#x0; today, so that's
+why I'm in town,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;What a surprise&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Nice to see
+you again, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;I had to get something at a store
+here in &#xE;&#x5;&#x5;&#x0; today, so that's
+why I'm in town,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh my, &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Heh heh heh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+You're looking really nice,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; just like
+you always do&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh my, &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Heh heh heh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+You're looking really nice,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; just like
+you always do&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I'm glad to see
+you're doing so well!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;Today I kind of&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;just felt like taking
+a trip to &#xE;&#x5;&#x5;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I'm glad to see
+you're doing so well!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;Today I kind of&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;just felt like taking
+a trip to &#xE;&#x5;&#x5;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

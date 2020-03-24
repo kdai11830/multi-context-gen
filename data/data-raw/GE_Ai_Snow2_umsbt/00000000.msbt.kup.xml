@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hello, hello, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I keep bumping into you. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Just can't
+say no to the snow, right?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hello, hello, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I keep bumping into you. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Just can't
+say no to the snow, right?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;Brrrrr! I'm so glad I keep seeing
+you, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;You always give me
+such warm fuzzies, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;Brrrrr! I'm so glad I keep seeing
+you, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;You always give me
+such warm fuzzies, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;G-g-good morning again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I still can't believe how chilly it is
+this morning, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;G-g-good morning again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I still can't believe how chilly it is
+this morning, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh! It's you again, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Still running around in all this
+super-fun snow, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh! It's you again, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Still running around in all this
+super-fun snow, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hey, you still out kicking up snow,
+&#xE;&#x5;&#x8;&#x0;? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Watch that your
+toes don't get cold!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hey, you still out kicking up snow,
+&#xE;&#x5;&#x8;&#x0;? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Watch that your
+toes don't get cold!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Still parading around in the snow,
+&#xE;&#x5;&#x8;&#x0;? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You'll be the friendliest
+icicle out here soon!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Still parading around in the snow,
+&#xE;&#x5;&#x8;&#x0;? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You'll be the friendliest
+icicle out here soon!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;G-g-good evening again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's so cold that I should go inside,
+but I can't stop loving up the snow!</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;G-g-good evening again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's so cold that I should go inside,
+but I can't stop loving up the snow!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;You love snowy nights too? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Yeah,
+I'm with you, &#xE;&#x5;&#x8;&#x0;,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;You love snowy nights too? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Yeah,
+I'm with you, &#xE;&#x5;&#x8;&#x0;,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;I kn-kn-know...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm st-still out here!
+But I can't get enough of all this
+super-pretty snow, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;I kn-kn-know...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm st-still out here!
+But I can't get enough of all this
+super-pretty snow, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hey, it's you again! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;It's like we're
+two snow angels, staying up all
+night, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;Hey, it's you again! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;It's like we're
+two snow angels, staying up all
+night, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

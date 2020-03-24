@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x1;&#x4;&#x4;&#x0;&#x5;&#x0;</original>
+			<edited>&#xE;
+&#x1;&#x4;&#x4;&#x0;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x1;&#x4;&#x6;&#x0;&#x7;&#x0;</original>
+			<edited>&#xE;
+&#x1;&#x4;&#x6;&#x0;&#x7;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;Hey! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I hope you're just clumsy and
+not straight-up mean. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;It's not nice
+to plonk someone like that.&#xE;&#xB;&#x3;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;Hey! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I hope you're just clumsy and
+not straight-up mean. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;It's not nice
+to plonk someone like that.&#xE;&#xB;&#x3;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Whoa, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;excuse YOU! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Just what do
+you think you're doing?&#xE;&#xB;&#x3;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Whoa, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;excuse YOU! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Just what do
+you think you're doing?&#xE;&#xB;&#x3;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x7;&#x0;Where did you learn your manners—&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+in a boxing ring?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Try having more
+class!&#xE;&#xB;&#x3;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x7;&#x0;Where did you learn your manners—&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+in a boxing ring?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Try having more
+class!&#xE;&#xB;&#x3;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x7;&#x0;Hey! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Bonk me with that thing again,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and I'll show you how
+to actually use it!&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x7;&#x0;Hey! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Bonk me with that thing again,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and I'll show you how
+to actually use it!&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Are you trying to start some sort of
+rivalry with me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I warn
+you: &#xE;&#x3;(&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;this is a game you will lose.&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Are you trying to start some sort of
+rivalry with me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I warn
+you: &#xE;&#x3;(&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;this is a game you will lose.&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

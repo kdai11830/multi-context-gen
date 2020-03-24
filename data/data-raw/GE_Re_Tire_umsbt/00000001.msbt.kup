@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;¡Estoy superenfadada! ¡No quiero
+hablar contigo ahora!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0; Dame unos
+días, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;¡Estoy superenfadada! ¡No quiero
+hablar contigo ahora!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0; Dame unos
+días, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x7;&#x0;No insistas, ¿vale?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Por qué no
+me dejas sola un rato?</original>
+			<edited>&#xE;&#x3;&#x7;&#x0;No insistas, ¿vale?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Por qué no
+me dejas sola un rato?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x8;&#x0;¡No me había sentido tan ofendida
+en la vida! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡A los amigos no se les
+trata así,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x8;&#x0;¡No me había sentido tan ofendida
+en la vida! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡A los amigos no se les
+trata así,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

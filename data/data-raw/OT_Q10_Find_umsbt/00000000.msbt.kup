@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you found me!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you found me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, you found me? &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;I really thought
+I found a great hiding place!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, you found me? &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;I really thought
+I found a great hiding place!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Oh no! You found me! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1B;&#x0;Well, fair's
+fair, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Good job.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Oh no! You found me! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1B;&#x0;Well, fair's
+fair, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Good job.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

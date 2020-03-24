@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Hey, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;You must be here
+to visit &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; too!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Hey, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;You must be here
+to visit &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; too!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hi, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; must
+be very popular.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;I'm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.just a little bit
+envious,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hi, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; must
+be very popular.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;I'm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.just a little bit
+envious,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hi, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; has a really nice place,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+don't you think,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hi, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; has a really nice place,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+don't you think,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

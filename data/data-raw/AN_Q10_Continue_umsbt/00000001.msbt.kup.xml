@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>¡Anda! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Aún te queda alguien por
+encontrar, ¿verdad?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Pues hasta que no encuentres a
+todo el mundo, esto no se acaba.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;¡Mucha suerte, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>¡Anda! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Aún te queda alguien por
+encontrar, ¿verdad?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Pues hasta que no encuentres a
+todo el mundo, esto no se acaba.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;¡Mucha suerte, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>A mí me da que aún te queda
+alguien por encontrar...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Oye, ¡todavía no has ganado!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡Tienes que encontrar a todo
+el mundo, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>A mí me da que aún te queda
+alguien por encontrar...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Oye, ¡todavía no has ganado!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡Tienes que encontrar a todo
+el mundo, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¿Ein?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿He sido la primera a la que
+has encontrado? &#xE;&#x3;&#x15;&#x0;¡Alucina!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Bueno, pues que tengas suerte
+con lo que te queda.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; A ver si
+consigues ganar.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¿Ein?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿He sido la primera a la que
+has encontrado? &#xE;&#x3;&#x15;&#x0;¡Alucina!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Bueno, pues que tengas suerte
+con lo que te queda.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; A ver si
+consigues ganar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Pero&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; aún no has encontrado al
+resto, ¿verdad?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;¡Hala!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Qué raro que haya sido yo
+la primera!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Con lo bien que se me
+dan estas cosas...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Pero&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; aún no has encontrado al
+resto, ¿verdad?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;¡Hala!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Qué raro que haya sido yo
+la primera!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Con lo bien que se me
+dan estas cosas...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

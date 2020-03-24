@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;En general no me gustan los bichos,
+&#xE;&#x3;&#x1F;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;pero esta sala es tan hermosa que
+me lo estoy replanteando.</original>
+			<edited>&#xE;&#x3;%&#x0;En general no me gustan los bichos,
+&#xE;&#x3;&#x1F;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;pero esta sala es tan hermosa que
+me lo estoy replanteando.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;¡Estos bichos hacen mucho ruido
+para ser tan pequeñines,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;#&#x0;¡Estos bichos hacen mucho ruido
+para ser tan pequeñines,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;¿En qué pensarán los bichos? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡Supongo que en esquivar pies
+gigantes, ja, ja!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;¿En qué pensarán los bichos? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡Supongo que en esquivar pies
+gigantes, ja, ja!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Si me hubieran dicho que estaría
+contenta de estar en una sala
+repleta de bichos...
+&#xE;&#x3;&#x2;&#x0;¡no me lo habría creído,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>Si me hubieran dicho que estaría
+contenta de estar en una sala
+repleta de bichos...
+&#xE;&#x3;&#x2;&#x0;¡no me lo habría creído,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;El museo ha hecho un trabajo
+excelente con esta exposición.
+¡Es preciosa y está llena de vida!</original>
+			<edited>&#xE;&#x3;%&#x0;El museo ha hecho un trabajo
+excelente con esta exposición.
+¡Es preciosa y está llena de vida!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

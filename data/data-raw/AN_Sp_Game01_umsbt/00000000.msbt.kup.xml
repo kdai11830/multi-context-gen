@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Ready? We're doing this &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1 time&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Win or lose, that's it! &#xE;&#x3;%&#x0;Here we go!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Ready? We're doing this &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1 time&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Win or lose, that's it! &#xE;&#x3;%&#x0;Here we go!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Ready? First one to &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; wins &#xE;&#x0;&#x3;&#x2;ÿÿtakes
+the victory!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Aaaand we're off!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Ready? First one to &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; wins &#xE;&#x0;&#x3;&#x2;ÿÿtakes
+the victory!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Aaaand we're off!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Rock, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;paper,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; scissors, match&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Rock!
+Scissors!
+Paper!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Rock, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;paper,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; scissors, match&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Rock!
+Scissors!
+Paper!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Rock!</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Rock!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Scissors!</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Scissors!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Paper!</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Paper!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Ahh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ya got me!</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Ahh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ya got me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;A draw!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;OK, we're going again!</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;A draw!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;OK, we're going again!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Awesome! I won!
+</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Awesome! I won!
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Guess that means&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;you're the big winner!</original>
+			<edited>&#xE;&#x3;	&#x0;Guess that means&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;you're the big winner!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Guess that means&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I win the game!</original>
+			<edited>Guess that means&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I win the game!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

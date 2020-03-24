@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Me parece bien!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Me parece bien!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Trato hecho!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Trato hecho!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡De acuerdo!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡De acuerdo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;A ver lo que te dura, ¿eh?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;A ver lo que te dura, ¿eh?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Espero que le saques partido!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Espero que le saques partido!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Seguro que te resulta útil!&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0;
+O, si no,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ya le darás tú alguna
+utilidad.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Seguro que te resulta útil!&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0;
+O, si no,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ya le darás tú alguna
+utilidad.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

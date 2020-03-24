@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Why me?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Why MEEEEEEEEE?</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Why me?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Why MEEEEEEEEE?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Ahhh! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Somebody help me!</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Ahhh! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Somebody help me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Oh! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Look away! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I don't want to be
+seen like this.</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Oh! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Look away! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I don't want to be
+seen like this.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

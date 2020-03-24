@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Pues nada,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿necesitas algo?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Pues nada,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿necesitas algo?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Cómo va eso? ¿Quieres hablar
+de alguna cosa?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Cómo va eso? ¿Quieres hablar
+de alguna cosa?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Pues nada, ¿cómo va eso?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Pues nada, ¿cómo va eso?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Necesitabas algo?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Necesitabas algo?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Y bien?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Quieres algo?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Y bien?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Quieres algo?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

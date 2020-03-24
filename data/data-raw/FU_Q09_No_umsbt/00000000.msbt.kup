@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; really?!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;That's too bad.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; really?!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;That's too bad.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; that's too bad.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Well then,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; maybe
+next time!</original>
+			<edited>&#xE;&#x3;	&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; that's too bad.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Well then,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; maybe
+next time!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; that's too bad.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; But I know
+you're a very busy person.</original>
+			<edited>&#xE;&#x3;$&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; that's too bad.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; But I know
+you're a very busy person.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

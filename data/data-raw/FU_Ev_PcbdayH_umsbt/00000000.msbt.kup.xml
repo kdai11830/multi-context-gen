@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;There you are, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0; I need
+your help with something important.&#xE;&#x7;&#x1;&#x0;
+Please just follow me!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;There you are, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0; I need
+your help with something important.&#xE;&#x7;&#x1;&#x0;
+Please just follow me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xD;&#x0;There's no time for
+questions.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Just follow me!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xD;&#x0;There's no time for
+questions.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Just follow me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;There you are!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; I have something
+amazing I want to show you.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Come
+with me, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;There you are!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; I have something
+amazing I want to show you.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Come
+with me, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x3;&#x1F;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;&#xE;&#xD;	&#x0;
+HAPPY &#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#xB;&#x0;BIRTHDAY!&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#xD;
+&#x0;&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x3;&#x1F;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;&#xE;&#xD;	&#x0;
+HAPPY &#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x7;&#xB;&#x0;BIRTHDAY!&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#xD;
+&#x0;&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Welcome to your surprise party,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Now make a wish, and blow out the
+candles on your birthday cake!</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Welcome to your surprise party,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Now make a wish, and blow out the
+candles on your birthday cake!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;We didn't want you to miss having a
+birthday just because this isn't a
+leap year, &#xE;&#x5;&#x8;&#x0;.
+So we decided to throw you a
+surprise party today instead!&#xE;&#x0;&#x4;&#x0;OK.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Now it's time to blow out the
+candles!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;We didn't want you to miss having a
+birthday just because this isn't a
+leap year, &#xE;&#x5;&#x8;&#x0;.
+So we decided to throw you a
+surprise party today instead!&#xE;&#x0;&#x4;&#x0;OK.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Now it's time to blow out the
+candles!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Today is extra special!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Not only did
+we all come together to celebrate
+your birthday&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;It's also a leap year,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; making today
+February 29th.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It's your "real"
+birthday!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Go ahead and blow out the candles.&#xE;&#x7;&#x1;&#x0;
+Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and don't forget to make a
+wish!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Today is extra special!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Not only did
+we all come together to celebrate
+your birthday&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;It's also a leap year,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; making today
+February 29th.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It's your "real"
+birthday!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Go ahead and blow out the candles.&#xE;&#x7;&#x1;&#x0;
+Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and don't forget to make a
+wish!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Wait!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Don't go yet!&#xE;&#x7;&#x1;&#x0; At least blow
+out the candles and have some cake.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Wait!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Don't go yet!&#xE;&#x7;&#x1;&#x0; At least blow
+out the candles and have some cake.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Hold on, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Please stay
+and have some cake.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;If the guest of honor goes home
+early,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it means our party was a
+failure.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Hold on, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Please stay
+and have some cake.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;If the guest of honor goes home
+early,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it means our party was a
+failure.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;You can't leave yet!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; We still have
+cake and a present to give you!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; At
+least blow out the candles.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;You can't leave yet!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; We still have
+cake and a present to give you!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; At
+least blow out the candles.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;Hooray!&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Now it's time for the best
+part.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&amp;&#x0; Your present!</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;Hooray!&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Now it's time for the best
+part.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&amp;&#x0; Your present!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;We weren't exactly sure what to get
+you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;, but we talked it over and came
+up with this.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I hope you like it!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;We weren't exactly sure what to get
+you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;, but we talked it over and came
+up with this.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I hope you like it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;To pick out your present,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; we just
+thought about what would put a big
+smile on your face, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;To pick out your present,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; we just
+thought about what would put a big
+smile on your face, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;We picked out something extra
+special since we all like you so
+much,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!
+If you don't like it&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x18;&#x0;</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;We picked out something extra
+special since we all like you so
+much,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!
+If you don't like it&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x18;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I didn't think you'd have so
+much in your pockets.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;That's all right.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'll just mail your
+present to you.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No need to panic!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I didn't think you'd have so
+much in your pockets.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;That's all right.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'll just mail your
+present to you.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No need to panic!</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Here you go!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Here you go!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm not giving you any hints!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You'll
+just have to wait until you open it
+later.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm not giving you any hints!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You'll
+just have to wait until you open it
+later.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Are you leaving now, &#xE;&#x5;&#x8;&#x0;? I
+hope I didn't drag you away from
+anything important.
+&#xE;&#x3;&#x5;&#x0;But what could be more important
+than your birthday?</original>
+			<edited>&#xE;&#x3;%&#x0;Are you leaving now, &#xE;&#x5;&#x8;&#x0;? I
+hope I didn't drag you away from
+anything important.
+&#xE;&#x3;&#x5;&#x0;But what could be more important
+than your birthday?</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I hope you had fun today!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; We'll
+celebrate your birthday next year
+too,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I hope you had fun today!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; We'll
+celebrate your birthday next year
+too,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I bet you have all kinds of fun plans
+for the rest of your birthday,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; don't
+you, &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I bet you have all kinds of fun plans
+for the rest of your birthday,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; don't
+you, &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Don't just come over on your
+birthday.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;'&#x0; It makes me happy to see
+you every day,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Don't just come over on your
+birthday.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;'&#x0; It makes me happy to see
+you every day,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;I hope this year is the best year for
+you yet,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;I hope this year is the best year for
+you yet,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;I hope my friends throw me a party
+this nice for my next birthday.</original>
+			<edited>&#xE;&#x3;'&#x0;I hope my friends throw me a party
+this nice for my next birthday.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;"&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#x14;&#x0;" is
+an interesting wish,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;It's a little different,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but I'm sure
+everyone in town is wishing for
+your wish to come true!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;"&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#x14;&#x0;" is
+an interesting wish,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;It's a little different,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but I'm sure
+everyone in town is wishing for
+your wish to come true!</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;All you have to do is blow out the
+candles, and we can have cake!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;All you have to do is blow out the
+candles, and we can have cake!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Quick,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; blow out the candles before
+they melt all over your cake!</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Quick,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; blow out the candles before
+they melt all over your cake!</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's OK to blow really hard on the
+candles.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I have a mop ready just
+in case!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's OK to blow really hard on the
+candles.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I have a mop ready just
+in case!</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;We baked this cake especially for
+you.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Are you ready to make a wish,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x0;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;We baked this cake especially for
+you.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Are you ready to make a wish,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>Oh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No wish this time?&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; then
+take a deep breath and blow out
+the candles!
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Blow&#xE;&#x0;&#x3;&#x2;ÿÿ on your &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Nintendo 3DS&#xE;&#x0;&#x3;&#x2;ÿÿ now.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+WHOOSH!</original>
+			<edited>Oh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No wish this time?&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; then
+take a deep breath and blow out
+the candles!
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Blow&#xE;&#x0;&#x3;&#x2;ÿÿ on your &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Nintendo 3DS&#xE;&#x0;&#x3;&#x2;ÿÿ now.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+WHOOSH!</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Now all that's left to do is blow out
+the candles!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Can you do it with one
+breath?
+Just &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;blow&#xE;&#x0;&#x3;&#x2;ÿÿ on your &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Nintendo 3DS&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+WHOOSH!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Now all that's left to do is blow out
+the candles!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Can you do it with one
+breath?
+Just &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;blow&#xE;&#x0;&#x3;&#x2;ÿÿ on your &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Nintendo 3DS&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+WHOOSH!</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;What did you wish for, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x1;&#x0;
+If you tell me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I promise not to tell
+the birthday-wish committee.
+But I will tell everyone else in town
+so we can help make it come true!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Will you share it with me?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+OK. It's...
+It's a secret!</original>
+			<edited>&#xE;&#x3;%&#x0;What did you wish for, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x1;&#x0;
+If you tell me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I promise not to tell
+the birthday-wish committee.
+But I will tell everyone else in town
+so we can help make it come true!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Will you share it with me?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+OK. It's...
+It's a secret!</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;I understand.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You'd regret it if your
+wish didn't come true.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; I'll just wish
+that your wish is granted!</original>
+			<edited>&#xE;&#x3;$&#x0;I understand.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You'd regret it if your
+wish didn't come true.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; I'll just wish
+that your wish is granted!</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;"&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#x14;&#x0;"&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll do everything in my power
+to make that happen!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;"&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#x14;&#x0;"&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll do everything in my power
+to make that happen!</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

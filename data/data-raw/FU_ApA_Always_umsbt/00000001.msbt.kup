@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;	&#x0;&#x4;&#x2;&#x0;&#x3;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;	&#x0;&#x4;&#x2;&#x0;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Hoy me ha dado por preparar 
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0;, pero creo
+que le falta un toquecito&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;Hoy me ha dado por preparar 
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0;, pero creo
+que le falta un toquecito&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Hoy me ha dado por cocinar
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x13;&#x2;&#x0;&#x0;, pero
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;no me acaba de convencer&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;Hoy me ha dado por cocinar
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x13;&#x2;&#x0;&#x0;, pero
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;no me acaba de convencer&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Quizá con un chorrito de zumo
+de &#xE;&#x5;&#x1A;&#x2;&#x0;Í mejoraría.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;¿Cuánto debería ponerle?&#xE;&#x8;
+&#x10;&#x11;&#x0;	&#x0;&#xE;&#x0;	&#x0;	&#x0;&#xE;&#x0;	&#x0;	&#x0;
+Mucho
+Poco</original>
+			<edited>&#xE;&#x3;	&#x0;Quizá con un chorrito de zumo
+de &#xE;&#x5;&#x1A;&#x2;&#x0;Í mejoraría.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;¿Cuánto debería ponerle?&#xE;&#x8;
+&#x10;&#x11;&#x0;	&#x0;&#xE;&#x0;	&#x0;	&#x0;&#xE;&#x0;	&#x0;	&#x0;
+Mucho
+Poco</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;A lo mejor lo sirvo a una
+temperatura equivocada.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; 
+&#xE;&#x3;&#xD;&#x0;¿Cómo debería servirlo?&#xE;&#x8;
+&#x10;	&#x0;	&#x0;&#xE;&#x0;	&#x0;	&#x0;&#xE;&#x0;	&#x0;&#x11;&#x0;
+Ardiendo
+Congelado</original>
+			<edited>&#xE;&#x3;	&#x0;A lo mejor lo sirvo a una
+temperatura equivocada.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; 
+&#xE;&#x3;&#xD;&#x0;¿Cómo debería servirlo?&#xE;&#x8;
+&#x10;	&#x0;	&#x0;&#xE;&#x0;	&#x0;	&#x0;&#xE;&#x0;	&#x0;&#x11;&#x0;
+Ardiendo
+Congelado</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Podría añadirle un poco más
+de sabor.&#xE;&#x3;&#xD;&#x0; ¿Qué le pongo?&#xE;&#x8;&#x2;&#x10;	&#x0;&#x0;&#x0;&#xE;&#x0;&#x0;&#x0;&#x11;&#x0;&#x0;&#x0;&#x14;&#x0;&#x0;&#x0;
+Sal
+Azúcar
+Kétchup
+Amor</original>
+			<edited>&#xE;&#x3;	&#x0;Podría añadirle un poco más
+de sabor.&#xE;&#x3;&#xD;&#x0; ¿Qué le pongo?&#xE;&#x8;&#x2;&#x10;	&#x0;&#x0;&#x0;&#xE;&#x0;&#x0;&#x0;&#x11;&#x0;&#x0;&#x0;&#x14;&#x0;&#x0;&#x0;
+Sal
+Azúcar
+Kétchup
+Amor</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;¡Ah, ya sé!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¡Quizá lo que falla es
+la bebida!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¿Qué debería servir de
+acompañamiento, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x8;&#x2;&#x10;	&#x0;&#x0;&#x0;	&#x0;&#x0;&#x0;&#xE;&#x0;&#x0;&#x0;&#x11;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x3;&#x0;</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;¡Ah, ya sé!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¡Quizá lo que falla es
+la bebida!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¿Qué debería servir de
+acompañamiento, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x8;&#x2;&#x10;	&#x0;&#x0;&#x0;	&#x0;&#x0;&#x0;&#xE;&#x0;&#x0;&#x0;&#x11;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;
+&#x0;&#xB;&#x0;&#xC;&#x0;&#xD;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;
+&#x0;&#xB;&#x0;&#xC;&#x0;&#xD;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Sí!&#xE;&#x7;&#x0;&#x4;&#x12;&#x0;&#x0;&#x0; ¡Buena idea!&#xE;&#x7;&#x1;&#x0; ¡Voy a probarlo
+ahora mismito!&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Sí!&#xE;&#x7;&#x0;&#x4;&#x12;&#x0;&#x0;&#x0; ¡Buena idea!&#xE;&#x7;&#x1;&#x0; ¡Voy a probarlo
+ahora mismito!&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Perfecto!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;¡Seguro que así se
+potenciará el sabor!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Perfecto!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;¡Seguro que así se
+potenciará el sabor!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;¡Claro!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Quedará para chuparse
+los dedos,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;¡Claro!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Quedará para chuparse
+los dedos,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Cómo no lo habré pensado!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Muchas gracias por el consejo!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Ya te contaré cómo ha ido!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Cómo no lo habré pensado!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Muchas gracias por el consejo!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Ya te contaré cómo ha ido!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#xF;&#x0;&#x10;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#xF;&#x0;&#x10;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;¿Seguro?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Supongo que no lo sabré
+hasta que lo pruebe.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Espero que
+tengas razón,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;¿Seguro?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Supongo que no lo sabré
+hasta que lo pruebe.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Espero que
+tengas razón,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Mmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Es una idea original.&#xE;&#x7;&#x1;&#x0;
+¡Habrá que arriesgarse!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Mmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Es una idea original.&#xE;&#x7;&#x1;&#x0;
+¡Habrá que arriesgarse!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x12;&#x0;&#x13;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x12;&#x0;&#x13;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¡Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;¡Creo que tienes razón!&#xE;&#x7;&#x1;&#x0;
+¡Gracias por el consejo, bichín!&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¡Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;¡Creo que tienes razón!&#xE;&#x7;&#x1;&#x0;
+¡Gracias por el consejo, bichín!&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;¡Eso tiene sentido!&#xE;&#x3;%&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;De hecho,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+creo que me suena de algún libro
+de recetas, je, je.</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;¡Eso tiene sentido!&#xE;&#x3;%&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;De hecho,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+creo que me suena de algún libro
+de recetas, je, je.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Pues claro!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Cuando pones todo tu
+corazón en algo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x4;&#x0; el resultado es
+inmejorable.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Pues claro!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Cuando pones todo tu
+corazón en algo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x4;&#x0; el resultado es
+inmejorable.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Dime,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; en una escala de mejor a
+peor, ¿cómo te va la vida,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x8;
+&#x10;&#x18;&#x0;&#x18;&#x0;&#x19;&#x0;&#x19;&#x0;&#x19;&#x0;&#x19;&#x0;&#x1A;&#x0;&#x1A;&#x0;
+Genial
+Así así...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Dime,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; en una escala de mejor a
+peor, ¿cómo te va la vida,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x8;
+&#x10;&#x18;&#x0;&#x18;&#x0;&#x19;&#x0;&#x19;&#x0;&#x19;&#x0;&#x19;&#x0;&#x1A;&#x0;&#x1A;&#x0;
+Genial
+Así así...</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;¡Bien!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Me alegro mucho!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;Oye,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; el otro día vi un test de 
+personalidad muy interesante.
+&#xE;&#x3;&#x0;&#x0;Según las respuestas que elijas,
+te dice qué te falta para ser
+más feliz.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;¿Quieres probar?&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;&amp;&#x0;¡Bien!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Me alegro mucho!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;Oye,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; el otro día vi un test de 
+personalidad muy interesante.
+&#xE;&#x3;&#x0;&#x0;Según las respuestas que elijas,
+te dice qué te falta para ser
+más feliz.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;¿Quieres probar?&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¿Sí?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Estupendo!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Es que vi
+un test de personalidad muy
+interesante en una revista.
+&#xE;&#x3;&#x0;&#x0;¡Según lo que respondas, te da
+consejos para ser más feliz!&#xE;&#x7;&#x1;&#x0; 
+&#xE;&#x3;%&#x0;¿Te animas?&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¿Sí?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Estupendo!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Es que vi
+un test de personalidad muy
+interesante en una revista.
+&#xE;&#x3;&#x0;&#x0;¡Según lo que respondas, te da
+consejos para ser más feliz!&#xE;&#x7;&#x1;&#x0; 
+&#xE;&#x3;%&#x0;¿Te animas?&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¿En serio?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡¿Tan mal?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡Eso no puede ser! ¡Tenemos
+que hacer algo, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¿En serio?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡¿Tan mal?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡Eso no puede ser! ¡Tenemos
+que hacer algo, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Venga,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; solo tienes que responder
+unas cuantas preguntas.&#xE;&#x0;&#x4;&#x0;Ahí va la primera.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¿Qué tipo de día prefieres?&#xE;&#x8;&#x2;&#x10;&#x1C;&#x0;&#x0;&#x0;&#x1C;&#x0;&#x0;&#x0;&#x1D;&#x0;&#x0;&#x0;&#x1D;&#x0;&#x0;&#x0;
+Soleado
+Nublado
+Lluvioso
+Ventoso</original>
+			<edited>&#xE;&#x3;%&#x0;Venga,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; solo tienes que responder
+unas cuantas preguntas.&#xE;&#x0;&#x4;&#x0;Ahí va la primera.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¿Qué tipo de día prefieres?&#xE;&#x8;&#x2;&#x10;&#x1C;&#x0;&#x0;&#x0;&#x1C;&#x0;&#x0;&#x0;&#x1D;&#x0;&#x0;&#x0;&#x1D;&#x0;&#x0;&#x0;
+Soleado
+Nublado
+Lluvioso
+Ventoso</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x1E;&#x0;&#x1F;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x1E;&#x0;&#x1F;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4; &#x0;!&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4; &#x0;!&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Ya veo.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Vale, la segunda&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¿Qué te apetece beber ahora
+mismo?&#xE;&#x8;&#x2;&#x10;#&#x0;&#x0;&#x0;%&#x0;&#x0;&#x0;&amp;&#x0;&#x0;&#x0;'&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x3;&#x0;</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Ya veo.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Vale, la segunda&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¿Qué te apetece beber ahora
+mismo?&#xE;&#x8;&#x2;&#x10;#&#x0;&#x0;&#x0;%&#x0;&#x0;&#x0;&amp;&#x0;&#x0;&#x0;'&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Ajá.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;La segunda pregunta&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Si pudieras escuchar música
+ahora mismo, ¿cuál elegirías?&#xE;&#x8;&#x2;&#x10;#&#x0;&#x0;&#x0;$&#x0;&#x0;&#x0;&amp;&#x0;&#x0;&#x0;'&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x3;&#x0;</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Ajá.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;La segunda pregunta&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Si pudieras escuchar música
+ahora mismo, ¿cuál elegirías?&#xE;&#x8;&#x2;&#x10;#&#x0;&#x0;&#x0;$&#x0;&#x0;&#x0;&amp;&#x0;&#x0;&#x0;'&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Bien.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Siguiente pregunta&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;¿Cómo describirías a &#xE;&#x5;&#x4;&#x2;&#x0;Í?&#xE;&#x8;&#x2;&#x10;#&#x0;&#x0;&#x0;$&#x0;&#x0;&#x0;%&#x0;&#x0;&#x0;'&#x0;&#x0;&#x0;
+Amable
+Tronchante
+Amigable
+Peculiar</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Bien.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Siguiente pregunta&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;¿Cómo describirías a &#xE;&#x5;&#x4;&#x2;&#x0;Í?&#xE;&#x8;&#x2;&#x10;#&#x0;&#x0;&#x0;$&#x0;&#x0;&#x0;%&#x0;&#x0;&#x0;'&#x0;&#x0;&#x0;
+Amable
+Tronchante
+Amigable
+Peculiar</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Vale.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Pregunta número dos&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;De los siguientes temas,
+¿cuál es el que más te preocupa?&#xE;&#x8;&#x2;&#x10;#&#x0;&#x0;&#x0;$&#x0;&#x0;&#x0;%&#x0;&#x0;&#x0;&amp;&#x0;&#x0;&#x0;
+El pelo de &#xE;&#x5;&#x4;&#x2;&#x0;Í
+La ropa de &#xE;&#x5;&#x4;&#x2;&#x1;Í
+La casa de &#xE;&#x5;&#x4;&#x2;&#x2;Í
+La vida de &#xE;&#x5;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Vale.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Pregunta número dos&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;De los siguientes temas,
+¿cuál es el que más te preocupa?&#xE;&#x8;&#x2;&#x10;#&#x0;&#x0;&#x0;$&#x0;&#x0;&#x0;%&#x0;&#x0;&#x0;&amp;&#x0;&#x0;&#x0;
+El pelo de &#xE;&#x5;&#x4;&#x2;&#x0;Í
+La ropa de &#xE;&#x5;&#x4;&#x2;&#x1;Í
+La casa de &#xE;&#x5;&#x4;&#x2;&#x2;Í
+La vida de &#xE;&#x5;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Interesante, sí&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Y ahora la última
+pregunta.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¿En qué estación del año
+naciste?&#xE;&#x8;&#x2;&#x10;(&#x0;&#x0;&#x0;)&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;+&#x0;&#x0;&#x0;
+Primavera
+Verano
+Otoño
+Invierno</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Interesante, sí&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Y ahora la última
+pregunta.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¿En qué estación del año
+naciste?&#xE;&#x8;&#x2;&#x10;(&#x0;&#x0;&#x0;)&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;+&#x0;&#x0;&#x0;
+Primavera
+Verano
+Otoño
+Invierno</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Vaya, vaya&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Y ya para terminar.
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;¿Qué te apetece beber
+en este momento?&#xE;&#x8;&#x2;&#x10;)&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;+&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x3;&#x0;</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Vaya, vaya&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Y ya para terminar.
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;¿Qué te apetece beber
+en este momento?&#xE;&#x8;&#x2;&#x10;)&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;+&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#xE;&#x2;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Curioso&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tercera y última pregunta&#xE;&#x3;%&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+¿Qué tipo de música te gustaría
+escuchar ahora mismo?&#xE;&#x8;&#x2;&#x10;*&#x0;&#x0;&#x0;+&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;)&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x3;&#x0;</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Curioso&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tercera y última pregunta&#xE;&#x3;%&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+¿Qué tipo de música te gustaría
+escuchar ahora mismo?&#xE;&#x8;&#x2;&#x10;*&#x0;&#x0;&#x0;+&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;)&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x14;&#x2;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;No me digas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Última pregunta.
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;¿Con qué palabra describirías
+a &#xE;&#x5;&#x4;&#x2;&#x0;Í?&#xE;&#x8;&#x2;&#x10;+&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;)&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;
+Amable
+Tronchante
+Amigable
+Peculiar</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;No me digas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Última pregunta.
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;¿Con qué palabra describirías
+a &#xE;&#x5;&#x4;&#x2;&#x0;Í?&#xE;&#x8;&#x2;&#x10;+&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;)&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;
+Amable
+Tronchante
+Amigable
+Peculiar</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Lo imaginaba&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Ahí va la última
+pregunta.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¿Cuál de los siguientes
+temas te interesa más?&#xE;&#x8;&#x2;&#x10;(&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;)&#x0;&#x0;&#x0;+&#x0;&#x0;&#x0;
+El pelo de &#xE;&#x5;&#x4;&#x2;&#x0;Í
+La ropa de &#xE;&#x5;&#x4;&#x2;&#x1;Í
+La casa de &#xE;&#x5;&#x4;&#x2;&#x2;Í
+La vida de &#xE;&#x5;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Lo imaginaba&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Ahí va la última
+pregunta.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¿Cuál de los siguientes
+temas te interesa más?&#xE;&#x8;&#x2;&#x10;(&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;)&#x0;&#x0;&#x0;+&#x0;&#x0;&#x0;
+El pelo de &#xE;&#x5;&#x4;&#x2;&#x0;Í
+La ropa de &#xE;&#x5;&#x4;&#x2;&#x1;Í
+La casa de &#xE;&#x5;&#x4;&#x2;&#x2;Í
+La vida de &#xE;&#x5;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;¡Claro!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Bien, pues ya está.
+Gracias por responder a
+todas las preguntas del test.
+Según tus respuestas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; solo
+necesitas una cosa para ser feliz.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Que es&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x3;&#x5;&#x0; ¡&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#xF;&#x2;&#x0;&#x0;!
+&#xE;&#x3;&#x1;&#x0;¿No es genial el test?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¡Descubres cosas de ti mism&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;
+que desconocías totalmente!</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;¡Claro!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Bien, pues ya está.
+Gracias por responder a
+todas las preguntas del test.
+Según tus respuestas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; solo
+necesitas una cosa para ser feliz.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Que es&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x3;&#x5;&#x0; ¡&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#xF;&#x2;&#x0;&#x0;!
+&#xE;&#x3;&#x1;&#x0;¿No es genial el test?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¡Descubres cosas de ti mism&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;
+que desconocías totalmente!</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;Ya veo.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Bien, pues ya se han
+acabado las preguntas.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; 
+Según las respuestas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Lo que te hace falta para hallar
+la felicidad es un libro titulado
+"&#xE;&#x5;&#x1D;&#x2;&#x0;&#x0;".
+&#xE;&#x3;&#x5;&#x0;Yo no lo he leído,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pero si el test
+lo dice, será verdad.</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;Ya veo.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Bien, pues ya se han
+acabado las preguntas.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; 
+Según las respuestas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Lo que te hace falta para hallar
+la felicidad es un libro titulado
+"&#xE;&#x5;&#x1D;&#x2;&#x0;&#x0;".
+&#xE;&#x3;&#x5;&#x0;Yo no lo he leído,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pero si el test
+lo dice, será verdad.</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Pues muchas gracias
+por participar en el test de
+personalidad.
+Según tus respuestas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; para ser feliz
+solo necesitas una cosa.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Y es&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x3;&#x5;&#x0; ¡&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0;!
+&#xE;&#x3;&#x1;&#x0;¡Puede que no te traiga felicidad
+duradera,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pero seguro que
+endulzará tu vida!</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Pues muchas gracias
+por participar en el test de
+personalidad.
+Según tus respuestas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; para ser feliz
+solo necesitas una cosa.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Y es&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x3;&#x5;&#x0; ¡&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0;!
+&#xE;&#x3;&#x1;&#x0;¡Puede que no te traiga felicidad
+duradera,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pero seguro que
+endulzará tu vida!</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;¡Anda!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Bien, se acabó.
+Gracias por participar.
+Según tus respuestas...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Si quieres conseguir la felicidad
+deberás hacer una cosa...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;¡Dedicar tu vida al arte de&#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x12;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x14;&#x0; ¡Este test da
+consejos tan precisos que asusta!</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;¡Anda!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Bien, se acabó.
+Gracias por participar.
+Según tus respuestas...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Si quieres conseguir la felicidad
+deberás hacer una cosa...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;¡Dedicar tu vida al arte de&#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x12;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x14;&#x0; ¡Este test da
+consejos tan precisos que asusta!</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¿Qué te ha parecido? ¿Divertido?
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;¡Espero que los consejos te sean
+útiles! Ya me contarás.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¿Qué te ha parecido? ¿Divertido?
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;¡Espero que los consejos te sean
+útiles! Ya me contarás.</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Oye, ¿puedo preguntarte algo,
+&#xE;&#x5;&#x8;&#x0;? ¿Qué crees tú
+que me representa mejor?&#xE;&#x8;
+&#x10;2&#x0;3&#x0;4&#x0;4&#x0;4&#x0;4&#x0;6&#x0;5&#x0;
+Turrón
+Chocolate</original>
+			<edited>&#xE;&#x3;%&#x0;Oye, ¿puedo preguntarte algo,
+&#xE;&#x5;&#x8;&#x0;? ¿Qué crees tú
+que me representa mejor?&#xE;&#x8;
+&#x10;2&#x0;3&#x0;4&#x0;4&#x0;4&#x0;4&#x0;6&#x0;5&#x0;
+Turrón
+Chocolate</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¿En serio?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Entonces, ¿crees que
+soy un poco dura?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No sabía que
+pensaras eso,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¿En serio?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Entonces, ¿crees que
+soy un poco dura?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No sabía que
+pensaras eso,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¡Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Me ves como alguien fuerte
+y firme?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; ¡No está mal!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¡Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Me ves como alguien fuerte
+y firme?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; ¡No está mal!</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Así que crees&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; que soy dulce pero
+fuerte.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x4;&#x0;¡El equilibrio perfecto!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Así que crees&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; que soy dulce pero
+fuerte.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x4;&#x0;¡El equilibrio perfecto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Vale... ¿pero en qué clase de 
+chocolate estás pensando?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; 
+¡Espero que no sea el amargo!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Vale... ¿pero en qué clase de 
+chocolate estás pensando?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; 
+¡Espero que no sea el amargo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;No esperaba que dijeras eso.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1A;&#x0;¡Qué vergüenza!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;No esperaba que dijeras eso.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1A;&#x0;¡Qué vergüenza!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>¡Hola!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Sabes que puedes adivinar
+cómo es una persona según la flor
+que prefiera?
+&#xE;&#x3;&#x1;&#x0;¿Y bien?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿Te gustaría conocerte
+un poco mejor?&#xE;&#x8;&#x5;&#x8;:&#x0;&#x15;&#x0;;&#x0;(&#x0;
+¡Claro!
+Paso</original>
+			<edited>¡Hola!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Sabes que puedes adivinar
+cómo es una persona según la flor
+que prefiera?
+&#xE;&#x3;&#x1;&#x0;¿Y bien?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿Te gustaría conocerte
+un poco mejor?&#xE;&#x8;&#x5;&#x8;:&#x0;&#x15;&#x0;;&#x0;(&#x0;
+¡Claro!
+Paso</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Genial! Pues a ver...&#xE;&#x7;&#x1;&#x0;
+¿Cuál de estas flores es tu favorita?&#xE;&#x8;&#x2;&#x10;&lt;&#x0;&#x0;&#x0;=&#x0;&#x0;&#x0;&gt;&#x0;&#x0;&#x0;?&#x0;&#x0;&#x0;
+Girasol
+Margarita
+Crisantemo
+Diente de león</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Genial! Pues a ver...&#xE;&#x7;&#x1;&#x0;
+¿Cuál de estas flores es tu favorita?&#xE;&#x8;&#x2;&#x10;&lt;&#x0;&#x0;&#x0;=&#x0;&#x0;&#x0;&gt;&#x0;&#x0;&#x0;?&#x0;&#x0;&#x0;
+Girasol
+Margarita
+Crisantemo
+Diente de león</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;como quieras&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Si cambias
+de opinión, no dudes en venir
+a verme.&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;como quieras&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Si cambias
+de opinión, no dudes en venir
+a verme.&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;¿No me digas? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+El girasol representa optimismo
+y lealtad,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.
+&#xE;&#x3;&#x5;&#x0;¡Eso es fantástico,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; podrás lograr
+todo lo que te propongas con
+optimismo y dedicación!</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;¿No me digas? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+El girasol representa optimismo
+y lealtad,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.
+&#xE;&#x3;&#x5;&#x0;¡Eso es fantástico,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; podrás lograr
+todo lo que te propongas con
+optimismo y dedicación!</edited>
+			<subEntries />
+		</entry>
+		<entry name="061" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Muuuy interesante.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;La margarita
+significa inocencia&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; y esperanza.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x3;&#x0;
+¡Eres muy positiv&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Muuuy interesante.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;La margarita
+significa inocencia&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; y esperanza.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x3;&#x0;
+¡Eres muy positiv&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="062" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¡Bien!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; El crisantemo representa
+la alegría y la amistad.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;O sea, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0;que
+tratas a tus amigos de maravilla.
+&#xE;&#x3;%&#x0;Aunque eso ya lo sabrías sin que
+una flor te lo dijera, ¿verdad?&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¡Bien!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; El crisantemo representa
+la alegría y la amistad.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;O sea, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0;que
+tratas a tus amigos de maravilla.
+&#xE;&#x3;%&#x0;Aunque eso ya lo sabrías sin que
+una flor te lo dijera, ¿verdad?&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="063" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Mmm.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; El diente de león significa
+que eres fuerte en la adversidad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;
+¿Hay algo que te preocupe?
+&#xE;&#x3;&#x0;&#x0;¡Si es así, no dudes en hablarlo
+conmigo, porfa!&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Mmm.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; El diente de león significa
+que eres fuerte en la adversidad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;
+¿Hay algo que te preocupe?
+&#xE;&#x3;&#x0;&#x0;¡Si es así, no dudes en hablarlo
+conmigo, porfa!&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="064" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¿Qué tal?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿He acertado? &#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0;El mundo
+de las flores es muy interesante,
+¿no crees?</original>
+			<edited>&#xE;&#x3;%&#x0;¿Qué tal?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿He acertado? &#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0;El mundo
+de las flores es muy interesante,
+¿no crees?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,724 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ah, hello!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Welcome! Welcome!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ah, hello!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Welcome! Welcome!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;You must be the new mayor,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+am I right?&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ at the town
+hall told me to expect you!
+&#xE;&#x3;&#x1;&#x0;On behalf of the &#xE;&#x5;&#x5;&#x0;
+chamber of commerce,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I'm
+pleased to welcome you!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;You must be the new mayor,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+am I right?&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ at the town
+hall told me to expect you!
+&#xE;&#x3;&#x1;&#x0;On behalf of the &#xE;&#x5;&#x5;&#x0;
+chamber of commerce,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I'm
+pleased to welcome you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Ah,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; you must be &#xE;&#x3;&#x0;&#x0;the newest
+resident of our little town.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+It's &#xE;&#x5;&#x0;&#x0;, yes?
+I heard about you from &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ at
+the town hall a short while ago!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Ah,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; you must be &#xE;&#x3;&#x0;&#x0;the newest
+resident of our little town.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+It's &#xE;&#x5;&#x0;&#x0;, yes?
+I heard about you from &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ at
+the town hall a short while ago!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>So, &#xE;&#x5;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're here today
+because you want to build a house,
+&#xE;&#x3;&#x17;&#x0;yes?
+&#xE;&#x3;&#x3;&#x0;Very good! Very good!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I can build
+one just about anywhere you want,
+yes, I can indeed!&#xE;&#x3;%&#x0;</original>
+			<edited>So, &#xE;&#x5;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're here today
+because you want to build a house,
+&#xE;&#x3;&#x17;&#x0;yes?
+&#xE;&#x3;&#x3;&#x0;Very good! Very good!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I can build
+one just about anywhere you want,
+yes, I can indeed!&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Ah,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; and you want to move here,&#xE;&#x3;&#x17;&#x0; hm?&#xE;&#x7;&#x1;&#x0;
+Do you have a home and belongings
+from your previous town?
+&#xE;&#x3;&#x0;&#x0;If so, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;once you pick where you want
+to live,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; I can take care of the rest!</original>
+			<edited>Ah,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; and you want to move here,&#xE;&#x3;&#x17;&#x0; hm?&#xE;&#x7;&#x1;&#x0;
+Do you have a home and belongings
+from your previous town?
+&#xE;&#x3;&#x0;&#x0;If so, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;once you pick where you want
+to live,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; I can take care of the rest!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;So&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; have you decided on where you
+want to live?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yep!
+Not yet.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;So&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; have you decided on where you
+want to live?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yep!
+Not yet.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Then this won't take long at all!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+Just take me where you want to
+build your new home, &#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Then this won't take long at all!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+Just take me where you want to
+build your new home, &#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Color me unsurprised!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;You DID just
+move here, after all, and there's no
+sense rushing into anything!
+I understand completely!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Take your 
+time to walk around town and find
+that perfect place.
+I will follow you,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so if anything
+strikes your fancy, please tell me!</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Color me unsurprised!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;You DID just
+move here, after all, and there's no
+sense rushing into anything!
+I understand completely!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Take your 
+time to walk around town and find
+that perfect place.
+I will follow you,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so if anything
+strikes your fancy, please tell me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I must head back to my shop,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;so here is where our ways part.&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, you need to head back
+to the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;town hall&#xE;&#x0;&#x3;&#x2;ÿÿ now&#xE;&#x3;&#x17;&#x0;, do you not?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Now that your residence is secured,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+you must get this information
+registered at once! Yes, yes!
+&#xE;&#x3;&#x1;&#x0;I'll work out the numbers in the
+meantime,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so come by my shop
+tomorrow or the day after.
+&#xE;&#x3; &#x0;Thanks for your business!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I rather
+appreciate it! Hm, yes, yes!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I must head back to my shop,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;so here is where our ways part.&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, you need to head back
+to the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;town hall&#xE;&#x0;&#x3;&#x2;ÿÿ now&#xE;&#x3;&#x17;&#x0;, do you not?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Now that your residence is secured,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+you must get this information
+registered at once! Yes, yes!
+&#xE;&#x3;&#x1;&#x0;I'll work out the numbers in the
+meantime,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so come by my shop
+tomorrow or the day after.
+&#xE;&#x3; &#x0;Thanks for your business!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I rather
+appreciate it! Hm, yes, yes!</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>Hey!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Hey!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Focus!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; This isn't the time
+for dawdling.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; You need to find a
+place to live, yes?</original>
+			<edited>Hey!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Hey!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Focus!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; This isn't the time
+for dawdling.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; You need to find a
+place to live, yes?</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>That's the way to the beach!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+You can't build a house on sand!</original>
+			<edited>That's the way to the beach!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+You can't build a house on sand!</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Please wait!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Please wait!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Wait one moment! &#xE;&#x3;&#x0;&#x0;You can't
+live in the shopping district.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Find a
+spot of land on this side, yes?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Wait one moment! &#xE;&#x3;&#x0;&#x0;You can't
+live in the shopping district.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Find a
+spot of land on this side, yes?</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks for waiting!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; We've relocated
+it! Inside and out, it's just as it was
+before your stressful move.
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;That reminds me!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'll make sure that
+&#xE;&#x3;&#x0;&#x0;the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Happy Home Academy&#xE;&#x0;&#x3;&#x2;ÿÿ has been
+updated with your new address.
+&#xE;&#x3;&#x1;&#x0;Yes,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I must head back to my shop,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+so I'll say my good-byes for now.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, you'll be heading back
+to the town hall&#xE;&#x3;&#x17;&#x0; after this, hm?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Now that you have a place to live,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+you must take care of your resident
+registration, oh, yes, yes!
+&#xE;&#x3;&#x1;&#x0;Well then, thank you for using
+&#xE;&#x3;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Nook's Homes&#xE;&#x0;&#x3;&#x2;ÿÿ for all your housing
+needs!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I do so appreciate it!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks for waiting!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; We've relocated
+it! Inside and out, it's just as it was
+before your stressful move.
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;That reminds me!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'll make sure that
+&#xE;&#x3;&#x0;&#x0;the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Happy Home Academy&#xE;&#x0;&#x3;&#x2;ÿÿ has been
+updated with your new address.
+&#xE;&#x3;&#x1;&#x0;Yes,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I must head back to my shop,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+so I'll say my good-byes for now.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, you'll be heading back
+to the town hall&#xE;&#x3;&#x17;&#x0; after this, hm?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Now that you have a place to live,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+you must take care of your resident
+registration, oh, yes, yes!
+&#xE;&#x3;&#x1;&#x0;Well then, thank you for using
+&#xE;&#x3;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Nook's Homes&#xE;&#x0;&#x3;&#x2;ÿÿ for all your housing
+needs!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I do so appreciate it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>Yes, yes!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; So you would like to &#xE;&#x3;&#x17;&#x0;build
+your house here?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yep! Here!
+No.</original>
+			<edited>Yes, yes!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; So you would like to &#xE;&#x3;&#x17;&#x0;build
+your house here?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yep! Here!
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;That's perfectly fine!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Please take
+your time.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; There's no rush at all.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;That's perfectly fine!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Please take
+your time.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; There's no rush at all.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hm, yes, to give you an idea of how
+much space you need for building
+your new house&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x0;&#x0;From where you're standing now,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+you'd need to be able to take about
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;four&#xE;&#x0;&#x3;&#x2;ÿÿ steps left, right, and back.
+&#xE;&#x3;&#x2;&#x0;Without that much space,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; even if
+you planned to expand in the future,
+you wouldn't be able to do so.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;We can move plants and trees when
+doing the construction, but we can't
+move rocks or buildings, no, no.
+&#xE;&#x3;&#x1;&#x0;When you're looking for a place to
+build,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; please keep that in mind, hm?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hm, yes, to give you an idea of how
+much space you need for building
+your new house&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x0;&#x0;From where you're standing now,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+you'd need to be able to take about
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;four&#xE;&#x0;&#x3;&#x2;ÿÿ steps left, right, and back.
+&#xE;&#x3;&#x2;&#x0;Without that much space,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; even if
+you planned to expand in the future,
+you wouldn't be able to do so.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;We can move plants and trees when
+doing the construction, but we can't
+move rocks or buildings, no, no.
+&#xE;&#x3;&#x1;&#x0;When you're looking for a place to
+build,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; please keep that in mind, hm?</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;No, no. This is too close
+to a public works project.&#xE;&#x0;&#x4;&#x0;I'm sorry, so very sorry, but you
+don't have enough space to build
+a home here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;No, no. This is too close
+to a public works project.&#xE;&#x0;&#x4;&#x0;I'm sorry, so very sorry, but you
+don't have enough space to build
+a home here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;No, no. This is too close
+to another planned building.&#xE;&#x0;&#x4;&#x0;I'm sorry, so very sorry, but you
+don't have enough space to build
+a home here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;No, no. This is too close
+to another planned building.&#xE;&#x0;&#x4;&#x0;I'm sorry, so very sorry, but you
+don't have enough space to build
+a home here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; We'd have to tear down
+a public works project, but&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; if that's
+OK, I think we can build here, yes.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; We'd have to tear down
+a public works project, but&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; if that's
+OK, I think we can build here, yes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; We'd have to tear down
+some public works projects, but if
+that's OK, I think we can build here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; We'd have to tear down
+some public works projects, but if
+that's OK, I think we can build here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Yes, yes.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; There's plenty of space to
+build a house here!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Yes, yes.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; There's plenty of space to
+build a house here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And it's close to the town hall, so
+it's just the spot for you, mayor.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And it's close to the town hall, so
+it's just the spot for you, mayor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And it's close to the town hall,
+so it's very convenient!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And it's close to the town hall,
+so it's very convenient!</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And it's close to the train station
+and shopping area,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so it's really
+convenient if you like to shop!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And it's close to the train station
+and shopping area,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so it's really
+convenient if you like to shop!</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And it's close to the beach.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+It's a dream location if you like
+the ocean.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And it's close to the beach.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+It's a dream location if you like
+the ocean.</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And it's close to the recycle shop,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+so it's convenient if you like
+changing up your home's look.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And it's close to the recycle shop,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+so it's convenient if you like
+changing up your home's look.</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And it's close to the café,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so it's
+perfect if you like coffee!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And it's close to the café,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so it's
+perfect if you like coffee!</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And it's close to the police station,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+so you don't have to worry about
+safety.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;I think&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And it's close to the police station,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+so you don't have to worry about
+safety.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;I think&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And there are plenty of neighbors
+nearby,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so it's the perfect place
+for socializing!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And there are plenty of neighbors
+nearby,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so it's the perfect place
+for socializing!</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And there's a river nearby.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+If you like fishing or being in
+nature, it's the perfect spot!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And there's a river nearby.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+If you like fishing or being in
+nature, it's the perfect spot!</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And there's a space nearby for
+festivals and events!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And there's a space nearby for
+festivals and events!</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh, yes, yes!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; This spot is really
+close to the train tracks, so I'd
+highly suggest it to railroading fans!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh, yes, yes!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; This spot is really
+close to the train tracks, so I'd
+highly suggest it to railroading fans!</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And there aren't many buildings
+around,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so it's perfect for those
+who like peace and quiet!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And there aren't many buildings
+around,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so it's perfect for those
+who like peace and quiet!</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+river to build a house.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+river to build a house.</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+pond to build a house.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+pond to build a house.</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+cliff to build a house.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+cliff to build a house.</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Umm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This space is too close to
+your neighbors,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; so there isn't
+enough room for a house.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Umm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This space is too close to
+your neighbors,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; so there isn't
+enough room for a house.</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Looks like &#xE;&#xE;&#x1;&#x0;
+&#xE;&#x11;&#x6;&#x2;&#x0;&#x0; is in the
+way, so we can't build here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Looks like &#xE;&#xE;&#x1;&#x0;
+&#xE;&#x11;&#x6;&#x2;&#x0;&#x0; is in the
+way, so we can't build here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+train tracks to build a house.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+train tracks to build a house.</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Umm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This area has a large rock
+in the way, so there is no room to
+build your home, no, no!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Umm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This area has a large rock
+in the way, so there is no room to
+build your home, no, no!</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+plaza to build a house.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;This spot is too close to the
+plaza to build a house.</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Umm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;There is another building
+nearby, so there isn't enough room
+for your house here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Umm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;There is another building
+nearby, so there isn't enough room
+for your house here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;A different space would be a better
+choice.&#xE;&#x0;&#x4;&#x0;There isn't enough room here to
+accommodate potential future
+remodels.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;A different space would be a better
+choice.&#xE;&#x0;&#x4;&#x0;There isn't enough room here to
+accommodate potential future
+remodels.</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Hold on a moment.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;+&#x0;It will look something like this&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Hold on a moment.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;+&#x0;It will look something like this&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;We'll need to move trees, flowers,
+and any buried items in order to
+start building.
+&#xE;&#x3;&#x1;&#x0;But if you're OK with that, we
+can start right away!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;We'll need to move trees, flowers,
+and any buried items in order to
+start building.
+&#xE;&#x3;&#x1;&#x0;But if you're OK with that, we
+can start right away!</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;So?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Does this location suit your
+needs? Hm?&#xE;&#xD;&#x8;&#x2;&#x1;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yep!
+Hang on a sec...</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;So?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Does this location suit your
+needs? Hm?&#xE;&#xD;&#x8;&#x2;&#x1;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yep!
+Hang on a sec...</edited>
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;That's quite fine.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Take your time.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;That's quite fine.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Take your time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="061" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;OK!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; It's decided then!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;It will take a bit of time to build
+your house, so for today, let's
+reserve the space for you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+There we go! Yes, yes! Wonderful!</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;OK!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; It's decided then!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;It will take a bit of time to build
+your house, so for today, let's
+reserve the space for you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+There we go! Yes, yes! Wonderful!</edited>
+			<subEntries />
+		</entry>
+		<entry name="062" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Ta-da!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; And with that, this space
+is officially yours, &#xE;&#x5;&#x0;&#x0;!&#xE;&#x3;%&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Umm,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0; including the cost of the land,
+materials, building costs,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; et cetera&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Well, the calculation is complicated,
+so I can't come up with it just now.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+I'll tell you the total later.&#xE;&#x3;&#x0;&#x0;
+Anyway,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'm sure you're very busy,
+since you just moved here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Once you've taken care of other
+things,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; stop by my store again to
+get the bill, hm?
+&#xE;&#x3;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Ah, but I suppose you still need
+&#xE;&#x3;	&#x0;a place to rest your head, right?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x10;&#x0;Give me just a moment&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x3;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Ta-da!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; And with that, this space
+is officially yours, &#xE;&#x5;&#x0;&#x0;!&#xE;&#x3;%&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Umm,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0; including the cost of the land,
+materials, building costs,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; et cetera&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Well, the calculation is complicated,
+so I can't come up with it just now.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+I'll tell you the total later.&#xE;&#x3;&#x0;&#x0;
+Anyway,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'm sure you're very busy,
+since you just moved here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Once you've taken care of other
+things,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; stop by my store again to
+get the bill, hm?
+&#xE;&#x3;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Ah, but I suppose you still need
+&#xE;&#x3;	&#x0;a place to rest your head, right?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x10;&#x0;Give me just a moment&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x3;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="063" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;That does it then!&#xE;&#x0;&#x4;&#x0;Yes, I'll have the moving company
+get right on moving your things,
+so wait just a moment&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;That does it then!&#xE;&#x0;&#x4;&#x0;Yes, I'll have the moving company
+get right on moving your things,
+so wait just a moment&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="064" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks for waiting!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; We've relocated
+it! Inside and out, it's just as it was
+before the move!
+&#xE;&#x3;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I must head back to my shop,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+so I'll say my good-byes for now.&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, you'll be heading back
+to the town hall&#xE;&#x3;&#x17;&#x0; after this, yes?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Now that you've got a place to live,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+you have to take care of your
+resident registration with &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ!
+&#xE;&#x3;&#x1;&#x0;Well then, thank you for using
+&#xE;&#x3;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Nook's Homes&#xE;&#x0;&#x3;&#x2;ÿÿ for all your housing
+needs!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I appreciate it, yes indeed!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks for waiting!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; We've relocated
+it! Inside and out, it's just as it was
+before the move!
+&#xE;&#x3;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I must head back to my shop,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+so I'll say my good-byes for now.&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, you'll be heading back
+to the town hall&#xE;&#x3;&#x17;&#x0; after this, yes?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Now that you've got a place to live,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+you have to take care of your
+resident registration with &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ!
+&#xE;&#x3;&#x1;&#x0;Well then, thank you for using
+&#xE;&#x3;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Nook's Homes&#xE;&#x0;&#x3;&#x2;ÿÿ for all your housing
+needs!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I appreciate it, yes indeed!</edited>
+			<subEntries />
+		</entry>
+		<entry name="065" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ta-ta-ta-DA!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;
+&#xE;&#x3;%&#x0;I'll let you borrow this tent so
+you have somewhere to sleep!
+&#xE;&#x3;&#x1;&#x0;I've also put up a mailbox, so you
+can even start receiving mail!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+             &#xE;&#x0;&#x2;&#x2;K&#x0;It's a little shabby looking, though...
+&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;&#x0;&#x0;I bet you rarely see a tent with a
+mailbox, right?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;Oh ho ho ho ho!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>&#xE;&#x7;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ta-ta-ta-DA!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;
+&#xE;&#x3;%&#x0;I'll let you borrow this tent so
+you have somewhere to sleep!
+&#xE;&#x3;&#x1;&#x0;I've also put up a mailbox, so you
+can even start receiving mail!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+             &#xE;&#x0;&#x2;&#x2;K&#x0;It's a little shabby looking, though...
+&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;&#x0;&#x0;I bet you rarely see a tent with a
+mailbox, right?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;Oh ho ho ho ho!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="066" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll be returning to my shop,
+so let's part ways here.&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, you need to head back&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+to the town hall&#xE;&#x3;&#x17;&#x0;, hm?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Now that you know where you'll be
+living,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; you have to get registered as
+a resident, so talk to &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ.
+&#xE;&#x3;&#x1;&#x0;In the meantime, I'll work out the
+numbers. Come by my shop again
+later.
+&#xE;&#x3; &#x0;Thanks for your business!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I do
+appreciate it, yes, yes!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll be returning to my shop,
+so let's part ways here.&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, you need to head back&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+to the town hall&#xE;&#x3;&#x17;&#x0;, hm?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Now that you know where you'll be
+living,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; you have to get registered as
+a resident, so talk to &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ.
+&#xE;&#x3;&#x1;&#x0;In the meantime, I'll work out the
+numbers. Come by my shop again
+later.
+&#xE;&#x3; &#x0;Thanks for your business!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I do
+appreciate it, yes, yes!</edited>
+			<subEntries />
+		</entry>
+		<entry name="067" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm so glad you found a nice spot!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm so glad you found a nice spot!</edited>
+			<subEntries />
+		</entry>
+		<entry name="068" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;What's wrong?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Don't you need to go
+back to the town hall right away?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;What's wrong?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Don't you need to go
+back to the town hall right away?</edited>
+			<subEntries />
+		</entry>
+		<entry name="069" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;If you ever want to talk about
+remodeling your home,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; just
+come see me in my shop, hm?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;If you ever want to talk about
+remodeling your home,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; just
+come see me in my shop, hm?</edited>
+			<subEntries />
+		</entry>
+		<entry name="070" offset="00" relocatable="true" max_length="0">
+			<original>Once you wrap things up at the
+town hall,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; come see me in my shop.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I'll be able to tell you how much
+your down payment will be when
+I next see you, yes I will!</original>
+			<edited>Once you wrap things up at the
+town hall,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; come see me in my shop.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I'll be able to tell you how much
+your down payment will be when
+I next see you, yes I will!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

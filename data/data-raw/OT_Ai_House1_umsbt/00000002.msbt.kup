@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; je te souhaite la
+bienvenue dans mon humble
+demeure,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; je te souhaite la
+bienvenue dans mon humble
+demeure,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Quelle belle surprise...&#xE;&#x7;&#x0;&#x4;-&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Bienvenue chez moi&#xE;&#x7;&#x7;&#x0;,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Quelle belle surprise...&#xE;&#x7;&#x0;&#x4;-&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Bienvenue chez moi&#xE;&#x7;&#x7;&#x0;,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x0;&#x4;-&#x0;&#x0;&#x0;Comme c'est gentil de
+passer me voir,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;...</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x0;&#x4;-&#x0;&#x0;&#x0;Comme c'est gentil de
+passer me voir,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;...</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

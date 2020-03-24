@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh, are you not in the mood?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;
+Well, promise me we'll play some
+other time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Oh, are you not in the mood?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;
+Well, promise me we'll play some
+other time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Um&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I can't really play
+hide-and-seek by myself.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Let's play
+some other time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Um&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I can't really play
+hide-and-seek by myself.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Let's play
+some other time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Are you tired, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;If you play hide-and-seek every day,
+you'll have tons of energy!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+We should play together sometime!</original>
+			<edited>&#xE;&#x3;	&#x0;Are you tired, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;If you play hide-and-seek every day,
+you'll have tons of energy!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+We should play together sometime!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

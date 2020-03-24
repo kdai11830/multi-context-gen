@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Do you think you could dig up that
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;time capsule &#xE;&#x0;&#x3;&#x2;ÿÿI had you bury before?&#xE;&#x7;&#x1;&#x0;
+I'm counting on you!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Do you think you could dig up that
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;time capsule &#xE;&#x0;&#x3;&#x2;ÿÿI had you bury before?&#xE;&#x7;&#x1;&#x0;
+I'm counting on you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Umm, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;do you remember that &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;time
+capsule&#xE;&#x0;&#x3;&#x2;ÿÿ I had you bury?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;I think it'd
+be fun to open it now.
+&#xE;&#x3;&#x0;&#x0;Would you please dig it up and bring
+it to me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&amp;&#x0;I can't wait to
+see what's inside,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Umm, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;do you remember that &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;time
+capsule&#xE;&#x0;&#x3;&#x2;ÿÿ I had you bury?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;I think it'd
+be fun to open it now.
+&#xE;&#x3;&#x0;&#x0;Would you please dig it up and bring
+it to me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&amp;&#x0;I can't wait to
+see what's inside,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;I just wanted to let you know I dug
+up that &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;time capsule&#xE;&#x0;&#x3;&#x2;ÿÿ you buried
+for me.
+&#xE;&#x3;%&#x0;Thanks again for doing that.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I hope
+I can repay the favor someday!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;I just wanted to let you know I dug
+up that &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;time capsule&#xE;&#x0;&#x3;&#x2;ÿÿ you buried
+for me.
+&#xE;&#x3;%&#x0;Thanks again for doing that.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I hope
+I can repay the favor someday!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I found that &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;time capsule&#xE;&#x0;&#x3;&#x2;ÿÿ you buried
+for me,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; so you don't have to worry
+about it, &#xE;&#x5;&#x8;&#x0;.
+&#xE;&#x3;&amp;&#x0;Thanks for your help!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I found that &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;time capsule&#xE;&#x0;&#x3;&#x2;ÿÿ you buried
+for me,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; so you don't have to worry
+about it, &#xE;&#x5;&#x8;&#x0;.
+&#xE;&#x3;&amp;&#x0;Thanks for your help!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

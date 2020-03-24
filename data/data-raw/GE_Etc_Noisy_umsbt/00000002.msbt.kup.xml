@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Ça va pas du tout !&#xE;&#x7;&#x1;&#x0; Du tout, du
+tout, du tout !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu m'entends,
+&#xE;&#x5;&#x7;&#x0; ?!&#xE;&#xB;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Ça va pas du tout !&#xE;&#x7;&#x1;&#x0; Du tout, du
+tout, du tout !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu m'entends,
+&#xE;&#x5;&#x7;&#x0; ?!&#xE;&#xB;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Ça va pas, &#xE;&#x5;&#x7;&#x0; ? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1B;&#x0;C'est
+hyper désagréable, je te signale...&#xE;&#xB;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Ça va pas, &#xE;&#x5;&#x7;&#x0; ? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1B;&#x0;C'est
+hyper désagréable, je te signale...&#xE;&#xB;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hééé ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Tu me casses méchamment
+les oreilles, là !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Non mais...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ça va
+pas, ou quoi ?!&#xE;&#xB;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hééé ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Tu me casses méchamment
+les oreilles, là !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Non mais...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ça va
+pas, ou quoi ?!&#xE;&#xB;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

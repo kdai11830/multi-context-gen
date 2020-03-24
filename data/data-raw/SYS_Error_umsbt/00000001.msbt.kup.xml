@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes cambiar la distribución
+de la sala de exposición cuando
+tienes visita!</original>
+			<edited>¡No puedes cambiar la distribución
+de la sala de exposición cuando
+tienes visita!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>¿Cómo pretendes pegar papel de
+pared en una tienda de campaña?</original>
+			<edited>¿Cómo pretendes pegar papel de
+pared en una tienda de campaña?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes cambiar el suelo
+de una tienda de campaña!</original>
+			<edited>¡No puedes cambiar el suelo
+de una tienda de campaña!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes cambiarte de ropa
+porque tienes los bolsillos llenos!</original>
+			<edited>¡No puedes cambiarte de ropa
+porque tienes los bolsillos llenos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes quitarte el sombrero
+ni los complementos porque
+tus bolsillos están llenos!</original>
+			<edited>¡No puedes quitarte el sombrero
+ni los complementos porque
+tus bolsillos están llenos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes aplicar un diseño a la
+tienda de campaña, que es prestada!</original>
+			<edited>¡No puedes aplicar un diseño a la
+tienda de campaña, que es prestada!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes colgar objetos de
+pared en la tienda de campaña
+o la dejarás hecha un colador!</original>
+			<edited>¡No puedes colgar objetos de
+pared en la tienda de campaña
+o la dejarás hecha un colador!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>¡No es muy respetuoso cambiar
+el diseño del suelo o las paredes
+cuando tienes visita!</original>
+			<edited>¡No es muy respetuoso cambiar
+el diseño del suelo o las paredes
+cuando tienes visita!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>¿No sabes que no debes mover
+los muebles cuando hay visita?</original>
+			<edited>¿No sabes que no debes mover
+los muebles cuando hay visita?</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes cambiar el suelo
+cuando tienes invitados!</original>
+			<edited>¡No puedes cambiar el suelo
+cuando tienes invitados!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes cambiar el papel de
+pared cuando tienes invitados!</original>
+			<edited>¡No puedes cambiar el papel de
+pared cuando tienes invitados!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes poner nada en tu
+habitación cuando hay visita!</original>
+			<edited>¡No puedes poner nada en tu
+habitación cuando hay visita!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes mover nada de tu
+habitación cuando hay visita!</original>
+			<edited>¡No puedes mover nada de tu
+habitación cuando hay visita!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>¡Has puesto muchas cosas en este
+cuarto! Mejor no poner nada más.</original>
+			<edited>¡Has puesto muchas cosas en este
+cuarto! Mejor no poner nada más.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>¡Aquí no hay espacio para poner
+este objeto!</original>
+			<edited>¡Aquí no hay espacio para poner
+este objeto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>
+¡No puedes aplicar un diseño aquí!</original>
+			<edited>
+¡No puedes aplicar un diseño aquí!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>¡Estás esperando visitas!
+Ya editarás tus diseños más tarde.</original>
+			<edited>¡Estás esperando visitas!
+Ya editarás tus diseños más tarde.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>No puedes editar ningún diseño
+mientras juegas con otros
+jugadores.</original>
+			<edited>No puedes editar ningún diseño
+mientras juegas con otros
+jugadores.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes realizar esta acción
+porque no tienes suficiente
+espacio en los bolsillos!</original>
+			<edited>¡No puedes realizar esta acción
+porque no tienes suficiente
+espacio en los bolsillos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes ponerte la máscara Mii
+porque no tienes espacio para
+guardar lo que llevas puesto!</original>
+			<edited>¡No puedes ponerte la máscara Mii
+porque no tienes espacio para
+guardar lo que llevas puesto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes ponerte la máscara Mii
+porque no tienes espacio para
+guardar lo que llevas puesto!</original>
+			<edited>¡No puedes ponerte la máscara Mii
+porque no tienes espacio para
+guardar lo que llevas puesto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes exponer
+este objeto aquí!</original>
+			<edited>¡No puedes exponer
+este objeto aquí!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>¡Que estás de vacaciones!
+Ya editarás tus diseños cuando
+vuelvas a casa.</original>
+			<edited>¡Que estás de vacaciones!
+Ya editarás tus diseños cuando
+vuelvas a casa.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>No tienes espacio en los bolsillos,
+así que no puedes hacer el cambio.</original>
+			<edited>No tienes espacio en los bolsillos,
+así que no puedes hacer el cambio.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes escribir más cartas
+porque no tienes espacio para
+guardarlas!</original>
+			<edited>¡No puedes escribir más cartas
+porque no tienes espacio para
+guardarlas!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes conservar más cartas!
+¿Por qué no tiras alguna?</original>
+			<edited>¡No puedes conservar más cartas!
+¿Por qué no tiras alguna?</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>
+¡No puedes plantar aquí!</original>
+			<edited>
+¡No puedes plantar aquí!</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>
+¡No puedes enterrar cosas aquí!</original>
+			<edited>
+¡No puedes enterrar cosas aquí!</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes quitarte lo que llevas
+puesto porque no tienes espacio
+para guardarlo!</original>
+			<edited>¡No puedes quitarte lo que llevas
+puesto porque no tienes espacio
+para guardarlo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>No puedes guardarte el regalo
+porque tienes los bolsillos llenos.
+¡Haz espacio!</original>
+			<edited>No puedes guardarte el regalo
+porque tienes los bolsillos llenos.
+¡Haz espacio!</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes sacar bayas si
+no tienes espacio libre!</original>
+			<edited>¡No puedes sacar bayas si
+no tienes espacio libre!</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes incluir
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+en una carta!</original>
+			<edited>¡No puedes incluir
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+en una carta!</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>¡Ahora no puedes usar
+el cronómetro!</original>
+			<edited>¡Ahora no puedes usar
+el cronómetro!</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes añadir más bayas
+a tu cartera o reventará!</original>
+			<edited>¡No puedes añadir más bayas
+a tu cartera o reventará!</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes usar el cronómetro
+cuando alguien juega al escondite!</original>
+			<edited>¡No puedes usar el cronómetro
+cuando alguien juega al escondite!</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes usar el cronómetro
+cuando juegas al escondite!</original>
+			<edited>¡No puedes usar el cronómetro
+cuando juegas al escondite!</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>
+¡Ya no puedes escribir más!</original>
+			<edited>
+¡Ya no puedes escribir más!</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes usar el cronómetro
+en un sueño!</original>
+			<edited>¡No puedes usar el cronómetro
+en un sueño!</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>
+Acércate un poco más a la pared...</original>
+			<edited>
+Acércate un poco más a la pared...</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>¡Aquí no hay espacio para poner
+este objeto!</original>
+			<edited>¡Aquí no hay espacio para poner
+este objeto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>
+No puedes colgar este objeto aquí...</original>
+			<edited>
+No puedes colgar este objeto aquí...</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>
+No puedes usar este objeto ahora...</original>
+			<edited>
+No puedes usar este objeto ahora...</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>¡No puedes escribir una carta
+mientras sueñas!
+&#xE;&#x0;&#x2;&#x2;K&#x0;A saber qué ibas a poner...&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>¡No puedes escribir una carta
+mientras sueñas!
+&#xE;&#x0;&#x2;&#x2;K&#x0;A saber qué ibas a poner...&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x5;%&#x0;</original>
+			<edited>&#xE;&#x5;%&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je passerai vers &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h&#xE;&#x0;&#x3;&#x2;ÿÿ, ça te va ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;J'essaierai de ne pas être en
+retard, mais tu me connais...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je passerai vers &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h&#xE;&#x0;&#x3;&#x2;ÿÿ, ça te va ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;J'essaierai de ne pas être en
+retard, mais tu me connais...</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Alors on dit comme ça, OK ?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Je passerai chez toi à &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Sans faute, hein ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ne me pose pas
+de lapin,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;#&#x0;Alors on dit comme ça, OK ?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Je passerai chez toi à &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Sans faute, hein ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ne me pose pas
+de lapin,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je passerai par chez toi à
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h &#xE;&#x4;&#x11;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;ça te va ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;J'espère que je serai à l'heure !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je passerai par chez toi à
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h &#xE;&#x4;&#x11;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;ça te va ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;J'espère que je serai à l'heure !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Alors on fait comme ça ?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h &#xE;&#x4;&#x11;&#x2;&#x2;Í
+&#xE;&#x0;&#x3;&#x2;ÿÿchez toi.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Sois là,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;Alors on fait comme ça ?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h &#xE;&#x4;&#x11;&#x2;&#x2;Í
+&#xE;&#x0;&#x3;&#x2;ÿÿchez toi.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Sois là,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

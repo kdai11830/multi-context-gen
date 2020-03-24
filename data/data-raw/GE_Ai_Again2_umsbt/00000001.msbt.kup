@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¿Quieres decirme algo más?
+¡Chupi, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¿Quieres decirme algo más?
+¡Chupi, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Te gusta hablar conmigo, ¿eh,
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x3;&#x15;&#x0; No me extraña,
+soy la más maravillosa del pueblo.</original>
+			<edited>Te gusta hablar conmigo, ¿eh,
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x3;&#x15;&#x0; No me extraña,
+soy la más maravillosa del pueblo.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>A ti te gusta mucho hablar.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;¡A mí también! ¡Sobre todo
+de mí misma!</original>
+			<edited>A ti te gusta mucho hablar.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;¡A mí también! ¡Sobre todo
+de mí misma!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Qué te pasa hoy que no dejas
+de hablar?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; En fin, ¡mejor para
+mí, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Qué te pasa hoy que no dejas
+de hablar?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; En fin, ¡mejor para
+mí, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

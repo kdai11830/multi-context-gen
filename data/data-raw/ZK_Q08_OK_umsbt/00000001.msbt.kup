@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;¡Estupendo!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;¿Nos ponemos
+en marcha,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;&amp;&#x0;¡Estupendo!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;¿Nos ponemos
+en marcha,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡Pongámonos en movimiento!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;
+¡A tu casa, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;¡Pongámonos en movimiento!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;
+¡A tu casa, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Gracias, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;¿Te importa
+escoltarme hasta tu casa?</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Gracias, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;¿Te importa
+escoltarme hasta tu casa?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

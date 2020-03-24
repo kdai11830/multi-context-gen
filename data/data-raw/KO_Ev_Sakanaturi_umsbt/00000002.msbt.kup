@@ -1,0 +1,623 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;,&#x0;C'est le tournoi de pêche
+aujourd'hui !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Par ici, mes petits
+poissons chéris&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. &#xE;&#x3;&#x2;&#x0;HA HA HA !</original>
+			<edited>&#xE;&#x3;,&#x0;C'est le tournoi de pêche
+aujourd'hui !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Par ici, mes petits
+poissons chéris&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. &#xE;&#x3;&#x2;&#x0;HA HA HA !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;C'est pour aujourd'hui ou pour
+demain, ce tournoi de pêche ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Je vais leur en mettre plein la vue,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+hé hé !</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;C'est pour aujourd'hui ou pour
+demain, ce tournoi de pêche ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Je vais leur en mettre plein la vue,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+hé hé !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;C'est le tournoi de pêche
+aujourd'hui !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Et je vais avoir besoin
+de me concentrer&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Tu me suis ?</original>
+			<edited>&#xE;&#x3;%&#x0;C'est le tournoi de pêche
+aujourd'hui !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Et je vais avoir besoin
+de me concentrer&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Tu me suis ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Tournoi de pêche, aujourd'hui !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Si
+j'étais toi,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je viserais la deuxième
+place&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Capisce ?</original>
+			<edited>&#xE;&#x3;%&#x0;Tournoi de pêche, aujourd'hui !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Si
+j'étais toi,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je viserais la deuxième
+place&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Capisce ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Le tournoi de pêche vient de
+commencer !&#xE;&#x0;&#x4;&#x0;T'as pas trop le trac ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Ah non,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; moi
+pas du tout,&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; pourquoi ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Hé, t'as entendu ?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; La médaille d'or
+m'appelle !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;%&#x0;Le tournoi de pêche vient de
+commencer !&#xE;&#x0;&#x4;&#x0;T'as pas trop le trac ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Ah non,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; moi
+pas du tout,&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; pourquoi ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Hé, t'as entendu ?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; La médaille d'or
+m'appelle !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;!&#x0;C'est plutôt bien parti pour moi, ce
+tournoi de pêche !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Ça mord,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ça
+mord,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ça n'arrête pas !
+&#xE;&#x3;$&#x0;Je remets les petits à l'eau, histoire
+qu'il en reste pour les autres&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. 
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;!&#x0;C'est plutôt bien parti pour moi, ce
+tournoi de pêche !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Ça mord,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ça
+mord,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ça n'arrête pas !
+&#xE;&#x3;$&#x0;Je remets les petits à l'eau, histoire
+qu'il en reste pour les autres&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. 
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Tu espères remporter un trophée ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;L'argent, tu aimes, dis ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Parce que
+l'or est déjà pris,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>Tu espères remporter un trophée ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;L'argent, tu aimes, dis ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Parce que
+l'or est déjà pris,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Alors, ça mord ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;Tu vises les gros
+poissons, j'espère ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Oh, mais écoute-moi&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Comme si tu
+avais la moindre chance,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Alors, ça mord ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;Tu vises les gros
+poissons, j'espère ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Oh, mais écoute-moi&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Comme si tu
+avais la moindre chance,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Est-ce qu'il vaut mieux viser un
+endroit précis ou essayer plein
+d'endroits différents ?
+Bah, &#xE;&#x3;&#x15;&#x0;chacun sa méthode.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; En tout
+cas, une chose est sûre&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Si tu ne vois pas l'ombre d'un
+poisson&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; c'est qu'il n'y a pas
+l'ombre d'un poisson !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Est-ce qu'il vaut mieux viser un
+endroit précis ou essayer plein
+d'endroits différents ?
+Bah, &#xE;&#x3;&#x15;&#x0;chacun sa méthode.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; En tout
+cas, une chose est sûre&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Si tu ne vois pas l'ombre d'un
+poisson&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; c'est qu'il n'y a pas
+l'ombre d'un poisson !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Ça a l'air d'aller, toi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et que je me
+promène tranquillou&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Je papote un
+coup&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Cool Raoul&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#xD;&#x0;On est en plein tournoi de pêche, au
+cas où tu l'aurais oublié !&#xE;&#x0;&#x4;&#x0;Attends&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Me dis pas que t'as déjà
+fait une grosse prise ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Faut que je te laisse !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai un
+truc urgent à faire !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Une médaille d'or à gagner, grrrr !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;Bye bye !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>Ça a l'air d'aller, toi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et que je me
+promène tranquillou&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Je papote un
+coup&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Cool Raoul&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#xD;&#x0;On est en plein tournoi de pêche, au
+cas où tu l'aurais oublié !&#xE;&#x0;&#x4;&#x0;Attends&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Me dis pas que t'as déjà
+fait une grosse prise ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Faut que je te laisse !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai un
+truc urgent à faire !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Une médaille d'or à gagner, grrrr !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;Bye bye !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Quand tu lances ta ligne dans l'eau,
+est-ce que tu fais attention&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;au sens
+du courant ?
+Et &#xE;&#x3;&#x15;&#x0;est-ce que tu regardes dans quel
+sens l'ombre du poisson est
+orientée ?
+&#xE;&#x3;$&#x0;Hé, le prends pas mal !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; T'as l'air un
+peu perdu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;, c'est tout...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>Quand tu lances ta ligne dans l'eau,
+est-ce que tu fais attention&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;au sens
+du courant ?
+Et &#xE;&#x3;&#x15;&#x0;est-ce que tu regardes dans quel
+sens l'ombre du poisson est
+orientée ?
+&#xE;&#x3;$&#x0;Hé, le prends pas mal !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; T'as l'air un
+peu perdu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;, c'est tout...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Euh&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. le tournoi de pêche touche à
+sa fin, tu sais ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Je crois qu'on a mieux à faire que
+discutailler, toi et moi là&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Euh&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. le tournoi de pêche touche à
+sa fin, tu sais ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Je crois qu'on a mieux à faire que
+discutailler, toi et moi là&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Le tournoi de pêche est presque
+fini.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Mais je me trompe&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ou tu as
+déjà déclaré forfait ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Le tournoi de pêche est presque
+fini.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Mais je me trompe&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ou tu as
+déjà déclaré forfait ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Dans peu de temps, le tournoi de
+pêche sera terminé !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Un dernier
+petit poisson pour la route ?</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Dans peu de temps, le tournoi de
+pêche sera terminé !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Un dernier
+petit poisson pour la route ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Maintenant que le tournoi de pêche
+est terminé,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; je vais devoir me hisser
+sur la première marche du podium&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.
+&#xE;&#x3;$&#x0;Dur, dur&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Ne rate
+surtout pas la remise des prix !</original>
+			<edited>&#xE;&#x3;%&#x0;Maintenant que le tournoi de pêche
+est terminé,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; je vais devoir me hisser
+sur la première marche du podium&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.
+&#xE;&#x3;$&#x0;Dur, dur&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Ne rate
+surtout pas la remise des prix !</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Je suis vanné,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ce tournoi de pêche
+m'a épuisé !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu restes pour la
+remise des prix, pas vrai&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Parfait !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu pourras m'aider à
+porter mon trophée jusque chez
+moi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Je suis vanné,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ce tournoi de pêche
+m'a épuisé !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu restes pour la
+remise des prix, pas vrai&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Parfait !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu pourras m'aider à
+porter mon trophée jusque chez
+moi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Quel tournoi de pêche, mes aïeux !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+La remise des prix, et au lit !</original>
+			<edited>&#xE;&#x3;%&#x0;Quel tournoi de pêche, mes aïeux !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+La remise des prix, et au lit !</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;OK,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; OK,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu m'as battu&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je sais
+admettre la défaite !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Mais c'est qu'un coup de chance,
+c'est tout&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;Alors arrête d'être
+content&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; comme ça,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;$&#x0;OK,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; OK,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu m'as battu&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je sais
+admettre la défaite !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;Mais c'est qu'un coup de chance,
+c'est tout&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;Alors arrête d'être
+content&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; comme ça,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;)&#x0;J'ai perdu ?!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Pfff, c'est pas
+crédible !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;Combien tu paries que les
+scores ont été truqués&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.?</original>
+			<edited>&#xE;&#x3;)&#x0;J'ai perdu ?!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Pfff, c'est pas
+crédible !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;Combien tu paries que les
+scores ont été truqués&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.?</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;OK&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. pour te montrer que je suis
+pas un mauvais perdant&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;Bravo,
+&#xE;&#x5;&#x8;&#x0; !&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pfff, au lit&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;OK&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. pour te montrer que je suis
+pas un mauvais perdant&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;Bravo,
+&#xE;&#x5;&#x8;&#x0; !&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pfff, au lit&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Je voulais te laisser gagner,
+&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Mais je suis trop fort !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Ou toi pas assez&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;Je voulais te laisser gagner,
+&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Mais je suis trop fort !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Ou toi pas assez&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Je suis fier de toi,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Bon&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. je suis encore plus fier de
+moi quand même !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;#&#x0;Je suis fier de toi,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Bon&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. je suis encore plus fier de
+moi quand même !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Hé,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; tu m'en veux pas de t'avoir
+battu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;T'avais aucune chance,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je suis un
+vrai piège à poissons !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Et puis, tu focalises trop sur
+l'aspect compétitif, je trouve !
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;#&#x0;Hé,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; tu m'en veux pas de t'avoir
+battu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;T'avais aucune chance,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je suis un
+vrai piège à poissons !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Et puis, tu focalises trop sur
+l'aspect compétitif, je trouve !
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Pas de médailles ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; C'est ballot !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Mais c'était tordant de te voir avec
+ta canne à pêche,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Pas de médailles ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; C'est ballot !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Mais c'était tordant de te voir avec
+ta canne à pêche,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Bah alors, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Il paraît que
+t'as remporté aucun trophée au
+tournoi de pêche ?
+&#xE;&#x3;&amp;&#x0;Tu feras mieux la prochaine fois !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Suffit d'y croire...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</original>
+			<edited>&#xE;&#x3;	&#x0;Bah alors, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Il paraît que
+t'as remporté aucun trophée au
+tournoi de pêche ?
+&#xE;&#x3;&amp;&#x0;Tu feras mieux la prochaine fois !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Suffit d'y croire...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;HA HA HA !</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Fais pas cette tête-là, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.
+&#xE;&#x3;%&#x0;Tu feras mieux la prochaine fois !</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Fais pas cette tête-là, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.
+&#xE;&#x3;%&#x0;Tu feras mieux la prochaine fois !</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;T'as raté la remise des prix du
+tournoi de pêche,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x0;&#x4;&#x0;T'as raté quelque chose&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. &#xE;&#x3;!&#x0;Moi,
+fièrement dressé sur le podium !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;T'as raté la remise des prix du
+tournoi de pêche,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x0;&#x4;&#x0;T'as raté quelque chose&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. &#xE;&#x3;!&#x0;Moi,
+fièrement dressé sur le podium !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Si tu comptais être là pour la
+remise des prix du tournoi de
+pêche, c'est râpé, &#xE;&#x5;&#x8;&#x0; !
+&#xE;&#x3;$&#x0;Ça fait un bail que c'est terminé !</original>
+			<edited>&#xE;&#x3;	&#x0;Si tu comptais être là pour la
+remise des prix du tournoi de
+pêche, c'est râpé, &#xE;&#x5;&#x8;&#x0; !
+&#xE;&#x3;$&#x0;Ça fait un bail que c'est terminé !</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;T'as participé au tournoi de pêche ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Côté pêcheur ou côté pêché ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;T'as participé au tournoi de pêche ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Côté pêcheur ou côté pêché ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'est pas tout ça,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; mais il faut que je
+commence à m'entraîner pour le
+prochain tournoi de pêche !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'est pas tout ça,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; mais il faut que je
+commence à m'entraîner pour le
+prochain tournoi de pêche !</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Fallait s'y attendre&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Ils nous ont
+encore sucré la remise des prix !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Pas croyable...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Fallait s'y attendre&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Ils nous ont
+encore sucré la remise des prix !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Pas croyable...</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;C'est trop demander, une remise
+des prix, voyons ?!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Ouais, ça a été
+annulé...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;C'est trop demander, une remise
+des prix, voyons ?!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Ouais, ça a été
+annulé...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>Houlà,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ça mord !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et c'est du lourd,
+attention !</original>
+			<edited>Houlà,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ça mord !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et c'est du lourd,
+attention !</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>Chuuuuut&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. je viens de ferrer un
+truc.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et c'est pas une sardine, si tu
+veux mon avis...</original>
+			<edited>Chuuuuut&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. je viens de ferrer un
+truc.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et c'est pas une sardine, si tu
+veux mon avis...</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Good morning&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;It's a lovely day, &#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;at least so far.&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;
+Don't you think, &#xE;&#x5;&#x0;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Good morning&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;It's a lovely day, &#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;at least so far.&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;
+Don't you think, &#xE;&#x5;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Welcome to &#xE;&#x5;&#x5;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You've
+picked a nice morning to visit us,
+&#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Welcome to &#xE;&#x5;&#x5;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You've
+picked a nice morning to visit us,
+&#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello there&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Come all the way from &#xE;&#x5;&#x6;&#x0;?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+What, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;to visit me, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello there&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Come all the way from &#xE;&#x5;&#x6;&#x0;?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+What, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;to visit me, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Welcome to &#xE;&#x5;&#x5;&#x0;! What nice
+weather for a visit, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Welcome to &#xE;&#x5;&#x5;&#x0;! What nice
+weather for a visit, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Good evening&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;How nice to see you. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I only wish I'd
+known you were coming!</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Good evening&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;How nice to see you. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I only wish I'd
+known you were coming!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Well, look who's in &#xE;&#x5;&#x5;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;You couldn't have picked a
+lovelier night for a visit.</original>
+			<edited>&#xE;&#x3;%&#x0;Well, look who's in &#xE;&#x5;&#x5;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;You couldn't have picked a
+lovelier night for a visit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh! Is that you...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;What a
+relief. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Anyone else, and I'd say it's
+too late to visit, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh! Is that you...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;What a
+relief. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Anyone else, and I'd say it's
+too late to visit, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Oh! Is that you, &#xE;&#x5;&#x0;&#x0;? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I wish
+I'd known you'd visit us so late.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I would have, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;well...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;prepared for it.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Oh! Is that you, &#xE;&#x5;&#x0;&#x0;? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I wish
+I'd known you'd visit us so late.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I would have, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;well...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;prepared for it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;What a lovely time to run into
+you, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I just love this
+time of day, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;don't you?</original>
+			<edited>&#xE;&#x3;%&#x0;What a lovely time to run into
+you, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I just love this
+time of day, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;don't you?</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;Something about this time of the
+evening makes me a little
+wistful, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;Something about this time of the
+evening makes me a little
+wistful, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

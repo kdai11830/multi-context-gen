@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Y.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; ¡la victoria es nuestra!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+No se puede ganar siempre,
+&#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Y.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; ¡la victoria es nuestra!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+No se puede ganar siempre,
+&#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;¡Chupi! ¡Hemos ganado!
+Reconozco que no nos lo has puesto
+nada fácil, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;$&#x0;¡Chupi! ¡Hemos ganado!
+Reconozco que no nos lo has puesto
+nada fácil, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¡Este juego se nos da superbién!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Lo siento por ti, &#xE;&#x3;%&#x0;pero volveremos
+a jugar otro día, ¿vale?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¡Este juego se nos da superbién!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Lo siento por ti, &#xE;&#x3;%&#x0;pero volveremos
+a jugar otro día, ¿vale?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

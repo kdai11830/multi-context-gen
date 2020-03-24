@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Solo tienes que encontrar a
+una persona más, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Buena suerte!
+&#xE;&#x3;&#xF;&#x0;Espera, espera... No he dicho
+nada.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;)&#x0; ¡Se me olvidaba que
+no eras de mi equipo!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Solo tienes que encontrar a
+una persona más, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Buena suerte!
+&#xE;&#x3;&#xF;&#x0;Espera, espera... No he dicho
+nada.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;)&#x0; ¡Se me olvidaba que
+no eras de mi equipo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Oh, no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si encuentras a otra
+persona más,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡perderemos!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Oh, no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si encuentras a otra
+persona más,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡perderemos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;¡Aún te quedan dos por encontrar!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Todavía podemos ganar!</original>
+			<edited>&#xE;&#x3;(&#x0;¡Aún te quedan dos por encontrar!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Todavía podemos ganar!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;A los otros dos se les da pero que
+muy bien esconderse.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;¡No sé
+si conseguirás encontrarlos!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;A los otros dos se les da pero que
+muy bien esconderse.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;¡No sé
+si conseguirás encontrarlos!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

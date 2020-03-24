@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;¿Por qué ya no quedará ningún
+dinosaurio vivo? ¡Me gustaría
+luchar contra uno!</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;¿Por qué ya no quedará ningún
+dinosaurio vivo? ¡Me gustaría
+luchar contra uno!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>¿A que los fósiles son tremendos?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;+&#x0;Le hacen ver a uno que la vida es
+tan breve que hay que vivirla a tope.</original>
+			<edited>¿A que los fósiles son tremendos?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;+&#x0;Le hacen ver a uno que la vida es
+tan breve que hay que vivirla a tope.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Alguien me dijo que al hacer
+mil flexiones delante de un fósil,
+resucitaría.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x8;&#x0;&#xE;&#x7;&#xB;&#x0;¡Pues era mentira! ¡Yo te lo puedo
+confirmar de primera mano!</original>
+			<edited>Alguien me dijo que al hacer
+mil flexiones delante de un fósil,
+resucitaría.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x8;&#x0;&#xE;&#x7;&#xB;&#x0;¡Pues era mentira! ¡Yo te lo puedo
+confirmar de primera mano!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Qué subidón! ¡Cuando salga de
+aquí, voy a ir a casa a por la pala
+y me pondré a buscar fósiles!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Qué subidón! ¡Cuando salga de
+aquí, voy a ir a casa a por la pala
+y me pondré a buscar fósiles!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;¡Quiero que en mi casa haya
+tantos fósiles como en este sitio!</original>
+			<edited>&#xE;&#x3;+&#x0;¡Quiero que en mi casa haya
+tantos fósiles como en este sitio!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

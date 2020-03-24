@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Hé hé, j'adore ce jeu !&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;OK, voici les règles : quand je dis
+« regarde par... », choisis une
+direction et appuie sur  !
+&#xE;&#x3;&#x15;&#x0;Si je me tourne dans cette
+direction après avoir dit « là ! », tu
+gagnes ! C'est pas compliqué, si ?
+&#xE;&#x3;&#x6;&#x0;Tu as droit à trois essais ! Allez,
+c'est parti !</original>
+			<edited>&#xE;&#x3;#&#x0;Hé hé, j'adore ce jeu !&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;OK, voici les règles : quand je dis
+« regarde par... », choisis une
+direction et appuie sur  !
+&#xE;&#x3;&#x15;&#x0;Si je me tourne dans cette
+direction après avoir dit « là ! », tu
+gagnes ! C'est pas compliqué, si ?
+&#xE;&#x3;&#x6;&#x0;Tu as droit à trois essais ! Allez,
+c'est parti !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Regarde par...&#xE;&#x7;	&#x4;&#x14;&#x0;&#x0;&#x0;</original>
+			<edited>Regarde par...&#xE;&#x7;	&#x4;&#x14;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;Là !&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;Là !&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;)&#x0;Argh, nom d'un chat laid ! Tu as
+vu juste !</original>
+			<edited>&#xE;&#x3;)&#x0;Argh, nom d'un chat laid ! Tu as
+vu juste !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Ha ha, dommage ! Essaie encore.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Ha ha, dommage ! Essaie encore.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Hé hé, encore loupé !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;C'est ta
+dernière chance !</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Hé hé, encore loupé !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;C'est ta
+dernière chance !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Arf, et un échec de plus ! Pas de
+bol !</original>
+			<edited>&#xE;&#x3;#&#x0;Arf, et un échec de plus ! Pas de
+bol !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>Et donc...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x1D;&#x0;Tu remportes la partie !</original>
+			<edited>Et donc...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x1D;&#x0;Tu remportes la partie !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Et donc...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;Tss, ça me coûte de
+l'admettre, mais tu m'as rétamé,
+&#xE;&#xE;&#x6;*&#x14;&#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0; &#x0;g&#x0;a&#x0;r&#x0;s&#x0;&#x12;&#x0;m&#x0;a&#x0; &#x0;g&#x0;r&#x0;a&#x0;n&#x0;d&#x0;e&#x0; !</original>
+			<edited>Et donc...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;Tss, ça me coûte de
+l'admettre, mais tu m'as rétamé,
+&#xE;&#xE;&#x6;*&#x14;&#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0; &#x0;g&#x0;a&#x0;r&#x0;s&#x0;&#x12;&#x0;m&#x0;a&#x0; &#x0;g&#x0;r&#x0;a&#x0;n&#x0;d&#x0;e&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Et donc&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;,&#x0;Youhou !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je remporte la
+partie,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>Et donc&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;,&#x0;Youhou !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je remporte la
+partie,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>Et donc&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;,&#x0;La victoire est pour moi !
+Tu feras mieux la prochaine fois...
+peut-être !</original>
+			<edited>Et donc&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;,&#x0;La victoire est pour moi !
+Tu feras mieux la prochaine fois...
+peut-être !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

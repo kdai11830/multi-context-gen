@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡¿Ya me has encontrado?! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Espera.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;¡Si se ha agotado el tiempo!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;Entonces ganamos nosotros,
+&#xE;&#x5;&#x8;&#x0;. Se siente.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡¿Ya me has encontrado?! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Espera.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;¡Si se ha agotado el tiempo!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;Entonces ganamos nosotros,
+&#xE;&#x5;&#x8;&#x0;. Se siente.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¿Me has visto? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;	&#x0;Pues siento darte
+malas noticias, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Se ha acabado el tiempo.
+Lo que significa.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;¡que la victoria es nuestra!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¿Me has visto? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;	&#x0;Pues siento darte
+malas noticias, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Se ha acabado el tiempo.
+Lo que significa.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;¡que la victoria es nuestra!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡No, no, no! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡No puede ser! &#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x17;&#x0;Un momento, ¿se ha agotado
+el tiempo?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;¡Menuda suerte! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;En tal caso,
+me temo que has perdido,
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡No, no, no! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡No puede ser! &#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x17;&#x0;Un momento, ¿se ha agotado
+el tiempo?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;¡Menuda suerte! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;En tal caso,
+me temo que has perdido,
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

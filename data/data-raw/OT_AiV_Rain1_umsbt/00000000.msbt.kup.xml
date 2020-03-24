@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hello, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Come to visit &#xE;&#x5;&#x5;&#x0;?&#xE;
+&#xB;&#x6;&#x10;	&#x0;&#xB;&#x0;Í</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hello, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Come to visit &#xE;&#x5;&#x5;&#x0;?&#xE;
+&#xB;&#x6;&#x10;	&#x0;&#xB;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Well, look who's come our way&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+What brings you to &#xE;&#x5;&#x5;&#x0;,
+&#xE;&#x5;&#x8;&#x0;?&#xE;
+&#xB;&#x6;&#x10;
+&#x0;&#xC;&#x0;Í</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Well, look who's come our way&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+What brings you to &#xE;&#x5;&#x5;&#x0;,
+&#xE;&#x5;&#x8;&#x0;?&#xE;
+&#xB;&#x6;&#x10;
+&#x0;&#xC;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hi, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+You came all this way to visit
+our town?&#xE;
+&#xB;&#x6;&#x10;	&#x0;&#xD;&#x0;Í</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hi, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+You came all this way to visit
+our town?&#xE;
+&#xB;&#x6;&#x10;	&#x0;&#xD;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Well, look at this&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's &#xE;&#x5;&#x8;&#x0;, come to visit
+&#xE;&#x5;&#x5;&#x0;!&#xE;
+&#xB;&#x6;&#x10;
+&#x0;&#xE;&#x0;Í</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Well, look at this&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's &#xE;&#x5;&#x8;&#x0;, come to visit
+&#xE;&#x5;&#x5;&#x0;!&#xE;
+&#xB;&#x6;&#x10;
+&#x0;&#xE;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Good evening, &#xE;&#x5;&#x8;&#x0;!
+Come to visit &#xE;&#x5;&#x5;&#x0;?&#xE;
+&#xB;&#x6;&#x10;	&#x0;&#xF;&#x0;Í</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Good evening, &#xE;&#x5;&#x8;&#x0;!
+Come to visit &#xE;&#x5;&#x5;&#x0;?&#xE;
+&#xB;&#x6;&#x10;	&#x0;&#xF;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Well, a nighttime visitor...&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+What brings you all the way to
+our town, &#xE;&#x5;&#x8;&#x0;?&#xE;
+&#xB;&#x6;&#x10;
+&#x0;&#x10;&#x0;Í</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Well, a nighttime visitor...&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+What brings you all the way to
+our town, &#xE;&#x5;&#x8;&#x0;?&#xE;
+&#xB;&#x6;&#x10;
+&#x0;&#x10;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Is that you, &#xE;&#x5;&#x8;&#x0;? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Come to
+visit us at such a LATE hour?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1B;&#x0;Well, nothing wrong with that.&#xE;
+&#xB;&#x6;&#x10;&#x12;&#x0;&#x11;&#x0;Í</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Is that you, &#xE;&#x5;&#x8;&#x0;? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Come to
+visit us at such a LATE hour?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1B;&#x0;Well, nothing wrong with that.&#xE;
+&#xB;&#x6;&#x10;&#x12;&#x0;&#x11;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Well, look what the cat dragged in&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's you, &#xE;&#x5;&#x8;&#x0;, and at such
+a late hour!&#xE;
+&#xB;&#x6;&#x10;
+&#x0;&#x13;&#x0;Í</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Well, look what the cat dragged in&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's you, &#xE;&#x5;&#x8;&#x0;, and at such
+a late hour!&#xE;
+&#xB;&#x6;&#x10;
+&#x0;&#x13;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;I think I know why you've come all
+this way... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;To see me glisten and
+gleam in all this rain, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;right?
+&#xE;&#x3;&#x1;&#x0;Well, thanks. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;That's nice of you,
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;I think I know why you've come all
+this way... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;To see me glisten and
+gleam in all this rain, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;right?
+&#xE;&#x3;&#x1;&#x0;Well, thanks. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;That's nice of you,
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm. You know, I'm not the kind of
+girl who fishes for compliments,
+&#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3; &#x0;But is it just me, or do I look extra
+glimmery today? The rain usually
+brings out my best side.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm. You know, I'm not the kind of
+girl who fishes for compliments,
+&#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3; &#x0;But is it just me, or do I look extra
+glimmery today? The rain usually
+brings out my best side.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Nice to know that rain doesn't
+chase everyone indoors. You look
+GREAT soaked, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;'&#x0;Nice to know that rain doesn't
+chase everyone indoors. You look
+GREAT soaked, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;I do worry &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;a little &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;that all this rain
+is ruining the look you're going for,
+&#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;&#xD;&#x0;Unless... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, I'm sorry! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Maybe
+that IS the look you're going for.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;
+Oh, forget I said anything, OK?</original>
+			<edited>&#xE;&#x3;	&#x0;I do worry &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;a little &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;that all this rain
+is ruining the look you're going for,
+&#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;&#xD;&#x0;Unless... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, I'm sorry! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Maybe
+that IS the look you're going for.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;
+Oh, forget I said anything, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Everyone likes to come here to
+&#xE;&#x5;&#x5;&#x0; when it's raining.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;It looks more charming when wet.</original>
+			<edited>&#xE;&#x3;%&#x0;Everyone likes to come here to
+&#xE;&#x5;&#x5;&#x0; when it's raining.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;It looks more charming when wet.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Our town is lovely in the rain,
+although it's lovelier when it's not.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Either way, enjoy yourself, OK?</original>
+			<edited>&#xE;&#x3;	&#x0;Our town is lovely in the rain,
+although it's lovelier when it's not.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Either way, enjoy yourself, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I hope you love rain as much as I do.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;We've got plenty of it today,
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;I hope you love rain as much as I do.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;We've got plenty of it today,
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Maybe you like rainy nights?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;They are pretty in their own...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+unique way, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Maybe you like rainy nights?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;They are pretty in their own...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+unique way, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's completely your business what
+time you go traveling. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Don't ever
+let anyone say otherwise!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's completely your business what
+time you go traveling. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Don't ever
+let anyone say otherwise!</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Why wouldn't you visit now?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Tasty rain! &#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;Murky dark! &#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;It's like the
+whole town is a pond, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Why wouldn't you visit now?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Tasty rain! &#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;Murky dark! &#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;It's like the
+whole town is a pond, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I was just about to turn in for the
+night and dry my soaked clothes.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;But then who'd be here for you?</original>
+			<edited>&#xE;&#x3;%&#x0;I was just about to turn in for the
+night and dry my soaked clothes.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;But then who'd be here for you?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Bueno, muchas gracias otra vez!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡Tú cuídate mucho, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;que no quiero que te pongas mal&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Bueno, muchas gracias otra vez!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡Tú cuídate mucho, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;que no quiero que te pongas mal&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡No sé cómo darte las gracias!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Jamás olvidaré lo que has hecho
+por mí, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;de verdad.</original>
+			<edited>&#xE;&#x3;%&#x0;¡No sé cómo darte las gracias!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Jamás olvidaré lo que has hecho
+por mí, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;de verdad.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gracias por cuidarme tan bien.&#xE;&#x7;&#x1;&#x0;
+Si algún día pillas un resfriado,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;yo te cuidaré hasta que te cures.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gracias por cuidarme tan bien.&#xE;&#x7;&#x1;&#x0;
+Si algún día pillas un resfriado,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;yo te cuidaré hasta que te cures.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; A &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;He's not the kind of thing you want
+to mess with, ya know?
+If you're gonna make a run for it,
+now's the time! Gah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; A &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;He's not the kind of thing you want
+to mess with, ya know?
+If you're gonna make a run for it,
+now's the time! Gah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Whoa...WAH!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Oh no! OH NO! GAH!
+A &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; looked
+RIGHT at me!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;This is bad!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I can't move! I'm done
+for! Someone HELP!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Whoa...WAH!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Oh no! OH NO! GAH!
+A &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; looked
+RIGHT at me!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;This is bad!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I can't move! I'm done
+for! Someone HELP!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Hey, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;	&#x0;Oy, isn't there a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; over there?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;It's...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's gonna be OK.&#xE;&#x7;&#x1;&#x0;
+At...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;at times like this...&#xE;&#x7;&#x1;&#x0;you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; have...
+to...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;remain...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;calm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x14;&#x0;It's &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;no&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; use!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I can't stop shaking&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+GAH! I'm done for!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Hey, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;	&#x0;Oy, isn't there a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; over there?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;It's...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's gonna be OK.&#xE;&#x7;&#x1;&#x0;
+At...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;at times like this...&#xE;&#x7;&#x1;&#x0;you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; have...
+to...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;remain...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;calm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x14;&#x0;It's &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;no&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; use!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I can't stop shaking&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+GAH! I'm done for!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

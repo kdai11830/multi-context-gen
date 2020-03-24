@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ! Bienvenue !
+Je t'en prie, fais comme chez toi.
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ! Bienvenue !
+Je t'en prie, fais comme chez toi.
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Bienvenue à toi, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !
+Pas de manières, mets-toi à l'aise,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Bienvenue à toi, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !
+Pas de manières, mets-toi à l'aise,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Génial ! Je suis heureux que tu me
+rendes visite, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Génial ! Je suis heureux que tu me
+rendes visite, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;Hein ! Quoi ? Qui est là ?!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1A;&#x0;Ah, c'est toi, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Tu es
+super &#xE;&#xE;&#x6;&#x16;&#x8;&#x0;f&#x0;o&#x0;r&#x0;t&#x0;
+&#x0;f&#x0;o&#x0;r&#x0;t&#x0;e&#x0; pour surprendre les
+gens.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x4;&#x0; Un vrai ninja, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;Hein ! Quoi ? Qui est là ?!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1A;&#x0;Ah, c'est toi, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Tu es
+super &#xE;&#xE;&#x6;&#x16;&#x8;&#x0;f&#x0;o&#x0;r&#x0;t&#x0;
+&#x0;f&#x0;o&#x0;r&#x0;t&#x0;e&#x0; pour surprendre les
+gens.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x4;&#x0; Un vrai ninja, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

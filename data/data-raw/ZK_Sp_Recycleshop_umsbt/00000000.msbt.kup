@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Too bad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; It seems like everything is
+all sold out already,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Too bad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; It seems like everything is
+all sold out already,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;There's not a single item here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;This shop must be doing really well!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;There's not a single item here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;This shop must be doing really well!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Huh?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; There's nothing for sale?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;I came all the way here, but I guess
+it isn't my lucky day,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Huh?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; There's nothing for sale?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;I came all the way here, but I guess
+it isn't my lucky day,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; this is the last item, isn't it?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;Getting it might be fate&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; this is the last item, isn't it?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;Getting it might be fate&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;This item was probably here, just
+waiting for me to come and get it...&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;Luck shines upon me today.</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;This item was probably here, just
+waiting for me to come and get it...&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;Luck shines upon me today.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>The last item&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Well,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I can't just
+pass up this chance,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>The last item&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Well,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I can't just
+pass up this chance,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>All right&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Are there any new items
+here to get me feeling all excited?</original>
+			<edited>All right&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Are there any new items
+here to get me feeling all excited?</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>I wonder if I'll find any treasures
+today...&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;You never know when you
+come into a shop like this&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>I wonder if I'll find any treasures
+today...&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;You never know when you
+come into a shop like this&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Let me see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I wonder if there's
+anything here that'll meet my high
+expectations,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;...</original>
+			<edited>&#xE;&#x3;%&#x0;Let me see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I wonder if there's
+anything here that'll meet my high
+expectations,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;...</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Oh, yay!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; There's a great selection
+here today!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Oh, yay!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; There's a great selection
+here today!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Ummm,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I can't decide&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+I feel like every item is
+asking me to buy it&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Ummm,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I can't decide&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+I feel like every item is
+asking me to buy it&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;When there's so much stuff,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; it's
+hard to narrow it down to one
+single choice!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;Hah ha!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;When there's so much stuff,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; it's
+hard to narrow it down to one
+single choice!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;Hah ha!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Every item that comes through here
+always has such special memories
+attached to it.
+&#xE;&#x3;&#x1;&#x0;If you think like that&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;don't you feel
+like even the simplest item holds a
+special meaning?</original>
+			<edited>&#xE;&#x3;%&#x0;Every item that comes through here
+always has such special memories
+attached to it.
+&#xE;&#x3;&#x1;&#x0;If you think like that&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;don't you feel
+like even the simplest item holds a
+special meaning?</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Are you here to sell something
+today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;You may be able to get rid of an
+item&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;#&#x0;but the memories you had
+with it stay with you, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Are you here to sell something
+today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;You may be able to get rid of an
+item&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;#&#x0;but the memories you had
+with it stay with you, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Some people may think the items
+here are pricey,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; and others may
+think otherwise.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;What may be very special to me
+might look like a total piece of junk
+to someone else.</original>
+			<edited>&#xE;&#x3;$&#x0;Some people may think the items
+here are pricey,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; and others may
+think otherwise.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;What may be very special to me
+might look like a total piece of junk
+to someone else.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>Do you know &#xE;&#x3;&#x17;&#x0;the reason why 
+I come here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;It's because sometimes you can find
+really amazing furniture at even
+more amazing prices,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;&#x6;&#x0;I always come here expecting that
+sort of exciting discovery&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>Do you know &#xE;&#x3;&#x17;&#x0;the reason why 
+I come here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;It's because sometimes you can find
+really amazing furniture at even
+more amazing prices,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;&#x6;&#x0;I always come here expecting that
+sort of exciting discovery&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I always get really excited after
+finding something super cool!</original>
+			<edited>&#xE;&#x3;%&#x0;I always get really excited after
+finding something super cool!</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;I made an impulse purchase,&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;but I don't regret it one bit.</original>
+			<edited>&#xE;&#x3;$&#x0;I made an impulse purchase,&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;but I don't regret it one bit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I wasn't planning to buy anything
+today, but&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;maybe that's the very
+definition of impulse buying?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I wasn't planning to buy anything
+today, but&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;maybe that's the very
+definition of impulse buying?</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;It was a fateful encounter!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;I just couldn't help myself!
+I had to buy! No other way!</original>
+			<edited>&#xE;&#x3;#&#x0;It was a fateful encounter!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;I just couldn't help myself!
+I had to buy! No other way!</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Are you the one who's selling
+the &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Because I'm interested in buying!&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+It's a good deal!
+Save your money.</original>
+			<edited>&#xE;&#x3;'&#x0;Are you the one who's selling
+the &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Because I'm interested in buying!&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+It's a good deal!
+Save your money.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>Are you the owner of the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+What an affordable price!&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;(&#x0;
+Why not buy?
+You can find better.</original>
+			<edited>Are you the owner of the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+What an affordable price!&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;(&#x0;
+Why not buy?
+You can find better.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>I see,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;so you're the owner of the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; huh?
+&#xE;&#x3;&#x0;&#x0;All right&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; What should I do now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should buy my stuff!
+Save your money.</original>
+			<edited>I see,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;so you're the owner of the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; huh?
+&#xE;&#x3;&#x0;&#x0;All right&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; What should I do now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should buy my stuff!
+Save your money.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You're saying that even
+though you're the one selling the
+item&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;What's the catch?
+&#xE;&#x3;%&#x0;I mean,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; you're my friend, so I'll
+listen to your advice,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.
+But that is kinda odd, you know?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You're saying that even
+though you're the one selling the
+item&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;What's the catch?
+&#xE;&#x3;%&#x0;I mean,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; you're my friend, so I'll
+listen to your advice,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.
+But that is kinda odd, you know?</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; if this item used
+to be yours, I'm sure it's nice&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;OK,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I'll buy it!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; if this item used
+to be yours, I'm sure it's nice&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;OK,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I'll buy it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;If the item's owner says so,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I can't
+refuse that kind of unique offer!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;OK,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I'll buy it!</original>
+			<edited>&#xE;&#x3;$&#x0;If the item's owner says so,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I can't
+refuse that kind of unique offer!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;OK,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I'll buy it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Hey,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Reese&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I'll take this item today!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#x3; &#x0;Hey,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Reese&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I'll take this item today!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;Well, you're right here,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; so can I just
+give you the money since it's your
+item I'm buying?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;Well, you're right here,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; so can I just
+give you the money since it's your
+item I'm buying?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I'm sort of interested in the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; but I worry
+I can't afford stuff that spendy&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Don't worry. Just buy!
+Save your money.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I'm sort of interested in the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; but I worry
+I can't afford stuff that spendy&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Don't worry. Just buy!
+Save your money.</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I'm actually interested in the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but I'm
+not so sure about the price.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Take a chance and buy!
+Don't waste your Bells.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I'm actually interested in the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but I'm
+not so sure about the price.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Take a chance and buy!
+Don't waste your Bells.</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;HNNNN!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I just have to have the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;But, man, that expensive price is
+really holding me back&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Buy now, worry later!
+Save your money.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;HNNNN!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I just have to have the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;But, man, that expensive price is
+really holding me back&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Buy now, worry later!
+Save your money.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;It's not a cheap purchase,&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; so I
+should probably listen to your
+advice,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;$&#x0;It's not a cheap purchase,&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; so I
+should probably listen to your
+advice,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Hmmm.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; On second thought,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; maybe
+I shouldn't buy that item just now.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;It's not a cheap purchase&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Hmmm.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; On second thought,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; maybe
+I shouldn't buy that item just now.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;It's not a cheap purchase&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Actually, never mind.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; When I think
+about it, I can't pay this much!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;I'll pass for the time being.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Actually, never mind.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; When I think
+about it, I can't pay this much!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;I'll pass for the time being.</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I'll take&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;That was close!
+&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Too close!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I almost lost control&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;%&#x0;I'll take&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;That was close!
+&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Too close!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I almost lost control&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;You're right!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I'll spoil myself and
+get this treasure,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;You're right!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I'll spoil myself and
+get this treasure,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;You're right!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;I may never get a
+chance like this again, huh?</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;You're right!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;I may never get a
+chance like this again, huh?</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;You're right!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Sometimes it's not
+so bad to make an impulse buy now
+and then!
+&#xE;&#x3;&#x1C;&#x0;Even if said impulse buy is gonna
+come back and hurt me later&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;You're right!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Sometimes it's not
+so bad to make an impulse buy now
+and then!
+&#xE;&#x3;&#x1C;&#x0;Even if said impulse buy is gonna
+come back and hurt me later&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Whoa,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; that's so cheap!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+for only &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; &#xE;&#xE;	$&#x0;Í
+&#x0;B&#x0;e&#x0;l&#x0;l&#x0;s&#x0;&#x8;&#x0;B&#x0;e&#x0;l&#x0;l&#x0;
+&#x0;B&#x0;e&#x0;l&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Are you just desperate to sell?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;I'm gonna buy if you don't change
+your mind!&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Go ahead and buy!
+No, save your money!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Whoa,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; that's so cheap!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+for only &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; &#xE;&#xE;	$&#x0;Í
+&#x0;B&#x0;e&#x0;l&#x0;l&#x0;s&#x0;&#x8;&#x0;B&#x0;e&#x0;l&#x0;l&#x0;
+&#x0;B&#x0;e&#x0;l&#x0;l&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Are you just desperate to sell?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;I'm gonna buy if you don't change
+your mind!&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Go ahead and buy!
+No, save your money!</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;so you've changed your mind?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;$&#x0;You're a pretty fickle person,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; huh?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Just be sure not to regret it!</original>
+			<edited>&#xE;&#x3;	&#x0;Oh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;so you've changed your mind?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;$&#x0;You're a pretty fickle person,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; huh?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Just be sure not to regret it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Hold on!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; The price for this item
+is unbelievably cheap&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Perhaps it's all a scam!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;I'll pass it up for now.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Hold on!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; The price for this item
+is unbelievably cheap&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Perhaps it's all a scam!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;I'll pass it up for now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I've made a decision!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;The &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+shall be mine starting today!</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I've made a decision!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;The &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+shall be mine starting today!</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Just what one can expect from
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Even though I'm looking at a used
+version,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; the value is still so high&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;Just what one can expect from
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Even though I'm looking at a used
+version,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; the value is still so high&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>Well now, &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;For &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+that's actually pretty reasonable.
+&#xE;&#x3;	&#x0;But&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I'm gonna have to think
+carefully before paying that much,
+you know,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>Well now, &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;For &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+that's actually pretty reasonable.
+&#xE;&#x3;	&#x0;But&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I'm gonna have to think
+carefully before paying that much,
+you know,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I'm really interested in the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I've sorta
+become fixated now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should buy!
+Save your money.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I'm really interested in the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I've sorta
+become fixated now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+You should buy!
+Save your money.</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Now that I think about it,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; it's
+an item I don't really need.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Thanks,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;Now that I think about it,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; it's
+an item I don't really need.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Thanks,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Thanks to you, the fog in my mind
+has cleared and a strong decision
+has been made!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;will buy this item!</original>
+			<edited>&#xE;&#x3;%&#x0;Thanks to you, the fog in my mind
+has cleared and a strong decision
+has been made!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; I&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;will buy this item!</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Something doesn't seem
+right.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; This price&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;just seems way
+too cheap to me&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Just buy the item!
+Don't waste your Bells.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Something doesn't seem
+right.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; This price&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;just seems way
+too cheap to me&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Just buy the item!
+Don't waste your Bells.</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;I mean,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; a price this low smells
+pretty fishy to me&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;I mean,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; a price this low smells
+pretty fishy to me&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Uh-oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; nope, I can't do this!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;I almost wasted my money&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Even if it's cheap&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I'm sure I'll end
+up regretting it if I buy something
+I don't really need right now.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Uh-oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; nope, I can't do this!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;I almost wasted my money&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Even if it's cheap&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I'm sure I'll end
+up regretting it if I buy something
+I don't really need right now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;At this price, I've really got nothing
+to lose, so I'll make that item my
+very own,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;At this price, I've really got nothing
+to lose, so I'll make that item my
+very own,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;I never expected to get an item like
+this for such a reasonably cheap
+price,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;I never expected to get an item like
+this for such a reasonably cheap
+price,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;I can't stop coming to the recycle
+shop because they have the best
+deals in town,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;I can't stop coming to the recycle
+shop because they have the best
+deals in town,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;It's probably time for us to start
+being more aggressive about buying
+recycled stuff,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;It's probably time for us to start
+being more aggressive about buying
+recycled stuff,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;When I find something I'm looking
+for at the recycle shop&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;it feels like finding a missing piece
+of my soul,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;When I find something I'm looking
+for at the recycle shop&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;it feels like finding a missing piece
+of my soul,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I've made a great
+purchase today, all thanks to you!
+I owe you one,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; I've made a great
+purchase today, all thanks to you!
+I owe you one,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;Well&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I guess I got a pretty fair
+deal on this treasure, right?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;Just say I did! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;Well&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I guess I got a pretty fair
+deal on this treasure, right?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;Just say I did! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;The item was a bit expensive,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; but
+it's critical not to miss your chance
+when you find something you like!</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;The item was a bit expensive,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; but
+it's critical not to miss your chance
+when you find something you like!</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;I got carried away&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Maybe I was a
+bit too impulsive this time?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;Hah ha!</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;I got carried away&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Maybe I was a
+bit too impulsive this time?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;Hah ha!</edited>
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;Huh? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I have no regrets!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;I just bought
+a dream &#xE;&#x3;&amp;&#x0;that can't be exchanged for
+any amount of money!</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;Huh? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I have no regrets!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;I just bought
+a dream &#xE;&#x3;&amp;&#x0;that can't be exchanged for
+any amount of money!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

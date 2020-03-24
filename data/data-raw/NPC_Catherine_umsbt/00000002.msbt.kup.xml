@@ -1,0 +1,950 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Bonjour, mon chou.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&amp;&#x0;Bienvenue&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; chez&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Esthétichien &#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Bonjour, mon chou.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&amp;&#x0;Bienvenue&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; chez&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Esthétichien &#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;Mais... je rêve !&#xE;&#x7;&#x1;&#x0; Tu es&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; le &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;maire ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;Quel plaisir de te rencontrer !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;Mais... je rêve !&#xE;&#x7;&#x1;&#x0; Tu es&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; le &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;maire ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;Quel plaisir de te rencontrer !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Ça alors !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Je ne me rappelle pas
+t'avoir déjà vu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;C'est la première
+fois que tu viens dans mon salon ?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Ça alors !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Je ne me rappelle pas
+t'avoir déjà vu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;C'est la première
+fois que tu viens dans mon salon ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Je m'appelle &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Ginette&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; J'aide les gens
+à extérioriser la beauté qu'ils ont à
+l'intérieur.</original>
+			<edited>Je m'appelle &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Ginette&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; J'aide les gens
+à extérioriser la beauté qu'ils ont à
+l'intérieur.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Un relooking, ça t'intéresse ?&#xE;&#x7;&#x1;&#x0; Dans
+ce cas, prends place devant la
+machine !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Un relooking, ça t'intéresse ?&#xE;&#x7;&#x1;&#x0; Dans
+ce cas, prends place devant la
+machine !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ah, te revoilà, mon chou !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ah, te revoilà, mon chou !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Si tu veux un relooking, assieds-toi
+devant la machine.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Si tu veux un relooking, assieds-toi
+devant la machine.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Salut, &#xE;&#xE;&#x6;:&#x1A;&#x0;m&#x0;o&#x0;n&#x0; &#x0;t&#x0;o&#x0;u&#x0;t&#x0; &#x0;b&#x0;e&#x0;a&#x0;u&#x0;&#x1C;&#x0;m&#x0;a&#x0; &#x0;t&#x0;o&#x0;u&#x0;t&#x0;e&#x0; &#x0;b&#x0;e&#x0;l&#x0;l&#x0;e&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+J'ai un truc sensas à te dire.&#xE;&#x0;&#x4;&#x0;J'ai acheté une nouvelle machine à
+relooker !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Tu l'as vue en entrant ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Cette machine offre ce qu'il y a de
+mieux en matière d'amélioration
+esthétique.
+Et le détail qui tue,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est qu'elle
+comporte une fonction permettant
+la pose de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;lentilles de couleur &#xE;&#x0;&#x3;&#x2;ÿÿ!
+&#xE;&#x3;&#x0;&#x0;L'art du relooking ne connaît pas de
+limites !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Qu'attends-tu pour
+essayer, mon chou ?!</original>
+			<edited>Salut, &#xE;&#xE;&#x6;:&#x1A;&#x0;m&#x0;o&#x0;n&#x0; &#x0;t&#x0;o&#x0;u&#x0;t&#x0; &#x0;b&#x0;e&#x0;a&#x0;u&#x0;&#x1C;&#x0;m&#x0;a&#x0; &#x0;t&#x0;o&#x0;u&#x0;t&#x0;e&#x0; &#x0;b&#x0;e&#x0;l&#x0;l&#x0;e&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+J'ai un truc sensas à te dire.&#xE;&#x0;&#x4;&#x0;J'ai acheté une nouvelle machine à
+relooker !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Tu l'as vue en entrant ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Cette machine offre ce qu'il y a de
+mieux en matière d'amélioration
+esthétique.
+Et le détail qui tue,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est qu'elle
+comporte une fonction permettant
+la pose de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;lentilles de couleur &#xE;&#x0;&#x3;&#x2;ÿÿ!
+&#xE;&#x3;&#x0;&#x0;L'art du relooking ne connaît pas de
+limites !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Qu'attends-tu pour
+essayer, mon chou ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>Je suis surbookée aujourd'hui... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;J'ai
+juste le temps de m'occuper de tes
+cheveux.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Si tu veux une coiffure qui décoiffe,
+prends place devant la machine à
+relooker !</original>
+			<edited>Je suis surbookée aujourd'hui... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;J'ai
+juste le temps de m'occuper de tes
+cheveux.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Si tu veux une coiffure qui décoiffe,
+prends place devant la machine à
+relooker !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;En quoi puis-je t'aider aujourd'hui,
+mon chou ? Il te faut une nouvelle
+coiffure,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; un nouveau look ?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;(&#x0;
+Une nouvelle coiffure !
+Un nouveau look !
+Rien, j'ai changé d'avis.</original>
+			<edited>&#xE;&#x3;%&#x0;En quoi puis-je t'aider aujourd'hui,
+mon chou ? Il te faut une nouvelle
+coiffure,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; un nouveau look ?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;(&#x0;
+Une nouvelle coiffure !
+Un nouveau look !
+Rien, j'ai changé d'avis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;En quoi puis-je t'aider aujourd'hui,
+mon chou ? Il te faut une nouvelle
+coiffure,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; un nouveau look ?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;(&#x0;
+Une nouvelle coiffure !
+Un nouveau look !
+Rien, j'ai changé d'avis.</original>
+			<edited>&#xE;&#x3;%&#x0;En quoi puis-je t'aider aujourd'hui,
+mon chou ? Il te faut une nouvelle
+coiffure,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; un nouveau look ?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;(&#x0;
+Une nouvelle coiffure !
+Un nouveau look !
+Rien, j'ai changé d'avis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Mais qui voilà ?! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Qu'est-ce qu'il te
+faut aujourd'hui, mon chou ?&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;(&#x0;
+Une nouvelle coiffure !
+Un nouveau look !
+Des lentilles de couleur !
+Rien, j'ai changé d'avis.</original>
+			<edited>&#xE;&#x3;%&#x0;Mais qui voilà ?! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Qu'est-ce qu'il te
+faut aujourd'hui, mon chou ?&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;(&#x0;
+Une nouvelle coiffure !
+Un nouveau look !
+Des lentilles de couleur !
+Rien, j'ai changé d'avis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>Je prends &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ pour un
+forfait shampoing, coupe,
+teinture et brushing.
+&#xE;&#x3;&#x17;&#x0;Alors, tu es partant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;, mon chou ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Allons-y !
+J'ai changé d'avis.</original>
+			<edited>Je prends &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ pour un
+forfait shampoing, coupe,
+teinture et brushing.
+&#xE;&#x3;&#x17;&#x0;Alors, tu es partant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;, mon chou ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Allons-y !
+J'ai changé d'avis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>Alors comme ça, on veut changer de
+tête ?&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Rien de plus efficace qu'une
+nouvelle coupe de cheveux !
+&#xE;&#x3;&#x15;&#x0;Et dans ce domaine,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je suis la
+reine !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;Je propose un forfait shampoing,
+coupe, teinture et brushing pour la
+somme de &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Génial, commençons !
+Hmm, sans façon.</original>
+			<edited>Alors comme ça, on veut changer de
+tête ?&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Rien de plus efficace qu'une
+nouvelle coupe de cheveux !
+&#xE;&#x3;&#x15;&#x0;Et dans ce domaine,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je suis la
+reine !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;Je propose un forfait shampoing,
+coupe, teinture et brushing pour la
+somme de &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Génial, commençons !
+Hmm, sans façon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>Qui n'a jamais rêvé de pouvoir
+changer la couleur de ses yeux sur
+commande ?
+&#xE;&#x3;&#x15;&#x0;Grâce à moi, c'est possible ! Et cela
+pour la modique somme de&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. Tu es partant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui !
+Non merci...</original>
+			<edited>Qui n'a jamais rêvé de pouvoir
+changer la couleur de ses yeux sur
+commande ?
+&#xE;&#x3;&#x15;&#x0;Grâce à moi, c'est possible ! Et cela
+pour la modique somme de&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. Tu es partant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui !
+Non merci...</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Un nouveau look, donc ? Tu veux
+quelque chose qui sorte de
+l'ordinaire ?
+&#xE;&#x3;%&#x0;Fais confiance à ma machine, tu ne
+le regretteras pas ! Même les
+hommes y trouvent leur compte.
+&#xE;&#x3;&#x1;&#x0;Laisse-moi faire, et je te ferai
+ressembler à un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii &#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Un nouveau look, donc ? Tu veux
+quelque chose qui sorte de
+l'ordinaire ?
+&#xE;&#x3;%&#x0;Fais confiance à ma machine, tu ne
+le regretteras pas ! Même les
+hommes y trouvent leur compte.
+&#xE;&#x3;&#x1;&#x0;Laisse-moi faire, et je te ferai
+ressembler à un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii &#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Alors c'est pour changer de look
+que tu es venue jusqu'ici, mon
+chou ?
+&#xE;&#x3;%&#x0;Grâce à ma machine, même les plus
+grandes stars de cinéma voudront
+te ressembler.
+Tu verras, tu seras méconnaissable !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Un peu comme si tu t'étais
+transformée en &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Alors c'est pour changer de look
+que tu es venue jusqu'ici, mon
+chou ?
+&#xE;&#x3;%&#x0;Grâce à ma machine, même les plus
+grandes stars de cinéma voudront
+te ressembler.
+Tu verras, tu seras méconnaissable !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Un peu comme si tu t'étais
+transformée en &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>Et le meilleur, c'est qu'il ne t'en
+coûtera que &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ !
+&#xE;&#x3;&#x17;&#x0;Alors, ça te dit ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui, volontiers !
+J'ai changé d'avis.</original>
+			<edited>Et le meilleur, c'est qu'il ne t'en
+coûtera que &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ !
+&#xE;&#x3;&#x17;&#x0;Alors, ça te dit ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui, volontiers !
+J'ai changé d'avis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>Grâce à nos techniques de pointe, tu
+peux choisir à quel &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii &#xE;&#x0;&#x3;&#x2;ÿÿtu veux
+ressembler.
+&#xE;&#x3;&#x15;&#x0;Elle est pas belle, la vie, mon chou ?&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;Bien entendu, la technologie a un
+prix : &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes &#xE;&#x0;&#x3;&#x2;ÿÿpour un
+relooking de pro.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qu'en dis-tu ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+J'accepte !
+J'ai changé d'avis.</original>
+			<edited>Grâce à nos techniques de pointe, tu
+peux choisir à quel &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii &#xE;&#x0;&#x3;&#x2;ÿÿtu veux
+ressembler.
+&#xE;&#x3;&#x15;&#x0;Elle est pas belle, la vie, mon chou ?&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;Bien entendu, la technologie a un
+prix : &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes &#xE;&#x0;&#x3;&#x2;ÿÿpour un
+relooking de pro.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qu'en dis-tu ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+J'accepte !
+J'ai changé d'avis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;tu es &#xE;&#xE;&#x6;"&#xE;&#x0;s&#x0;é&#x0;r&#x0;i&#x0;e&#x0;u&#x0;x&#x0;&#x10;&#x0;s&#x0;é&#x0;r&#x0;i&#x0;e&#x0;u&#x0;s&#x0;e&#x0;, mon chou ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Tant
+pis...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Après tout, je dois dire que tu
+as déjà fort belle allure !
+Bon, si jamais tu décides de changer
+de look,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;tu sais où me trouver !</original>
+			<edited>Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;tu es &#xE;&#xE;&#x6;"&#xE;&#x0;s&#x0;é&#x0;r&#x0;i&#x0;e&#x0;u&#x0;x&#x0;&#x10;&#x0;s&#x0;é&#x0;r&#x0;i&#x0;e&#x0;u&#x0;s&#x0;e&#x0;, mon chou ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Tant
+pis...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Après tout, je dois dire que tu
+as déjà fort belle allure !
+Bon, si jamais tu décides de changer
+de look,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;tu sais où me trouver !</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>Tiens ?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Comment dire&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai peur
+que tu n'aies pas suffisamment
+de clochettes sur toi, &#xE;&#xE;&#x6;&#x1A;
+&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;&#xC;&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;e&#x0;.
+&#xE;&#x3;&#x1;&#x0;J'en connais &#xE;&#xE;&#x6;&#xE;&#x4;&#x0;u&#x0;n&#x0;&#x6;&#x0;u&#x0;n&#x0;e&#x0; qui a oublié sa tête
+à la maison !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Hi hi !</original>
+			<edited>Tiens ?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Comment dire&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai peur
+que tu n'aies pas suffisamment
+de clochettes sur toi, &#xE;&#xE;&#x6;&#x1A;
+&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;&#xC;&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;e&#x0;.
+&#xE;&#x3;&#x1;&#x0;J'en connais &#xE;&#xE;&#x6;&#xE;&#x4;&#x0;u&#x0;n&#x0;&#x6;&#x0;u&#x0;n&#x0;e&#x0; qui a oublié sa tête
+à la maison !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; quelle poisse !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qu'allons-nous
+faire ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;On dirait bien que les &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;données de
+sauvegarde de l'éditeur Mii &#xE;&#x0;&#x3;&#x2;ÿÿsont
+corrompues. Aïe...
+Nous en avons besoin pour ton
+relooking !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Il semblerait qu'elles aient été
+réinitialisées. Tous tes &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii &#xE;&#x0;&#x3;&#x2;ÿÿont par
+conséquent disparu...
+Tu vas devoir créer un nouveau &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii
+&#xE;&#x0;&#x3;&#x2;ÿÿà l'aide de l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;éditeur Mii &#xE;&#x0;&#x3;&#x2;ÿÿet revenir
+plus tard.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; quelle poisse !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qu'allons-nous
+faire ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;On dirait bien que les &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;données de
+sauvegarde de l'éditeur Mii &#xE;&#x0;&#x3;&#x2;ÿÿsont
+corrompues. Aïe...
+Nous en avons besoin pour ton
+relooking !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Il semblerait qu'elles aient été
+réinitialisées. Tous tes &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii &#xE;&#x0;&#x3;&#x2;ÿÿont par
+conséquent disparu...
+Tu vas devoir créer un nouveau &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii
+&#xE;&#x0;&#x3;&#x2;ÿÿà l'aide de l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;éditeur Mii &#xE;&#x0;&#x3;&#x2;ÿÿet revenir
+plus tard.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Zut de zut de zut !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Quelle bêtasse je
+fais !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;)&#x0;Je suis désolée, mais pour que
+je procède à ton relooking...
+&#xE;&#x3;	&#x0;... il faut que tu choisisses un
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii &#xE;&#x0;&#x3;&#x2;ÿÿdans l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;éditeur Mii&#xE;&#x0;&#x3;&#x2;ÿÿ, et on dirait
+que tu n'en as aucun.
+&#xE;&#x3;%&#x0;Va donc créer un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii&#xE;&#x0;&#x3;&#x2;ÿÿ à l'aide de
+l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;éditeur Mii &#xE;&#x0;&#x3;&#x2;ÿÿet reviens me voir !</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Zut de zut de zut !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Quelle bêtasse je
+fais !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;)&#x0;Je suis désolée, mais pour que
+je procède à ton relooking...
+&#xE;&#x3;	&#x0;... il faut que tu choisisses un
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii &#xE;&#x0;&#x3;&#x2;ÿÿdans l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;éditeur Mii&#xE;&#x0;&#x3;&#x2;ÿÿ, et on dirait
+que tu n'en as aucun.
+&#xE;&#x3;%&#x0;Va donc créer un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii&#xE;&#x0;&#x3;&#x2;ÿÿ à l'aide de
+l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;éditeur Mii &#xE;&#x0;&#x3;&#x2;ÿÿet reviens me voir !</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Alors tu veux une nouvelle coupe de
+cheveux ? Hmm, en te regardant, je
+comprends pourquoi.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Tu t'es adressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;à la bonne
+personne, mon chou !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Je te propose un forfait shampoing,
+coupe, teinture et brushing pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. Alors ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Je suis partant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; !
+Pas intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Alors tu veux une nouvelle coupe de
+cheveux ? Hmm, en te regardant, je
+comprends pourquoi.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Tu t'es adressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;à la bonne
+personne, mon chou !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Je te propose un forfait shampoing,
+coupe, teinture et brushing pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. Alors ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Je suis partant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; !
+Pas intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;...</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Non, non !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pas ici, mon chou !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Installe-toi sur le siège devant la
+machine.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Non, non !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pas ici, mon chou !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Installe-toi sur le siège devant la
+machine.</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Tu n'auras pas à attendre, tu
+sais.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je m'occupe de toi tout de
+suite !
+&#xE;&#x3;&#x1;&#x0;Installe-toi sur le siège devant la
+machine.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Tu n'auras pas à attendre, tu
+sais.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je m'occupe de toi tout de
+suite !
+&#xE;&#x3;&#x1;&#x0;Installe-toi sur le siège devant la
+machine.</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Comment ?!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Tu en redemandes ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;Hmm, je suis désolée.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je n'accepte
+qu'une requête par jour.
+&#xE;&#x3;&#x0;&#x0;Si tu changes tout d'un seul coup,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+personne ne te reconnaîtra, 
+&#xE;&#x5;&#x0;&#x0; !
+&#xE;&#x3;&#x1;&#x0;Reviens donc demain, je pourrai
+m'occuper de toi.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Comment ?!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Tu en redemandes ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;Hmm, je suis désolée.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je n'accepte
+qu'une requête par jour.
+&#xE;&#x3;&#x0;&#x0;Si tu changes tout d'un seul coup,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+personne ne te reconnaîtra, 
+&#xE;&#x5;&#x0;&#x0; !
+&#xE;&#x3;&#x1;&#x0;Reviens donc demain, je pourrai
+m'occuper de toi.</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tes yeux ne laisseront personne de
+marbre&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je dois dire que, même
+moi, &#xE;&#x3;&#x1A;&#x0;je me sens toute chose.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tes yeux ne laisseront personne de
+marbre&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je dois dire que, même
+moi, &#xE;&#x3;&#x1A;&#x0;je me sens toute chose.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ton regard pourrait faire fondre la
+banquise !&#xE;&#x7;&#x1;&#x0; Je suis&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; fascinée.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ton regard pourrait faire fondre la
+banquise !&#xE;&#x7;&#x1;&#x0; Je suis&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; fascinée.</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Si tu continues à me fixer comme
+ça, je risque d'être hypnotisée.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Si tu continues à me fixer comme
+ça, je risque d'être hypnotisée.</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu peux reprendre ton ancien look
+à tout moment via le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0; menu des
+motifs personnalisés&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Évidemment, tu peux également
+choisir de revenir au nouveau !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu peux reprendre ton ancien look
+à tout moment via le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0; menu des
+motifs personnalisés&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Évidemment, tu peux également
+choisir de revenir au nouveau !</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Te voilà condamné&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à attirer
+l'attention avec un style aussi
+parfait !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Te voilà condamné&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à attirer
+l'attention avec un style aussi
+parfait !</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Nouveau look ? Ancien look ? Tu es
+canon dans les deux cas, mon chou !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Nouveau look ? Ancien look ? Tu es
+canon dans les deux cas, mon chou !</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; chaque passage ici te
+rapproche de la perfection
+esthétique !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; chaque passage ici te
+rapproche de la perfection
+esthétique !</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, c'était un plaisir de
+t'avoir aidé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à améliorer ton 
+apparence.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, c'était un plaisir de
+t'avoir aidé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à améliorer ton 
+apparence.</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Cette coupe de cheveux te va à la
+perfection, &#xE;&#xE;&#x6;&#x1A;
+&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;&#xC;&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;e&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Cette coupe de cheveux te va à la
+perfection, &#xE;&#xE;&#x6;&#x1A;
+&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;&#xC;&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;e&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Bien !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Prends place sur le siège !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Bien !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Prends place sur le siège !</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Si tu veux bien te donner la peine
+de t'installer devant la machine...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Si tu veux bien te donner la peine
+de t'installer devant la machine...</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu m'expliqueras ce que tu
+souhaites quand tu seras installé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+sur le siège, &#xE;&#xE;&#x6;:&#x1A;&#x0;m&#x0;o&#x0;n&#x0; &#x0;t&#x0;o&#x0;u&#x0;t&#x0; &#x0;b&#x0;e&#x0;a&#x0;u&#x0;&#x1C;&#x0;m&#x0;a&#x0; &#x0;t&#x0;o&#x0;u&#x0;t&#x0;e&#x0; &#x0;b&#x0;e&#x0;l&#x0;l&#x0;e&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu m'expliqueras ce que tu
+souhaites quand tu seras installé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+sur le siège, &#xE;&#xE;&#x6;:&#x1A;&#x0;m&#x0;o&#x0;n&#x0; &#x0;t&#x0;o&#x0;u&#x0;t&#x0; &#x0;b&#x0;e&#x0;a&#x0;u&#x0;&#x1C;&#x0;m&#x0;a&#x0; &#x0;t&#x0;o&#x0;u&#x0;t&#x0;e&#x0; &#x0;b&#x0;e&#x0;l&#x0;l&#x0;e&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci d'être &#xE;&#xE;&#x6;&#x1A;
+&#x0;p&#x0;a&#x0;s&#x0;s&#x0;é&#x0;&#xC;&#x0;p&#x0;a&#x0;s&#x0;s&#x0;é&#x0;e&#x0;, &#xE;&#xE;&#x6;&#x1A;
+&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;&#xC;&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;e&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci d'être &#xE;&#xE;&#x6;&#x1A;
+&#x0;p&#x0;a&#x0;s&#x0;s&#x0;é&#x0;&#xC;&#x0;p&#x0;a&#x0;s&#x0;s&#x0;é&#x0;e&#x0;, &#xE;&#xE;&#x6;&#x1A;
+&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;&#xC;&#x0;c&#x0;h&#x0;é&#x0;r&#x0;i&#x0;e&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Nom d'un bigoudi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qu'est-ce
+que...?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;J'aimerais retirer les accessoires
+que tu portes sur la tête, mais je n'y
+arrive pas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu veux bien m'aider ?</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Nom d'un bigoudi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qu'est-ce
+que...?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;J'aimerais retirer les accessoires
+que tu portes sur la tête, mais je n'y
+arrive pas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu veux bien m'aider ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Nom d'un fer à friser !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est à n'y
+rien comprendre...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Ton couvre-chef m'empêche de te
+ravaler la façade, mon chou.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Et je
+n'arrive pas à te l'enlever&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Nom d'un fer à friser !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est à n'y
+rien comprendre...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Ton couvre-chef m'empêche de te
+ravaler la façade, mon chou.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Et je
+n'arrive pas à te l'enlever&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Nom d'une brosse à cheveux !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Comment se fait-il que...?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Écoute, je ne peux rien faire pour
+toi tant que tu portes le moindre
+accessoire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Pourrais-tu retirer ton attirail, mon
+chou ? J'ai essayé, mais toute seule,
+je n'y arrive pas...</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Nom d'une brosse à cheveux !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Comment se fait-il que...?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Écoute, je ne peux rien faire pour
+toi tant que tu portes le moindre
+accessoire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Pourrais-tu retirer ton attirail, mon
+chou ? J'ai essayé, mais toute seule,
+je n'y arrive pas...</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ton inventaire est plein
+à craquer,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je ne peux retirer aucun
+de tes accessoires !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Désolée de te demander ça, mais tu
+vas devoir les enlever toi-même ou
+te débarrasser de quelques objets.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ton inventaire est plein
+à craquer,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je ne peux retirer aucun
+de tes accessoires !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Désolée de te demander ça, mais tu
+vas devoir les enlever toi-même ou
+te débarrasser de quelques objets.</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Très bien.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je te laisse choisir un
+modèle dans l'album.</original>
+			<edited>&#xE;&#x3;%&#x0;Très bien.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je te laisse choisir un
+modèle dans l'album.</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>Quelque chose ne va pas ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Tu n'as
+plus envie de te faire relooker ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;(&#x0;
+Si, si, j'ai envie !
+Non, je dois y aller.</original>
+			<edited>Quelque chose ne va pas ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Tu n'as
+plus envie de te faire relooker ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;(&#x0;
+Si, si, j'ai envie !
+Non, je dois y aller.</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;D'accord.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Revoici l'album, je te
+laisse choisir quelque chose qui te
+plaît.</original>
+			<edited>&#xE;&#x3;%&#x0;D'accord.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Revoici l'album, je te
+laisse choisir quelque chose qui te
+plaît.</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>Si j'ai bien compris,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; tu veux
+ressembler à &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;&#x10;&#x0; &#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui !
+J'ai changé d'avis.</original>
+			<edited>Si j'ai bien compris,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; tu veux
+ressembler à &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;&#x10;&#x0; &#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui !
+J'ai changé d'avis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;J'en fais mon affaire !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Commençons
+par atténuer ton look actuel...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;J'en fais mon affaire !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Commençons
+par atténuer ton look actuel...</edited>
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Je m'en charge !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Première chose :
+retirer tout ce qui risque
+d'interférer avec ton relooking.
+Tu retrouveras tes affaires dans ton
+inventaire.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Je m'en charge !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Première chose :
+retirer tout ce qui risque
+d'interférer avec ton relooking.
+Tu retrouveras tes affaires dans ton
+inventaire.</edited>
+			<subEntries />
+		</entry>
+		<entry name="061" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Voilà, c'est réglé !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Bon&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Il est
+temps de faire de toi une œuvre
+d'art !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Voilà, c'est réglé !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Bon&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Il est
+temps de faire de toi une œuvre
+d'art !</edited>
+			<subEntries />
+		</entry>
+		<entry name="062" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Je m'en occupe !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Faisons de
+toi une œuvre d'art !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Je m'en occupe !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Faisons de
+toi une œuvre d'art !</edited>
+			<subEntries />
+		</entry>
+		<entry name="063" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tadaaaaa !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Et voilà le travail !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;Alors, tu te sens comment ?&#xE;&#x7;&#x1;&#x0;
+Beaucoup disent que c'est comme
+une renaissance.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;Surprenant, non ?
+&#xE;&#x3;&#x0;&#x0;Au fait,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; si tu veux revenir à ton
+ancien look, &#xE;&#x3;&#x1;&#x0;tu peux le faire via le
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0; menu des motifs&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;personnalisés &#xE;&#x0;&#x3;&#x2;ÿÿ!
+&#xE;&#x3;&#x0;&#x0;Cependant&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Il y a une chose&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; à
+laquelle tu dois faire attention...&#xE;&#x3;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tadaaaaa !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Et voilà le travail !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;Alors, tu te sens comment ?&#xE;&#x7;&#x1;&#x0;
+Beaucoup disent que c'est comme
+une renaissance.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;Surprenant, non ?
+&#xE;&#x3;&#x0;&#x0;Au fait,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; si tu veux revenir à ton
+ancien look, &#xE;&#x3;&#x1;&#x0;tu peux le faire via le
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0; menu des motifs&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;personnalisés &#xE;&#x0;&#x3;&#x2;ÿÿ!
+&#xE;&#x3;&#x0;&#x0;Cependant&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Il y a une chose&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; à
+laquelle tu dois faire attention...&#xE;&#x3;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="064" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tadaaaaa ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;C'est terminé !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;&#x1;&#x0; Sans
+vouloir me vanter, c'est une franche
+réussite !</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tadaaaaa ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;C'est terminé !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;&#x1;&#x0; Sans
+vouloir me vanter, c'est une franche
+réussite !</edited>
+			<subEntries />
+		</entry>
+		<entry name="065" offset="00" relocatable="true" max_length="0">
+			<original>Si tu modifies le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii&#xE;&#x0;&#x3;&#x2;ÿÿ qui a servi de
+modèle dans l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;éditeur Mii&#xE;&#x0;&#x3;&#x2;ÿÿ, ton look
+changera lui aussi.
+&#xE;&#x3;&#x1;&#x0;Garde ça à l'esprit, mon chou !</original>
+			<edited>Si tu modifies le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mii&#xE;&#x0;&#x3;&#x2;ÿÿ qui a servi de
+modèle dans l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;éditeur Mii&#xE;&#x0;&#x3;&#x2;ÿÿ, ton look
+changera lui aussi.
+&#xE;&#x3;&#x1;&#x0;Garde ça à l'esprit, mon chou !</edited>
+			<subEntries />
+		</entry>
+		<entry name="066" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Mais où as-tu la tête ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;C'est le look
+que tu as déjà essayé !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Choisis donc quelque chose d'autre,
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;mon chou.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Mais où as-tu la tête ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;C'est le look
+que tu as déjà essayé !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Choisis donc quelque chose d'autre,
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;mon chou.</edited>
+			<subEntries />
+		</entry>
+		<entry name="067" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Ça fera &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ, s'il te
+plaît.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Ça fera &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ, s'il te
+plaît.</edited>
+			<subEntries />
+		</entry>
+		<entry name="068" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;J'espère que ça n'a pas été trop
+long !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;J'espère que ça n'a pas été trop
+long !</edited>
+			<subEntries />
+		</entry>
+		<entry name="069" offset="00" relocatable="true" max_length="0">
+			<original>Voilà, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;il ne me reste plus qu'à te
+rendre tes affaires.</original>
+			<edited>Voilà, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;il ne me reste plus qu'à te
+rendre tes affaires.</edited>
+			<subEntries />
+		</entry>
+		<entry name="071" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;À présent mon chou,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; choisis la
+couleur de pupille qui correspond le
+mieux à ton humeur du moment.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;À présent mon chou,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; choisis la
+couleur de pupille qui correspond le
+mieux à ton humeur du moment.</edited>
+			<subEntries />
+		</entry>
+		<entry name="072" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;Essaie de te représenter la scène
+suivante&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Concentre-toi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Tu es en plein rêve.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Dans ce rêve, tu
+es en train de visiter une petite ville
+pittoresque&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x0;&#x0;Soudain, quelque chose attire ton
+attention. Qu'est-ce donc ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Le vaste ciel.
+Les arbres immenses.
+L'océan sans fin.</original>
+			<edited>&#xE;&#x3;+&#x0;Essaie de te représenter la scène
+suivante&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Concentre-toi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Tu es en plein rêve.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Dans ce rêve, tu
+es en train de visiter une petite ville
+pittoresque&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x0;&#x0;Soudain, quelque chose attire ton
+attention. Qu'est-ce donc ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Le vaste ciel.
+Les arbres immenses.
+L'océan sans fin.</edited>
+			<subEntries />
+		</entry>
+		<entry name="073" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Intéressant... Très intéressant...
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;C'est donc le ciel qui t'interpelle le
+plus.
+&#xE;&#x3;&#x0;&#x0;Mais dis-moi, &#xE;&#x3;&#x17;&#x0;qu'a-t'il de
+particulier ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Il est tout noir.
+Il est tout à fait dégagé.
+Il est couvert.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Intéressant... Très intéressant...
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;C'est donc le ciel qui t'interpelle le
+plus.
+&#xE;&#x3;&#x0;&#x0;Mais dis-moi, &#xE;&#x3;&#x17;&#x0;qu'a-t'il de
+particulier ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Il est tout noir.
+Il est tout à fait dégagé.
+Il est couvert.</edited>
+			<subEntries />
+		</entry>
+		<entry name="074" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Hmm, voilà qui est intéressant.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ce
+sont donc les arbres qui t'ont le
+plus marqué&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.
+&#xE;&#x3;&#x17;&#x0;Mais qu'ont-ils de si remarquable,
+ces arbres ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Leur épais feuillage.
+Leur tronc noueux.
+Leur ombre immense.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Hmm, voilà qui est intéressant.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ce
+sont donc les arbres qui t'ont le
+plus marqué&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.
+&#xE;&#x3;&#x17;&#x0;Mais qu'ont-ils de si remarquable,
+ces arbres ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Leur épais feuillage.
+Leur tronc noueux.
+Leur ombre immense.</edited>
+			<subEntries />
+		</entry>
+		<entry name="075" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Je vois...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est donc l'océan qui t'a
+le plus marqué&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;Mais qu'avait-il de
+spécial, cet océan ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Ses tons bleus.
+Son apparence glaciale.
+Sa tapisserie de corail.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Je vois...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est donc l'océan qui t'a
+le plus marqué&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;Mais qu'avait-il de
+spécial, cet océan ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Ses tons bleus.
+Son apparence glaciale.
+Sa tapisserie de corail.</edited>
+			<subEntries />
+		</entry>
+		<entry name="076" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;C'est tout ce dont j'avais besoin,
+mon chou !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je sais désormais quels
+sentiments habitent ton cœur.
+&#xE;&#x3;&#x1;&#x0;Il ne me reste plus qu'à l'exprimer
+dans ton regard.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;C'est tout ce dont j'avais besoin,
+mon chou !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je sais désormais quels
+sentiments habitent ton cœur.
+&#xE;&#x3;&#x1;&#x0;Il ne me reste plus qu'à l'exprimer
+dans ton regard.</edited>
+			<subEntries />
+		</entry>
+		<entry name="077" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tadaaaaa !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0; &#xE;&#x3;&#x0;&#x0;Bon&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Ta couleur de
+pupille actuelle est celle qui te va le
+mieux, &#xE;&#x5;&#x0;&#x0;.
+&#xE;&#x3;&#x0;&#x0;Je n'ai rien changé, &#xE;&#x3;%&#x0;tu n'as donc
+rien à payer.</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tadaaaaa !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0; &#xE;&#x3;&#x0;&#x0;Bon&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Ta couleur de
+pupille actuelle est celle qui te va le
+mieux, &#xE;&#x5;&#x0;&#x0;.
+&#xE;&#x3;&#x0;&#x0;Je n'ai rien changé, &#xE;&#x3;%&#x0;tu n'as donc
+rien à payer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="078" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tadaaaaa !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0; &#xE;&#x3;&#x0;&#x0;Oh&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Je n'ai qu'un mot à
+dire :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; fabuleux !</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tadaaaaa !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0; &#xE;&#x3;&#x0;&#x0;Oh&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Je n'ai qu'un mot à
+dire :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; fabuleux !</edited>
+			<subEntries />
+		</entry>
+		<entry name="079" offset="00" relocatable="true" max_length="0">
+			<original>Mon chou, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;je vais devoir mettre tes
+petites affaires de côté, le temps
+de la séance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>Mon chou, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;je vais devoir mettre tes
+petites affaires de côté, le temps
+de la séance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="080" offset="00" relocatable="true" max_length="0">
+			<original>Voilà, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;à nous deux, maintenant !</original>
+			<edited>Voilà, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;à nous deux, maintenant !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

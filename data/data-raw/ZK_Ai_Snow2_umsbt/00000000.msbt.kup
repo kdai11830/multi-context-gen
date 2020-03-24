@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;It's still cold outside, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Good thing it's also still so pretty
+outside,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;It's still cold outside, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Good thing it's also still so pretty
+outside,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;You're always so peppy, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Must be all this snow keeping
+you on your toes, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;You're always so peppy, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Must be all this snow keeping
+you on your toes, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey again, hello&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Walking out in the snow, huh?
+&#xE;&#x3;&#x1;&#x0;Well, good for you, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey again, hello&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Walking out in the snow, huh?
+&#xE;&#x3;&#x1;&#x0;Well, good for you, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hey, I heard your feet crunching
+all the way here, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+What's up now, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;Hey, I heard your feet crunching
+all the way here, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+What's up now, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x1;&#x4;	&#x0;
+&#x0;</original>
+			<edited>&#xE;
+&#x1;&#x4;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey again, good to see you&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Think the snow will stop by
+tomorrow, &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey again, good to see you&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Think the snow will stop by
+tomorrow, &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>Hey, here you are again, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+That reminds me. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I just wanted
+to tell y-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;y-&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;y-&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1E;&#x0;ACHOO!
+&#xE;&#x3;	&#x0;Gross. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Sorry. &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;I just wanted to tell
+you to bundle up to avoid catching
+a cold, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>Hey, here you are again, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+That reminds me. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I just wanted
+to tell y-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;y-&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;y-&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1E;&#x0;ACHOO!
+&#xE;&#x3;	&#x0;Gross. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Sorry. &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;I just wanted to tell
+you to bundle up to avoid catching
+a cold, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;So, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;still out in the snow, I see!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;(&#x0;Don't freeze out here, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;So, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;still out in the snow, I see!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;(&#x0;Don't freeze out here, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;Ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-! &#xE;&#x7;&#x1;&#x0;Ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-!&#xE;&#x7;&#x1;&#x0;
+What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Uh, no, &#xE;&#x5;&#x7;&#x0;.
+I'm not shaking.
+&#xE;&#x3;*&#x0;I'm just doing the cha-&#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;cha!</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;Ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-! &#xE;&#x7;&#x1;&#x0;Ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-!&#xE;&#x7;&#x1;&#x0;
+What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Uh, no, &#xE;&#x5;&#x7;&#x0;.
+I'm not shaking.
+&#xE;&#x3;*&#x0;I'm just doing the cha-&#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;cha!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;Ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-! &#xE;&#x7;&#x1;&#x0;Ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-!&#xE;&#x7;&#x1;&#x0;
+What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Uh, no, &#xE;&#x5;&#x7;&#x0;.
+No, I'm not shivering.
+&#xE;&#x3;&#x1A;&#x0;You just make me tongue tied,
+&#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You look charming.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;Char&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;ming! &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Especially in this snow.</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;Ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-! &#xE;&#x7;&#x1;&#x0;Ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-&#xE;&#x7;&#x0;&#x4;&#x7;&#x0;&#x0;&#x0;ch-!&#xE;&#x7;&#x1;&#x0;
+What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Uh, no, &#xE;&#x5;&#x7;&#x0;.
+No, I'm not shivering.
+&#xE;&#x3;&#x1A;&#x0;You just make me tongue tied,
+&#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You look charming.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;Char&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;ming! &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Especially in this snow.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

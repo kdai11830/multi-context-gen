@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Et notre partie de
+cache-cache, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Pourquoi tu as arrêté de jouer ?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Et notre partie de
+cache-cache, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Pourquoi tu as arrêté de jouer ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Eh ! Il fallait le dire si tu n'avais pas
+envie de jouer à cache-cache,
+&#xE;&#x5;&#x7;&#x0;...
+&#xE;&#x3;	&#x0;Personne n'avait l'air de chercher,
+alors on a laissé tomber.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Eh ! Il fallait le dire si tu n'avais pas
+envie de jouer à cache-cache,
+&#xE;&#x5;&#x7;&#x0;...
+&#xE;&#x3;	&#x0;Personne n'avait l'air de chercher,
+alors on a laissé tomber.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Désolée, mais comme la partie
+traînait en longueur, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et qu'on en
+avait ras-le-bol&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;%&#x0;On a fini par mettre un terme à la
+partie.</original>
+			<edited>&#xE;&#x3;	&#x0;Désolée, mais comme la partie
+traînait en longueur, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et qu'on en
+avait ras-le-bol&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;%&#x0;On a fini par mettre un terme à la
+partie.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Cache-cache, c'est plus rigolo quand
+il y a quelqu'un qui cherche, tu sais...</original>
+			<edited>&#xE;&#x3;%&#x0;Cache-cache, c'est plus rigolo quand
+il y a quelqu'un qui cherche, tu sais...</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ouvre un peu mieux l'œil la
+prochaine fois ! Je n'étais pas
+si difficile à trouver !</original>
+			<edited>&#xE;&#x3;%&#x0;Ouvre un peu mieux l'œil la
+prochaine fois ! Je n'étais pas
+si difficile à trouver !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;On se refait une partie à l'occasion !</original>
+			<edited>&#xE;&#x3;%&#x0;On se refait une partie à l'occasion !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

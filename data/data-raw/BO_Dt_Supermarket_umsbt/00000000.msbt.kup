@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;A huh huh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; They really have
+everything here.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;A huh huh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; They really have
+everything here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I kind of want to buy everything
+here.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I kind of want to buy everything
+here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;There's so much stuff here to
+look at!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;There's so much stuff here to
+look at!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Aw&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It doesn't look like there's any
+free samples,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Aw&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It doesn't look like there's any
+free samples,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x10;&#x8;	&#x0;&#x7;&#x0;	&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;
+&#x10;&#x8;	&#x0;&#x7;&#x0;	&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;It's way hot outside,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; so I'm cooling 
+off inside here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;It's way hot outside,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; so I'm cooling 
+off inside here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;It's way cold outside,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; so I'm
+warming up inside here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;It's way cold outside,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; so I'm
+warming up inside here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;What was I going to buy... What was
+I going to buy...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;I'm completely 
+spacing out, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;What was I going to buy... What was
+I going to buy...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;I'm completely 
+spacing out, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

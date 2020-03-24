@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Eeeek! That's totally awful!&#xE;&#x7;&#x1;&#x0;
+Why would you DO that,
+&#xE;&#x5;&#x7;&#x0;?&#xE;&#xB;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Eeeek! That's totally awful!&#xE;&#x7;&#x1;&#x0;
+Why would you DO that,
+&#xE;&#x5;&#x7;&#x0;?&#xE;&#xB;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;What's up with you? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1B;&#x0;Don't you
+KNOW how awful that is,
+&#xE;&#x5;&#x7;&#x0;?&#xE;&#xB;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;What's up with you? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1B;&#x0;Don't you
+KNOW how awful that is,
+&#xE;&#x5;&#x7;&#x0;?&#xE;&#xB;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hey! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;That hurts my ears! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Seriously,
+that's awful of you!&#xE;&#xB;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hey! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;That hurts my ears! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Seriously,
+that's awful of you!&#xE;&#xB;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

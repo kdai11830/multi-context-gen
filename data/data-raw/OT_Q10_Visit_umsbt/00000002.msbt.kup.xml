@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Je suis en pleine partie de
+cache-cache. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;C'est la seule cachette
+que j'ai trouvée.
+&#xE;&#x3;	&#x0;S'il te plaît, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;ne dis pas à &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;
+que je suis ici !</original>
+			<edited>&#xE;&#x3;	&#x0;Je suis en pleine partie de
+cache-cache. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;C'est la seule cachette
+que j'ai trouvée.
+&#xE;&#x3;	&#x0;S'il te plaît, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;ne dis pas à &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;
+que je suis ici !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Je me cache,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; nous jouons à
+cache-cache avec les autres...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Pourrais-tu sortir, s'il te plaît ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu
+vas me faire repérer.</original>
+			<edited>&#xE;&#x3;	&#x0;Je me cache,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; nous jouons à
+cache-cache avec les autres...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Pourrais-tu sortir, s'il te plaît ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu
+vas me faire repérer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;Oh ! &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;Tu m'as fait peur...&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; J'ai cru que
+c'était &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;Nous jouons à
+cache-cache, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;c'est pour ça...</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;Oh ! &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;Tu m'as fait peur...&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; J'ai cru que
+c'était &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;Nous jouons à
+cache-cache, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;c'est pour ça...</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;Aaahhh ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Mais pourquoi tu fais ça ?!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Arrête !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;Aaahhh ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Mais pourquoi tu fais ça ?!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Arrête !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

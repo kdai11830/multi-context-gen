@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Hide-and-seek?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x1B;&#x0;That was ages ago!&#xE;&#x7;&#x1;&#x0;
+We&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; were hiding for forever, but you
+never came to find us!
+&#xE;&#x3;&#xC;&#x0;We were waiting so long, we finally
+had to stop hiding and get some
+snacks.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Hide-and-seek?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x1B;&#x0;That was ages ago!&#xE;&#x7;&#x1;&#x0;
+We&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; were hiding for forever, but you
+never came to find us!
+&#xE;&#x3;&#xC;&#x0;We were waiting so long, we finally
+had to stop hiding and get some
+snacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Hide-and-seek?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I totally forgot we
+were playing that.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1B;&#x0;You didn't find
+me,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; so eventually I gave up.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Hide-and-seek?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I totally forgot we
+were playing that.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1B;&#x0;You didn't find
+me,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; so eventually I gave up.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>I quit that game of hide-and-seek a
+while ago!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;You didn't come looking
+for me, so I figured you'd bailed.
+&#xE;&#x3;&#xD;&#x0;I fell asleep while I was hiding,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+and I almost caught a cold!</original>
+			<edited>I quit that game of hide-and-seek a
+while ago!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;You didn't come looking
+for me, so I figured you'd bailed.
+&#xE;&#x3;&#xD;&#x0;I fell asleep while I was hiding,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+and I almost caught a cold!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;I know it's only a game,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but you
+shouldn't just quit halfway through!</original>
+			<edited>&#xE;&#x3;(&#x0;I know it's only a game,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but you
+shouldn't just quit halfway through!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Disappearing like that&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; really wasn't
+cool, you know.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Disappearing like that&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; really wasn't
+cool, you know.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Find me faster next time, OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Find me faster next time, OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Yo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Comment va ?&#xE;&#x3;&#x0;&#x0; Je suis venu faire un
+peu de shopping, comme tu vois !</original>
+			<edited>&#xE;&#x3; &#x0;Yo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Comment va ?&#xE;&#x3;&#x0;&#x0; Je suis venu faire un
+peu de shopping, comme tu vois !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh oh... &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Tu me prends en flag.&#xE;&#x0;&#x4;&#x0;Je suis venu dévaliser les magasins,
+comme au bon vieux temps.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh oh... &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Tu me prends en flag.&#xE;&#x0;&#x4;&#x0;Je suis venu dévaliser les magasins,
+comme au bon vieux temps.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hello, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !
+Va pas croire que la vie à
+&#xE;&#x5;&#x5;&#x0; me manque, hein !
+Ses magasins, oui par contre...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+terriblement. &#xE;&#x3;&#x2;&#x0;Quel romantique
+je fais, HA HA HA ! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hello, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !
+Va pas croire que la vie à
+&#xE;&#x5;&#x5;&#x0; me manque, hein !
+Ses magasins, oui par contre...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+terriblement. &#xE;&#x3;&#x2;&#x0;Quel romantique
+je fais, HA HA HA ! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Yo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;T'es à la chasse aux bonnes
+affaires ? Rentre chez toi alors !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Yo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;T'es à la chasse aux bonnes
+affaires ? Rentre chez toi alors !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tiens, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+T'as pas changé d'un pouce, toi !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tiens, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+T'as pas changé d'un pouce, toi !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

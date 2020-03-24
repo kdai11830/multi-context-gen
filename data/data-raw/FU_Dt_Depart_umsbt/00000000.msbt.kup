@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Everything in the department store
+looks so fancy!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Everything in the department store
+looks so fancy!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;When I come to the department
+store,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I always end up&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; buying stuff I
+don't need,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;&#x17;&#x0;I wonder if I'm acting on some deep
+psychological urge.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;When I come to the department
+store,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I always end up&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; buying stuff I
+don't need,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;&#x17;&#x0;I wonder if I'm acting on some deep
+psychological urge.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;What are you looking for today?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;I hope you find&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; something nice!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;What are you looking for today?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;I hope you find&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; something nice!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;With so many choices,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; it's hard to
+make up your mind, isn't it?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;With so many choices,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; it's hard to
+make up your mind, isn't it?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I came from far away to shop here.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;That's why I plan on buying a lot.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I came from far away to shop here.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;That's why I plan on buying a lot.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

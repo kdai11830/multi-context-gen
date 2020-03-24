@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;HEY!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Nobody told me about this!</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;HEY!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Nobody told me about this!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Someone,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; please help me out!</original>
+			<edited>Someone,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; please help me out!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>I don't know who did this&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but I
+would really appreciate some help
+right now!</original>
+			<edited>I don't know who did this&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but I
+would really appreciate some help
+right now!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

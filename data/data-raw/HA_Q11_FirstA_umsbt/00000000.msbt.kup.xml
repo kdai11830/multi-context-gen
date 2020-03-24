@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1E;&#x0;Aaa&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;choo!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;Ha ha!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oh, this is nothing.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1E;&#x0;Aaa&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;choo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Little tickle.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; That's all.</original>
+			<edited>&#xE;&#x3;&#x1E;&#x0;Aaa&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;choo!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;Ha ha!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oh, this is nothing.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1E;&#x0;Aaa&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;choo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Little tickle.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; That's all.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Ugh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I am not feeling right today.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+I might have to skip a run or two.</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Ugh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I am not feeling right today.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+I might have to skip a run or two.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Oh, man&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Something's not right.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+It's like I have dumbbells in my face
+and gerbil gymnasts in my tummy!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Maybe it's because I had too much
+&#xE;&#x5;&#x13;&#x2;&#x0;&#x0; last night?</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Oh, man&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Something's not right.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+It's like I have dumbbells in my face
+and gerbil gymnasts in my tummy!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Maybe it's because I had too much
+&#xE;&#x5;&#x13;&#x2;&#x0;&#x0; last night?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;"&#x0;I've been hot since I woke up. &#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;But this isn't the good kind of hot,
+right?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1E;&#x0;Haa&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;choo!&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; It's, like, cold hot.</original>
+			<edited>&#xE;&#x3;"&#x0;I've been hot since I woke up. &#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;But this isn't the good kind of hot,
+right?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1E;&#x0;Haa&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;choo!&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; It's, like, cold hot.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;As much as I train, I should be able
+to avoid colds forever!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; It's not fair!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;As much as I train, I should be able
+to avoid colds forever!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; It's not fair!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;I'd like to say that this cold doesn't
+bother me.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xC;&#x0; But it's pretty bad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;I'd like to say that this cold doesn't
+bother me.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xC;&#x0; But it's pretty bad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;My athletic career is on hold&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;My athletic career is on hold&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Whoooaaa&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Did I just see two
+versions of &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;? &#xE;&#x3;&#xF;&#x0;Or am I
+just that delirious?</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Whoooaaa&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Did I just see two
+versions of &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;? &#xE;&#x3;&#xF;&#x0;Or am I
+just that delirious?</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;What is going on?!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; My body is a 
+finely tuned instrument!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I should be
+able to defeat a common cold!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;What is going on?!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; My body is a 
+finely tuned instrument!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I should be
+able to defeat a common cold!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

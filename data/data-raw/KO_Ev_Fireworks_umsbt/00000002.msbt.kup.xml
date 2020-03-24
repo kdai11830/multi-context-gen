@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;	&#x0;
+&#x0;&#xB;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;	&#x0;
+&#x0;&#xB;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;&#x1D;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;&#x1D;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x4;&#xC;&#xF;&#x0;&#x10;&#x0;&#x11;&#x0;&#x12;&#x0;&#x13;&#x0;&#x1D;&#x0;</original>
+			<edited>&#xE;	&#x4;&#xC;&#xF;&#x0;&#x10;&#x0;&#x11;&#x0;&#x12;&#x0;&#x13;&#x0;&#x1D;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x14;&#x0;&#x15;&#x0;&#x16;&#x0;&#x1D;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x14;&#x0;&#x15;&#x0;&#x16;&#x0;&#x1D;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x17;&#x0;&#x18;&#x0;&#x19;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x17;&#x0;&#x18;&#x0;&#x19;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x1A;&#x0;&#x1B;&#x0;&#x1C;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x1A;&#x0;&#x1B;&#x0;&#x1C;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Les feux d'artifice vont bientôt
+commencer !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je tiens plus en place !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Les feux d'artifice vont bientôt
+commencer !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je tiens plus en place !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;J'attends les feux d'artifice depuis
+ce matin,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; chuis excité comme un
+gamin !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;Je m'y vois déjà&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; BOUM !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; PAN !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Oh, la belle bleue !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;J'attends les feux d'artifice depuis
+ce matin,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; chuis excité comme un
+gamin !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;Je m'y vois déjà&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; BOUM !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; PAN !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Oh, la belle bleue !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Les feux d'artifice seront visibles
+de toute la ville !&#xE;&#x0;&#x4;&#x0;Bon après,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; si on veut prendre des
+photos, &#xE;&#x3;&#x15;&#x0;faut être bien placé,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Les feux d'artifice seront visibles
+de toute la ville !&#xE;&#x0;&#x4;&#x0;Bon après,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; si on veut prendre des
+photos, &#xE;&#x3;&#x15;&#x0;faut être bien placé,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Jooooooli !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; T'as vu ça ?&#xE;&#x0;&#x4;&#x0;C'est beau, c'est clair&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Mais ce que
+je préfère, c'est quand ça raisonne
+dans le ventre !</original>
+			<edited>Jooooooli !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; T'as vu ça ?&#xE;&#x0;&#x4;&#x0;C'est beau, c'est clair&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Mais ce que
+je préfère, c'est quand ça raisonne
+dans le ventre !</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Tu l'as vue celle-là ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Une autre !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Une autre !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Tu l'as vue celle-là ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Une autre !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Une autre !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Vous arrêtez pas, les gars !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Jamais !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Vous arrêtez pas, les gars !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Jamais !</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Eh beh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Ils ont pas lésiné sur les
+moyens !</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Eh beh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Ils ont pas lésiné sur les
+moyens !</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;On en prend plein les yeux&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. et plein
+les narines, &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça
+commence à sentir le pétard brûlé !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;On en prend plein les yeux&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. et plein
+les narines, &#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça
+commence à sentir le pétard brûlé !</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Ce que c'est beau !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Le boulot qu'il doit y avoir
+derrière, &#xE;&#x5;&#x7;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Chapeau,
+les gars !</original>
+			<edited>&#xE;&#x3; &#x0;Ce que c'est beau !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Le boulot qu'il doit y avoir
+derrière, &#xE;&#x5;&#x7;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. Chapeau,
+les gars !</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je peux pas m'empêcher de sourire,
+tellement c'est beau !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Aïe,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ouille,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ça
+fait mal&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je peux pas m'empêcher de sourire,
+tellement c'est beau !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Aïe,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ouille,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ça
+fait mal&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Waouh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je crois qu'on sous-estime
+to&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ta&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;le&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ment le boulot qu'il y a
+derrière...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Waouh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je crois qu'on sous-estime
+to&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ta&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;le&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ment le boulot qu'il y a
+derrière...</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>Ça sent la fin&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Remarque, c'est
+peut-être mieux,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je commence à
+avoir les oreilles qui bourdonnent !</original>
+			<edited>Ça sent la fin&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Remarque, c'est
+peut-être mieux,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je commence à
+avoir les oreilles qui bourdonnent !</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Ça sent la fin&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;J'ai une de ces
+pêches, moi maintenant !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+On sort après ?!</original>
+			<edited>Ça sent la fin&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;J'ai une de ces
+pêches, moi maintenant !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+On sort après ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>J'espère qu'ils vont pas ralentir sur
+la fin&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Vivement le bouquet final !</original>
+			<edited>J'espère qu'ils vont pas ralentir sur
+la fin&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Vivement le bouquet final !</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;C'est déjà fini !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Enfin, pas&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; dans&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ma&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+tête&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. Ça raisonne encore...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est
+grave, docteur ?</original>
+			<edited>&#xE;&#x3;	&#x0;C'est déjà fini !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Enfin, pas&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; dans&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ma&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+tête&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. Ça raisonne encore...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est
+grave, docteur ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ils se sont surpassés !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Rien à redire,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ils se sont surpassés !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Rien à redire,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>Bah bravo ! &#xE;&#x3;$&#x0;Je me suis chopé un
+torticolis à force de regarder en
+l'air&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>Bah bravo ! &#xE;&#x3;$&#x0;Je me suis chopé un
+torticolis à force de regarder en
+l'air&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Ça y est, c'est fini&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;Le prochain, ce sera au jour de
+l'an !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Je tiendrai jamais...</original>
+			<edited>&#xE;&#x3;	&#x0;Ça y est, c'est fini&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;Le prochain, ce sera au jour de
+l'an !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Je tiendrai jamais...</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;C'étaient les derniers feux d'artifice
+de l'année !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xE;&#x0;Bouh&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. c'est trop
+injuste !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;C'étaient les derniers feux d'artifice
+de l'année !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xE;&#x0;Bouh&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. c'est trop
+injuste !</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>L'été est terminé, les feux d'artifice
+aussi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. &#xE;&#x3;&#x13;&#x0;Pfff, autant hiberner jusqu'à
+l'année prochaine !</original>
+			<edited>L'été est terminé, les feux d'artifice
+aussi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. &#xE;&#x3;&#x13;&#x0;Pfff, autant hiberner jusqu'à
+l'année prochaine !</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>Bon, je t'explique au cas où...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Pour
+regarder le ciel, tu appuies sur  !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Sinon tu verras pas grand-chose,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>Bon, je t'explique au cas où...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Pour
+regarder le ciel, tu appuies sur  !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Sinon tu verras pas grand-chose,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

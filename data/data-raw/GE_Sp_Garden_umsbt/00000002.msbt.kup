@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x1;&#x4;&#xC;&#x0;&#xD;&#x0;</original>
+			<edited>&#xE;
+&#x1;&#x4;&#xC;&#x0;&#xD;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x1;&#x4;	&#x0;
+&#x0;</original>
+			<edited>&#xE;
+&#x1;&#x4;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;J'ai l'impression d'être la reine des
+fleurs, ici,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;J'ai l'impression d'être la reine des
+fleurs, ici,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Tu crois que les fleurs aussi ont
+leurs petits secrets de beauté ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Bon, y'a l'engrais déjà... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hi hi hi !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Tu crois que les fleurs aussi ont
+leurs petits secrets de beauté ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Bon, y'a l'engrais déjà... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hi hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Allez, fais pas ton timide...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Offre-les-moi, ces fleurs ! &#xE;&#x3;&#xD;&#x0;Hein, que
+tu voulais m'offrir des fleurs, dis ?!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Allez, fais pas ton timide...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Offre-les-moi, ces fleurs ! &#xE;&#x3;&#xD;&#x0;Hein, que
+tu voulais m'offrir des fleurs, dis ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Les fleurs, les fleurs&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. je les aime
+surtout quand on me les offre,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Les fleurs, les fleurs&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;. je les aime
+surtout quand on me les offre,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Vous avez d'autres fleurs chez
+vous ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Vas-y, raconte, je veux tout
+savoir, hi hi hi !!!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Vous avez d'autres fleurs chez
+vous ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Vas-y, raconte, je veux tout
+savoir, hi hi hi !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Chez vous aussi, les filles doivent
+s'acheter leurs fleurs elles-mêmes ?
+&#xE;&#x3;&#x1D;&#x0;Ah bah bravo, les mecs !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Chez vous aussi, les filles doivent
+s'acheter leurs fleurs elles-mêmes ?
+&#xE;&#x3;&#x1D;&#x0;Ah bah bravo, les mecs !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x7;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x7;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x6;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x6;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

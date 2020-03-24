@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡No te cortes! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Puedes mirar
+todo lo que quieras, cielín.</original>
+			<edited>&#xE;&#x3;%&#x0;¡No te cortes! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Puedes mirar
+todo lo que quieras, cielín.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¿Te gusta mi casa?</original>
+			<edited>&#xE;&#x3;%&#x0;¿Te gusta mi casa?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Mi casa no es gran cosa.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+¡pero para mí es como un palacio!</original>
+			<edited>&#xE;&#x3;%&#x0;Mi casa no es gran cosa.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+¡pero para mí es como un palacio!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Por fin estás aquí, terroncín.
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tenía muchas ganas de enseñarte
+mi hogar.</original>
+			<edited>&#xE;&#x3;%&#x0;Por fin estás aquí, terroncín.
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tenía muchas ganas de enseñarte
+mi hogar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Mira cuanto quieras, amor.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡No tengo nada que ocultar!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Mira cuanto quieras, amor.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡No tengo nada que ocultar!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Me alegro de que hayas encontrado
+un hueco para venir a visitarme,
+caramelito.</original>
+			<edited>&#xE;&#x3;%&#x0;Me alegro de que hayas encontrado
+un hueco para venir a visitarme,
+caramelito.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

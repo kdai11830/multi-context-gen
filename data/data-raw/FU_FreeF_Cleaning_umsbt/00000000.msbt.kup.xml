@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Today's the day to pull up all the
+weeds in town!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;$&#x0; And quite possibly
+a few flowers by mistake.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Today's the day to pull up all the
+weeds in town!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;$&#x0; And quite possibly
+a few flowers by mistake.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;A hard day spent pulling weeds can
+leave you tired but satisfied.</original>
+			<edited>&#xE;&#x3;%&#x0;A hard day spent pulling weeds can
+leave you tired but satisfied.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Stopping to pull up weeds all the
+time isn't fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but a day like today
+shows you why it's necessary!</original>
+			<edited>&#xE;&#x3;%&#x0;Stopping to pull up weeds all the
+time isn't fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but a day like today
+shows you why it's necessary!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Since today is the day for cleaning
+up the town,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I thought I'd clean up
+my room too!</original>
+			<edited>&#xE;&#x3;%&#x0;Since today is the day for cleaning
+up the town,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I thought I'd clean up
+my room too!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;It's so nice to live in a town where
+the residents pitch in together to
+keep it clean.
+I'll be doing my part too!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; Just not
+by pulling weeds.</original>
+			<edited>&#xE;&#x3;%&#x0;It's so nice to live in a town where
+the residents pitch in together to
+keep it clean.
+I'll be doing my part too!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; Just not
+by pulling weeds.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Pulling up weeds is boring,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but it's
+a necessary chore.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Thanks for
+taking care of it.&#xE;&#x0;&#x4;&#x0;We can't expect to attract visitors
+if the town gets too dirty or
+run down!</original>
+			<edited>&#xE;&#x3;%&#x0;Pulling up weeds is boring,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but it's
+a necessary chore.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Thanks for
+taking care of it.&#xE;&#x0;&#x4;&#x0;We can't expect to attract visitors
+if the town gets too dirty or
+run down!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

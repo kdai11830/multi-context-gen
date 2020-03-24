@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Happy New Year!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Here's to all the great times we'll
+have together in the new year,
+&#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Happy New Year!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Here's to all the great times we'll
+have together in the new year,
+&#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Happy New Year!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;May the new year
+treat you well, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Happy New Year!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;May the new year
+treat you well, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Happy New Year,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Here's to it being as fun as the last!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Happy New Year,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Here's to it being as fun as the last!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Happy New Year, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; May
+all your hopes and dreams for the
+new year come true!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Happy New Year, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; May
+all your hopes and dreams for the
+new year come true!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Happy New Year!&#xE;&#x7;&#x1;&#x0; Today is the
+beginning of a brand-new year, so&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;let's make it a good one!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Happy New Year!&#xE;&#x7;&#x1;&#x0; Today is the
+beginning of a brand-new year, so&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;let's make it a good one!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

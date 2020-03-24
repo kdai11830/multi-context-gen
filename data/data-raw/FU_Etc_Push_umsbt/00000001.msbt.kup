@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Oye! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡Eh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡¿Pero qué haces?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xC;&#x0;No me empujes así&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Oye! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡Eh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡¿Pero qué haces?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xC;&#x0;No me empujes así&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;¡Me haces daño cuando me empujas
+de esa manera!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;¡Si quieres algo de mí, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;háblame!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡No hace falta que casi me tires
+al suelo!&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;¡Me haces daño cuando me empujas
+de esa manera!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;¡Si quieres algo de mí, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;háblame!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡No hace falta que casi me tires
+al suelo!&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;¡Si te estoy molestando,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; dímelo!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xC;&#x0;¡Me parece muy mal que empujes
+así a los demás,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;¡Si te estoy molestando,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; dímelo!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xC;&#x0;¡Me parece muy mal que empujes
+así a los demás,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;¡AYYY!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xE;&#x0;¡No me empujes así!&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;¡AYYY!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xE;&#x0;¡No me empujes así!&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

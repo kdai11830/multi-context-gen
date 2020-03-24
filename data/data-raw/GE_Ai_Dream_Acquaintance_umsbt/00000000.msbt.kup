@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Wow! Is that YOU, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I somehow knew I'd bump into you
+again! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's been a long time!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Wow! Is that YOU, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I somehow knew I'd bump into you
+again! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's been a long time!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Whoa! It's &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;Meeting here? &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Of all places? &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;It's
+great to see you after so long!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Whoa! It's &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;Meeting here? &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Of all places? &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;It's
+great to see you after so long!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Ohmigosh! &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;My wish was granted! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I was thinking how much I missed
+you. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;And here you ARE, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Ohmigosh! &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;My wish was granted! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I was thinking how much I missed
+you. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;And here you ARE, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;No way! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;I was thinking, you know,
+just like this... &#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Thinking about you!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+And here you are, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;No way! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;I was thinking, you know,
+just like this... &#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Thinking about you!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+And here you are, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What?! Is that you, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;I'm so happy to see you again! It's
+like this is a dream or something!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What?! Is that you, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;I'm so happy to see you again! It's
+like this is a dream or something!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

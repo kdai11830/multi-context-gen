@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hi, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It looks like we're both feeling &#xE;&#x3;&amp;&#x0;extra
+cheerful this morning,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hi, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It looks like we're both feeling &#xE;&#x3;&amp;&#x0;extra
+cheerful this morning,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;We're lucky the weather is so nice
+today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;We're lucky the weather is so nice
+today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hi, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+What are you up to today?&#xE;&#x0;&#x4;&#x0;It's a great day to just walk around
+&#xE;&#x5;&#x5;&#x0; and take in the scenery,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;Hi, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+What are you up to today?&#xE;&#x0;&#x4;&#x0;It's a great day to just walk around
+&#xE;&#x5;&#x5;&#x0; and take in the scenery,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's so nice outside today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+it kind of makes me feel like
+sunbathing,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's so nice outside today,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+it kind of makes me feel like
+sunbathing,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hi again, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I hope you're enjoying this lovely
+weather.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hi again, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I hope you're enjoying this lovely
+weather.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;It's great that we've had so many
+chances to chat,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;It's great that we've had so many
+chances to chat,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Hello again, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;The weather was great today, huh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I got lots of fresh air,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3; &#x0;Hello again, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;The weather was great today, huh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I got lots of fresh air,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Wow!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It's already &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x4;&#x3;&#x0;?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Time flies when you're having fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; It's true.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Wow!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It's already &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x4;&#x3;&#x0;?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Time flies when you're having fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; It's true.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Yaaay,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it's &#xE;&#x5;&#x8;&#x0; again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;The sun might have gone to sleep,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+but that doesn't mean we have to!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Yaaay,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it's &#xE;&#x5;&#x8;&#x0; again&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;The sun might have gone to sleep,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+but that doesn't mean we have to!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I can't believe you're up so late!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Wow, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; You're just full of
+energy,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;I can't believe you're up so late!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Wow, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; You're just full of
+energy,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x19;&#x0;Yawn&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Oh, hey,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Aren't you sleepy, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x19;&#x0;Yawn&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Oh, hey,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Aren't you sleepy, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Wow!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I can't believe how late it is!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Today was just so much fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I lost
+track of time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Wow!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I can't believe how late it is!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Today was just so much fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I lost
+track of time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x8;&#x10;&#x2;&#x0;&#x2;&#x0;&#x1;&#x0;&#x1;&#x0;&#x1;&#x0;&#x1;&#x0;&#x1;&#x0;&#x1;&#x0;</original>
+			<edited>&#xE;
+&#x8;&#x10;&#x2;&#x0;&#x2;&#x0;&#x1;&#x0;&#x1;&#x0;&#x1;&#x0;&#x1;&#x0;&#x1;&#x0;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x8;&#x10;&#x4;&#x0;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</original>
+			<edited>&#xE;
+&#x8;&#x10;&#x4;&#x0;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

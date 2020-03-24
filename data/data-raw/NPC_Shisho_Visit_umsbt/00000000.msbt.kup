@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;hey, you.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You're the &#xE;&#x3;&#x17;&#x0;mayor of
+this town, right?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;hey, you.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You're the &#xE;&#x3;&#x17;&#x0;mayor of
+this town, right?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Sorry to drop by uninvited.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;I came here today to ask a
+favor of you, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor.</original>
+			<edited>&#xE;&#x3;$&#x0;Sorry to drop by uninvited.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;I came here today to ask a
+favor of you, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;You see,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;I was wondering if you'd
+let me open up shop in the shopping
+district&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;That's my request in a nutshell.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;So&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; what do you think?&#xE;&#xF;&#x6;&#x6;&#x15;&#x0;&#x0;&#x0;(&#x0;
+Sounds great!
+What kind of shop?
+Permission denied!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;You see,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;I was wondering if you'd
+let me open up shop in the shopping
+district&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;That's my request in a nutshell.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;So&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; what do you think?&#xE;&#xF;&#x6;&#x6;&#x15;&#x0;&#x0;&#x0;(&#x0;
+Sounds great!
+What kind of shop?
+Permission denied!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You mean it?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;You didn't even ask me what KIND
+of place I'm planning on opening&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you've got the natural
+rhythm of a world-class comedian!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You mean it?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;You didn't even ask me what KIND
+of place I'm planning on opening&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you've got the natural
+rhythm of a world-class comedian!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Still,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I SHOULD explain what kind
+of establishment I plan to open&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I want to bring &#xE;&#x3;&#x1;&#x0;entertainment
+to everyone in &#xE;&#x5;&#x6;&#x0; with
+a live venue: &#xE;&#x7;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hmmm.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You don't seem as
+excited&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x13;&#x0; as I thought you'd be&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;But&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;I'm not worried!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Seeing how
+easygoing you are, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I feel confident you'll love it!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;'&#x0;Still,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I SHOULD explain what kind
+of establishment I plan to open&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I want to bring &#xE;&#x3;&#x1;&#x0;entertainment
+to everyone in &#xE;&#x5;&#x6;&#x0; with
+a live venue: &#xE;&#x7;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hmmm.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You don't seem as
+excited&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x13;&#x0; as I thought you'd be&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;But&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;I'm not worried!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Seeing how
+easygoing you are, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I feel confident you'll love it!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>Anyway, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor, since you've
+agreed to my plan,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'll need a little
+more help&#xE;&#x3;#&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; to make it come true!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Truth is, &#xE;&#x3;	&#x0;I actually went down to
+the town hall and talked with your
+secretary, &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ, first.
+&#xE;&#x3;&#xB;&#x0;Live venues can be a little on
+the noisy side, and some people
+might complain about that&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;$&#x0;She said if I want to open one, I'd
+need permission from the mayor
+and signatures from some residents.
+&#xE;&#x3;&#x1;&#x0;Since you've given me the green
+light,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ALL that's left is to collect
+the signatures!</original>
+			<edited>Anyway, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor, since you've
+agreed to my plan,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'll need a little
+more help&#xE;&#x3;#&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; to make it come true!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Truth is, &#xE;&#x3;	&#x0;I actually went down to
+the town hall and talked with your
+secretary, &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ, first.
+&#xE;&#x3;&#xB;&#x0;Live venues can be a little on
+the noisy side, and some people
+might complain about that&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;$&#x0;She said if I want to open one, I'd
+need permission from the mayor
+and signatures from some residents.
+&#xE;&#x3;&#x1;&#x0;Since you've given me the green
+light,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ALL that's left is to collect
+the signatures!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>And I just happen to have...&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;That's right!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; A &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>And I just happen to have...&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;That's right!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; A &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;So get out there&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; and get me some
+signatures!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;                &#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;I was waiting for a response there.&#xE;&#x0;&#x4;&#x0;Did you shout,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+"DO IT YOURSELF!"&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; inside?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Maybe yes?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No? &#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;I see.
+&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;%&#x0;Regardless,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I really want to ask
+for your help with this, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;After all,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I think this would go a lot
+quicker &#xE;&#x3;&#x1;&#x0;if people were asked by
+someone familiar to them like you.
+It'd be weird if a stranger like me
+just started going up and saying,
+"HEY! Want a CLUB?!"</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;So get out there&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; and get me some
+signatures!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;                &#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;I was waiting for a response there.&#xE;&#x0;&#x4;&#x0;Did you shout,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+"DO IT YOURSELF!"&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; inside?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Maybe yes?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No? &#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;I see.
+&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;%&#x0;Regardless,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I really want to ask
+for your help with this, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;After all,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I think this would go a lot
+quicker &#xE;&#x3;&#x1;&#x0;if people were asked by
+someone familiar to them like you.
+It'd be weird if a stranger like me
+just started going up and saying,
+"HEY! Want a CLUB?!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;I've already talked with the other
+shop owners,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so all I need are &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;6&#xE;&#x0;&#x3;&#x2;ÿÿ
+signatures from town residents!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;I've already talked with the other
+shop owners,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so all I need are &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;6&#xE;&#x0;&#x3;&#x2;ÿÿ
+signatures from town residents!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>I'm &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;going to be preparing for the
+grand opening, so I'll probably
+be in the shopping district a lot&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;If you collect all the signatures or
+just need to talk to me,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; check there
+first. Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;thanks for the help!</original>
+			<edited>I'm &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;going to be preparing for the
+grand opening, so I'll probably
+be in the shopping district a lot&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;If you collect all the signatures or
+just need to talk to me,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; check there
+first. Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;thanks for the help!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you'll need a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ,
+won't you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;It's just that I can't GIVE you
+one at the moment.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I'll be preparing for the grand
+opening, so I'll probably be in
+the shopping district a lot&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;When you get a chance,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; come to
+the shopping district to pick up
+the sheet from me.
+I'll be &#xE;&#x3; &#x0;waiting for you!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you'll need a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ,
+won't you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;It's just that I can't GIVE you
+one at the moment.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I'll be preparing for the grand
+opening, so I'll probably be in
+the shopping district a lot&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;When you get a chance,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; come to
+the shopping district to pick up
+the sheet from me.
+I'll be &#xE;&#x3; &#x0;waiting for you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Have I &#xE;&#x3;&#x17;&#x0;PIQUED your interest?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; my plan is to&#xE;&#x3;&#x0;&#x0; bring some
+&#xE;&#x3;&#x1;&#x0;entertainment to everyone in
+&#xE;&#x5;&#x6;&#x0; with a live venue.
+I call it &#xE;&#x7;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hmmm.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You don't seem nearly
+as excited&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x13;&#x0; as I thought you'd be&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Have I &#xE;&#x3;&#x17;&#x0;PIQUED your interest?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; my plan is to&#xE;&#x3;&#x0;&#x0; bring some
+&#xE;&#x3;&#x1;&#x0;entertainment to everyone in
+&#xE;&#x5;&#x6;&#x0; with a live venue.
+I call it &#xE;&#x7;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hmmm.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You don't seem nearly
+as excited&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x13;&#x0; as I thought you'd be&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Get your imagination going,
+and picture it in your head!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Come on now!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You're getting more
+and more EXCITED about it, right?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's a great idea!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yeah, sounds great!
+I'm not sure...</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Get your imagination going,
+and picture it in your head!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Come on now!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; You're getting more
+and more EXCITED about it, right?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's a great idea!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yeah, sounds great!
+I'm not sure...</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Doesn't it?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x3;&#x0;I KNEW you'd feel that way!</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Doesn't it?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x3;&#x0;I KNEW you'd feel that way!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;What?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; It's like you put a big ol' NO
+stamp on my bright-pink forehead!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x14;&#x0;I can't believe &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;you'd say no like that
+without even listening to what kind
+of place I want to open up.
+That's...just awful&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;What?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; It's like you put a big ol' NO
+stamp on my bright-pink forehead!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x14;&#x0;I can't believe &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;you'd say no like that
+without even listening to what kind
+of place I want to open up.
+That's...just awful&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Maybe a cool, reserved mayor like
+yourself will warm up to my idea
+after you've heard it?
+&#xE;&#x3;'&#x0;After all,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; my plan is to&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;bring &#xE;&#x3;&#x1;&#x0;entertainment to everyone in
+&#xE;&#x5;&#x6;&#x0; with a live venue:
+&#xE;&#x7;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0; &#xE;&#x0;&#x2;&#x2;K&#x0;HA! And the crowd cheers!&#xE;&#x0;&#x2;&#x2;d&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Why do I feel like I'm still
+getting &#xE;&#x3;&#x13;&#x0;the cold shoulder&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Maybe a cool, reserved mayor like
+yourself will warm up to my idea
+after you've heard it?
+&#xE;&#x3;'&#x0;After all,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; my plan is to&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;bring &#xE;&#x3;&#x1;&#x0;entertainment to everyone in
+&#xE;&#x5;&#x6;&#x0; with a live venue:
+&#xE;&#x7;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0; &#xE;&#x0;&#x2;&#x2;K&#x0;HA! And the crowd cheers!&#xE;&#x0;&#x2;&#x2;d&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Why do I feel like I'm still
+getting &#xE;&#x3;&#x13;&#x0;the cold shoulder&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You've GOT to be kidding me!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I thought you'd love it for sure&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Man, what am I going to do now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+I can't open up the place without
+permission from the mayor&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You've GOT to be kidding me!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I thought you'd love it for sure&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Man, what am I going to do now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+I can't open up the place without
+permission from the mayor&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>Well, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;this isn't enough to break my
+spirits! Nope, not this ex-comedian!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I just gotta believe that someday
+you'll come around and understand
+what I'm trying to do for everyone!
+&#xE;&#x3;&#xB;&#x0;So I think for now I'll head to the
+shopping district to look for a good
+spot to eventually open shop&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;If you change your mind and decide
+to give me the OK,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; come find me in
+the shopping district.
+I hope &#xE;&#x3; &#x0;to be seeing you in the near
+future, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor!</original>
+			<edited>Well, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;this isn't enough to break my
+spirits! Nope, not this ex-comedian!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I just gotta believe that someday
+you'll come around and understand
+what I'm trying to do for everyone!
+&#xE;&#x3;&#xB;&#x0;So I think for now I'll head to the
+shopping district to look for a good
+spot to eventually open shop&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;If you change your mind and decide
+to give me the OK,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; come find me in
+the shopping district.
+I hope &#xE;&#x3; &#x0;to be seeing you in the near
+future, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor!</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks for gathering signatures!&#xE;&#x7;&#x1;&#x0;
+The fate of &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL &#xE;&#x0;&#x3;&#x2;ÿÿis in your
+generous hands!
+&#xE;&#x3;&#x0;&#x0;I'll be in the shopping district for
+a while,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so just bring the signatures
+there after you've collected them!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks for gathering signatures!&#xE;&#x7;&#x1;&#x0;
+The fate of &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL &#xE;&#x0;&#x3;&#x2;ÿÿis in your
+generous hands!
+&#xE;&#x3;&#x0;&#x0;I'll be in the shopping district for
+a while,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so just bring the signatures
+there after you've collected them!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm counting on you to get all the
+signatures for me!&#xE;&#x0;&#x4;&#x0;I plan on bumming around over in
+the shopping district,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so stop by
+to get the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet &#xE;&#x0;&#x3;&#x2;ÿÿlater.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm counting on you to get all the
+signatures for me!&#xE;&#x0;&#x4;&#x0;I plan on bumming around over in
+the shopping district,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so stop by
+to get the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet &#xE;&#x0;&#x3;&#x2;ÿÿlater.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm counting on you to get
+signatures for me!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It looks like I can give
+you the sheet right NOW.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Let me dig it out for you!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm counting on you to get
+signatures for me!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It looks like I can give
+you the sheet right NOW.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Let me dig it out for you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;That's the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ, so take
+it around to people in town and see
+if they'll sign it.
+&#xE;&#x3;&#x0;&#x0;I've already asked the shop owners
+in the shopping district,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so we just
+need signatures from &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;6 &#xE;&#x0;&#x3;&#x2;ÿÿresidents!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;That's the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ, so take
+it around to people in town and see
+if they'll sign it.
+&#xE;&#x3;&#x0;&#x0;I've already asked the shop owners
+in the shopping district,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so we just
+need signatures from &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;6 &#xE;&#x0;&#x3;&#x2;ÿÿresidents!</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>I believe that SOMEDAY you'll
+change your mind and agree to
+let me open up a live venue!
+&#xE;&#x3;&#x1;&#x0;I plan on sticking around the
+shopping district for a while.&#xE;&#x0;&#x4;&#x0;Come find me there when you DO
+eventually change your mind!</original>
+			<edited>I believe that SOMEDAY you'll
+change your mind and agree to
+let me open up a live venue!
+&#xE;&#x3;&#x1;&#x0;I plan on sticking around the
+shopping district for a while.&#xE;&#x0;&#x4;&#x0;Come find me there when you DO
+eventually change your mind!</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm counting on you to get those
+signatures for me!&#xE;&#x0;&#x4;&#x0;I plan on sticking around here for
+a while,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so come by to get the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet &#xE;&#x0;&#x3;&#x2;ÿÿat some point.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm counting on you to get those
+signatures for me!&#xE;&#x0;&#x4;&#x0;I plan on sticking around here for
+a while,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so come by to get the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet &#xE;&#x0;&#x3;&#x2;ÿÿat some point.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>Well, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;there's still lots to get done
+to prepare for the opening, so I'll
+be around here pretty often&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;If you finish collecting signatures
+or need me for something,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; come
+see if I'm here. I probably will be!
+I'm &#xE;&#x3; &#x0;counting on you! Good luck!</original>
+			<edited>Well, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;there's still lots to get done
+to prepare for the opening, so I'll
+be around here pretty often&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;If you finish collecting signatures
+or need me for something,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; come
+see if I'm here. I probably will be!
+I'm &#xE;&#x3; &#x0;counting on you! Good luck!</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hey, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;So?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Did you change your mind?&#xE;&#x7;&#x1;&#x0;
+Do I have your permission &#xE;&#x3;&#x17;&#x0;to open
+a live venue in &#xE;&#x5;&#x5;&#x0;?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Go for it!
+Permission denied!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hey, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;So?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Did you change your mind?&#xE;&#x7;&#x1;&#x0;
+Do I have your permission &#xE;&#x3;&#x17;&#x0;to open
+a live venue in &#xE;&#x5;&#x5;&#x0;?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Go for it!
+Permission denied!</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Aw, man&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. &#xE;&#x3;&#x6;&#x0;But I WON'T give up until
+you change your mind! Someday!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Aw, man&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. &#xE;&#x3;&#x6;&#x0;But I WON'T give up until
+you change your mind! Someday!</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;HO!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I just knew it!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x3;&#x0;I knew you'd see things MY
+way eventually!</original>
+			<edited>.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;HO!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I just knew it!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x3;&#x0;I knew you'd see things MY
+way eventually!</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;you'll need a &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ,
+won't you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Oh, it doesn't seem like I can give
+you one at the moment.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I'm going to be preparing for the
+grand opening, so I'll probably be
+here a lot&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;When you get a chance,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; come by
+to pick up the sheet from me.&#xE;&#x7;&#x1;&#x0;
+I'll be&#xE;&#x3; &#x0; waiting!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;you'll need a &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ,
+won't you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Oh, it doesn't seem like I can give
+you one at the moment.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I'm going to be preparing for the
+grand opening, so I'll probably be
+here a lot&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;When you get a chance,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; come by
+to pick up the sheet from me.&#xE;&#x7;&#x1;&#x0;
+I'll be&#xE;&#x3; &#x0; waiting!</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hey,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; how goes the signature
+collecting? You working hard?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+I got them all!
+It's coming along.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hey,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; how goes the signature
+collecting? You working hard?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+I got them all!
+It's coming along.</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Great!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Keep it up!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;After all,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; the fate of &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL&#xE;&#x0;&#x3;&#x2;ÿÿ
+&#xE;&#x3;&#x1;&#x0;is in your hands, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Great!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Keep it up!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;After all,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; the fate of &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club LOL&#xE;&#x0;&#x3;&#x2;ÿÿ
+&#xE;&#x3;&#x1;&#x0;is in your hands, &#xE;&#xE;&#x6;&#x10;&#x6;&#x0;M&#x0;r&#x0;.&#x0;&#x6;&#x0;M&#x0;s&#x0;.&#x0; Mayor!</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;REALLY?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Then&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; can you give me
+the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ?</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;REALLY?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Then&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; can you give me
+the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;signature sheet&#xE;&#x0;&#x3;&#x2;ÿÿ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Huh?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Is something wrong?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; all I can say is&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;keep at the
+signature collecting until you
+have them all!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Huh?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Is something wrong?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; all I can say is&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;keep at the
+signature collecting until you
+have them all!</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Huh&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;This is still blank!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;Geesh!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'm counting on you!
+Don't let me down now!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Huh&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;This is still blank!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;Geesh!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'm counting on you!
+Don't let me down now!</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Huh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;You don't have quite enough
+signatures yet&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I won't be able to get permission to
+open the place without &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;6&#xE;&#x0;&#x3;&#x2;ÿÿ signatures,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;so keep that in mind. And thanks!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Huh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;You don't have quite enough
+signatures yet&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I won't be able to get permission to
+open the place without &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;6&#xE;&#x0;&#x3;&#x2;ÿÿ signatures,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;so keep that in mind. And thanks!</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; You got them ALL for me!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;Awesome!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I'll take this and get everything
+going right away!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; You got them ALL for me!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;Awesome!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I'll take this and get everything
+going right away!</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>As long as I can get the permit I
+need,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; all that's left is to do the
+necessary construction!
+&#xE;&#x3;&#xB;&#x0;I'm not exactly sure when I'll be
+able to open to the public, though&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I'll do my best to hurry.
+&#xE;&#x3;&#x0;&#x0;I plan on opening my place in the
+basement here. Feel free to stop
+by anytime and see how it's going!
+OH! Before I forget&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Thank you very much!</original>
+			<edited>As long as I can get the permit I
+need,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; all that's left is to do the
+necessary construction!
+&#xE;&#x3;&#xB;&#x0;I'm not exactly sure when I'll be
+able to open to the public, though&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I'll do my best to hurry.
+&#xE;&#x3;&#x0;&#x0;I plan on opening my place in the
+basement here. Feel free to stop
+by anytime and see how it's going!
+OH! Before I forget&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Thank you very much!</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="061" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'll speed things up so that I can get
+the place open as soon as possible!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Keep an eye out for it!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'll speed things up so that I can get
+the place open as soon as possible!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Keep an eye out for it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="062" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;I'm positive I did the right thing
+by asking for your help!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;I'm positive I did the right thing
+by asking for your help!</edited>
+			<subEntries />
+		</entry>
+		<entry name="063" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm positive you'll have a great time
+in my new live venue,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so please
+come by once it's open!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm positive you'll have a great time
+in my new live venue,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so please
+come by once it's open!</edited>
+			<subEntries />
+		</entry>
+		<entry name="064" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="065" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

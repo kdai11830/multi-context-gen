@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ce magasin est très pratique, &#xE;&#x3;$&#x0;mais
+comment dire...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Tu vois ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Ce magasin est très pratique, &#xE;&#x3;$&#x0;mais
+comment dire...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Tu vois ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;C'est pas un magasin, c'est un
+mini-magasin ! &#xE;&#x3;&#x2;&#x0;HA HA HA !</original>
+			<edited>&#xE;&#x3;%&#x0;C'est pas un magasin, c'est un
+mini-magasin ! &#xE;&#x3;&#x2;&#x0;HA HA HA !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Ah !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'aime les magasins qui sont
+ouverts.</original>
+			<edited>&#xE;&#x3; &#x0;Ah !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'aime les magasins qui sont
+ouverts.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Les employés travaillent dur ici,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ce
+magasin gagne à être connu.</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Les employés travaillent dur ici,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ce
+magasin gagne à être connu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;T'as fait du chemin pour venir
+jusqu'ici, mais je suis pas sûr que ça
+en valait la peine. &#xE;&#x3;&#x1B;&#x0;Tant pis !</original>
+			<edited>&#xE;&#x3;$&#x0;T'as fait du chemin pour venir
+jusqu'ici, mais je suis pas sûr que ça
+en valait la peine. &#xE;&#x3;&#x1B;&#x0;Tant pis !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>C'est plutôt petit comme magasin,&#xE;&#x3;&#x15;&#x0;
+mais les employés se donnent du
+mal. Ils vont s'agrandir, c'est sûr !</original>
+			<edited>C'est plutôt petit comme magasin,&#xE;&#x3;&#x15;&#x0;
+mais les employés se donnent du
+mal. Ils vont s'agrandir, c'est sûr !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

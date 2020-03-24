@@ -1,0 +1,996 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Mayor &#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Mayor &#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>So, yes,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ms.&#xE;&#x0;&#x3;&#x2;&#x4;&#x0; Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ, right?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; She tells
+me, "The town's being swarmed
+with weeds! Please help me!"
+&#xE;&#x3;'&#x0;But there are just so many,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I think I
+must have fainted from the shock&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>So, yes,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ms.&#xE;&#x0;&#x3;&#x2;&#x4;&#x0; Isabelle&#xE;&#x0;&#x3;&#x2;ÿÿ, right?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; She tells
+me, "The town's being swarmed
+with weeds! Please help me!"
+&#xE;&#x3;'&#x0;But there are just so many,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I think I
+must have fainted from the shock&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#x4;&#x0;Take a look. Weeds all over! As far
+as the eye can see&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;	&#x4;(&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;...What in the world?&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Hey&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; The weeds are all gone&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh, I get it!&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;It must have been the
+mystical guardian of weeding!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+We're saved, &#xE;&#x5;&#x0;&#x0;! Rejoice!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#x4;&#x0;Take a look. Weeds all over! As far
+as the eye can see&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;	&#x4;(&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;...What in the world?&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Hey&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; The weeds are all gone&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh, I get it!&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;It must have been the
+mystical guardian of weeding!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+We're saved, &#xE;&#x5;&#x0;&#x0;! Rejoice!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm just so happy!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;,
+allow me to share some of the
+happy with you! Don't be shy!
+&#xE;&#x3;&#x1;&#x0;My, my. Have I got something good
+for YOU.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Come back when you have
+more room in your pockets!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;but I left my shop unattended,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;so come back here as soon as you
+absolutely can, OK?
+&#xE;&#x3;#&#x0;If you wait too long,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I might forget
+and go back to my shop instead!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm just so happy!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;,
+allow me to share some of the
+happy with you! Don't be shy!
+&#xE;&#x3;&#x1;&#x0;My, my. Have I got something good
+for YOU.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Come back when you have
+more room in your pockets!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;but I left my shop unattended,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;so come back here as soon as you
+absolutely can, OK?
+&#xE;&#x3;#&#x0;If you wait too long,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I might forget
+and go back to my shop instead!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Oh my! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm so happy!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;,
+please, allow me to share the happy
+with you right away!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Oh my! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm so happy!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;,
+please, allow me to share the happy
+with you right away!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>That right there happens
+to be &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;They're not usually for sale,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so they
+can be a difficult variety to grow.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;But if you can get it to bloom up
+nice,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I think the guardian of weeding
+will come and bless the town again!
+&#xE;&#x3;&#x1;&#x0;So, &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; be sure to plant
+that seed somewhere safe, yeah?</original>
+			<edited>That right there happens
+to be &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;They're not usually for sale,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so they
+can be a difficult variety to grow.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;But if you can get it to bloom up
+nice,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I think the guardian of weeding
+will come and bless the town again!
+&#xE;&#x3;&#x1;&#x0;So, &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; be sure to plant
+that seed somewhere safe, yeah?</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Look!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Weeds everywhere! Dear me!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;can only mean this town has
+been abandoned by the&#xE;&#x3;&#xC;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; mystical
+guardian of weeding&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+Hmmmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I know!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;How about we all work
+together to clean up the town!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It'll be faster that way, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;and the
+guardian of weeding may forgive us!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x17;&#x0;What do you think?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Will you help?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'm a little busy.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Look!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Weeds everywhere! Dear me!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;can only mean this town has
+been abandoned by the&#xE;&#x3;&#xC;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; mystical
+guardian of weeding&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+Hmmmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I know!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;How about we all work
+together to clean up the town!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It'll be faster that way, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;and the
+guardian of weeding may forgive us!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x17;&#x0;What do you think?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Will you help?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'm a little busy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#x4;&#x0;See? Weeds everywhere&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;-&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Wait. Have things cleaned up a bit?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. Maybe a little...&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#x4;&#x0;See? Weeds everywhere&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;-&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Wait. Have things cleaned up a bit?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. Maybe a little...&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#x4;&#x0;See? Weeds everywhere&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;-&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Hold up.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Maybe not?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#x4;&#x0;See? Weeds everywhere&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;-&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Hold up.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Maybe not?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Hmmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Could it be?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;The invisible and
+benevolent guardian of weeding has
+paid our humble town a visit!
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x3;&#x0;Phew, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm glad!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Perhaps this town
+will somehow bounce back after all!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;an idea!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;How about we work
+together to clean up the town?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It's quicker,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; and the guardian of
+weeding will be so pleased, too!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x17;&#x0;How about it?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Will you help us out?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'm a little busy.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Could it be?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;The invisible and
+benevolent guardian of weeding has
+paid our humble town a visit!
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x3;&#x0;Phew, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm glad!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Perhaps this town
+will somehow bounce back after all!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;an idea!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;How about we work
+together to clean up the town?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It's quicker,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; and the guardian of
+weeding will be so pleased, too!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x17;&#x0;How about it?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Will you help us out?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'm a little busy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;	&#x4;&#x1E;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;	&#x4;&#x1E;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I—&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;think I might pass out from the
+utter shock of it all&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I—&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;think I might pass out from the
+utter shock of it all&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;Hooray! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;That's great!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;OK, &#xE;&#x5;&#x0;&#x0;, I'll let you handle
+pulling out all the weeds!</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;Hooray! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;That's great!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;OK, &#xE;&#x5;&#x0;&#x0;, I'll let you handle
+pulling out all the weeds!</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>And then I&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;will count how many
+nasty weeds are left!</original>
+			<edited>And then I&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;will count how many
+nasty weeds are left!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Also, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;, since you've got 
+your friend here,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; perhaps you'll have
+some extra help!
+&#xE;&#x3;&#x0;&#x0;Meanwhile&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;I'll keep track of how
+many horrid weeds are left!</original>
+			<edited>&#xE;&#x3;'&#x0;Also, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;, since you've got 
+your friend here,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; perhaps you'll have
+some extra help!
+&#xE;&#x3;&#x0;&#x0;Meanwhile&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;I'll keep track of how
+many horrid weeds are left!</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Also, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;, since you've got 
+your friends here, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;you should see if
+you can get some extra help!
+&#xE;&#x3;&#x0;&#x0;And then I&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;will just keep track of
+how many are left!</original>
+			<edited>&#xE;&#x3;'&#x0;Also, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;, since you've got 
+your friends here, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;you should see if
+you can get some extra help!
+&#xE;&#x3;&#x0;&#x0;And then I&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;will just keep track of
+how many are left!</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Make sure you get them all.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Every
+weed! We want the town spotless!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;OK, here we go&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Make sure you get them all.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Every
+weed! We want the town spotless!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;OK, here we go&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;K&#x0; &#xE;&#x0;&#x2;&#x2;d&#x0;
+&#xE;&#x3;&#x1F;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;START!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;	&#x4;&#x1E;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;K&#x0; &#xE;&#x0;&#x2;&#x2;d&#x0;
+&#xE;&#x3;&#x1F;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;START!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;	&#x4;&#x1E;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Wha—?&#xE;&#x7;&#x1;&#x0; What am I doing in a
+heartless place like this&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Erm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ack!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I remember!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; The weeds!
+There are ever so many weeds!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Wha—?&#xE;&#x7;&#x1;&#x0; What am I doing in a
+heartless place like this&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Erm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ack!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I remember!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; The weeds!
+There are ever so many weeds!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;We've got a long
+way to go, but we can do it!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;We've got a long
+way to go, but we can do it!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;The task is getting
+tough, but let's keep at it!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;The task is getting
+tough, but let's keep at it!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;It may be difficult,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+but we're getting closer to our goal!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;It may be difficult,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+but we're getting closer to our goal!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;We're almost there!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Keep it up! Don't give in now!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;We're almost there!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Keep it up! Don't give in now!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;We're ever so close
+now!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Keep on keeping on!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;So &#xE;&#x4;	&#x2;&#x0;&#x0; left&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;We're ever so close
+now!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Keep on keeping on!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Leave it to me!
+I'd like to quit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;C'mon!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; We're doing so well.
+Just a little farther to go!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, I'll keep going!
+No, I'm done!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;C'mon!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; We're doing so well.
+Just a little farther to go!&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, I'll keep going!
+No, I'm done!</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Excellent!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'll be doing my best too,
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;counting those nasty weeds as you
+pluck them, &#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Excellent!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'll be doing my best too,
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;counting those nasty weeds as you
+pluck them, &#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Let's work hard to make sure there
+isn't a single weed left by dawn!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Here we go&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Let's work hard to make sure there
+isn't a single weed left by dawn!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Here we go&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Having said that, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I gotta get going
+after 6 a.m.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;We don't have a lot of time,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; but
+let's try to pluck every last weed
+by then!
+&#xE;&#x3;&#x0;&#x0;Here we go&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;'&#x0;Having said that, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I gotta get going
+after 6 a.m.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;We don't have a lot of time,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; but
+let's try to pluck every last weed
+by then!
+&#xE;&#x3;&#x0;&#x0;Here we go&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I want to share the happy with you,
+&#xE;&#x5;&#x0;&#x0;, so come back once you
+have some room in your pockets!
+&#xE;&#x3;&#x0;&#x0;But I've gotta go back to the store,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+so get back here quick as you can!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Otherwise, well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I might just forget
+and leave&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I want to share the happy with you,
+&#xE;&#x5;&#x0;&#x0;, so come back once you
+have some room in your pockets!
+&#xE;&#x3;&#x0;&#x0;But I've gotta go back to the store,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+so get back here quick as you can!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Otherwise, well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I might just forget
+and leave&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Wait up!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Looks like you've got room for your
+share of the happy now!&#xE;&#x7;&#x1;&#x0; OK, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;here
+ya go! Hope you like it!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Wait up!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Looks like you've got room for your
+share of the happy now!&#xE;&#x7;&#x1;&#x0; OK, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;here
+ya go! Hope you like it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;The number of weeds left is &#xE;&#x4;	&#x2;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;The place is practically spotless!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;I'd say this town is plenty clean,
+but&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;will you &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;stick it out till the
+very end?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+I'll do my best!
+I'm done!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;The number of weeds left is &#xE;&#x4;	&#x2;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;The place is practically spotless!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;I'd say this town is plenty clean,
+but&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;will you &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;stick it out till the
+very end?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+I'll do my best!
+I'm done!</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;That's great!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;There's only a bit
+more to go, so hang in there until
+it's all done!</original>
+			<edited>&#xE;&#x3;&amp;&#x0;That's great!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;There's only a bit
+more to go, so hang in there until
+it's all done!</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;I sure do understand!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;We've already
+worked lots today, so let's just go
+ahead and wrap this up!</original>
+			<edited>&#xE;&#x3;&amp;&#x0;I sure do understand!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;We've already
+worked lots today, so let's just go
+ahead and wrap this up!</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;howdy!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;So &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;right now I'm doing just a bit
+of weeding with &#xE;&#x5;$&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;Maybe if you're a little interested,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+you'd be really great and help out!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;howdy!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;So &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;right now I'm doing just a bit
+of weeding with &#xE;&#x5;$&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;Maybe if you're a little interested,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+you'd be really great and help out!</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Me and &#xE;&#x5;$&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; right now we're
+just out doing some light weeding!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;If it's not too much to ask,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; it'd be
+ever so great if you helped out!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Me and &#xE;&#x5;$&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; right now we're
+just out doing some light weeding!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;If it's not too much to ask,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; it'd be
+ever so great if you helped out!</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;-&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Zzzzzz&#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Weeds&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Weeds everywhere&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;-&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Zzzzzz&#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Weeds&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Weeds everywhere&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;-&#x0;Shooo, weeds&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;&#x19;&#x0;&#xE;&#x7;&#x0;&#x4;x&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;	&#x4;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Ah!&#xE;&#x7;	&#x4;-&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;-&#x0;Shooo, weeds&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;&#x19;&#x0;&#xE;&#x7;&#x0;&#x4;x&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;	&#x4;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Ah!&#xE;&#x7;	&#x4;-&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; That was certainly
+some mighty happy work out there!</original>
+			<edited>&#xE;&#x3; &#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; That was certainly
+some mighty happy work out there!</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;What'd I tell you! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Because we both
+worked together,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; things got cleaned
+up in no time at all!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;What'd I tell you! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Because we both
+worked together,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; things got cleaned
+up in no time at all!</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;Thanks to our hard work,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; the whole
+town is completely spotless!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;Thanks to our hard work,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; the whole
+town is completely spotless!</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;Since the two of us were able to
+work together,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; we got the town
+clean in no time flat!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;Since the two of us were able to
+work together,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; we got the town
+clean in no time flat!</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;This place looks so much better,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+but only because the two of us
+worked so hard to keep it clean!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;This place looks so much better,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+but only because the two of us
+worked so hard to keep it clean!</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;This place looks so much better,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+but only because we spent so much
+time cleaning it up!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;This place looks so much better,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+but only because we spent so much
+time cleaning it up!</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;This place looks so much better,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+but only because we spent a ton
+of time cleaning it up!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;This place looks so much better,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+but only because we spent a ton
+of time cleaning it up!</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;Because we took our time and did it
+right,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; the whole town is completely
+spotless and clean!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;Because we took our time and did it
+right,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; the whole town is completely
+spotless and clean!</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;It certainly took forever,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; but now
+the whole town is spotless!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;It certainly took forever,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; but now
+the whole town is spotless!</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Oh yes, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;and your extra friend's help
+made all the difference, &#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>&#xE;&#x3;'&#x0;Oh yes, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;and your extra friend's help
+made all the difference, &#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;I-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm so unbelievably happy!&#xE;&#x0;&#x4;&#x0;I must share this happy with you
+right away, &#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;I-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm so unbelievably happy!&#xE;&#x0;&#x4;&#x0;I must share this happy with you
+right away, &#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I know!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I've got something rather
+good,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so come back when you have
+some room in your pockets!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; but I left the store unmanned,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;so come back quickly, yeah?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Otherwise, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I might forget and leave.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I know!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I've got something rather
+good,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so come back when you have
+some room in your pockets!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; but I left the store unmanned,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;so come back quickly, yeah?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Otherwise, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I might forget and leave.</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Got it!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I have something for you
+that's equal to my happiness!&#xE;&#x0;&#x4;&#x0;Here!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; It's your share of the happy!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Got it!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;I have something for you
+that's equal to my happiness!&#xE;&#x0;&#x4;&#x0;Here!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; It's your share of the happy!</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>So you see, that there, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;why, that's
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;I'm rather crazy about flowers, so I
+thought I'd try making some flower
+furniture in my free time.
+&#xE;&#x3;&#x1;&#x0;Set it up in your home if it perfectly
+strikes your fancy, &#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>So you see, that there, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;why, that's
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;I'm rather crazy about flowers, so I
+thought I'd try making some flower
+furniture in my free time.
+&#xE;&#x3;&#x1;&#x0;Set it up in your home if it perfectly
+strikes your fancy, &#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>That there, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;that is in actuality
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It's super delicious to eat, but I'd
+recommend planting it and taking
+care to let it grow into a new tree!</original>
+			<edited>That there, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;that is in actuality
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It's super delicious to eat, but I'd
+recommend planting it and taking
+care to let it grow into a new tree!</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>Oh yes, that right there is actually&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;They aren't usually sold. Plus you'll
+find them pretty hard to grow.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, try planting it if you're
+up to the challenge!</original>
+			<edited>Oh yes, that right there is actually&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;They aren't usually sold. Plus you'll
+find them pretty hard to grow.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, try planting it if you're
+up to the challenge!</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>Oh, yes, yes, yes, that is actually
+some &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;If you bury it next to a flower or
+tree, it will help it to grow! &#xE;&#x3;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, try using it sometime!</original>
+			<edited>Oh, yes, yes, yes, that is actually
+some &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;If you bury it next to a flower or
+tree, it will help it to grow! &#xE;&#x3;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, try using it sometime!</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x4;&#x0;&#xE;&#x3;&#x19;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Phew&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;I really worked hard out there.
+I guess I'm kinda tired now.</original>
+			<edited>&#xE;&#x7;&#x4;&#x0;&#xE;&#x3;&#x19;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Phew&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;I really worked hard out there.
+I guess I'm kinda tired now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Right,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; well, I think I'm gonna take a
+little break and then head on back
+to the flower shop.</original>
+			<edited>&#xE;&#x3; &#x0;Right,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; well, I think I'm gonna take a
+little break and then head on back
+to the flower shop.</edited>
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="061" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Welcome to &#xE;&#x5;&#x5;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;$&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; and I were actually just
+doing some weeding out here today!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Enjoy your stay in clean and shiny
+&#xE;&#x5;&#x5;&#x0;!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Welcome to &#xE;&#x5;&#x5;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;$&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; and I were actually just
+doing some weeding out here today!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Enjoy your stay in clean and shiny
+&#xE;&#x5;&#x5;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="062" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; welcome to &#xE;&#x5;&#x5;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;$&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; and I were actually just
+doing some weeding out here today!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Oh, right!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;You...&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you helped us out a
+bit, yeah?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Thank you, thank you!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; welcome to &#xE;&#x5;&#x5;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;$&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; and I were actually just
+doing some weeding out here today!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Oh, right!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;You...&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you helped us out a
+bit, yeah?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Thank you, thank you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="063" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;For helping out, I wanna give you
+something happy.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Come back when
+you've got room in your pockets!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;and I'm kind of forgetful, &#xE;&#x3;#&#x0;so
+don't leave town or anything!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Come
+right back before my memory slips!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;For helping out, I wanna give you
+something happy.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Come back when
+you've got room in your pockets!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;and I'm kind of forgetful, &#xE;&#x3;#&#x0;so
+don't leave town or anything!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Come
+right back before my memory slips!</edited>
+			<subEntries />
+		</entry>
+		<entry name="064" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Well then, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;enjoy your visit here in
+clean and happy &#xE;&#x5;&#x5;&#x0;!</original>
+			<edited>&#xE;&#x3; &#x0;Well then, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;enjoy your visit here in
+clean and happy &#xE;&#x5;&#x5;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="065" offset="00" relocatable="true" max_length="0">
+			<original>Phew!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; We just now finished with all
+of the weeding!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Well then, enjoy your stay in clean
+and happy &#xE;&#x5;&#x5;&#x0;!</original>
+			<edited>Phew!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; We just now finished with all
+of the weeding!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Well then, enjoy your stay in clean
+and happy &#xE;&#x5;&#x5;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="066" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; if it isn't &#xE;&#x5;&#x0;&#x0; all
+the way from &#xE;&#x5;&#x6;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;We just now finished our weeding!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Oh, right! &#xE;&#x3;&#x0;&#x0;You...&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you also helped out?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Yes, right! Thank you, thank you!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; if it isn't &#xE;&#x5;&#x0;&#x0; all
+the way from &#xE;&#x5;&#x6;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;We just now finished our weeding!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Oh, right! &#xE;&#x3;&#x0;&#x0;You...&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you also helped out?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Yes, right! Thank you, thank you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="067" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; it's &#xE;&#x5;&#x0;&#x0; all the
+way from &#xE;&#x5;&#x6;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Wait up, now!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It looks like you've finally got room
+for my gift!&#xE;&#x7;&#x1;&#x0; OK, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;here you go! Enjoy!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; it's &#xE;&#x5;&#x0;&#x0; all the
+way from &#xE;&#x5;&#x6;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Wait up, now!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It looks like you've finally got room
+for my gift!&#xE;&#x7;&#x1;&#x0; OK, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;here you go! Enjoy!</edited>
+			<subEntries />
+		</entry>
+		<entry name="068" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I know!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Let me give you something
+nice for helping out with weeding!&#xE;&#x0;&#x4;&#x0;OK!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; There you go!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I know!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Let me give you something
+nice for helping out with weeding!&#xE;&#x0;&#x4;&#x0;OK!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; There you go!</edited>
+			<subEntries />
+		</entry>
+		<entry name="069" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="071" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Mmmm, tidy town, tidy mind...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Mmmm, tidy town, tidy mind...</edited>
+			<subEntries />
+		</entry>
+		<entry name="072" offset="00" relocatable="true" max_length="0">
+			<original>Oh, hey, &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you should
+come see me at my store too!</original>
+			<edited>Oh, hey, &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you should
+come see me at my store too!</edited>
+			<subEntries />
+		</entry>
+		<entry name="073" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x19;&#x0;I worked so hard today. I'm gonna
+sleep like a sloth&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x19;&#x0;I worked so hard today. I'm gonna
+sleep like a sloth&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="074" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I hope the guardian of weeding will
+show favor and continue to keep
+the town so clean and happy!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I hope the guardian of weeding will
+show favor and continue to keep
+the town so clean and happy!</edited>
+			<subEntries />
+		</entry>
+		<entry name="075" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="076" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Enjoy your happy stay in clean
+and tidy &#xE;&#x5;&#x5;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Enjoy your happy stay in clean
+and tidy &#xE;&#x5;&#x5;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="077" offset="00" relocatable="true" max_length="0">
+			<original>I usually run a flower shop over on
+Main Street.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Why not come by and
+visit sometime, OK?</original>
+			<edited>I usually run a flower shop over on
+Main Street.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Why not come by and
+visit sometime, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="078" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thank you so much for your help
+with all the nasty weeds.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thank you so much for your help
+with all the nasty weeds.</edited>
+			<subEntries />
+		</entry>
+		<entry name="079" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x19;&#x0;Now that everything is all tidied up,
+I feel happy again.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Sleepy too&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x19;&#x0;Now that everything is all tidied up,
+I feel happy again.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Sleepy too&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="080" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="081" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Welcome to &#xE;&#x5;&#x5;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Today this town was super weedy,
+but good fortune and helping hands
+made the place all tidy and happy!
+&#xE;&#x3;&#x1;&#x0;Please take some time to enjoy
+&#xE;&#x5;&#x5;&#x0; in all its cleanly glory!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Welcome to &#xE;&#x5;&#x5;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Today this town was super weedy,
+but good fortune and helping hands
+made the place all tidy and happy!
+&#xE;&#x3;&#x1;&#x0;Please take some time to enjoy
+&#xE;&#x5;&#x5;&#x0; in all its cleanly glory!</edited>
+			<subEntries />
+		</entry>
+		<entry name="082" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Heya heya!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Welcome to &#xE;&#x5;&#x5;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Today this town was super weedy,
+but enough love banded together
+and now the place is tidy and happy!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;OH!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0; &#xE;&#x3;&#x0;&#x0;Would you happen to be one
+of the &#xE;&#x3;&#x17;&#x0;lovely special helpers?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;You must be!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'm sure you helped
+out with the weed pulling today!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Thank you very much!</original>
+			<edited>&#xE;&#x3; &#x0;Heya heya!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Welcome to &#xE;&#x5;&#x5;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Today this town was super weedy,
+but enough love banded together
+and now the place is tidy and happy!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;OH!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0; &#xE;&#x3;&#x0;&#x0;Would you happen to be one
+of the &#xE;&#x3;&#x17;&#x0;lovely special helpers?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;You must be!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'm sure you helped
+out with the weed pulling today!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Thank you very much!</edited>
+			<subEntries />
+		</entry>
+		<entry name="083" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="084" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="085" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

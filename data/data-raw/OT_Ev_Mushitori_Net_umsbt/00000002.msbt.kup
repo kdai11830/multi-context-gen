@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; C'est que je suis occupée pour
+le moment. &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;Nous parlerons une fois
+prochaine, si tu veux bien.&#xE;&#xB;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;	&#x0;Oh...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; C'est que je suis occupée pour
+le moment. &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;Nous parlerons une fois
+prochaine, si tu veux bien.&#xE;&#xB;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Chut ! &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;Tu vas effrayer les insectes !&#xE;&#xB;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;	&#x0;Chut ! &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;Tu vas effrayer les insectes !&#xE;&#xB;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x7;&#x0;Hé !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; C'est MON insecte ! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;Va chasser
+ailleurs !&#xE;&#xB;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;&#x7;&#x0;Hé !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; C'est MON insecte ! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;Va chasser
+ailleurs !&#xE;&#xB;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

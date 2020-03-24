@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Since I've been caught,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'm just
+gonna wait here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Since I've been caught,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'm just
+gonna wait here,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;I'm trying to figure out why I was
+found&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;I'm trying to figure out why I was
+found&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;You're good at hide-and-seek!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1C;&#x0;But can you find everyone
+else too?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;You're good at hide-and-seek!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1C;&#x0;But can you find everyone
+else too?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Huh?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; So you weren't able to find
+everyone, huh, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; too bad, 'cause time's up!</original>
+			<edited>Huh?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; So you weren't able to find
+everyone, huh, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; too bad, 'cause time's up!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

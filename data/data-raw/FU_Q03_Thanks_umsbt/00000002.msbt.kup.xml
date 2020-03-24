@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai hâte de la déterrer !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Enfin, comme je ne sais pas trop où
+tu l'as enterrée, j'ai surtout hâte
+que tu m'aides à la retrouver...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai hâte de la déterrer !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Enfin, comme je ne sais pas trop où
+tu l'as enterrée, j'ai surtout hâte
+que tu m'aides à la retrouver...</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Mais n'en parle
+à personne, c'est bien compris ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Ce sera notre petit secret !&#xE;&#x0;&#x4;&#x0;Au fait...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je risque d'avoir besoin de
+toi au moment de la déterrer...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu
+m'aideras, pas vrai ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Mais n'en parle
+à personne, c'est bien compris ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Ce sera notre petit secret !&#xE;&#x0;&#x4;&#x0;Au fait...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je risque d'avoir besoin de
+toi au moment de la déterrer...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu
+m'aideras, pas vrai ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Merci beaucoup ! Rayon gentillesse,
+personne ne t'arrive à la cheville,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Merci beaucoup ! Rayon gentillesse,
+personne ne t'arrive à la cheville,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

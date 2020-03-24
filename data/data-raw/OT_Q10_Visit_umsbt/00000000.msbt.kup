@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;I'm right in the middle of a game
+of hide-and-seek, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;so please don't
+tell &#xE;&#x11;&#x0;&#x2;&#x0;&#x0; where I am!</original>
+			<edited>&#xE;&#x3;	&#x0;I'm right in the middle of a game
+of hide-and-seek, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;so please don't
+tell &#xE;&#x11;&#x0;&#x2;&#x0;&#x0; where I am!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;I'm playing hide-and-seek right now,
+and I'm hiding, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;if you couldn't tell.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Can you come back later?</original>
+			<edited>&#xE;&#x3;	&#x0;I'm playing hide-and-seek right now,
+and I'm hiding, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;if you couldn't tell.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Can you come back later?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;I've been caught! &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;never mind.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I thought you were &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;.
+We're playing hide-and-seek.</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;I've been caught! &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;never mind.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I thought you were &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;.
+We're playing hide-and-seek.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;Gah! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;What's happening? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;What are
+you doing?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;Gah! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;What's happening? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;What are
+you doing?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

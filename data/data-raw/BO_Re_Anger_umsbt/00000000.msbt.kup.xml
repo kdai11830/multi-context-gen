@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x8;&#x0;&#xE;&#xD;&#x4;&#x2;&#x2;ÍI'm so mad,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'm about to blow
+my stack!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Everyone better watch
+out!&#xE;&#xD;&#x5;&#x0;</original>
+			<edited>&#xE;&#x3;&#x8;&#x0;&#xE;&#xD;&#x4;&#x2;&#x2;ÍI'm so mad,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'm about to blow
+my stack!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Everyone better watch
+out!&#xE;&#xD;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xD;&#x4;&#x2;&#x2;Í&#xE;&#x3;&#x8;&#x0;&#xE;&#x7;&#xB;&#x0;GRRRR!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Even I get mad sometimes!&#xE;&#xD;&#x5;&#x0;</original>
+			<edited>&#xE;&#xD;&#x4;&#x2;&#x2;Í&#xE;&#x3;&#x8;&#x0;&#xE;&#x7;&#xB;&#x0;GRRRR!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Even I get mad sometimes!&#xE;&#xD;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xD;&#x4;&#x2;&#x2;Í&#xE;&#x3;&#x8;&#x0;I'm steamed!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Like a big, mad
+teakettle!&#xE;&#xD;&#x5;&#x0;</original>
+			<edited>&#xE;&#xD;&#x4;&#x2;&#x2;Í&#xE;&#x3;&#x8;&#x0;I'm steamed!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Like a big, mad
+teakettle!&#xE;&#xD;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xD;&#x4;&#x2;&#x2;Í&#xE;&#x3;&#x6;&#x0;Gaargh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x8;&#x0;&#xE;&#x7;&#xB;&#x0;Everyone better stay outta
+my way!&#xE;&#xD;&#x5;&#x0;</original>
+			<edited>&#xE;&#xD;&#x4;&#x2;&#x2;Í&#xE;&#x3;&#x6;&#x0;Gaargh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x8;&#x0;&#xE;&#x7;&#xB;&#x0;Everyone better stay outta
+my way!&#xE;&#xD;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

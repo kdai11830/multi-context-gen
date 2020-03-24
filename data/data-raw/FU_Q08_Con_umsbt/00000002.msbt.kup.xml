@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Entendu, je passe te voir à &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h&#xE;&#x0;&#x3;&#x2;ÿÿ !
+Je sens qu'on va bien s'amuser !</original>
+			<edited>Entendu, je passe te voir à &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h&#xE;&#x0;&#x3;&#x2;ÿÿ !
+Je sens qu'on va bien s'amuser !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Alors on est d'accord ? On se voit
+à &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h &#xE;&#x4;&#x11;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ ?&#xE;&#x7;&#x1;&#x0; À tout à l'heure,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>Alors on est d'accord ? On se voit
+à &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í h &#xE;&#x4;&#x11;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ ?&#xE;&#x7;&#x1;&#x0; À tout à l'heure,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

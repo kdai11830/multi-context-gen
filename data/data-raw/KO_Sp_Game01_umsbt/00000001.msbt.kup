@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Vale,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿estamos listos?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;¡Solo tienes &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;un &#xE;&#x0;&#x3;&#x2;ÿÿintento!</original>
+			<edited>Vale,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿estamos listos?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;¡Solo tienes &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;un &#xE;&#x0;&#x3;&#x2;ÿÿintento!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>¿Listos?&#xE;&#x7;&#x1;&#x0; El primero que consiga
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; &#xE;&#xE;	&lt;&#x0;Í&#x12;&#x0;v&#x0;i&#x0;c&#x0;t&#x0;o&#x0;r&#x0;i&#x0;a&#x0;s&#x0;&#x10;&#x0;v&#x0;i&#x0;c&#x0;t&#x0;o&#x0;r&#x0;i&#x0;a&#x0;&#x12;&#x0;v&#x0;i&#x0;c&#x0;t&#x0;o&#x0;r&#x0;i&#x0;a&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; gana.</original>
+			<edited>¿Listos?&#xE;&#x7;&#x1;&#x0; El primero que consiga
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; &#xE;&#xE;	&lt;&#x0;Í&#x12;&#x0;v&#x0;i&#x0;c&#x0;t&#x0;o&#x0;r&#x0;i&#x0;a&#x0;s&#x0;&#x10;&#x0;v&#x0;i&#x0;c&#x0;t&#x0;o&#x0;r&#x0;i&#x0;a&#x0;&#x12;&#x0;v&#x0;i&#x0;c&#x0;t&#x0;o&#x0;r&#x0;i&#x0;a&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; gana.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>A la de una... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;A la de dos&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Piedra
+Tijera
+Papel</original>
+			<edited>A la de una... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;A la de dos&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Piedra
+Tijera
+Papel</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>
+            &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;¡PIEDRA!&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+            &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;¡PIEDRA!&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>
+             &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;¡TIJERA!&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+             &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;¡TIJERA!&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>
+            &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;¡PAPEL!&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+            &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;¡PAPEL!&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;)&#x0;¡Vaya, hombre!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;)&#x0;¡Vaya, hombre!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¿Huy? Hemos empatado.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;¡Repetimos!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¿Huy? Hemos empatado.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;¡Repetimos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;¡Fantástico!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3; &#x0;¡Fantástico!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Pues&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1B;&#x0;Has ganado.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</original>
+			<edited>Pues&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1B;&#x0;Has ganado.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Entonces&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡Gano yo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>Entonces&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡Gano yo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

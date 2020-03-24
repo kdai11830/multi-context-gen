@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Allez, cherche ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;C'est pas terminé,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Allez, cherche ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;C'est pas terminé,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;La partie est pas terminée,
+&#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;#&#x0;La partie est pas terminée,
+&#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1C;&#x0;Tu m'expliques pourquoi t'es pas en
+train de chercher, steuplaît ? C'est
+pas terminé !</original>
+			<edited>&#xE;&#x3;&#x1C;&#x0;Tu m'expliques pourquoi t'es pas en
+train de chercher, steuplaît ? C'est
+pas terminé !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Le chrono est arrivé à zéro ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oh,
+c'est trop dommage !</original>
+			<edited>&#xE;&#x3;	&#x0;Le chrono est arrivé à zéro ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oh,
+c'est trop dommage !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

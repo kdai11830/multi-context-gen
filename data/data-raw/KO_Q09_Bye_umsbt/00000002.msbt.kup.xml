@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;On se revoit plus tard.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; La prochaine
+fois, c'est toi qui me montres ta
+maison !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;On se revoit plus tard.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; La prochaine
+fois, c'est toi qui me montres ta
+maison !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Au revoir, et à la prochaine.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Au revoir, et à la prochaine.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'est sympa d'être passé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'est sympa d'être passé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Quoi ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Tu t'en vas déjà ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;T'as
+même pas fouillé dans les placards !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Quoi ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Tu t'en vas déjà ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;T'as
+même pas fouillé dans les placards !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Qu'est-ce qui se passe,
+&#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Tu t'en vas sans rien
+dire ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Mais dis quelque chose !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Qu'est-ce qui se passe,
+&#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Tu t'en vas sans rien
+dire ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Mais dis quelque chose !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hé ho, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu t'en vas déjà ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Reste au
+moins un peu pour me faire la
+conversation !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hé ho, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu t'en vas déjà ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Reste au
+moins un peu pour me faire la
+conversation !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

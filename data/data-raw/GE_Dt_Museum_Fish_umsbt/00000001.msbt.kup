@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ojalá tuviera cola de pez.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¡Sería la sirena más mona de todo
+el océano, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ojalá tuviera cola de pez.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¡Sería la sirena más mona de todo
+el océano, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Me encantaría ser un pez para
+poder bailar bajo el agua!
+¡Sería lo más, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Me encantaría ser un pez para
+poder bailar bajo el agua!
+¡Sería lo más, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;¡Mira cuántos peces juntos!
+&#xE;&#x3;&#x2;&#x0;¡La de fiestas que montarán
+ahí dentro, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;¡Mira cuántos peces juntos!
+&#xE;&#x3;&#x2;&#x0;¡La de fiestas que montarán
+ahí dentro, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Este sitio es estupén! ¡Debe de ser
+una chulada vivir bajo el mar,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Este sitio es estupén! ¡Debe de ser
+una chulada vivir bajo el mar,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Ser un pez suena chupi, pero no
+podría vestirme con ropa cuca.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡Una vida sin moda no es vida!</original>
+			<edited>Ser un pez suena chupi, pero no
+podría vestirme con ropa cuca.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡Una vida sin moda no es vida!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

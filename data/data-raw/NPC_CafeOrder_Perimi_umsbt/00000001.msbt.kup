@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Un café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por favor.</original>
+			<edited>Un café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por favor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Un café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por favor.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(El kilimanjaro tiene buena pinta.)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Un café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por favor.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(El kilimanjaro tiene buena pinta.)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Un café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por favor.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Y espero que no tenga leche.)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Un café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por favor.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Y espero que no tenga leche.)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Un café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por favor.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Y más le vale que sea sin azúcar.)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Un café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por favor.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Y más le vale que sea sin azúcar.)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Gracias.</original>
+			<edited>Gracias.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Gracias.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Mmm,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; no está nada mal.)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Gracias.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Mmm,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; no está nada mal.)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Gracias.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Pero me da que no es kilimanjaro.)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Gracias.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Pero me da que no es kilimanjaro.)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Gracias.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¿Por qué hay leche en mi café?)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Gracias.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¿Por qué hay leche en mi café?)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Gracias.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¿Por qué hay azúcar en mi café?)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Gracias.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¿Por qué hay azúcar en mi café?)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Adiós muy buenas.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¿Qué? ¡¿Qué es esto?!
+Además de azúcar... ¡¿leche?!)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Adiós muy buenas.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¿Qué? ¡¿Qué es esto?!
+Además de azúcar... ¡¿leche?!)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Adiós muy buenas.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¡Puaj! ¡Este no es el tipo de café
+que quería, y encima está dulce!)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Adiós muy buenas.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¡Puaj! ¡Este no es el tipo de café
+que quería, y encima está dulce!)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Adiós muy buenas.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Yo no quería leche...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¡y no me gusta
+este tipo de café! ¿Acaso me odia?)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Adiós muy buenas.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Yo no quería leche...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¡y no me gusta
+este tipo de café! ¿Acaso me odia?)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Adiós muy buenas.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¡Puaj! ¡¿Qué es esta cosa que sabe
+a rayos?! Ay, qué mala pata tengo...)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Hum.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0; Adiós muy buenas.
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(¡Puaj! ¡¿Qué es esta cosa que sabe
+a rayos?! Ay, qué mala pata tengo...)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

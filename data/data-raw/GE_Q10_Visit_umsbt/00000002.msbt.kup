@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Quoi ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu m'as trouvée ?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oh, mais
+attends&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. Tu joues pas, toi d'abord !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Chuuuut ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je suis en train de jouer à
+cache-cache, &#xE;&#x5;&#x7;&#x0; ! Je
+veux pas qu'on me trouve...</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Quoi ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu m'as trouvée ?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oh, mais
+attends&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. Tu joues pas, toi d'abord !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Chuuuut ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je suis en train de jouer à
+cache-cache, &#xE;&#x5;&#x7;&#x0; ! Je
+veux pas qu'on me trouve...</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Chuuut ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;On est en pleine partie de
+cache-cache !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Je peux pas trop te parler là...</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Chuuut ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;On est en pleine partie de
+cache-cache !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Je peux pas trop te parler là...</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Pas si fort, steuplaît !!! Je suis en
+train de jouer à cache-cache là, ça
+se voit pas ?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Pas si fort, steuplaît !!! Je suis en
+train de jouer à cache-cache là, ça
+se voit pas ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;HÉÉÉ ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je me cache où, maintenant,
+moi ?!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;HÉÉÉ ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je me cache où, maintenant,
+moi ?!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

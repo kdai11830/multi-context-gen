@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;You win this time, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Here! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Take this prize!</original>
+			<edited>&#xE;&#x3;
+&#x0;You win this time, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Here! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Take this prize!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmm. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You're good, &#xE;&#x5;&#x8;&#x0;.
+&#xE;&#x3;&#x0;&#x0;Almost&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;too good!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;here's a prize for you!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmm. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You're good, &#xE;&#x5;&#x8;&#x0;.
+&#xE;&#x3;&#x0;&#x0;Almost&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;too good!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;here's a prize for you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;OK, be honest&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Have you had some
+special hide-and-seek training?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Take this prize anyway!</original>
+			<edited>&#xE;&#x3;$&#x0;OK, be honest&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Have you had some
+special hide-and-seek training?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Take this prize anyway!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

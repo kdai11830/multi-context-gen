@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hé, c'est perdu,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;#&#x0;Mais
+tu as au moins trouvé quelqu'un !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+J'espère que ça te console !</original>
+			<edited>&#xE;&#x3;%&#x0;Hé, c'est perdu,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;#&#x0;Mais
+tu as au moins trouvé quelqu'un !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+J'espère que ça te console !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;La prochaine fois tu devrais plutôt
+essayer de te cacher.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Même si c'est pas aussi évident que
+ça en a l'air,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;$&#x0;La prochaine fois tu devrais plutôt
+essayer de te cacher.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Même si c'est pas aussi évident que
+ça en a l'air,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Allons, &#xE;&#x5;&#x8;&#x0;, cette défaite ne
+doit pas te démoraliser.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;,&#x0;Moi, ça m'a pris des années
+d'entraînement intensif pour devenir
+un pro à ce jeu !</original>
+			<edited>&#xE;&#x3;%&#x0;Allons, &#xE;&#x5;&#x8;&#x0;, cette défaite ne
+doit pas te démoraliser.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;,&#x0;Moi, ça m'a pris des années
+d'entraînement intensif pour devenir
+un pro à ce jeu !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

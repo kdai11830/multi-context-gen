@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Regarde autour de toi, fais-toi
+plaisir !</original>
+			<edited>&#xE;&#x3;%&#x0;Regarde autour de toi, fais-toi
+plaisir !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Fais comme chez toi !</original>
+			<edited>&#xE;&#x3;%&#x0;Fais comme chez toi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Prends ton temps, jette un œil !</original>
+			<edited>&#xE;&#x3;%&#x0;Prends ton temps, jette un œil !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ça en a peut-être pas l'air,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; mais j'ai
+essayé de ranger un peu !</original>
+			<edited>&#xE;&#x3;%&#x0;Ça en a peut-être pas l'air,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; mais j'ai
+essayé de ranger un peu !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;C'est ma maison.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; C'est chez MOI, tu
+vois ?</original>
+			<edited>&#xE;&#x3;%&#x0;C'est ma maison.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; C'est chez MOI, tu
+vois ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Allez, jette un œil, fais-toi plaisir !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;%&#x0;Allez, jette un œil, fais-toi plaisir !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

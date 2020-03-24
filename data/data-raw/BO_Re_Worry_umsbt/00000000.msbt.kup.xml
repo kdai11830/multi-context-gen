@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;So if I do that,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'll have to take
+care of that other thing.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; But that
+other thing is a problem too...
+&#xE;&#x3;&#xF;&#x0;Oh, you kind of caught me in the
+middle of working out a problem.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+Talk to me later, OK? </original>
+			<edited>&#xE;&#x3;&#xB;&#x0;So if I do that,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'll have to take
+care of that other thing.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; But that
+other thing is a problem too...
+&#xE;&#x3;&#xF;&#x0;Oh, you kind of caught me in the
+middle of working out a problem.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+Talk to me later, OK? </edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Um,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I've got a lot on my mind right
+now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; So maybe we should talk
+later.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Um,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I've got a lot on my mind right
+now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; So maybe we should talk
+later.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Sorry, but I can't talk right now.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+I actually need to focus on
+something else.</original>
+			<edited>&#xE;&#x3;	&#x0;Sorry, but I can't talk right now.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+I actually need to focus on
+something else.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

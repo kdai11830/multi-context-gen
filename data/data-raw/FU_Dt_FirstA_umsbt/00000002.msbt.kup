@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; Coucou, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Comment ça va ?&#xE;&#x0;&#x4;&#x0;Toi aussi, tu aimes te balader dans
+la rue commerçante &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; ?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; Coucou, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Comment ça va ?&#xE;&#x0;&#x4;&#x0;Toi aussi, tu aimes te balader dans
+la rue commerçante &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Hello ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;T'as bonne mine !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Justement,
+je pensais à toi... &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Hello ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;T'as bonne mine !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Justement,
+je pensais à toi... &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Non ? Pincez-moi, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; !
+&#xE;&#x3;&#x1;&#x0;Moi qui étais déjà amoureuse
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0;...&#xE;&#x0;&#x4;&#x0;Si on m'avait dit qu'en plus, on y
+croisait du si beau monde ! Je vais
+venir encore plus souvent, moi !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Non ? Pincez-moi, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; !
+&#xE;&#x3;&#x1;&#x0;Moi qui étais déjà amoureuse
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0;...&#xE;&#x0;&#x4;&#x0;Si on m'avait dit qu'en plus, on y
+croisait du si beau monde ! Je vais
+venir encore plus souvent, moi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;J'avais quelques
+bricoles à faire, alors j'en ai profité
+pour venir faire un tour ici !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;J'avais quelques
+bricoles à faire, alors j'en ai profité
+pour venir faire un tour ici !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Si on m'avait dit que je tomberais
+sur toi, &#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Ça fait
+drôlement plaisir !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Si on m'avait dit que je tomberais
+sur toi, &#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Ça fait
+drôlement plaisir !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

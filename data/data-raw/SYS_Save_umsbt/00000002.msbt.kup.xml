@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Que veux-tu faire ?
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Il est actuellement impossible
+de sauvegarder et continuer.)&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sauvegarder et quitter.
+Continuer.</original>
+			<edited>Que veux-tu faire ?
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Il est actuellement impossible
+de sauvegarder et continuer.)&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sauvegarder et quitter.
+Continuer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Ville en préparation...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</original>
+			<edited>Ville en préparation...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Que veux-tu faire ?&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Sauvegarder et quitter.
+Sauv. et continuer.
+Continuer.</original>
+			<edited>Que veux-tu faire ?&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Sauvegarder et quitter.
+Sauv. et continuer.
+Continuer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Sauvegarde...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</original>
+			<edited>Sauvegarde...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Partie sauvegardée.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+À bientôt !</original>
+			<edited>Partie sauvegardée.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+À bientôt !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>Sauvegarde impossible. Tu vas
+quitter la partie sans sauvegarder.</original>
+			<edited>Sauvegarde impossible. Tu vas
+quitter la partie sans sauvegarder.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>Sauvegarde...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</original>
+			<edited>Sauvegarde...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de lire les données
+de jeu. Tu vas quitter la partie.</original>
+			<edited>Impossible de lire les données
+de jeu. Tu vas quitter la partie.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>Partie en préparation...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</original>
+			<edited>Partie en préparation...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de lire les
+données de sauvegarde.&#xE;&#x0;&#x4;&#x0;Maintiens  enfoncé pour
+éteindre la console, puis
+réinsère la carte de jeu.</original>
+			<edited>Impossible de lire les
+données de sauvegarde.&#xE;&#x0;&#x4;&#x0;Maintiens  enfoncé pour
+éteindre la console, puis
+réinsère la carte de jeu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Les données de sauvegarde sont
+corrompues et vont être effacées.</original>
+			<edited>Les données de sauvegarde sont
+corrompues et vont être effacées.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>OK</original>
+			<edited>OK</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>Annuler</original>
+			<edited>Annuler</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>Réinitialisation des données de
+sauvegarde...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; N'appuie pas sur .</original>
+			<edited>Réinitialisation des données de
+sauvegarde...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; N'appuie pas sur .</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>Un joueur emménage.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Merci de finir d'emménager
+dans ta nouvelle ville.</original>
+			<edited>Un joueur emménage.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Merci de finir d'emménager
+dans ta nouvelle ville.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de sauvegarder
+pour le moment.</original>
+			<edited>Impossible de sauvegarder
+pour le moment.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de sauvegarder
+pendant un rêve.</original>
+			<edited>Impossible de sauvegarder
+pendant un rêve.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de sauvegarder
+pendant une fête d'anniversaire.</original>
+			<edited>Impossible de sauvegarder
+pendant une fête d'anniversaire.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'interrompre
+une session multijoueur
+quand tu es sur le bateau.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>Impossible d'interrompre
+une session multijoueur
+quand tu es sur le bateau.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>
+Que veux-tu faire ? &#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Fin de la session.
+Sauvegarder.
+Annuler.</original>
+			<edited>
+Que veux-tu faire ? &#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Fin de la session.
+Sauvegarder.
+Annuler.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>En attente de confirmation...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Merci de patienter.&#xE;&#x7;&#x8;&#x4;&lt;&#x0;&#x0;&#x0;</original>
+			<edited>En attente de confirmation...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Merci de patienter.&#xE;&#x7;&#x8;&#x4;&lt;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>Interruption de la
+session multijoueur.</original>
+			<edited>Interruption de la
+session multijoueur.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>Vérification de la possibilité
+de sauvegarder...</original>
+			<edited>Vérification de la possibilité
+de sauvegarder...</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>
+Merci de réessayer plus tard. </original>
+			<edited>
+Merci de réessayer plus tard. </edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>La session multijoueur
+a été interrompue.</original>
+			<edited>La session multijoueur
+a été interrompue.</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>
+Sauvegarde impossible ici.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>
+Sauvegarde impossible ici.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>
+Sauvegarde impossible sur l'île.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>
+Sauvegarde impossible sur l'île.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'interrompre une
+session multijoueur sur l'île.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>Impossible d'interrompre une
+session multijoueur sur l'île.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>Activation de StreetPass...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</original>
+			<edited>Activation de StreetPass...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>Sauvegarde...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</original>
+			<edited>Sauvegarde...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+N'appuie pas sur .</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'utiliser ces données
+de sauvegarde car ce ne sont pas
+les plus récentes. Les effacer ?</original>
+			<edited>Impossible d'utiliser ces données
+de sauvegarde car ce ne sont pas
+les plus récentes. Les effacer ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>Toutes les données
+vont être effacées.
+Continuer ?</original>
+			<edited>Toutes les données
+vont être effacées.
+Continuer ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>Les données effacées ne
+peuvent pas être récupérées.
+Continuer malgré tout ?</original>
+			<edited>Les données effacées ne
+peuvent pas être récupérées.
+Continuer malgré tout ?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

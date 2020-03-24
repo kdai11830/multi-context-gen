@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Introduce la contraseña
+del &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>Introduce la contraseña
+del &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>
+La contraseña es incorrecta.</original>
+			<edited>
+La contraseña es incorrecta.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>¿Quieres hacer una excepción
+para este juego?&#xE;&#x0;&#x4;&#x0;Esto permitirá el uso de las
+funciones de comunicación al
+jugar en esta consola.&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí, permitir siempre
+No, solo esta vez</original>
+			<edited>¿Quieres hacer una excepción
+para este juego?&#xE;&#x0;&#x4;&#x0;Esto permitirá el uso de las
+funciones de comunicación al
+jugar en esta consola.&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí, permitir siempre
+No, solo esta vez</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Se han eliminado temporalmente las
+restricciones del control parental.&#xE;&#x0;&#x4;&#x0;Se activarán de nuevo si sales
+del juego y vuelves a entrar.</original>
+			<edited>Se han eliminado temporalmente las
+restricciones del control parental.&#xE;&#x0;&#x4;&#x0;Se activarán de nuevo si sales
+del juego y vuelves a entrar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Guardando la configuración
+de la consola... No toques .</original>
+			<edited>Guardando la configuración
+de la consola... No toques .</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>A partir de ahora, las funciones de
+la comunicación inalámbrica estarán
+siempre habilitadas en esta consola.
+Si quieres volver a restringirlas,
+accede al &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental &#xE;&#x0;&#x3;&#x2;ÿÿen la
+pantalla del título.</original>
+			<edited>A partir de ahora, las funciones de
+la comunicación inalámbrica estarán
+siempre habilitadas en esta consola.
+Si quieres volver a restringirlas,
+accede al &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental &#xE;&#x0;&#x3;&#x2;ÿÿen la
+pantalla del título.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>En la Casa del Sueño puedes
+ver pueblos de otros jugadores
+y enseñarles el tuyo si dispones...
+de una conexión a internet.&#xE;&#x0;&#x4;&#x0;Dado que puedes compartir tu
+pueblo, tus diseños personalizados
+e información sobre tu DRP...&#xE;&#x0;&#x4;&#x0;si tu consola tiene restringido el
+intercambio de audio, imágenes,
+vídeo y texto...
+no podrás acceder a ciertas
+funciones, como, por ejemplo,
+la Casa del Sueño.&#xE;&#x0;&#x4;&#x0;En &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf
+&#xE;&#x0;&#x3;&#x2;ÿÿpuedes mantener la restricción
+del control parental...
+y permitir el uso de dichas
+funciones durante la partida.&#xE;&#x0;&#x4;&#x0;¿Quieres hacer esto último para
+permitir el uso de funciones como
+la Casa del Sueño?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>En la Casa del Sueño puedes
+ver pueblos de otros jugadores
+y enseñarles el tuyo si dispones...
+de una conexión a internet.&#xE;&#x0;&#x4;&#x0;Dado que puedes compartir tu
+pueblo, tus diseños personalizados
+e información sobre tu DRP...&#xE;&#x0;&#x4;&#x0;si tu consola tiene restringido el
+intercambio de audio, imágenes,
+vídeo y texto...
+no podrás acceder a ciertas
+funciones, como, por ejemplo,
+la Casa del Sueño.&#xE;&#x0;&#x4;&#x0;En &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf
+&#xE;&#x0;&#x3;&#x2;ÿÿpuedes mantener la restricción
+del control parental...
+y permitir el uso de dichas
+funciones durante la partida.&#xE;&#x0;&#x4;&#x0;¿Quieres hacer esto último para
+permitir el uso de funciones como
+la Casa del Sueño?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Las funciones que te permiten
+comunicarte con otros jugadores
+(como la Casa del Sueño)...
+están activadas. Sin embargo, en
+estos momentos estás jugando
+en una consola diferente.
+Tu consola actual tiene restringido
+el intercambio de audio, imágenes,
+vídeo y texto.
+¿Quieres permitir que la consola
+use funciones como la Casa del
+Sueño...
+mientras juegas a &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>Las funciones que te permiten
+comunicarte con otros jugadores
+(como la Casa del Sueño)...
+están activadas. Sin embargo, en
+estos momentos estás jugando
+en una consola diferente.
+Tu consola actual tiene restringido
+el intercambio de audio, imágenes,
+vídeo y texto.
+¿Quieres permitir que la consola
+use funciones como la Casa del
+Sueño...
+mientras juegas a &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>Mediante la estación de tren,
+podrás ver los pueblos de otros
+jugadores y enseñarles el tuyo...
+si dispones de una conexión
+a internet. Dado que al comunicarte
+con otros jugadores podrás ver...&#xE;&#x0;&#x4;&#x0;pueblos, diseños personalizados,
+DRP, tablones de anuncios, cartas
+y también usar el chat del juego...
+si tu consola tiene restringido el
+intercambio de audio, imágenes,
+vídeo y texto...
+no podrás acceder a ciertas
+funciones, como, por ejemplo,
+la estación de tren.&#xE;&#x0;&#x4;&#x0;En &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf
+&#xE;&#x0;&#x3;&#x2;ÿÿpuedes mantener la restricción
+del control parental...
+y permitir el uso de dichas
+funciones durante la partida.&#xE;&#x0;&#x4;&#x0;¿Quieres hacer esto último y
+permitir el uso de funciones
+como la estación de tren?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>Mediante la estación de tren,
+podrás ver los pueblos de otros
+jugadores y enseñarles el tuyo...
+si dispones de una conexión
+a internet. Dado que al comunicarte
+con otros jugadores podrás ver...&#xE;&#x0;&#x4;&#x0;pueblos, diseños personalizados,
+DRP, tablones de anuncios, cartas
+y también usar el chat del juego...
+si tu consola tiene restringido el
+intercambio de audio, imágenes,
+vídeo y texto...
+no podrás acceder a ciertas
+funciones, como, por ejemplo,
+la estación de tren.&#xE;&#x0;&#x4;&#x0;En &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf
+&#xE;&#x0;&#x3;&#x2;ÿÿpuedes mantener la restricción
+del control parental...
+y permitir el uso de dichas
+funciones durante la partida.&#xE;&#x0;&#x4;&#x0;¿Quieres hacer esto último y
+permitir el uso de funciones
+como la estación de tren?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>Las funciones que te permiten
+comunicarte con otros jugadores
+(como la estación de tren)...
+están activadas. Sin embargo, en
+estos momentos estás jugando
+en una consola diferente.
+Tu consola actual tiene restringido
+el intercambio de audio, imágenes,
+vídeo y texto.
+¿Quieres permitir que la consola
+use funciones como la estación
+de tren...
+mientras juegas a &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>Las funciones que te permiten
+comunicarte con otros jugadores
+(como la estación de tren)...
+están activadas. Sin embargo, en
+estos momentos estás jugando
+en una consola diferente.
+Tu consola actual tiene restringido
+el intercambio de audio, imágenes,
+vídeo y texto.
+¿Quieres permitir que la consola
+use funciones como la estación
+de tren...
+mientras juegas a &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>La exposición de la AAD te permite
+intercambiar datos con otros
+jugadores por medio de StreetPass.&#xE;&#x0;&#x4;&#x0;Dado que se pueden compartir
+pueblos, jugadores, DRP y diseños
+personalizados de todo tipo... &#xE;&#x0;&#x4;&#x0;si tu consola tiene restringido el
+intercambio de audio, imágenes,
+vídeo y texto...
+no podrás acceder a ciertas
+funciones como, por ejemplo, las
+casas de exposición de la AAD.&#xE;&#x0;&#x4;&#x0;En &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf
+&#xE;&#x0;&#x3;&#x2;ÿÿpuedes mantener la restricción
+del control parental...
+y permitir el uso de dichas
+funciones durante la partida.&#xE;&#x0;&#x4;&#x0;¿Quieres hacer esto último y
+permitir el uso de funciones como
+las casas de exposición de la AAD?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>La exposición de la AAD te permite
+intercambiar datos con otros
+jugadores por medio de StreetPass.&#xE;&#x0;&#x4;&#x0;Dado que se pueden compartir
+pueblos, jugadores, DRP y diseños
+personalizados de todo tipo... &#xE;&#x0;&#x4;&#x0;si tu consola tiene restringido el
+intercambio de audio, imágenes,
+vídeo y texto...
+no podrás acceder a ciertas
+funciones como, por ejemplo, las
+casas de exposición de la AAD.&#xE;&#x0;&#x4;&#x0;En &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf
+&#xE;&#x0;&#x3;&#x2;ÿÿpuedes mantener la restricción
+del control parental...
+y permitir el uso de dichas
+funciones durante la partida.&#xE;&#x0;&#x4;&#x0;¿Quieres hacer esto último y
+permitir el uso de funciones como
+las casas de exposición de la AAD?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>Las funciones que te permiten
+comunicarte con otros jugadores
+(como las casas de exposición...
+de la AAD) están activadas. Sin
+embargo, en estos momentos estás
+jugando en una consola diferente.
+Tu consola actual tiene restringido
+el intercambio de audio, imágenes,
+vídeo y texto.
+¿Quieres permitir que la consola
+use funciones como las casas de
+exposición de la AAD...
+mientras juegas a &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>Las funciones que te permiten
+comunicarte con otros jugadores
+(como las casas de exposición...
+de la AAD) están activadas. Sin
+embargo, en estos momentos estás
+jugando en una consola diferente.
+Tu consola actual tiene restringido
+el intercambio de audio, imágenes,
+vídeo y texto.
+¿Quieres permitir que la consola
+use funciones como las casas de
+exposición de la AAD...
+mientras juegas a &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>Mientras estés en la isla, puedes
+jugar con otros miembros del Club
+Tórtimer a través de internet.&#xE;&#x0;&#x4;&#x0;Dado que podréis ver vuestros
+diseños personalizados y DRP,
+y comunicaros por medio del chat... &#xE;&#x0;&#x4;&#x0;si tu consola tiene restringido el
+intercambio de audio, imágenes,
+vídeo y texto...
+no podrás acceder a esta función
+ni a ninguna otra que te permita
+compartir información.&#xE;&#x0;&#x4;&#x0;En &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf
+&#xE;&#x0;&#x3;&#x2;ÿÿpuedes mantener la restricción
+del control parental...
+y permitir el uso de dichas
+funciones durante la partida.&#xE;&#x0;&#x4;&#x0;¿Quieres hacer esto último y
+permitir el uso de otras funciones
+de la comunicación inalámbrica?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>Mientras estés en la isla, puedes
+jugar con otros miembros del Club
+Tórtimer a través de internet.&#xE;&#x0;&#x4;&#x0;Dado que podréis ver vuestros
+diseños personalizados y DRP,
+y comunicaros por medio del chat... &#xE;&#x0;&#x4;&#x0;si tu consola tiene restringido el
+intercambio de audio, imágenes,
+vídeo y texto...
+no podrás acceder a esta función
+ni a ninguna otra que te permita
+compartir información.&#xE;&#x0;&#x4;&#x0;En &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf
+&#xE;&#x0;&#x3;&#x2;ÿÿpuedes mantener la restricción
+del control parental...
+y permitir el uso de dichas
+funciones durante la partida.&#xE;&#x0;&#x4;&#x0;¿Quieres hacer esto último y
+permitir el uso de otras funciones
+de la comunicación inalámbrica?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>Las funciones que te permiten
+comunicarte con otros jugadores
+(como el Club Tórtimer)...
+están activadas. Sin embargo, en
+estos momentos estás jugando
+en una consola diferente.
+Tu consola actual tiene restringido
+el intercambio de audio, imágenes,
+vídeo y texto.
+¿Quieres permitir que
+la consola use funciones
+como el Club Tórtimer...
+mientras juegas a &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>Las funciones que te permiten
+comunicarte con otros jugadores
+(como el Club Tórtimer)...
+están activadas. Sin embargo, en
+estos momentos estás jugando
+en una consola diferente.
+Tu consola actual tiene restringido
+el intercambio de audio, imágenes,
+vídeo y texto.
+¿Quieres permitir que
+la consola use funciones
+como el Club Tórtimer...
+mientras juegas a &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Necesitas una autorización para
+usar las funciones que te permiten
+compartir datos personales.
+Consulta la restricción &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Protección
+de privacidad en línea para los
+menores&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Podrás acceder a ella si seleccionas
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Control parental&#xE;&#x0;&#x3;&#x2;ÿÿ en la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;configuración
+de la consola&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>Necesitas una autorización para
+usar las funciones que te permiten
+compartir datos personales.
+Consulta la restricción &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Protección
+de privacidad en línea para los
+menores&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Podrás acceder a ella si seleccionas
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Control parental&#xE;&#x0;&#x3;&#x2;ÿÿ en la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;configuración
+de la consola&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>Introduce la contraseña del
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental&#xE;&#x0;&#x3;&#x2;ÿÿ para esta
+consola.</original>
+			<edited>Introduce la contraseña del
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental&#xE;&#x0;&#x3;&#x2;ÿÿ para esta
+consola.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>
+La contraseña es incorrecta.</original>
+			<edited>
+La contraseña es incorrecta.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>
+No has introducido
+ninguna contraseña.</original>
+			<edited>
+No has introducido
+ninguna contraseña.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>Hay una excepción en efecto que
+permite compartir audio, imágenes,
+vídeo y texto con otros.
+Dicha excepción hace posible
+compartir información con otros
+jugadores sin ninguna restricción.
+¿Quieres borrar esta excepción
+y restringir conforme a los ajustes
+del control parental de la consola?
+(Si la restricción de protección
+de privacidad en línea para los
+menores está desactivada,
+esta será nuevamente activada).&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Restringir el uso
+Conservar los ajustes</original>
+			<edited>Hay una excepción en efecto que
+permite compartir audio, imágenes,
+vídeo y texto con otros.
+Dicha excepción hace posible
+compartir información con otros
+jugadores sin ninguna restricción.
+¿Quieres borrar esta excepción
+y restringir conforme a los ajustes
+del control parental de la consola?
+(Si la restricción de protección
+de privacidad en línea para los
+menores está desactivada,
+esta será nuevamente activada).&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Restringir el uso
+Conservar los ajustes</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>Introduce la contraseña
+del control parental.</original>
+			<edited>Introduce la contraseña
+del control parental.</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>
+La contraseña es incorrecta.</original>
+			<edited>
+La contraseña es incorrecta.</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>Se ha eliminado la excepción para
+las funciones de comunicación.&#xE;&#x0;&#x4;&#x0;Se restringirá el uso de estas
+funciones conforme a los ajustes
+del control parental.</original>
+			<edited>Se ha eliminado la excepción para
+las funciones de comunicación.&#xE;&#x0;&#x4;&#x0;Se restringirá el uso de estas
+funciones conforme a los ajustes
+del control parental.</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>La restricción para el intercambio
+de audio, imágenes, vídeo y texto
+no está activada en esta consola.
+Aunque borres esta excepción,
+podrás seguir usando las funciones
+correspondientes en este programa.
+¿Quieres borrar la excepción?&#xE;&#x0;&#x4;&#x0;(Si la restricción de protección
+de privacidad en línea para los
+menores está desactivada,
+los ajustes para esta restricción
+volverán a su configuración inicial).&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>La restricción para el intercambio
+de audio, imágenes, vídeo y texto
+no está activada en esta consola.
+Aunque borres esta excepción,
+podrás seguir usando las funciones
+correspondientes en este programa.
+¿Quieres borrar la excepción?&#xE;&#x0;&#x4;&#x0;(Si la restricción de protección
+de privacidad en línea para los
+menores está desactivada,
+los ajustes para esta restricción
+volverán a su configuración inicial).&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>La restricción para el intercambio
+de audio, imágenes, vídeo y texto
+no está activada en esta consola.
+Aunque borres esta excepción,
+podrás seguir usando las funciones
+correspondientes en este programa.
+¿Quieres borrar la excepción?&#xE;&#x0;&#x4;&#x0;(Si la restricción de protección
+de privacidad en línea para los
+menores está desactivada,
+los ajustes para esta restricción
+volverán a su configuración inicial).&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</original>
+			<edited>La restricción para el intercambio
+de audio, imágenes, vídeo y texto
+no está activada en esta consola.
+Aunque borres esta excepción,
+podrás seguir usando las funciones
+correspondientes en este programa.
+¿Quieres borrar la excepción?&#xE;&#x0;&#x4;&#x0;(Si la restricción de protección
+de privacidad en línea para los
+menores está desactivada,
+los ajustes para esta restricción
+volverán a su configuración inicial).&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Sí
+No</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>Si quieres volver a restringir el
+intercambio de audio, imágenes,
+vídeo y texto...
+debes eliminar primero esta
+excepción. Una vez lo hayas
+hecho...
+accede al &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental &#xE;&#x0;&#x3;&#x2;ÿÿdesde
+la configuración de la consola.</original>
+			<edited>Si quieres volver a restringir el
+intercambio de audio, imágenes,
+vídeo y texto...
+debes eliminar primero esta
+excepción. Una vez lo hayas
+hecho...
+accede al &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental &#xE;&#x0;&#x3;&#x2;ÿÿdesde
+la configuración de la consola.</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>Se ha eliminado la excepción
+para las funciones que
+permitían compartir datos.
+Para restringir estas funciones,
+accede al &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental &#xE;&#x0;&#x3;&#x2;ÿÿdesde
+la configuración de la consola.</original>
+			<edited>Se ha eliminado la excepción
+para las funciones que
+permitían compartir datos.
+Para restringir estas funciones,
+accede al &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;control parental &#xE;&#x0;&#x3;&#x2;ÿÿdesde
+la configuración de la consola.</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

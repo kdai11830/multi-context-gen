@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Huy,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; yo esto ya lo he firmado...</original>
+			<edited>&#xE;&#x3;	&#x0;Huy,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; yo esto ya lo he firmado...</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;¡Pero si ya he firmado!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;¿Lo de
+firmar una petición dos veces
+no la hace inválida o algo así?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;¡Pero si ya he firmado!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;¿Lo de
+firmar una petición dos veces
+no la hace inválida o algo así?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oye, ¿no te acuerdas?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;
+¡Pero si ya he firmado
+esa petición!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oye, ¿no te acuerdas?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;
+¡Pero si ya he firmado
+esa petición!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Estás recogiendo firmas para
+"&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Hum&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Eso no tiene nada que ver
+conmigo, así que creo que paso.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Lo siento,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Estás recogiendo firmas para
+"&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Hum&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Eso no tiene nada que ver
+conmigo, así que creo que paso.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Lo siento,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Quieres que firme esa petición
+de "&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Huy,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; yo de eso no sé nada, así que
+no sé si sería buena idea firmarlo.
+&#xE;&#x3;&#x1;&#x0;Tú pregunta a otro,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Quieres que firme esa petición
+de "&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Huy,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; yo de eso no sé nada, así que
+no sé si sería buena idea firmarlo.
+&#xE;&#x3;&#x1;&#x0;Tú pregunta a otro,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;¿Quieres firmas para apoyar&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+"&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;(&#x0;¡Perdona, pero&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; voy a pasar!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Si fuera, no sé,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; para un campeonato
+de comer flanes, sí que firmaría.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Pero para esto no,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;¿Quieres firmas para apoyar&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+"&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;(&#x0;¡Perdona, pero&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; voy a pasar!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Si fuera, no sé,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; para un campeonato
+de comer flanes, sí que firmaría.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Pero para esto no,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Quieres mi firma
+para la petición de
+"&#xE;&#x12;&#x1;&#x0;"?
+&#xE;&#x3;&#x5;&#x0;¡Pues claro!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Ahora mismo
+te la firmo!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Quieres mi firma
+para la petición de
+"&#xE;&#x12;&#x1;&#x0;"?
+&#xE;&#x3;&#x5;&#x0;¡Pues claro!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Ahora mismo
+te la firmo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Quieres que firme la petición para
+"&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;¡Aaah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Suena interesante!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Cuenta con mi firma!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Quieres que firme la petición para
+"&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;¡Aaah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Suena interesante!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Cuenta con mi firma!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>¿Así que reúnes firmas para
+"&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;¡Claro que firmaré!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Lo que sea
+si eso sirve para lograr que
+ocurran cosas increíbles!</original>
+			<edited>¿Así que reúnes firmas para
+"&#xE;&#x12;&#x1;&#x0;"?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;¡Claro que firmaré!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Lo que sea
+si eso sirve para lograr que
+ocurran cosas increíbles!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>¡Hala, firmado!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;¡Supongo que será
+agotador ir por ahí viajando y
+recogiendo firmas!</original>
+			<edited>¡Hala, firmado!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;¡Supongo que será
+agotador ir por ahí viajando y
+recogiendo firmas!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1A;&#x0;Je, je...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Perdona que mi firma
+sea tan feota.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Oye, ¡lo que estás
+haciendo tiene bastante mérito!</original>
+			<edited>&#xE;&#x3;&#x1A;&#x0;Je, je...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Perdona que mi firma
+sea tan feota.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Oye, ¡lo que estás
+haciendo tiene bastante mérito!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Je, je, je!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oye, ¿a que mola
+cómo firmo, con ese tirabuzoncito
+y todo eso?
+&#xE;&#x3;&#x1;&#x0;Pues nada, ¡gracias por venir aquí!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Espero que consigas el resto de
+firmas que necesitas pronto!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Je, je, je!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oye, ¿a que mola
+cómo firmo, con ese tirabuzoncito
+y todo eso?
+&#xE;&#x3;&#x1;&#x0;Pues nada, ¡gracias por venir aquí!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Espero que consigas el resto de
+firmas que necesitas pronto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>¡Ya está todo firmado!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Así que mi firma era la última!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Genial!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Ahora puedes entregarlas!</original>
+			<edited>¡Ya está todo firmado!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Así que mi firma era la última!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Genial!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Ahora puedes entregarlas!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1A;&#x0;Je, je, je.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Huy, qué firma tan rara
+tengo, ¿no?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;¡Alto ahí!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¿O sea que
+mi firma era la última que faltaba?
+&#xE;&#x3;&#x1;&#x0;¡Mira tú qué bien! ¡Ahora puedes
+ir a llevarlas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1A;&#x0;Je, je, je.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Huy, qué firma tan rara
+tengo, ¿no?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;¡Alto ahí!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¿O sea que
+mi firma era la última que faltaba?
+&#xE;&#x3;&#x1;&#x0;¡Mira tú qué bien! ¡Ahora puedes
+ir a llevarlas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Je, je, je!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pues sí que tengo una
+firma molona, ¿eh?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Bueno, ¡pues gracias por venir
+aquí!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ah, ¡y parece que ya tienes
+todas las firmas que necesitabas!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Je, je, je!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pues sí que tengo una
+firma molona, ¿eh?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Bueno, ¡pues gracias por venir
+aquí!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ah, ¡y parece que ya tienes
+todas las firmas que necesitabas!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Hi, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Welcome back!&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Hi, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Welcome back!&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;You're back!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; And it looks like you
+were successful.&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;You're back!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; And it looks like you
+were successful.&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Oh, good.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I had a feeling you'd make
+it back soon.&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Oh, good.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I had a feeling you'd make
+it back soon.&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Whew!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; When you didn't come back,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+I thought something bad might have
+happened.&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Whew!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; When you didn't come back,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+I thought something bad might have
+happened.&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;&#x1;&#x0;Hey,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Did you need me
+for something?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;&#x1;&#x0;Hey,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Did you need me
+for something?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x1;&#x0;How's it going, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; You
+didn't ask me to come over here to
+scold me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; did you?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x1;&#x0;How's it going, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; You
+didn't ask me to come over here to
+scold me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; did you?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;'&#x0;You wanted to talk to me about
+something,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;'&#x0;You wanted to talk to me about
+something,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;'&#x0;I borrowed this a while ago,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and
+now I'm finally giving it back.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;I'm sorry I kept it for so long!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I put
+it in a drawer and forgot about it,
+&#xE;&#x5;&#x7;&#x0;&#xE;&#xC;	&#x0;.</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;'&#x0;I borrowed this a while ago,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and
+now I'm finally giving it back.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;I'm sorry I kept it for so long!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I put
+it in a drawer and forgot about it,
+&#xE;&#x5;&#x7;&#x0;&#xE;&#xC;	&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;&#x10;&#x0;Oh yeah!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; Now I remember.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Mmm.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I should loan you stuff more
+often.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It always comes back
+smelling like cupcakes.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Don't forget, if you need any help
+baking some,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I promised to lick the
+bowl for you.</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;&#x10;&#x0;Oh yeah!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; Now I remember.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Mmm.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I should loan you stuff more
+often.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It always comes back
+smelling like cupcakes.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Don't forget, if you need any help
+baking some,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I promised to lick the
+bowl for you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Just as you asked,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I hung this in my
+kitchen for a few days.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It should
+smell like &#xE;&#x5;&#x10;&#x2;&#x0;&#x0;!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Just as you asked,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I hung this in my
+kitchen for a few days.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It should
+smell like &#xE;&#x5;&#x10;&#x2;&#x0;&#x0;!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;&#x1;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It really does!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x4;&#x0; I'm not gonna
+wash this for at least a week.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;
+Thanks a bunch, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;&#x1;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It really does!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x4;&#x0; I'm not gonna
+wash this for at least a week.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;
+Thanks a bunch, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;I was taking a walk around town
+yesterday when I found something
+on the ground.
+&#xE;&#x3;&#x1B;&#x0;It was sticky with chocolate and
+covered in ants,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so I knew it had
+to be yours.&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;I was taking a walk around town
+yesterday when I found something
+on the ground.
+&#xE;&#x3;&#x1B;&#x0;It was sticky with chocolate and
+covered in ants,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so I knew it had
+to be yours.&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;&#x10;&#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; My &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;
+I didn't realize I'd dropped it.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Guess
+I was too focused on my candy bar.
+&#xE;&#x3;&#x4;&#x0;Thanks for picking it up and
+cleaning it off, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;&#x10;&#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; My &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;
+I didn't realize I'd dropped it.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Guess
+I was too focused on my candy bar.
+&#xE;&#x3;&#x4;&#x0;Thanks for picking it up and
+cleaning it off, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;I've been working on a new dessert
+recipe, and I thought I could get 
+your opinion.
+What kind of fruit topping would go
+best on &#xE;&#x5;&#x10;&#x2;&#x0;&#x0;?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;I've been working on a new dessert
+recipe, and I thought I could get 
+your opinion.
+What kind of fruit topping would go
+best on &#xE;&#x5;&#x10;&#x2;&#x0;&#x0;?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;+&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'm partial to &#xE;&#x5;&#x1A;&#x2;&#x0;Í
+topping,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; myself.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Especially when
+you warm it up a little.
+&#xE;&#x3;&#xD;&#x0;You'll let me know next time you
+make some,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; right?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Promise me!</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;+&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'm partial to &#xE;&#x5;&#x1A;&#x2;&#x0;Í
+topping,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; myself.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Especially when
+you warm it up a little.
+&#xE;&#x3;&#xD;&#x0;You'll let me know next time you
+make some,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; right?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Promise me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Didn't you say you needed help
+writing a letter to your cousin?&#xE;&#x0;&#x4;&#x0;I have time now,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so why don't we
+talk about it?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Didn't you say you needed help
+writing a letter to your cousin?&#xE;&#x0;&#x4;&#x0;I have time now,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so why don't we
+talk about it?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;%&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; right.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I wanted to ask you how
+to spell something.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;But I can't
+remember what word it was&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;Darn,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I blew my chance to ask you!</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#x3;%&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; right.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I wanted to ask you how
+to spell something.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;But I can't
+remember what word it was&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;Darn,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I blew my chance to ask you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x3;&#x0;Hey, thanks for coming to get me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; we should
+chill later.
+&#xE;&#x3;&#x1;&#x0;A huh huh huh. I'm gonna go wander
+around for a while.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; See ya!</original>
+			<edited>&#xE;&#xC;&#x3;&#x0;Hey, thanks for coming to get me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; we should
+chill later.
+&#xE;&#x3;&#x1;&#x0;A huh huh huh. I'm gonna go wander
+around for a while.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x3;&#x0;Well, guess we're done here.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;
+I'll catch you guys later.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;For now,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I've got a juice box and
+a pack of crayons waiting for me
+at home.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;See ya!</original>
+			<edited>&#xE;&#xC;&#x3;&#x0;Well, guess we're done here.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;
+I'll catch you guys later.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;For now,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I've got a juice box and
+a pack of crayons waiting for me
+at home.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x3;&#x0;&#xE;&#x3;&#x1;&#x0;I guess we're done here.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Which is
+good,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; because it's almost time for
+&#xE;&#x3;&amp;&#x0;my favorite cartoon.
+&#xE;&#xC;&#x5;&#x0;I've only ever missed one episode,
+ya know.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Good thing I always tape
+it.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; I'll see you both later!</original>
+			<edited>&#xE;&#xC;&#x3;&#x0;&#xE;&#x3;&#x1;&#x0;I guess we're done here.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Which is
+good,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; because it's almost time for
+&#xE;&#x3;&amp;&#x0;my favorite cartoon.
+&#xE;&#xC;&#x5;&#x0;I've only ever missed one episode,
+ya know.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Good thing I always tape
+it.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; I'll see you both later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

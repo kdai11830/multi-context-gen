@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;You're bringing &#xE;&#x11;&#x1;&#x2;&#x1;&#x0; to my
+place, right?&#xE;&#x0;&#x4;&#x0;I'm counting on you, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;You're bringing &#xE;&#x11;&#x1;&#x2;&#x1;&#x0; to my
+place, right?&#xE;&#x0;&#x4;&#x0;I'm counting on you, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;You took too long, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+You were going to get &#xE;&#x11;&#x1;&#x2;&#x1;&#x0;
+for me, remember?
+&#xE;&#x3;(&#x0;But I got tired of waiting, so I took
+care of it myself.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I guess I might give you a second 
+chance some other time, though.</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;You took too long, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+You were going to get &#xE;&#x11;&#x1;&#x2;&#x1;&#x0;
+for me, remember?
+&#xE;&#x3;(&#x0;But I got tired of waiting, so I took
+care of it myself.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I guess I might give you a second 
+chance some other time, though.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Huh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're bailing?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Oh well&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I guess I'll try to grab 'em
+by myself in a bit.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;At least you thought about it,
+&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; That's more than some
+folks would do!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Huh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're bailing?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Oh well&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I guess I'll try to grab 'em
+by myself in a bit.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;At least you thought about it,
+&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; That's more than some
+folks would do!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;What?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; They didn't want to come?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Geez, it wasn't that big a deal&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Thanks for trying, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;What?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; They didn't want to come?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Geez, it wasn't that big a deal&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Thanks for trying, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

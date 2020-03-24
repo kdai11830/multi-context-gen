@@ -1,0 +1,824 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>N'hésite pas à rev'nir !</original>
+			<edited>N'hésite pas à rev'nir !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Bienv'nue !</original>
+			<edited>Bienv'nue !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Oh !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Une nouvelle tête !</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Oh !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Une nouvelle tête !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hé !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Comme tu peux l'voir, je vends
+des fleurs ici.&#xE;&#x0;&#x4;&#x0;Mais j'ai aussi des arbrisseaux, des
+outils, et bien d'autres choses.&#xE;&#x3;&#x1;&#x0;
+Prends l'temps de jeter un œil !</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hé !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Comme tu peux l'voir, je vends
+des fleurs ici.&#xE;&#x0;&#x4;&#x0;Mais j'ai aussi des arbrisseaux, des
+outils, et bien d'autres choses.&#xE;&#x3;&#x1;&#x0;
+Prends l'temps de jeter un œil !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Mais qui voilà !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Bonjour, bonjour,
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Mais qui voilà !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Bonjour, bonjour,
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Alors ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu ne trouves pas notre
+boutique épatante ? Ça te surprend
+de me voir ici ?
+&#xE;&#x3;'&#x0;Quand &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Méli &#xE;&#x0;&#x3;&#x2;ÿÿet &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Mélo&#xE;&#x0;&#x3;&#x2;ÿÿ ont annoncé
+qu'ils allaient agrandir l'magasin,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+je m'suis réservé un espace direct.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Maintenant, avec toute cette place,
+j'ai décidé d'enrichir mon inventaire.&#xE;&#x0;&#x4;&#x0;D'ailleurs,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;!&#x0; j'ai aussi créé un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;service
+de désherbage&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Oui, j'en suis pas peu fier,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; j'ai
+apporté pas mal d'améliorations à
+cet endroit !</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Alors ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu ne trouves pas notre
+boutique épatante ? Ça te surprend
+de me voir ici ?
+&#xE;&#x3;'&#x0;Quand &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Méli &#xE;&#x0;&#x3;&#x2;ÿÿet &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Mélo&#xE;&#x0;&#x3;&#x2;ÿÿ ont annoncé
+qu'ils allaient agrandir l'magasin,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+je m'suis réservé un espace direct.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Maintenant, avec toute cette place,
+j'ai décidé d'enrichir mon inventaire.&#xE;&#x0;&#x4;&#x0;D'ailleurs,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;!&#x0; j'ai aussi créé un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;service
+de désherbage&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Oui, j'en suis pas peu fier,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; j'ai
+apporté pas mal d'améliorations à
+cet endroit !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Bonjour, bonjour,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;J'ai une triste nouvelle...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Aujourd'hui
+marque la fin de ma chère p'tite
+boutique. Je ferme pour de bon...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1A;&#x0;Mais j'ai entendu dire que le
+supermarché va fermer pour
+travaux dès d'main !
+&#xE;&#x3;&#x1;&#x0;Bon timing, hein ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;En tout cas, si
+t'as besoin de quelque chose, c'est
+maint'nant ou jamais !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Bonjour, bonjour,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;J'ai une triste nouvelle...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Aujourd'hui
+marque la fin de ma chère p'tite
+boutique. Je ferme pour de bon...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1A;&#x0;Mais j'ai entendu dire que le
+supermarché va fermer pour
+travaux dès d'main !
+&#xE;&#x3;&#x1;&#x0;Bon timing, hein ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;En tout cas, si
+t'as besoin de quelque chose, c'est
+maint'nant ou jamais !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Bonjour, bonjour,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Tu dois sans doute être au courant,
+mais le Brico Mélimélo met la clé
+sous la porte demain&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est la fin !
+&#xE;&#x3;'&#x0;Bien évidemment, l'espace jardinage
+va fermer en même temps que le
+magasin&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Donc, si t'as besoin de quelque
+chose, c'est maint'nant ou jamais !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Bonjour, bonjour,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Tu dois sans doute être au courant,
+mais le Brico Mélimélo met la clé
+sous la porte demain&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est la fin !
+&#xE;&#x3;'&#x0;Bien évidemment, l'espace jardinage
+va fermer en même temps que le
+magasin&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Donc, si t'as besoin de quelque
+chose, c'est maint'nant ou jamais !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh, la boutique va fermer pour
+aujourd'hui, j'en ai peur.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3; &#x0;Mais
+reviens un autre jour si tu veux !</original>
+			<edited>&#xE;&#x3;	&#x0;Oh, la boutique va fermer pour
+aujourd'hui, j'en ai peur.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3; &#x0;Mais
+reviens un autre jour si tu veux !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Voyons un peu&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ah, voilà, &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0; Son prix
+est de...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;euh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah oui,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x1;&#x0; Ça
+t'intéresse ou pas ?&#xE;&#x3;&#x17;&#x0;&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x6;&#x6;&#x15;&#x0;&#x17;&#x0;(&#x0;
+Je prends !
+C'est quoi, au juste ?
+Non, merci.</original>
+			<edited>Voyons un peu&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ah, voilà, &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0; Son prix
+est de...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;euh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah oui,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x1;&#x0; Ça
+t'intéresse ou pas ?&#xE;&#x3;&#x17;&#x0;&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x6;&#x6;&#x15;&#x0;&#x17;&#x0;(&#x0;
+Je prends !
+C'est quoi, au juste ?
+Non, merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>OK, pas grave.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Reviens m'voir si tu
+changes d'avis !</original>
+			<edited>OK, pas grave.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Reviens m'voir si tu
+changes d'avis !</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Très bon choix,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; j'aurais pas dit
+mieux !&#xE;&#x7;&#x1;&#x0; Mais...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ça coûte &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0;
+clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu n'as pas assez...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Très bon choix,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; j'aurais pas dit
+mieux !&#xE;&#x7;&#x1;&#x0; Mais...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ça coûte &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0;
+clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu n'as pas assez...</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Youhou ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Merci !&#xE;&#x7;&#x1;&#x0; Oh mais, on dirait
+que tu n'as pas assez de place dans
+tes poches. Pense à les vider !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Youhou ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Merci !&#xE;&#x7;&#x1;&#x0; Oh mais, on dirait
+que tu n'as pas assez de place dans
+tes poches. Pense à les vider !</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Super !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Très bon choix !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Super !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Très bon choix !</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; C'est bon ? Tout est clair ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; coûte
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui.
+Non, merci.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; C'est bon ? Tout est clair ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; coûte
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui.
+Non, merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>Grâce à la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;hache&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu peux couper
+les arbres... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;*&#x0;TCHACK, comme ça !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Équipe-t'en via ton &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire&#xE;&#x0;&#x3;&#x2;ÿÿ, puis&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+place-toi face à un arbre,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; et appuie
+sur  pour donner un grand coup !</original>
+			<edited>Grâce à la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;hache&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu peux couper
+les arbres... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;*&#x0;TCHACK, comme ça !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Équipe-t'en via ton &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire&#xE;&#x0;&#x3;&#x2;ÿÿ, puis&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+place-toi face à un arbre,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; et appuie
+sur  pour donner un grand coup !</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>Ça, c'est un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;arrosoir&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Redonne une nouvelle vie aux fleurs
+fanées en les arrosant, notre ville en
+a bien b'soin !
+&#xE;&#x3;&#x1;&#x0;Équipe-t'en via ton &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire&#xE;&#x0;&#x3;&#x2;ÿÿ,
+place-toi face à une fleur et appuie
+sur  pour l'arroser. Fastoche !</original>
+			<edited>Ça, c'est un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;arrosoir&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Redonne une nouvelle vie aux fleurs
+fanées en les arrosant, notre ville en
+a bien b'soin !
+&#xE;&#x3;&#x1;&#x0;Équipe-t'en via ton &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire&#xE;&#x0;&#x3;&#x2;ÿÿ,
+place-toi face à une fleur et appuie
+sur  pour l'arroser. Fastoche !</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; est
+une plante d'intérieur, je te
+déconseille de la mettre dehors.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; est
+une plante d'intérieur, je te
+déconseille de la mettre dehors.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>Oh, &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+est une sorte de p'tit arbuste qui
+ne pousse qu'à l'extérieur.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Si tu plantes plusieurs types
+d'arbustes, tu auras des jolies fleurs
+à n'importe quelle saison !</original>
+			<edited>Oh, &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+est une sorte de p'tit arbuste qui
+ne pousse qu'à l'extérieur.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Si tu plantes plusieurs types
+d'arbustes, tu auras des jolies fleurs
+à n'importe quelle saison !</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Ce &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; contient
+les graines qui donneront vie à de
+superbes fleurs.
+&#xE;&#x3;&#x1;&#x0;Il te suffit de le planter dans le sol
+et d'attendre que de petites fleurs
+en sortent !</original>
+			<edited>Ce &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; contient
+les graines qui donneront vie à de
+superbes fleurs.
+&#xE;&#x3;&#x1;&#x0;Il te suffit de le planter dans le sol
+et d'attendre que de petites fleurs
+en sortent !</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>C'est &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+qui te permettra de planter un
+nouvel arbre où tu veux.
+&#xE;&#x3;&#x1;&#x0;Tout ce que t'as à faire, c'est de
+&#xE;&#xE;&#x8;&#x10;&#x0;Í&#x4;&#x0;l&#x0;e&#x0;&#x4;&#x0;l&#x0;a&#x0;&#x0;&#x0; sélectionner dans l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire &#xE;&#x0;&#x3;&#x2;ÿÿet
+de &#xE;&#xE;&#x8;&#x10;&#x0;Í&#x4;&#x0;l&#x0;e&#x0;&#x4;&#x0;l&#x0;a&#x0;&#x0;&#x0; planter.
+&#xE;&#x3;&#x0;&#x0;Mais attention à ne pas choisir un
+endroit à l'ombre ou trop proche
+d'autres arbres, ou ça poussera pas.</original>
+			<edited>C'est &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+qui te permettra de planter un
+nouvel arbre où tu veux.
+&#xE;&#x3;&#x1;&#x0;Tout ce que t'as à faire, c'est de
+&#xE;&#xE;&#x8;&#x10;&#x0;Í&#x4;&#x0;l&#x0;e&#x0;&#x4;&#x0;l&#x0;a&#x0;&#x0;&#x0; sélectionner dans l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire &#xE;&#x0;&#x3;&#x2;ÿÿet
+de &#xE;&#xE;&#x8;&#x10;&#x0;Í&#x4;&#x0;l&#x0;e&#x0;&#x4;&#x0;l&#x0;a&#x0;&#x0;&#x0; planter.
+&#xE;&#x3;&#x0;&#x0;Mais attention à ne pas choisir un
+endroit à l'ombre ou trop proche
+d'autres arbres, ou ça poussera pas.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ce que tu vois là,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est de l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;engrais
+&#xE;&#x0;&#x3;&#x2;ÿÿpour les fleurs et les arbres
+fruitiers.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Sers-toi de ta pelle pour enfouir de
+l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;engrais &#xE;&#x0;&#x3;&#x2;ÿÿà proximité des arbres et
+des fleurs de ton choix.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Tu verras, tes fleurs seront plus
+belles que jamais, et tes fruits
+pousseront à une vitesse folle !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ce que tu vois là,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est de l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;engrais
+&#xE;&#x0;&#x3;&#x2;ÿÿpour les fleurs et les arbres
+fruitiers.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Sers-toi de ta pelle pour enfouir de
+l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;engrais &#xE;&#x0;&#x3;&#x2;ÿÿà proximité des arbres et
+des fleurs de ton choix.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Tu verras, tes fleurs seront plus
+belles que jamais, et tes fruits
+pousseront à une vitesse folle !</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>C'est vrai que ça r'ssemble un peu
+à du &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;bambou&#xE;&#x0;&#x3;&#x2;ÿÿ... &#xE;&#x7;&#x1;&#x0;Probablement parce
+que c'est du &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;bambou&#xE;&#x0;&#x3;&#x2;ÿÿ !
+Oui, oui, c'est comestible,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; mais je te
+recommanderais de le planter
+quelque part en extérieur.
+&#xE;&#x3;&#x1;&#x0;Il te suffit de le sélectionner dans
+ton &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire&#xE;&#x0;&#x3;&#x2;ÿÿ et d'le planter,
+quelque part dehors.
+&#xE;&#x3;&#x0;&#x0;Un conseil toutefois : les endroits à
+l'ombre ou trop proches d'autres
+arbres ne sont pas très propices...</original>
+			<edited>C'est vrai que ça r'ssemble un peu
+à du &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;bambou&#xE;&#x0;&#x3;&#x2;ÿÿ... &#xE;&#x7;&#x1;&#x0;Probablement parce
+que c'est du &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;bambou&#xE;&#x0;&#x3;&#x2;ÿÿ !
+Oui, oui, c'est comestible,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; mais je te
+recommanderais de le planter
+quelque part en extérieur.
+&#xE;&#x3;&#x1;&#x0;Il te suffit de le sélectionner dans
+ton &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire&#xE;&#x0;&#x3;&#x2;ÿÿ et d'le planter,
+quelque part dehors.
+&#xE;&#x3;&#x0;&#x0;Un conseil toutefois : les endroits à
+l'ombre ou trop proches d'autres
+arbres ne sont pas très propices...</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>Non, tu ne rêves pas, c'est bel et
+bien un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;kaki&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Oui, oui, c'est très bon à manger,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+mais j'te conseille plutôt de le
+planter quelque part à l'extérieur.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Il te suffit de le sélectionner dans
+ton &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire &#xE;&#x0;&#x3;&#x2;ÿÿquand t'es dehors, et
+hop, c'est parti mon kaki ! Ha ha !
+&#xE;&#x3;&#x0;&#x0;Mais&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; j'te conseille&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;d'éviter les
+endroits trop ombragés ou trop
+proches d'autres arbres...
+... sinon ta plante va rester toute
+rikiki, ou plutôt...&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; « rikaki » !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Hi hi hi !</original>
+			<edited>Non, tu ne rêves pas, c'est bel et
+bien un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;kaki&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Oui, oui, c'est très bon à manger,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+mais j'te conseille plutôt de le
+planter quelque part à l'extérieur.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Il te suffit de le sélectionner dans
+ton &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;inventaire &#xE;&#x0;&#x3;&#x2;ÿÿquand t'es dehors, et
+hop, c'est parti mon kaki ! Ha ha !
+&#xE;&#x3;&#x0;&#x0;Mais&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; j'te conseille&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;d'éviter les
+endroits trop ombragés ou trop
+proches d'autres arbres...
+... sinon ta plante va rester toute
+rikiki, ou plutôt...&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; « rikaki » !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Hi hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Oh !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Génial !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Je savais que tu
+trouverais ton bonheur.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Oh !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Génial !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Je savais que tu
+trouverais ton bonheur.</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;parfait !</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;parfait !</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Grâce à cet &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;arrosoir d'argent&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu
+peux arroser plusieurs plantes
+d'un seul coup.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;D'ailleurs, &#xE;&#x5;&#x0;&#x0;, tu as acheté
+beaucoup d'graines de fleurs ici&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Alors utilise ton nouvel arrosoir, et
+tes fleurs te diront merci !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Grâce à cet &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;arrosoir d'argent&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu
+peux arroser plusieurs plantes
+d'un seul coup.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;D'ailleurs, &#xE;&#x5;&#x0;&#x0;, tu as acheté
+beaucoup d'graines de fleurs ici&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Alors utilise ton nouvel arrosoir, et
+tes fleurs te diront merci !</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>C'est une &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;hache dorée&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Elle est tout
+simplement incassable, peu importe
+combien d'arbres tu coupes.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Euh...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; J'dis pas qu'il faut que tu
+déboises toute la région, hein !
+Vas-y mollo, d'accord ?
+&#xE;&#x3;'&#x0;D'ailleurs, &#xE;&#x5;&#x0;&#x0;, tu m'as
+acheté plein d'arbrisseaux&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;J'compte sur toi pour faire bon
+usage de cette hache et replanter
+harmonieusement d'autres arbres !</original>
+			<edited>C'est une &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;hache dorée&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Elle est tout
+simplement incassable, peu importe
+combien d'arbres tu coupes.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Euh...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; J'dis pas qu'il faut que tu
+déboises toute la région, hein !
+Vas-y mollo, d'accord ?
+&#xE;&#x3;'&#x0;D'ailleurs, &#xE;&#x5;&#x0;&#x0;, tu m'as
+acheté plein d'arbrisseaux&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;J'compte sur toi pour faire bon
+usage de cette hache et replanter
+harmonieusement d'autres arbres !</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Si tu utilises cette &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;pelle dorée &#xE;&#x0;&#x3;&#x2;ÿÿpour
+enterrer ton engrais, les effets de
+celui-ci seront démultipliés !
+&#xE;&#x3;'&#x0;D'ailleurs, &#xE;&#x5;&#x0;&#x0;, si j'me
+trompe pas, tu m'as acheté une
+sacrée quantité d'engrais&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Pense à utiliser cette pelle pour
+redonner à cette ville son aspect
+bucolique d'antan !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Si tu utilises cette &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;pelle dorée &#xE;&#x0;&#x3;&#x2;ÿÿpour
+enterrer ton engrais, les effets de
+celui-ci seront démultipliés !
+&#xE;&#x3;'&#x0;D'ailleurs, &#xE;&#x5;&#x0;&#x0;, si j'me
+trompe pas, tu m'as acheté une
+sacrée quantité d'engrais&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Pense à utiliser cette pelle pour
+redonner à cette ville son aspect
+bucolique d'antan !</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Un instant &#xE;&#x5;&#x0;&#x0;, y'a quelque
+chose de super cool que j'veux te
+donner.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Un instant &#xE;&#x5;&#x0;&#x0;, y'a quelque
+chose de super cool que j'veux te
+donner.</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Si t'as un doute sur l'utilisation de
+tel ou tel objet, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;viens m'voir ! J'suis
+là pour ça.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Si t'as un doute sur l'utilisation de
+tel ou tel objet, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;viens m'voir ! J'suis
+là pour ça.</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>Je propose de nouvelles fleurs et
+arbrisseaux tous les jours, selon
+mon humeur.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;Le mieux c'est que tu viennes au
+moins une fois par jour voir si y'a
+des trucs qui te plaisent !</original>
+			<edited>Je propose de nouvelles fleurs et
+arbrisseaux tous les jours, selon
+mon humeur.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;'&#x0;Le mieux c'est que tu viennes au
+moins une fois par jour voir si y'a
+des trucs qui te plaisent !</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Moi c'qui me rend heureux, c'est de
+regarder une fleur qui s'épanouit...
+Y'a rien de plus relaxant.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Moi c'qui me rend heureux, c'est de
+regarder une fleur qui s'épanouit...
+Y'a rien de plus relaxant.</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>Eh ben, les affaires vont bon train !
+J'ai vendu tout mon stock
+aujourd'hui.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Content de voir que j'suis pas le
+seul à aimer les fleurs !</original>
+			<edited>Eh ben, les affaires vont bon train !
+J'ai vendu tout mon stock
+aujourd'hui.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Content de voir que j'suis pas le
+seul à aimer les fleurs !</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je vais faire mon possible pour
+finir le désherbage d'ici demain
+matin, dernier délai !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Tu m'remercieras plus tard, quand
+toutes les mauvaises herbes de la
+ville auront disparu.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je vais faire mon possible pour
+finir le désherbage d'ici demain
+matin, dernier délai !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Tu m'remercieras plus tard, quand
+toutes les mauvaises herbes de la
+ville auront disparu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Ça en jette, non ? &#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Et on propose
+une sélection d'articles très très
+sympa...
+&#xE;&#x3;'&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Méli &#xE;&#x0;&#x3;&#x2;ÿÿet &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Mélo&#xE;&#x0;&#x3;&#x2;ÿÿ voulaient agrandir le
+magasin, du coup j'leur ai demandé
+de m'faire une p'tite place.
+&#xE;&#x3;&#x1;&#x0;J'peux désormais exposer beaucoup
+plus d'articles qu'auparavant.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Viens
+donc me voir de temps en temps !</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Ça en jette, non ? &#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Et on propose
+une sélection d'articles très très
+sympa...
+&#xE;&#x3;'&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Méli &#xE;&#x0;&#x3;&#x2;ÿÿet &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Mélo&#xE;&#x0;&#x3;&#x2;ÿÿ voulaient agrandir le
+magasin, du coup j'leur ai demandé
+de m'faire une p'tite place.
+&#xE;&#x3;&#x1;&#x0;J'peux désormais exposer beaucoup
+plus d'articles qu'auparavant.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Viens
+donc me voir de temps en temps !</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>Hé,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; j'peux faire quelque
+chose pour t'aider ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;(&#x0;
+Désherber la ville.
+Non, rien.</original>
+			<edited>Hé,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; j'peux faire quelque
+chose pour t'aider ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;(&#x0;
+Désherber la ville.
+Non, rien.</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Tu veux quelqu'un pour désherber la
+ville ?&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xB;&#x0; Mais j'ai vu aucune mauvaise
+herbe aujourd'hui !
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Tu serais pas un peu maniaque,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x0;&#x0; ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0; n'a jamais été aussi
+propre ! Profite de cette situation
+rare et précieuse !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Tu veux quelqu'un pour désherber la
+ville ?&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xB;&#x0; Mais j'ai vu aucune mauvaise
+herbe aujourd'hui !
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Tu serais pas un peu maniaque,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x0;&#x0; ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0; n'a jamais été aussi
+propre ! Profite de cette situation
+rare et précieuse !</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Quoi ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Désherber &#xE;&#x5;&#x5;&#x0; ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;J'suis pas sûr que ça soit
+nécessaire.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;J'ai pas vu tellement de mauvaises
+herbes aujourd'hui&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;T'en fais pas, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;La ville n'est pas encore envahie,
+alors tu peux penser à autre chose !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Quoi ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Désherber &#xE;&#x5;&#x5;&#x0; ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;J'suis pas sûr que ça soit
+nécessaire.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;J'ai pas vu tellement de mauvaises
+herbes aujourd'hui&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;T'en fais pas, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;La ville n'est pas encore envahie,
+alors tu peux penser à autre chose !</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Tu cherches quelqu'un pour
+désherber la ville ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Oui, t'as raison,
+elle en a grandement besoin...&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Il faut bien que quelqu'un s'en
+occupe !&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Si je m'y mets tout de
+suite, j'aurai fini demain matin.
+&#xE;&#x3;&#x0;&#x0;Vu l'état de la ville...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; j'te fais un
+travail de pro pour &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. Alors, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;c'est OK ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui, s'il te plaît !
+Non, merci.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Tu cherches quelqu'un pour
+désherber la ville ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Oui, t'as raison,
+elle en a grandement besoin...&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Il faut bien que quelqu'un s'en
+occupe !&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Si je m'y mets tout de
+suite, j'aurai fini demain matin.
+&#xE;&#x3;&#x0;&#x0;Vu l'état de la ville...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; j'te fais un
+travail de pro pour &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. Alors, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;c'est OK ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui, s'il te plaît !
+Non, merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;tu cherches quelqu'un pour
+s'occuper du désherbage ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; En effet,
+il est grand temps de s'en occuper !
+&#xE;&#x3;&#x1;&#x0;Si tu veux, j'peux nettoyer cette
+ville de A à Z d'ici demain matin.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Combien ça va te coûter ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Hmm,
+disons &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;20 000 clochettes &#xE;&#x0;&#x3;&#x2;ÿÿpour un
+travail de pro. &#xE;&#x3;&#x17;&#x0;Alors ? Intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui !
+Non, merci.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;tu cherches quelqu'un pour
+s'occuper du désherbage ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; En effet,
+il est grand temps de s'en occuper !
+&#xE;&#x3;&#x1;&#x0;Si tu veux, j'peux nettoyer cette
+ville de A à Z d'ici demain matin.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Combien ça va te coûter ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Hmm,
+disons &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;20 000 clochettes &#xE;&#x0;&#x3;&#x2;ÿÿpour un
+travail de pro. &#xE;&#x3;&#x17;&#x0;Alors ? Intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui !
+Non, merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;tu cherches un pro du
+désherbage ? T'as frappé à la
+bonne porte !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;C'est vrai que l'état de cette ville
+est déplorable&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Mais avec moi, les
+mauvaises herbes ne durent jamais !
+&#xE;&#x3;&amp;&#x0;J'peux te nettoyer tout ça d'ici
+demain matin.&#xE;&#x3;&#x0;&#x0; Le tout pour &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;30 000
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. T'en penses quoi ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Je suis partant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.
+Pas intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;...</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;tu cherches un pro du
+désherbage ? T'as frappé à la
+bonne porte !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;C'est vrai que l'état de cette ville
+est déplorable&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Mais avec moi, les
+mauvaises herbes ne durent jamais !
+&#xE;&#x3;&amp;&#x0;J'peux te nettoyer tout ça d'ici
+demain matin.&#xE;&#x3;&#x0;&#x0; Le tout pour &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;30 000
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ. T'en penses quoi ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Je suis partant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.
+Pas intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;...</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;tu veux faire désherber la ville ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+Bonne idée,&#xE;&#x3;	&#x0; on commence à être
+envahis de mauvaises herbes&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;Si tu veux,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; j'peux m'en occuper et
+te nettoyer toute la ville d'ici
+demain matin.
+&#xE;&#x3;&#x0;&#x0;Mais vu l'ampleur des dégâts, j'te
+demanderai &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;50 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;T'en
+penses quoi ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, j'accepte !
+Non, merci...</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;tu veux faire désherber la ville ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+Bonne idée,&#xE;&#x3;	&#x0; on commence à être
+envahis de mauvaises herbes&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;Si tu veux,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; j'peux m'en occuper et
+te nettoyer toute la ville d'ici
+demain matin.
+&#xE;&#x3;&#x0;&#x0;Mais vu l'ampleur des dégâts, j'te
+demanderai &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;50 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;T'en
+penses quoi ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, j'accepte !
+Non, merci...</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;Hein ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu veux faire désherber la
+ville ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;Il serait temps ! C'est une
+véritable jungle, là-dehors !
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Hmmmm&#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;J'veux bien te rendre ce
+service,&#xE;&#x3;&#x1;&#x0; après tout.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Si j'commence maintenant et que
+tout se passe bien, je pense avoir
+fini demain matin.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x3;&#x0;&#x0;Vu l'ampleur de la tâche qui
+m'attend, je te demanderai&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;100 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; Alors ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, j'accepte !
+Pas intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;...</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;Hein ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu veux faire désherber la
+ville ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;Il serait temps ! C'est une
+véritable jungle, là-dehors !
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;Hmmmm&#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;J'veux bien te rendre ce
+service,&#xE;&#x3;&#x1;&#x0; après tout.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Si j'commence maintenant et que
+tout se passe bien, je pense avoir
+fini demain matin.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x3;&#x0;&#x0;Vu l'ampleur de la tâche qui
+m'attend, je te demanderai&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;100 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; Alors ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, j'accepte !
+Pas intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;...</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Reçu cinq sur cinq !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Dès que t'auras
+l'appoint, j'me mettrai au travail.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Reçu cinq sur cinq !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Dès que t'auras
+l'appoint, j'me mettrai au travail.</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Reçu cinq sur cinq !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Maintenant que
+tu as payé, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je vais me mettre au
+travail. Juste après la fermeture.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Demain matin, &#xE;&#x3;!&#x0;ces mauvaises herbes
+ne seront plus qu'un mauvais
+souv'nir.
+&#xE;&#x3;&#x1;&#x0;Tu dois être impatient&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; de voir ça,
+hein, &#xE;&#x5;&#x0;&#x0; ?!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Reçu cinq sur cinq !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Maintenant que
+tu as payé, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je vais me mettre au
+travail. Juste après la fermeture.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Demain matin, &#xE;&#x3;!&#x0;ces mauvaises herbes
+ne seront plus qu'un mauvais
+souv'nir.
+&#xE;&#x3;&#x1;&#x0;Tu dois être impatient&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; de voir ça,
+hein, &#xE;&#x5;&#x0;&#x0; ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>Aucun problème.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Reviens m'voir si
+tu changes d'avis.</original>
+			<edited>Aucun problème.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Reviens m'voir si
+tu changes d'avis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

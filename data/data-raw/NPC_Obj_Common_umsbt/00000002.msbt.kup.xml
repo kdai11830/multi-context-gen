@@ -1,0 +1,2004 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Hors service pour cause
+de maintenance.</original>
+			<edited>Hors service pour cause
+de maintenance.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Bienvenue !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Sélectionne une option.&#xE;&#xD;&#x8;&#x2;&#x0;Í&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Remboursement du prêt.
+Dépôt.
+Retrait.
+Annuler.</original>
+			<edited>Bienvenue !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Sélectionne une option.&#xE;&#xD;&#x8;&#x2;&#x0;Í&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Remboursement du prêt.
+Dépôt.
+Retrait.
+Annuler.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Bienvenue !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Sélectionne une option.&#xE;&#xD;&#x8;&#x2;&#x0;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Dépôt.
+Retrait.
+Annuler.</original>
+			<edited>Bienvenue !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Sélectionne une option.&#xE;&#xD;&#x8;&#x2;&#x0;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Dépôt.
+Retrait.
+Annuler.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Il te reste encore &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x0;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ à rembourser.</original>
+			<edited>Il te reste encore &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x0;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ à rembourser.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Le prêt lié à ce compte a
+été remboursé en totalité.</original>
+			<edited>Le prêt lié à ce compte a
+été remboursé en totalité.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>
+Merci et bonne journée !</original>
+			<edited>
+Merci et bonne journée !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>Le solde maximal a été atteint.
+Impossible de déposer plus de
+clochettes sur ce compte.</original>
+			<edited>Le solde maximal a été atteint.
+Impossible de déposer plus de
+clochettes sur ce compte.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Ton solde actuel est de
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x12;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x0;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>Ton solde actuel est de
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x12;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x0;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>Ton solde actuel est de zéro.</original>
+			<edited>Ton solde actuel est de zéro.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>Aucun dépôt n'a été fait
+sur ton compte.</original>
+			<edited>Aucun dépôt n'a été fait
+sur ton compte.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Merci d'utiliser les commandes
+de l'écran tactile.</original>
+			<edited>Merci d'utiliser les commandes
+de l'écran tactile.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>Devise :
+« Chaque visage raconte
+une histoire. »</original>
+			<edited>Devise :
+« Chaque visage raconte
+une histoire. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>Devise :
+« Yoppeula boinguili
+boinguedi oh ! »</original>
+			<edited>Devise :
+« Yoppeula boinguili
+boinguedi oh ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>Devise :
+« Renne ne sert de courir,
+il faut partir à point. »</original>
+			<edited>Devise :
+« Renne ne sert de courir,
+il faut partir à point. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>Devise :
+« Enfer et réinitialisation ! »</original>
+			<edited>Devise :
+« Enfer et réinitialisation ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>Devise :
+« Le calme est le frère
+de toutes les vertus. »</original>
+			<edited>Devise :
+« Le calme est le frère
+de toutes les vertus. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>Devise :
+« La vie est courte,
+et le monde si vaste. »</original>
+			<edited>Devise :
+« La vie est courte,
+et le monde si vaste. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>Devise :
+« Ma musique a besoin de liberté ! »</original>
+			<edited>Devise :
+« Ma musique a besoin de liberté ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;
+&#xE;&#x0;&#x3;&#x2;ÿÿsur &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;
+&#xE;&#x0;&#x3;&#x2;ÿÿsur &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ
+diffusant &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ
+diffusant &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>
+～ Plan des Galeries Mélimélo ～&#xE;&#x0;&#x4;&#x0;2étage : Galeries Carla.
+1 étage : Espace maison.
+RdC : Vie quotidienne et jardinage.</original>
+			<edited>
+～ Plan des Galeries Mélimélo ～&#xE;&#x0;&#x4;&#x0;2étage : Galeries Carla.
+1 étage : Espace maison.
+RdC : Vie quotidienne et jardinage.</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>
+... Bizarre !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est vide...</original>
+			<edited>
+... Bizarre !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est vide...</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>
+- Panier -&#xE;&#x0;&#x4;&#x0;Les objets déposés dans le panier
+de l'île peuvent être récupérés ici.&#xE;&#x0;&#x4;&#x0;Lorsqu'il est plein, aucun autre
+objet ne peut y être placé.&#xE;&#x0;&#x4;&#x0;Merci de récupérer les
+objets au plus vite pour
+éviter ce désagrément.</original>
+			<edited>
+- Panier -&#xE;&#x0;&#x4;&#x0;Les objets déposés dans le panier
+de l'île peuvent être récupérés ici.&#xE;&#x0;&#x4;&#x0;Lorsqu'il est plein, aucun autre
+objet ne peut y être placé.&#xE;&#x0;&#x4;&#x0;Merci de récupérer les
+objets au plus vite pour
+éviter ce désagrément.</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>
+- Panier -&#xE;&#x0;&#x4;&#x0;Merci de récupérer les
+objets au plus vite pour
+éviter tout désagrément.</original>
+			<edited>
+- Panier -&#xE;&#x0;&#x4;&#x0;Merci de récupérer les
+objets au plus vite pour
+éviter tout désagrément.</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>
+- Panier -&#xE;&#x0;&#x4;&#x0;Les objets déposés ici peuvent être
+récupérés en ville à ton retour, dans
+le panier placé sur le ponton.</original>
+			<edited>
+- Panier -&#xE;&#x0;&#x4;&#x0;Les objets déposés ici peuvent être
+récupérés en ville à ton retour, dans
+le panier placé sur le ponton.</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>
+- Panier -&#xE;&#x0;&#x4;&#x0;Dépose ici tous les objets
+que tu souhaites récupérer
+à ton retour en ville.</original>
+			<edited>
+- Panier -&#xE;&#x0;&#x4;&#x0;Dépose ici tous les objets
+que tu souhaites récupérer
+à ton retour en ville.</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>
+.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Hein ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est fermé à clé.
+Impossible de l'ouvrir.</original>
+			<edited>
+.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Hein ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est fermé à clé.
+Impossible de l'ouvrir.</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>... Oh ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Ça a l'air hors service...</original>
+			<edited>... Oh ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Ça a l'air hors service...</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>Prendre une photo d'identité
+pour &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;500 clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ? &#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+OK !
+Non merci.</original>
+			<edited>Prendre une photo d'identité
+pour &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;500 clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ? &#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+OK !
+Non merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>Tu n'as pas assez de clochettes
+sur toi... La prochaine fois !</original>
+			<edited>Tu n'as pas assez de clochettes
+sur toi... La prochaine fois !</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x7;&#x4;&#x0;Attention&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Ouistiti !&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;&#x8;&#x4;&lt;&#x0;&#x0;&#x0;</original>
+			<edited>
+&#xE;&#x7;&#x4;&#x0;Attention&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Ouistiti !&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;&#x8;&#x4;&lt;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>Que souhaites-tu faire
+avec le mannequin ?</original>
+			<edited>Que souhaites-tu faire
+avec le mannequin ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>Le mannequin ne porte
+aucun vêtement.</original>
+			<edited>Le mannequin ne porte
+aucun vêtement.</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>
+... Tu gardes ces chaussures ?&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui !
+Non, je change !</original>
+			<edited>
+... Tu gardes ces chaussures ?&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui !
+Non, je change !</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>
+... Tu gardes ces chaussettes ?&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui !
+Non, je change !</original>
+			<edited>
+... Tu gardes ces chaussettes ?&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui !
+Non, je change !</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>Tu n'as pas assez de place
+dans ton inventaire pour
+un échange !</original>
+			<edited>Tu n'as pas assez de place
+dans ton inventaire pour
+un échange !</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>
+Que veux-tu enlever ?</original>
+			<edited>
+Que veux-tu enlever ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>Ton inventaire est plein, tu
+ne peux rien lui enlever.</original>
+			<edited>Ton inventaire est plein, tu
+ne peux rien lui enlever.</edited>
+			<subEntries />
+		</entry>
+		<entry name="061" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="063" offset="00" relocatable="true" max_length="0">
+			<original>Grâce à la générosité de tous les
+habitants,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; les &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ
+nécessaires ont pu être collectées.
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0;
+va pouvoir voir le jour !&#xE;&#x0;&#x4;&#x0;Vivement que les
+travaux soient terminés !</original>
+			<edited>Grâce à la générosité de tous les
+habitants,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; les &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ
+nécessaires ont pu être collectées.
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0;
+va pouvoir voir le jour !&#xE;&#x0;&#x4;&#x0;Vivement que les
+travaux soient terminés !</edited>
+			<subEntries />
+		</entry>
+		<entry name="064" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0;
+devrait être construit&#xE;&#xE;&#x8;&#xC;&#x0;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0; à cet
+endroit prochainement !</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0;
+devrait être construit&#xE;&#xE;&#x8;&#xC;&#x0;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0; à cet
+endroit prochainement !</edited>
+			<subEntries />
+		</entry>
+		<entry name="065" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0;
+devrait être placé&#xE;&#xE;&#x8;&#xC;&#x0;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0; à cet
+endroit prochainement !</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0;
+devrait être placé&#xE;&#xE;&#x8;&#xC;&#x0;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0; à cet
+endroit prochainement !</edited>
+			<subEntries />
+		</entry>
+		<entry name="066" offset="00" relocatable="true" max_length="0">
+			<original>Bonjour !</original>
+			<edited>Bonjour !</edited>
+			<subEntries />
+		</entry>
+		<entry name="067" offset="00" relocatable="true" max_length="0">
+			<original>Bonjour !</original>
+			<edited>Bonjour !</edited>
+			<subEntries />
+		</entry>
+		<entry name="068" offset="00" relocatable="true" max_length="0">
+			<original>Bonsoir !</original>
+			<edited>Bonsoir !</edited>
+			<subEntries />
+		</entry>
+		<entry name="069" offset="00" relocatable="true" max_length="0">
+			<original>Merci pour cette visite tardive !</original>
+			<edited>Merci pour cette visite tardive !</edited>
+			<subEntries />
+		</entry>
+		<entry name="070" offset="00" relocatable="true" max_length="0">
+			<original>Les dons oniriques ne
+nous intéressent pas.&#xE;&#x0;&#x4;&#x0;En revanche, n'hésitez pas
+à vous montrer &#xE;&#xE;&#x6;&amp;&#x10;&#x0;g&#x0;é&#x0;n&#x0;é&#x0;r&#x0;e&#x0;u&#x0;x&#x0;&#x12;&#x0;g&#x0;é&#x0;n&#x0;é&#x0;r&#x0;e&#x0;u&#x0;s&#x0;e&#x0;
+une fois réveillé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; !</original>
+			<edited>Les dons oniriques ne
+nous intéressent pas.&#xE;&#x0;&#x4;&#x0;En revanche, n'hésitez pas
+à vous montrer &#xE;&#xE;&#x6;&amp;&#x10;&#x0;g&#x0;é&#x0;n&#x0;é&#x0;r&#x0;e&#x0;u&#x0;x&#x0;&#x12;&#x0;g&#x0;é&#x0;n&#x0;é&#x0;r&#x0;e&#x0;u&#x0;s&#x0;e&#x0;
+une fois réveillé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="071" offset="00" relocatable="true" max_length="0">
+			<original>Dites, accepteriez-vous de nous
+aider à réunir les fonds pour bâtir
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0; ?</original>
+			<edited>Dites, accepteriez-vous de nous
+aider à réunir les fonds pour bâtir
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0; ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="072" offset="00" relocatable="true" max_length="0">
+			<original>Dites, accepteriez-vous de nous
+aider à réunir les fonds pour bâtir
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0; ?</original>
+			<edited>Dites, accepteriez-vous de nous
+aider à réunir les fonds pour bâtir
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0; ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="073" offset="00" relocatable="true" max_length="0">
+			<original>Notre objectif est de collecter
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x0;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Pour l'instant, nous en sommes
+à &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x1;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Il nous reste donc à trouver
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x2;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Toute aide est la bienvenue,
+alors n'hésitez pas à donner
+ne serait-ce qu'une clochette !&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+D'accord !
+Une autre fois.</original>
+			<edited>Notre objectif est de collecter
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x0;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Pour l'instant, nous en sommes
+à &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x1;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Il nous reste donc à trouver
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;	@&#x2;Í&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x12;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x14;&#x0;c&#x0;l&#x0;o&#x0;c&#x0;h&#x0;e&#x0;t&#x0;t&#x0;e&#x0;s&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Toute aide est la bienvenue,
+alors n'hésitez pas à donner
+ne serait-ce qu'une clochette !&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+D'accord !
+Une autre fois.</edited>
+			<subEntries />
+		</entry>
+		<entry name="074" offset="00" relocatable="true" max_length="0">
+			<original>Grâce à nos généreux donateurs,
+l'objectif de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes
+&#xE;&#x0;&#x3;&#x2;ÿÿa été atteint !
+Vous pourrez bientôt
+admirer le résultat !</original>
+			<edited>Grâce à nos généreux donateurs,
+l'objectif de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes
+&#xE;&#x0;&#x3;&#x2;ÿÿa été atteint !
+Vous pourrez bientôt
+admirer le résultat !</edited>
+			<subEntries />
+		</entry>
+		<entry name="075" offset="00" relocatable="true" max_length="0">
+			<original>Entendu, nous nous réjouissons
+à l'avance de votre contribution !</original>
+			<edited>Entendu, nous nous réjouissons
+à l'avance de votre contribution !</edited>
+			<subEntries />
+		</entry>
+		<entry name="076" offset="00" relocatable="true" max_length="0">
+			<original>Nous nous réjouissons à
+l'avance de votre contribution !</original>
+			<edited>Nous nous réjouissons à
+l'avance de votre contribution !</edited>
+			<subEntries />
+		</entry>
+		<entry name="077" offset="00" relocatable="true" max_length="0">
+			<original>Merci pour votre contribution !</original>
+			<edited>Merci pour votre contribution !</edited>
+			<subEntries />
+		</entry>
+		<entry name="078" offset="00" relocatable="true" max_length="0">
+			<original>Grâce à vous, notre objectif
+de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes
+&#xE;&#x0;&#x3;&#x2;ÿÿa été atteint !
+Vous pourrez bientôt
+admirer le résultat !</original>
+			<edited>Grâce à vous, notre objectif
+de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes
+&#xE;&#x0;&#x3;&#x2;ÿÿa été atteint !
+Vous pourrez bientôt
+admirer le résultat !</edited>
+			<subEntries />
+		</entry>
+		<entry name="079" offset="00" relocatable="true" max_length="0">
+			<original>La collecte de fonds pour
+&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0;
+a malheureusement été annulée.
+Merci néanmoins pour votre
+soutien !</original>
+			<edited>La collecte de fonds pour
+&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x6;&#x2;&#x0;&#x0;
+a malheureusement été annulée.
+Merci néanmoins pour votre
+soutien !</edited>
+			<subEntries />
+		</entry>
+		<entry name="081" offset="00" relocatable="true" max_length="0">
+			<original>Morceau en cours de diffusion :
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</original>
+			<edited>Morceau en cours de diffusion :
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="082" offset="00" relocatable="true" max_length="0">
+			<original>Aucun morceau n'est
+diffusé actuellement.</original>
+			<edited>Aucun morceau n'est
+diffusé actuellement.</edited>
+			<subEntries />
+		</entry>
+		<entry name="083" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="084" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="085" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="086" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="087" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="088" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="089" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="091" offset="00" relocatable="true" max_length="0">
+			<original>Le catalogue est uniquement
+accessible aux clients résidant
+dans cette ville. </original>
+			<edited>Le catalogue est uniquement
+accessible aux clients résidant
+dans cette ville. </edited>
+			<subEntries />
+		</entry>
+		<entry name="092" offset="00" relocatable="true" max_length="0">
+			<original>Bienvenue dans le catalogue
+des magasins Mélimélo !</original>
+			<edited>Bienvenue dans le catalogue
+des magasins Mélimélo !</edited>
+			<subEntries />
+		</entry>
+		<entry name="093" offset="00" relocatable="true" max_length="0">
+			<original>Merci d'avoir utilisé le catalogue
+des magasins Mélimélo !</original>
+			<edited>Merci d'avoir utilisé le catalogue
+des magasins Mélimélo !</edited>
+			<subEntries />
+		</entry>
+		<entry name="094" offset="00" relocatable="true" max_length="0">
+			<original>Merci d'avoir utilisé le catalogue.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+Les articles commandés seront
+livrés à ton domicile.</original>
+			<edited>Merci d'avoir utilisé le catalogue.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+Les articles commandés seront
+livrés à ton domicile.</edited>
+			<subEntries />
+		</entry>
+		<entry name="095" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="096" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="097" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="098" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="099" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="101" offset="00" relocatable="true" max_length="0">
+			<original>
+～ Plan du musée &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; ～</original>
+			<edited>
+～ Plan du musée &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="102" offset="00" relocatable="true" max_length="0">
+			<original>
+～ Plan du musée &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; ～&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Expos du RdC.
+Expos du 1 étage.
+Annuler.</original>
+			<edited>
+～ Plan du musée &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; ～&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Expos du RdC.
+Expos du 1 étage.
+Annuler.</edited>
+			<subEntries />
+		</entry>
+		<entry name="103" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="104" offset="00" relocatable="true" max_length="0">
+			<original>Il n'y a actuellement aucune
+exposition au 1 étage.&#xE;&#x0;&#x4;&#x0;Adresse-toi au personnel du
+1 étage si tu souhaites en
+organiser une.</original>
+			<edited>Il n'y a actuellement aucune
+exposition au 1 étage.&#xE;&#x0;&#x4;&#x0;Adresse-toi au personnel du
+1 étage si tu souhaites en
+organiser une.</edited>
+			<subEntries />
+		</entry>
+		<entry name="105" offset="00" relocatable="true" max_length="0">
+			<original>On trouve actuellement au 1
+étage une exposition intitulée
+« &#xE;&#x12;&#x7;&#x2;&#x0;Í ».
+N'hésite pas à y faire un tour !</original>
+			<edited>On trouve actuellement au 1
+étage une exposition intitulée
+« &#xE;&#x12;&#x7;&#x2;&#x0;Í ».
+N'hésite pas à y faire un tour !</edited>
+			<subEntries />
+		</entry>
+		<entry name="106" offset="00" relocatable="true" max_length="0">
+			<original>On trouve actuellement au 1
+étage les expositions suivantes :&#xE;&#x0;&#x4;&#x0;« &#xE;&#x12;&#x7;&#x2;&#x0;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x1;Í »&#xE;&#x0;&#x4;&#x0;N'hésite pas à y faire un tour !</original>
+			<edited>On trouve actuellement au 1
+étage les expositions suivantes :&#xE;&#x0;&#x4;&#x0;« &#xE;&#x12;&#x7;&#x2;&#x0;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x1;Í »&#xE;&#x0;&#x4;&#x0;N'hésite pas à y faire un tour !</edited>
+			<subEntries />
+		</entry>
+		<entry name="107" offset="00" relocatable="true" max_length="0">
+			<original>On trouve actuellement au 1
+étage les expositions suivantes :&#xE;&#x0;&#x4;&#x0;« &#xE;&#x12;&#x7;&#x2;&#x0;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x1;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x2;Í »
+N'hésite pas à y faire un tour !</original>
+			<edited>On trouve actuellement au 1
+étage les expositions suivantes :&#xE;&#x0;&#x4;&#x0;« &#xE;&#x12;&#x7;&#x2;&#x0;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x1;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x2;Í »
+N'hésite pas à y faire un tour !</edited>
+			<subEntries />
+		</entry>
+		<entry name="108" offset="00" relocatable="true" max_length="0">
+			<original>On trouve actuellement au 1
+étage les expositions suivantes :&#xE;&#x0;&#x4;&#x0;« &#xE;&#x12;&#x7;&#x2;&#x0;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x1;Í »&#xE;&#x0;&#x4;&#x0;« &#xE;&#x12;&#x7;&#x2;&#x2;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x3;Í »&#xE;&#x0;&#x4;&#x0;N'hésite pas à y faire un tour !</original>
+			<edited>On trouve actuellement au 1
+étage les expositions suivantes :&#xE;&#x0;&#x4;&#x0;« &#xE;&#x12;&#x7;&#x2;&#x0;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x1;Í »&#xE;&#x0;&#x4;&#x0;« &#xE;&#x12;&#x7;&#x2;&#x2;Í »
+« &#xE;&#x12;&#x7;&#x2;&#x3;Í »&#xE;&#x0;&#x4;&#x0;N'hésite pas à y faire un tour !</edited>
+			<subEntries />
+		</entry>
+		<entry name="109" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="111" offset="00" relocatable="true" max_length="0">
+			<original>
+Quel temps va-t-il faire&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;?</original>
+			<edited>
+Quel temps va-t-il faire&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="112" offset="00" relocatable="true" max_length="0">
+			<original>Le temps va rester au
+beau fixe, semble-t-il !</original>
+			<edited>Le temps va rester au
+beau fixe, semble-t-il !</edited>
+			<subEntries />
+		</entry>
+		<entry name="113" offset="00" relocatable="true" max_length="0">
+			<original>Apparemment, le temps ne
+devrait pas trop changer.</original>
+			<edited>Apparemment, le temps ne
+devrait pas trop changer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="114" offset="00" relocatable="true" max_length="0">
+			<original>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ça va se gâter ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+Il pourrait soudainement
+se mettre à pleuvoir&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ça va se gâter ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+Il pourrait soudainement
+se mettre à pleuvoir&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="115" offset="00" relocatable="true" max_length="0">
+			<original>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; On dirait qu'il pourrait
+se mettre à neiger sans préavis&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; On dirait qu'il pourrait
+se mettre à neiger sans préavis&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="116" offset="00" relocatable="true" max_length="0">
+			<original>La pression atmosphérique grimpe,
+c'est synonyme de temps ensoleillé.</original>
+			<edited>La pression atmosphérique grimpe,
+c'est synonyme de temps ensoleillé.</edited>
+			<subEntries />
+		</entry>
+		<entry name="117" offset="00" relocatable="true" max_length="0">
+			<original>Le temps va rester couvert,
+à ce qu'il semble.</original>
+			<edited>Le temps va rester couvert,
+à ce qu'il semble.</edited>
+			<subEntries />
+		</entry>
+		<entry name="118" offset="00" relocatable="true" max_length="0">
+			<original>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Apparemment,
+il faut s'attendre à une
+averse à tout moment&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Apparemment,
+il faut s'attendre à une
+averse à tout moment&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="119" offset="00" relocatable="true" max_length="0">
+			<original>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Apparemment,
+il faut s'attendre à une chute
+de neige à tout moment&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Apparemment,
+il faut s'attendre à une chute
+de neige à tout moment&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="120" offset="00" relocatable="true" max_length="0">
+			<original>La pluie devrait cesser
+et le ciel se dégager.</original>
+			<edited>La pluie devrait cesser
+et le ciel se dégager.</edited>
+			<subEntries />
+		</entry>
+		<entry name="121" offset="00" relocatable="true" max_length="0">
+			<original>La neige devrait cesser de
+tomber et le ciel se dégager.</original>
+			<edited>La neige devrait cesser de
+tomber et le ciel se dégager.</edited>
+			<subEntries />
+		</entry>
+		<entry name="122" offset="00" relocatable="true" max_length="0">
+			<original>La pluie devrait bientôt cesser.</original>
+			<edited>La pluie devrait bientôt cesser.</edited>
+			<subEntries />
+		</entry>
+		<entry name="123" offset="00" relocatable="true" max_length="0">
+			<original>La neige devrait bientôt
+cesser de tomber.</original>
+			<edited>La neige devrait bientôt
+cesser de tomber.</edited>
+			<subEntries />
+		</entry>
+		<entry name="124" offset="00" relocatable="true" max_length="0">
+			<original>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; On dirait qu'il va
+continuer de pleuvoir un moment.</original>
+			<edited>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; On dirait qu'il va
+continuer de pleuvoir un moment.</edited>
+			<subEntries />
+		</entry>
+		<entry name="125" offset="00" relocatable="true" max_length="0">
+			<original>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; On dirait qu'il va
+continuer de neiger un moment.</original>
+			<edited>Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; On dirait qu'il va
+continuer de neiger un moment.</edited>
+			<subEntries />
+		</entry>
+		<entry name="126" offset="00" relocatable="true" max_length="0">
+			<original>Raté !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça ne s'ouvre
+pas de ce côté !</original>
+			<edited>Raté !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça ne s'ouvre
+pas de ce côté !</edited>
+			<subEntries />
+		</entry>
+		<entry name="127" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="128" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="129" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="131" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x12; &#x0;. Ville : &#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x2;&#x2;&#x0;&#x0;.
+Résidence &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0;.
+Mise à jour le &#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í &#xE;&#x4;&#xD;&#x2;&#x0;Í.</original>
+			<edited>&#xE;&#x12; &#x0;. Ville : &#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x2;&#x2;&#x0;&#x0;.
+Résidence &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0;.
+Mise à jour le &#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í &#xE;&#x4;&#xD;&#x2;&#x0;Í.</edited>
+			<subEntries />
+		</entry>
+		<entry name="132" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="133" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="134" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="135" offset="00" relocatable="true" max_length="0">
+			<original>Pour sauvegarder un nouveau motif
+personnalisé, tu dois choisir un
+motif qui sera écrasé.</original>
+			<edited>Pour sauvegarder un nouveau motif
+personnalisé, tu dois choisir un
+motif qui sera écrasé.</edited>
+			<subEntries />
+		</entry>
+		<entry name="136" offset="00" relocatable="true" max_length="0">
+			<original>
+[&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x5;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ]</original>
+			<edited>
+[&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x5;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ]</edited>
+			<subEntries />
+		</entry>
+		<entry name="137" offset="00" relocatable="true" max_length="0">
+			<original>Remplacer le motif du panneau
+motif perso ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui !
+Non.</original>
+			<edited>Remplacer le motif du panneau
+motif perso ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui !
+Non.</edited>
+			<subEntries />
+		</entry>
+		<entry name="138" offset="00" relocatable="true" max_length="0">
+			<original>Changer le motif du panneau
+motif perso ?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Le remplacer !
+Le modifier !
+Non.</original>
+			<edited>Changer le motif du panneau
+motif perso ?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Le remplacer !
+Le modifier !
+Non.</edited>
+			<subEntries />
+		</entry>
+		<entry name="140" offset="00" relocatable="true" max_length="0">
+			<original>Toute donation à notre
+musée est la bienvenue.</original>
+			<edited>Toute donation à notre
+musée est la bienvenue.</edited>
+			<subEntries />
+		</entry>
+		<entry name="141" offset="00" relocatable="true" max_length="0">
+			<original>[&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;]
+&#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í &#xE;&#x4;&#xD;&#x2;&#x0;Í
+Donation &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0;.</original>
+			<edited>[&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;]
+&#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í &#xE;&#x4;&#xD;&#x2;&#x0;Í
+Donation &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="142" offset="00" relocatable="true" max_length="0">
+			<original>[&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;]
+&#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í &#xE;&#x4;&#xD;&#x2;&#x0;Í
+Donateur anonyme.</original>
+			<edited>[&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;]
+&#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í &#xE;&#x4;&#xD;&#x2;&#x0;Í
+Donateur anonyme.</edited>
+			<subEntries />
+		</entry>
+		<entry name="143" offset="00" relocatable="true" max_length="0">
+			<original>
+[&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#xC;&#x2;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ]&#xE;&#x0;&#x4;&#x0;Merci de nous aider à
+compléter ce squelette.</original>
+			<edited>
+[&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#xC;&#x2;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ]&#xE;&#x0;&#x4;&#x0;Merci de nous aider à
+compléter ce squelette.</edited>
+			<subEntries />
+		</entry>
+		<entry name="144" offset="00" relocatable="true" max_length="0">
+			<original>
+[&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#xC;&#x2;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ]</original>
+			<edited>
+[&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#xC;&#x2;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ]</edited>
+			<subEntries />
+		</entry>
+		<entry name="146" offset="00" relocatable="true" max_length="0">
+			<original>Salles d'exposition disponibles !
+S'adresser au personnel
+du 1 étage.</original>
+			<edited>Salles d'exposition disponibles !
+S'adresser au personnel
+du 1 étage.</edited>
+			<subEntries />
+		</entry>
+		<entry name="147" offset="00" relocatable="true" max_length="0">
+			<original>～ &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#x7;&#x2;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ ～
+Une exposition &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0;.</original>
+			<edited>～ &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x12;&#x7;&#x2;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ ～
+Une exposition &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="148" offset="00" relocatable="true" max_length="0">
+			<original>Modifier l'affiche de l'exposition ?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Changer le titre !
+Changer l'affiche !
+Annuler.</original>
+			<edited>Modifier l'affiche de l'exposition ?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Changer le titre !
+Changer l'affiche !
+Annuler.</edited>
+			<subEntries />
+		</entry>
+		<entry name="149" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="151" offset="00" relocatable="true" max_length="0">
+			<original>
+Photo &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.</original>
+			<edited>
+Photo &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="152" offset="00" relocatable="true" max_length="0">
+			<original>...&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Tiens ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Il y a un message
+griffonné au verso de la photo...</original>
+			<edited>...&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Tiens ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Il y a un message
+griffonné au verso de la photo...</edited>
+			<subEntries />
+		</entry>
+		<entry name="153" offset="00" relocatable="true" max_length="0">
+			<original>Date de naissance : &#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í
+Signe astrologique : &#xE;&#x5;&#xC;&#x0;&#xE;&#x0;&#x4;&#x0;
+Devise...</original>
+			<edited>Date de naissance : &#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í
+Signe astrologique : &#xE;&#x5;&#xC;&#x0;&#xE;&#x0;&#x4;&#x0;
+Devise...</edited>
+			<subEntries />
+		</entry>
+		<entry name="154" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="156" offset="00" relocatable="true" max_length="0">
+			<original>～ Bienvenue à Tortiland ! ～
+Sommaire&#xE;&#xF;&#x8;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Au sujet de l'île.
+Au sujet de l'accueil.
+Au sujet des excursions.
+Club Tortimer.
+Quitter.</original>
+			<edited>～ Bienvenue à Tortiland ! ～
+Sommaire&#xE;&#xF;&#x8;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Au sujet de l'île.
+Au sujet de l'accueil.
+Au sujet des excursions.
+Club Tortimer.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="157" offset="00" relocatable="true" max_length="0">
+			<original>Cette île est un petit paradis où les
+gens du monde entier se rendent
+pour profiter de son été permanent.
+Nous proposons aux visiteurs des
+excursions en solo ou en groupe.&#xE;&#x0;&#x4;&#x0;Toute notre équipe travaille
+d'arrache-pied pour t'offrir
+un séjour inoubliable.&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Retour.
+Quitter.</original>
+			<edited>Cette île est un petit paradis où les
+gens du monde entier se rendent
+pour profiter de son été permanent.
+Nous proposons aux visiteurs des
+excursions en solo ou en groupe.&#xE;&#x0;&#x4;&#x0;Toute notre équipe travaille
+d'arrache-pied pour t'offrir
+un séjour inoubliable.&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Retour.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="158" offset="00" relocatable="true" max_length="0">
+			<original>Tu trouveras ici maints services
+destinés à rendre ton séjour
+le plus agréable possible.</original>
+			<edited>Tu trouveras ici maints services
+destinés à rendre ton séjour
+le plus agréable possible.</edited>
+			<subEntries />
+		</entry>
+		<entry name="159" offset="00" relocatable="true" max_length="0">
+			<original>Sélectionne la rubrique qui
+t'intéresse pour plus de détails.
+                                          Page 1&#xE;&#xF;&#x4;&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Guichet.
+Ponton.
+Boutique de souvenirs.
+Zone d'attente.
+Page suivante.
+Quitter.</original>
+			<edited>Sélectionne la rubrique qui
+t'intéresse pour plus de détails.
+                                          Page 1&#xE;&#xF;&#x4;&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Guichet.
+Ponton.
+Boutique de souvenirs.
+Zone d'attente.
+Page suivante.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="160" offset="00" relocatable="true" max_length="0">
+			<original>Sélectionne la rubrique qui
+t'intéresse pour plus de détails.
+                                          Page 2&#xE;&#xF;&#x4;&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Plage.
+Panier.
+DAC.
+Page précédente.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Sélectionne la rubrique qui
+t'intéresse pour plus de détails.
+                                          Page 2&#xE;&#xF;&#x4;&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Plage.
+Panier.
+DAC.
+Page précédente.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="161" offset="00" relocatable="true" max_length="0">
+			<original>Des dépliants détaillant les
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;excursions&#xE;&#x0;&#x3;&#x2;ÿÿ que nous offrons
+sont à ta disposition au guichet.
+C'est également au guichet que
+tu dois t'adresser pour rentrer
+chez toi.
+Pour plus de détails concernant
+les excursions, consulte la rubrique
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Au sujet des excursions&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Des dépliants détaillant les
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;excursions&#xE;&#x0;&#x3;&#x2;ÿÿ que nous offrons
+sont à ta disposition au guichet.
+C'est également au guichet que
+tu dois t'adresser pour rentrer
+chez toi.
+Pour plus de détails concernant
+les excursions, consulte la rubrique
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Au sujet des excursions&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="162" offset="00" relocatable="true" max_length="0">
+			<original>La porte au nord de l'accueil
+mène au ponton, mais l'entrée
+est réservée au personnel.
+Adresse-toi au guichet si
+tu souhaites embarquer
+sur le bateau.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>La porte au nord de l'accueil
+mène au ponton, mais l'entrée
+est réservée au personnel.
+Adresse-toi au guichet si
+tu souhaites embarquer
+sur le bateau.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="163" offset="00" relocatable="true" max_length="0">
+			<original>À droite du guichet de l'accueil
+se trouve la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;boutique de souvenirs&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Tu y trouveras des objets rares
+provenant de cette île, alors
+n'hésite pas à y faire un tour.&#xE;&#x0;&#x4;&#x0;Sache cependant que les
+règlements ne se font pas en
+clochettes, mais en &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;médailles&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x0;&#x4;&#x0;Celles-ci peuvent être obtenues en
+participant à des &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;excursions&#xE;&#x0;&#x3;&#x2;ÿÿ, et leur
+nombre dépend de tes exploits.
+Alors essaie de prendre part à un
+maximum d'excursions !&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>À droite du guichet de l'accueil
+se trouve la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;boutique de souvenirs&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Tu y trouveras des objets rares
+provenant de cette île, alors
+n'hésite pas à y faire un tour.&#xE;&#x0;&#x4;&#x0;Sache cependant que les
+règlements ne se font pas en
+clochettes, mais en &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;médailles&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x0;&#x4;&#x0;Celles-ci peuvent être obtenues en
+participant à des &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;excursions&#xE;&#x0;&#x3;&#x2;ÿÿ, et leur
+nombre dépend de tes exploits.
+Alors essaie de prendre part à un
+maximum d'excursions !&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="164" offset="00" relocatable="true" max_length="0">
+			<original>Nous disposons d'une zone
+d'attente réservée aux excursions
+en groupe.
+Elle se trouve en face du
+guichet de l'accueil.&#xE;&#x0;&#x4;&#x0;Pour plus de détails concernant
+les excursions, consulte la section
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Au sujet des excursions&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Nous disposons d'une zone
+d'attente réservée aux excursions
+en groupe.
+Elle se trouve en face du
+guichet de l'accueil.&#xE;&#x0;&#x4;&#x0;Pour plus de détails concernant
+les excursions, consulte la section
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Au sujet des excursions&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="165" offset="00" relocatable="true" max_length="0">
+			<original>La porte au sud de l'accueil
+mène à la plage. Tu es libre
+d'aller t'y promener à ta guise.
+Tu peux y attraper des insectes et
+des poissons, nager dans l'océan, et
+ramasser des fruits à emporter.
+Si tu as besoin d'un outil ou
+de quoi que ce soit, demande
+à &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Gyroïde&#xE;&#x0;&#x3;&#x2;ÿÿ, sur la plage.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>La porte au sud de l'accueil
+mène à la plage. Tu es libre
+d'aller t'y promener à ta guise.
+Tu peux y attraper des insectes et
+des poissons, nager dans l'océan, et
+ramasser des fruits à emporter.
+Si tu as besoin d'un outil ou
+de quoi que ce soit, demande
+à &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Gyroïde&#xE;&#x0;&#x3;&#x2;ÿÿ, sur la plage.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="166" offset="00" relocatable="true" max_length="0">
+			<original>Dépose les objets que tu souhaites
+ramener chez toi dans le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;panier
+&#xE;&#x0;&#x3;&#x2;ÿÿsitué à côté du guichet.&#xE;&#x0;&#x4;&#x0;Une fois de retour en ville, tu ne
+peux récupérer que les objets
+que tu as placés dans ce panier.
+Tu les trouveras dans le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;panier &#xE;&#x0;&#x3;&#x2;ÿÿposé
+sur le ponton de ta ville.&#xE;&#x0;&#x4;&#x0;Pense à les récupérer
+dès ton arrivée, surtout.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Dépose les objets que tu souhaites
+ramener chez toi dans le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;panier
+&#xE;&#x0;&#x3;&#x2;ÿÿsitué à côté du guichet.&#xE;&#x0;&#x4;&#x0;Une fois de retour en ville, tu ne
+peux récupérer que les objets
+que tu as placés dans ce panier.
+Tu les trouveras dans le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;panier &#xE;&#x0;&#x3;&#x2;ÿÿposé
+sur le ponton de ta ville.&#xE;&#x0;&#x4;&#x0;Pense à les récupérer
+dès ton arrivée, surtout.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="167" offset="00" relocatable="true" max_length="0">
+			<original>Un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Distributeur Automatique de
+Clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ est à ta disposition
+à l'accueil.
+Tu peux l'utiliser pour déposer ton
+argent, mais note que les clochettes
+ne sont pas utilisées sur l'île.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Distributeur Automatique de
+Clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ est à ta disposition
+à l'accueil.
+Tu peux l'utiliser pour déposer ton
+argent, mais note que les clochettes
+ne sont pas utilisées sur l'île.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="168" offset="00" relocatable="true" max_length="0">
+			<original>Profite de ton séjour sur l'île
+pour participer à l'une de nos
+merveilleuses excursions !
+Celles-ci te permettront de visiter
+les îles alentours et de prendre part
+à des activités très amusantes.</original>
+			<edited>Profite de ton séjour sur l'île
+pour participer à l'une de nos
+merveilleuses excursions !
+Celles-ci te permettront de visiter
+les îles alentours et de prendre part
+à des activités très amusantes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="169" offset="00" relocatable="true" max_length="0">
+			<original>Sélectionne la rubrique qui
+t'intéresse pour plus de
+détails sur les excursions.&#xE;&#xF;	&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Comment s'inscrire ?
+Note sur les bagages.
+Au sujet des activités.
+Au sujet des médailles.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Sélectionne la rubrique qui
+t'intéresse pour plus de
+détails sur les excursions.&#xE;&#xF;	&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Comment s'inscrire ?
+Note sur les bagages.
+Au sujet des activités.
+Au sujet des médailles.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="170" offset="00" relocatable="true" max_length="0">
+			<original>Pour t'inscrire à une excursion,
+adresse-toi au &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;guichet&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;La participation est gratuite,
+alors amuse-toi autant que
+tu le souhaites !
+Une fois que tu t'es inscrit&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; et que
+tu es prêt&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à partir, prends place
+sur une chaise de la zone d'attente.
+Si tu as prévu de partir avec des
+amis, tu devras attendre qu'ils
+soient tous assis pour embarquer.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Pour t'inscrire à une excursion,
+adresse-toi au &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;guichet&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;La participation est gratuite,
+alors amuse-toi autant que
+tu le souhaites !
+Une fois que tu t'es inscrit&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; et que
+tu es prêt&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à partir, prends place
+sur une chaise de la zone d'attente.
+Si tu as prévu de partir avec des
+amis, tu devras attendre qu'ils
+soient tous assis pour embarquer.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="171" offset="00" relocatable="true" max_length="0">
+			<original>Afin d'assurer à tous les joueurs
+des conditions de jeu identiques...&#xE;&#x0;&#x4;&#x0;... les objets personnels ne sont
+pas autorisés lors des excursions.&#xE;&#x0;&#x4;&#x0;Une fois que tu te seras assis&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+pour attendre l'embarquement...&#xE;&#x0;&#x4;&#x0;... tes objets te seront retirés et
+échangés contre des clochettes qui
+seront déposées sur ton compte.
+Note au passage que les prix
+pratiqués alors sont moins
+avantageux pour toi qu'en ville.
+Ainsi, pense à placer tous les
+objets que tu souhaites ramener
+chez toi dans le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;panier&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Afin d'assurer à tous les joueurs
+des conditions de jeu identiques...&#xE;&#x0;&#x4;&#x0;... les objets personnels ne sont
+pas autorisés lors des excursions.&#xE;&#x0;&#x4;&#x0;Une fois que tu te seras assis&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+pour attendre l'embarquement...&#xE;&#x0;&#x4;&#x0;... tes objets te seront retirés et
+échangés contre des clochettes qui
+seront déposées sur ton compte.
+Note au passage que les prix
+pratiqués alors sont moins
+avantageux pour toi qu'en ville.
+Ainsi, pense à placer tous les
+objets que tu souhaites ramener
+chez toi dans le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;panier&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="172" offset="00" relocatable="true" max_length="0">
+			<original>Nous offrons de nombreuses
+excursions et activités pour
+le plaisir de chacun.&#xE;&#x0;&#x4;&#x0;～ Exemples d'activités ～&#xE;&#x0;&#x4;&#x0;Concours de pêche et de plongée,
+chasse aux insectes et aux cristaux,
+labyrinthes, tir aux ballons, etc.
+Pour plus de détails sur les règles
+de chaque activité, adresse-toi à
+l'animateur lors de l'excursion.
+Enfin, les excursions disponibles
+changent régulièrement, alors
+renseigne-toi au guichet.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Nous offrons de nombreuses
+excursions et activités pour
+le plaisir de chacun.&#xE;&#x0;&#x4;&#x0;～ Exemples d'activités ～&#xE;&#x0;&#x4;&#x0;Concours de pêche et de plongée,
+chasse aux insectes et aux cristaux,
+labyrinthes, tir aux ballons, etc.
+Pour plus de détails sur les règles
+de chaque activité, adresse-toi à
+l'animateur lors de l'excursion.
+Enfin, les excursions disponibles
+changent régulièrement, alors
+renseigne-toi au guichet.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="173" offset="00" relocatable="true" max_length="0">
+			<original>Les participants aux excursions
+peuvent recevoir des médailles.&#xE;&#x0;&#x4;&#x0;Celles-ci sont échangeables
+contre des articles de la
+boutique de souvenirs.&#xE;&#x0;&#x4;&#x0;Le nombre de médailles reçues
+lors d'une excursion dépend de tes
+résultats, alors donne-toi à fond !&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Les participants aux excursions
+peuvent recevoir des médailles.&#xE;&#x0;&#x4;&#x0;Celles-ci sont échangeables
+contre des articles de la
+boutique de souvenirs.&#xE;&#x0;&#x4;&#x0;Le nombre de médailles reçues
+lors d'une excursion dépend de tes
+résultats, alors donne-toi à fond !&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="174" offset="00" relocatable="true" max_length="0">
+			<original>Le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club Tortimer&#xE;&#x0;&#x3;&#x2;ÿÿ recrute !&#xE;&#x0;&#x4;&#x0;Tous les visiteurs de Tortiland
+peuvent en devenir membre.</original>
+			<edited>Le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Club Tortimer&#xE;&#x0;&#x3;&#x2;ÿÿ recrute !&#xE;&#x0;&#x4;&#x0;Tous les visiteurs de Tortiland
+peuvent en devenir membre.</edited>
+			<subEntries />
+		</entry>
+		<entry name="175" offset="00" relocatable="true" max_length="0">
+			<original>Sélectionne la rubrique qui
+t'intéresse pour plus de détails
+sur le Club Tortimer.&#xE;&#xF;	&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Club Tortimer.
+Devenir membre.
+Excursions membres.
+Note aux membres.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Sélectionne la rubrique qui
+t'intéresse pour plus de détails
+sur le Club Tortimer.&#xE;&#xF;	&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Club Tortimer.
+Devenir membre.
+Excursions membres.
+Note aux membres.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="176" offset="00" relocatable="true" max_length="0">
+			<original>Le Club Tortimer s'adresse
+à toute personne en quête
+d'expériences enrichissantes.
+En t'inscrivant, tu peux croiser
+d'autres membres sur l'île grâce
+aux &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;rencontres aléatoires&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Tu peux alors discuter avec eux et
+participer aux mêmes excursions.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Le Club Tortimer s'adresse
+à toute personne en quête
+d'expériences enrichissantes.
+En t'inscrivant, tu peux croiser
+d'autres membres sur l'île grâce
+aux &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;rencontres aléatoires&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Tu peux alors discuter avec eux et
+participer aux mêmes excursions.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="177" offset="00" relocatable="true" max_length="0">
+			<original>Pour devenir membre du
+Club Tortimer, adresse-toi
+à la boutique de souvenirs.
+Cependant, assure-toi que ces trois
+conditions soient remplies avant
+l'inscription :
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1. Tu disposes d'une connexion
+Internet, laquelle est nécessaire
+pour les rencontres aléatoires.
+2. Les interactions en ligne avec
+les autres utilisateurs ne sont pas
+restreintes par le contrôle parental.
+3. L'échange de fichiers audio ou
+vidéo, images et messages n'est pas
+restreint par le contrôle parental.&#xE;&#x0;&#x3;&#x2;ÿÿ
+Si l'une de ces conditions n'est
+pas remplie, le service ne sera
+pas disponible.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Pour devenir membre du
+Club Tortimer, adresse-toi
+à la boutique de souvenirs.
+Cependant, assure-toi que ces trois
+conditions soient remplies avant
+l'inscription :
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1. Tu disposes d'une connexion
+Internet, laquelle est nécessaire
+pour les rencontres aléatoires.
+2. Les interactions en ligne avec
+les autres utilisateurs ne sont pas
+restreintes par le contrôle parental.
+3. L'échange de fichiers audio ou
+vidéo, images et messages n'est pas
+restreint par le contrôle parental.&#xE;&#x0;&#x3;&#x2;ÿÿ
+Si l'une de ces conditions n'est
+pas remplie, le service ne sera
+pas disponible.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="178" offset="00" relocatable="true" max_length="0">
+			<original>D'autres membres peuvent te
+rejoindre sur l'île et la quitter
+à tout moment.
+En revanche, il peut aussi arriver
+que tu t'y retrouves seul&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.&#xE;&#x0;&#x4;&#x0;Alors, en attendant les autres, fais
+un tour sur la plage ou visite la
+boutique de souvenirs.
+Chaque membre est libre de
+participer ou non à une excursion
+avec un autre membre.
+Attention, l'excursion commence
+dès que celui qui l'a sélectionnée
+s'assoit dans la zone d'attente...&#xE;&#x0;&#x4;&#x0;... et ce, même si d'autres membres
+ne sont pas encore assis.&#xE;&#x0;&#x4;&#x0;Une fois l'excursion sélectionnée,
+le membre responsable doit veiller
+à s'asseoir en dernier.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>D'autres membres peuvent te
+rejoindre sur l'île et la quitter
+à tout moment.
+En revanche, il peut aussi arriver
+que tu t'y retrouves seul&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.&#xE;&#x0;&#x4;&#x0;Alors, en attendant les autres, fais
+un tour sur la plage ou visite la
+boutique de souvenirs.
+Chaque membre est libre de
+participer ou non à une excursion
+avec un autre membre.
+Attention, l'excursion commence
+dès que celui qui l'a sélectionnée
+s'assoit dans la zone d'attente...&#xE;&#x0;&#x4;&#x0;... et ce, même si d'autres membres
+ne sont pas encore assis.&#xE;&#x0;&#x4;&#x0;Une fois l'excursion sélectionnée,
+le membre responsable doit veiller
+à s'asseoir en dernier.&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="179" offset="00" relocatable="true" max_length="0">
+			<original>Garde les informations suivantes
+à l'esprit lorsque tu te trouves sur
+l'île avec d'autres membres :
+- en général, les membres ne se
+connaissent pas et ils se croisent
+sur l'île pour la première fois ;
+- des membres issus de différents
+pays et parlant différentes langues
+peuvent se présenter ;
+- les membres se doivent de ne
+pas utiliser de langage grossier ;&#xE;&#x0;&#x4;&#x0;- les motifs susceptibles de heurter
+la sensibilité des autres membres
+sont à proscrire.
+Nous comptons sur tous les
+membres pour faire de ce lieu
+un endroit agréable et convivial !&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Bloquer un utilisateur.
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Garde les informations suivantes
+à l'esprit lorsque tu te trouves sur
+l'île avec d'autres membres :
+- en général, les membres ne se
+connaissent pas et ils se croisent
+sur l'île pour la première fois ;
+- des membres issus de différents
+pays et parlant différentes langues
+peuvent se présenter ;
+- les membres se doivent de ne
+pas utiliser de langage grossier ;&#xE;&#x0;&#x4;&#x0;- les motifs susceptibles de heurter
+la sensibilité des autres membres
+sont à proscrire.
+Nous comptons sur tous les
+membres pour faire de ce lieu
+un endroit agréable et convivial !&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Bloquer un utilisateur.
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="180" offset="00" relocatable="true" max_length="0">
+			<original>Pour bloquer un utilisateur
+indésirable, ajoute-le à la
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;liste noire&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Tu seras ainsi assuré&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; de ne plus
+croiser cet individu sur l'île.&#xE;&#x0;&#x4;&#x0;～ Procédure de blocage ～&#xE;&#x0;&#x4;&#x0;1. Lorsque tu es sur l'île, touche
+ sur l'écran tactile pour afficher
+la liste des utilisateurs présents.
+2. Sélectionne l'utilisateur à
+ajouter à la liste noire puis
+l'option correspondante.
+Garde les informations suivantes
+à l'esprit lorsque tu bloques un
+utilisateur :
+1. L'utilisateur à bloquer et celui qui
+le bloque doivent se trouver tous
+deux sur l'île au même moment.
+2. Une fois l'utilisateur bloqué,
+celui-ci reste sur l'île avec
+l'utilisateur qui l'a bloqué...
+... jusqu'à ce qu'un membre
+décide de partir.&#xE;&#x0;&#x4;&#x0;3. Un membre ajouté à la liste noire
+ne peut plus en être retiré alors fais
+très attention !&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</original>
+			<edited>Pour bloquer un utilisateur
+indésirable, ajoute-le à la
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;liste noire&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Tu seras ainsi assuré&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; de ne plus
+croiser cet individu sur l'île.&#xE;&#x0;&#x4;&#x0;～ Procédure de blocage ～&#xE;&#x0;&#x4;&#x0;1. Lorsque tu es sur l'île, touche
+ sur l'écran tactile pour afficher
+la liste des utilisateurs présents.
+2. Sélectionne l'utilisateur à
+ajouter à la liste noire puis
+l'option correspondante.
+Garde les informations suivantes
+à l'esprit lorsque tu bloques un
+utilisateur :
+1. L'utilisateur à bloquer et celui qui
+le bloque doivent se trouver tous
+deux sur l'île au même moment.
+2. Une fois l'utilisateur bloqué,
+celui-ci reste sur l'île avec
+l'utilisateur qui l'a bloqué...
+... jusqu'à ce qu'un membre
+décide de partir.&#xE;&#x0;&#x4;&#x0;3. Un membre ajouté à la liste noire
+ne peut plus en être retiré alors fais
+très attention !&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Lire une autre rubrique.
+Revenir au sommaire.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="182" offset="00" relocatable="true" max_length="0">
+			<original>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations
+～ À l'attention des habitants ～&#xE;&#xF;	&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Voyager.
+Inviter quelqu'un.
+Avertissement.
+Consigne.
+Meilleurs amis.
+Quitter.</original>
+			<edited>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations
+～ À l'attention des habitants ～&#xE;&#xF;	&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Voyager.
+Inviter quelqu'un.
+Avertissement.
+Consigne.
+Meilleurs amis.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="183" offset="00" relocatable="true" max_length="0">
+			<original>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations
+～ À l'attention des visiteurs ～&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Consigne.
+Retourner chez soi.
+Meilleurs amis.
+Quitter.</original>
+			<edited>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations
+～ À l'attention des visiteurs ～&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Consigne.
+Retourner chez soi.
+Meilleurs amis.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="184" offset="00" relocatable="true" max_length="0">
+			<original>Il existe deux façons de
+visiter une autre ville :&#xE;&#x0;&#x4;&#x0;1. Via le mode sans fil local.
+2. Via Internet.&#xE;&#x0;&#x4;&#x0;Le mode sans fil local te permet de
+visiter la ville d'un joueur d'&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal
+Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ à proximité.
+Internet te permet de visiter les
+villes de tes amis les plus éloignés.&#xE;&#x0;&#x4;&#x0;Quelle que soit la méthode choisie,
+tu ne peux visiter la ville d'un autre
+utilisateur qu'à ces conditions :
+1. Le portillon de la gare située
+dans sa ville est ouvert.&#xE;&#x0;&#x4;&#x0;2. Il utilise le même type de
+communication que toi &#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(c'est-à-dire
+le mode sans fil local ou Internet).
+&#xE;&#x0;&#x3;&#x2;ÿÿEnfin, si le portillon de la gare de ta
+ville est ouvert ou que tu as de la
+visite, tu ne peux pas voyager.</original>
+			<edited>Il existe deux façons de
+visiter une autre ville :&#xE;&#x0;&#x4;&#x0;1. Via le mode sans fil local.
+2. Via Internet.&#xE;&#x0;&#x4;&#x0;Le mode sans fil local te permet de
+visiter la ville d'un joueur d'&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal
+Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ à proximité.
+Internet te permet de visiter les
+villes de tes amis les plus éloignés.&#xE;&#x0;&#x4;&#x0;Quelle que soit la méthode choisie,
+tu ne peux visiter la ville d'un autre
+utilisateur qu'à ces conditions :
+1. Le portillon de la gare située
+dans sa ville est ouvert.&#xE;&#x0;&#x4;&#x0;2. Il utilise le même type de
+communication que toi &#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(c'est-à-dire
+le mode sans fil local ou Internet).
+&#xE;&#x0;&#x3;&#x2;ÿÿEnfin, si le portillon de la gare de ta
+ville est ouvert ou que tu as de la
+visite, tu ne peux pas voyager.</edited>
+			<subEntries />
+		</entry>
+		<entry name="185" offset="00" relocatable="true" max_length="0">
+			<original>Il existe deux façons d'inviter
+quelqu'un à visiter ta ville :&#xE;&#x0;&#x4;&#x0;1. Via le mode sans fil local.
+2. Via Internet.&#xE;&#x0;&#x4;&#x0;Le mode sans fil local te permet
+d'inviter un joueur d'&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal
+Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ à proximité.
+Internet te permet d'inviter tes
+amis les plus éloignés.&#xE;&#x0;&#x4;&#x0;Tu ne peux pas accueillir plus de
+trois visiteurs à la fois dans ta ville.</original>
+			<edited>Il existe deux façons d'inviter
+quelqu'un à visiter ta ville :&#xE;&#x0;&#x4;&#x0;1. Via le mode sans fil local.
+2. Via Internet.&#xE;&#x0;&#x4;&#x0;Le mode sans fil local te permet
+d'inviter un joueur d'&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal
+Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ à proximité.
+Internet te permet d'inviter tes
+amis les plus éloignés.&#xE;&#x0;&#x4;&#x0;Tu ne peux pas accueillir plus de
+trois visiteurs à la fois dans ta ville.</edited>
+			<subEntries />
+		</entry>
+		<entry name="186" offset="00" relocatable="true" max_length="0">
+			<original>Lorsque le portillon de ta gare
+est ouvert, tu peux accueillir trois
+visiteurs au maximum dans ta ville.
+En mode sans fil local, tu peux
+recevoir la visite d'inconnus.&#xE;&#x0;&#x4;&#x0;Ainsi, pense à fermer le portillon
+une fois tes invités arrivés, afin
+de ne pas être importuné&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.
+Appuie sur &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;START &#xE;&#x0;&#x3;&#x2;ÿÿet choisis&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;
+Fin de la session&#xE;&#x0;&#x3;&#x2;ÿÿ si jamais tu
+veux forcer les visiteurs à partir.
+Cela aura pour effet de les
+chasser, de fermer le portillon et
+d'interrompre la communication.</original>
+			<edited>Lorsque le portillon de ta gare
+est ouvert, tu peux accueillir trois
+visiteurs au maximum dans ta ville.
+En mode sans fil local, tu peux
+recevoir la visite d'inconnus.&#xE;&#x0;&#x4;&#x0;Ainsi, pense à fermer le portillon
+une fois tes invités arrivés, afin
+de ne pas être importuné&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;.
+Appuie sur &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;START &#xE;&#x0;&#x3;&#x2;ÿÿet choisis&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;
+Fin de la session&#xE;&#x0;&#x3;&#x2;ÿÿ si jamais tu
+veux forcer les visiteurs à partir.
+Cela aura pour effet de les
+chasser, de fermer le portillon et
+d'interrompre la communication.</edited>
+			<subEntries />
+		</entry>
+		<entry name="187" offset="00" relocatable="true" max_length="0">
+			<original>La consigne de la gare est
+à la disposition de tous.&#xE;&#x0;&#x4;&#x0;Les objets déposés à la consigne
+peuvent être récupérés dans les
+autres consignes...
+... et même dans tes placards !&#xE;&#x0;&#x4;&#x0;Cela facilite grandement le
+transport lors des voyages
+alors profite de ce service !</original>
+			<edited>La consigne de la gare est
+à la disposition de tous.&#xE;&#x0;&#x4;&#x0;Les objets déposés à la consigne
+peuvent être récupérés dans les
+autres consignes...
+... et même dans tes placards !&#xE;&#x0;&#x4;&#x0;Cela facilite grandement le
+transport lors des voyages
+alors profite de ce service !</edited>
+			<subEntries />
+		</entry>
+		<entry name="188" offset="00" relocatable="true" max_length="0">
+			<original>Dès que tu souhaites rentrer chez
+toi, adresse-toi au chef de gare.&#xE;&#x0;&#x4;&#x0;L'hôte de la session dispose de
+l'option &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Fin de la session&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Celle-ci lui permet de forcer les
+visiteurs à quitter sa ville à tout
+moment.
+En outre, tu ne peux pas
+sauvegarder ta partie tant que
+n'es pas de retour dans ta ville.</original>
+			<edited>Dès que tu souhaites rentrer chez
+toi, adresse-toi au chef de gare.&#xE;&#x0;&#x4;&#x0;L'hôte de la session dispose de
+l'option &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Fin de la session&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Celle-ci lui permet de forcer les
+visiteurs à quitter sa ville à tout
+moment.
+En outre, tu ne peux pas
+sauvegarder ta partie tant que
+n'es pas de retour dans ta ville.</edited>
+			<subEntries />
+		</entry>
+		<entry name="189" offset="00" relocatable="true" max_length="0">
+			<original>Enregistre un joueur dans la liste de
+tes meilleurs amis pour pouvoir
+consulter sa CR à tout moment.
+De plus, en ouvrant le portillon de
+la gare, tu peux choisir de n'inviter
+que les joueurs de cette liste.
+Cela vaut uniquement pour la
+communication via Internet.&#xE;&#x0;&#x4;&#x0;Dans ce cas, seuls tes meilleurs
+amis pourront savoir que le
+portillon de ta gare est ouvert.
+Enregistrer un joueur dans la liste
+de tes meilleurs amis...&#xE;&#x0;&#x4;&#x0;... te permet aussi d'échanger des
+messages avec lui via Internet...&#xE;&#x0;&#x4;&#x0;... et cela même si vous vous
+trouvez chacun dans votre ville !</original>
+			<edited>Enregistre un joueur dans la liste de
+tes meilleurs amis pour pouvoir
+consulter sa CR à tout moment.
+De plus, en ouvrant le portillon de
+la gare, tu peux choisir de n'inviter
+que les joueurs de cette liste.
+Cela vaut uniquement pour la
+communication via Internet.&#xE;&#x0;&#x4;&#x0;Dans ce cas, seuls tes meilleurs
+amis pourront savoir que le
+portillon de ta gare est ouvert.
+Enregistrer un joueur dans la liste
+de tes meilleurs amis...&#xE;&#x0;&#x4;&#x0;... te permet aussi d'échanger des
+messages avec lui via Internet...&#xE;&#x0;&#x4;&#x0;... et cela même si vous vous
+trouvez chacun dans votre ville !</edited>
+			<subEntries />
+		</entry>
+		<entry name="190" offset="00" relocatable="true" max_length="0">
+			<original>Pour enregistrer un joueur dans la
+liste de tes meilleurs amis...&#xE;&#x0;&#x4;&#x0;... consulte les noms des joueurs
+présents &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ via l'écran tactile.&#xE;&#x0;&#x4;&#x0;Sélectionne ensuite les joueurs
+à ajouter à cette liste.&#xE;&#x0;&#x4;&#x0;Seuls les joueurs faisant déjà partie
+de ta liste d'amis Nintendo 3DS
+peuvent être enregistrés.
+Assure-toi donc d'avoir effectué
+cette étape au préalable.</original>
+			<edited>Pour enregistrer un joueur dans la
+liste de tes meilleurs amis...&#xE;&#x0;&#x4;&#x0;... consulte les noms des joueurs
+présents &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ via l'écran tactile.&#xE;&#x0;&#x4;&#x0;Sélectionne ensuite les joueurs
+à ajouter à cette liste.&#xE;&#x0;&#x4;&#x0;Seuls les joueurs faisant déjà partie
+de ta liste d'amis Nintendo 3DS
+peuvent être enregistrés.
+Assure-toi donc d'avoir effectué
+cette étape au préalable.</edited>
+			<subEntries />
+		</entry>
+		<entry name="191" offset="00" relocatable="true" max_length="0">
+			<original>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations&#xE;&#xF;	&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Voyager.
+Inviter quelqu'un.
+Avertissement.
+Consigne.
+Meilleurs amis.
+Quitter.</original>
+			<edited>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations&#xE;&#xF;	&#xC;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Voyager.
+Inviter quelqu'un.
+Avertissement.
+Consigne.
+Meilleurs amis.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="192" offset="00" relocatable="true" max_length="0">
+			<original>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Consigne.
+Retourner chez soi.
+Meilleurs amis.
+Quitter.</original>
+			<edited>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations&#xE;&#xF;&#x7;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Consigne.
+Retourner chez soi.
+Meilleurs amis.
+Quitter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="193" offset="00" relocatable="true" max_length="0">
+			<original>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations
+～ À l'attention des rêveurs ～&#xE;&#x0;&#x4;&#x0;Aucun train ne dessert
+le monde réel !&#xE;&#x0;&#x4;&#x0;Pour retourner chez toi,
+merci d'utiliser le lit situé
+sur la place de la ville.</original>
+			<edited>Gare &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; — Informations
+～ À l'attention des rêveurs ～&#xE;&#x0;&#x4;&#x0;Aucun train ne dessert
+le monde réel !&#xE;&#x0;&#x4;&#x0;Pour retourner chez toi,
+merci d'utiliser le lit situé
+sur la place de la ville.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

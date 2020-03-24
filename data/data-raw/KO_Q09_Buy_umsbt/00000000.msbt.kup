@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;sounds good!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;sounds good!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;All right, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's a deal!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;All right, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's a deal!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;OK!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;OK!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Take good care of it, OK?!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Take good care of it, OK?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hope you make the best of it!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hope you make the best of it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;That's a really nice one,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so take
+good care of it, all right?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;That's a really nice one,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; so take
+good care of it, all right?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

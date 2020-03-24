@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Sérieux ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu veux pas passer à la
+maison, &#xE;&#x5;&#x8;&#x0; ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bah, une autre
+fois alors, tant pis !</original>
+			<edited>&#xE;&#x3;$&#x0;Sérieux ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu veux pas passer à la
+maison, &#xE;&#x5;&#x8;&#x0; ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bah, une autre
+fois alors, tant pis !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Tu veux pas passer, &#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tant pis, la prochaine fois alors !&#xE;&#x3;&#x0;&#x0;
+Sinon je me vexe, hi hi...</original>
+			<edited>&#xE;&#x3;	&#x0;Tu veux pas passer, &#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tant pis, la prochaine fois alors !&#xE;&#x3;&#x0;&#x0;
+Sinon je me vexe, hi hi...</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh non, c'est trop trop dommage...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Bah, c'est que partie remise,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;	&#x0;Oh non, c'est trop trop dommage...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Bah, c'est que partie remise,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xC;&#x0;¡¡¡AAAAAAAAY!!!&#xE;&#x7;&#x0;&#x4;2&#x0;&#x0;&#x0; ¡Fuera! ¡Nooo!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡No te me acerques, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xC;&#x0;¡¡¡AAAAAAAAY!!!&#xE;&#x7;&#x0;&#x4;2&#x0;&#x0;&#x0; ¡Fuera! ¡Nooo!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;¡No te me acerques, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;
+&#x0;¡¡¡AAAAAY!!!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡No es momento para
+hablar! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;¡¡¡Huyamos, &#xE;&#x5;&#x7;&#x0;!!!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;
+&#x0;¡¡¡AAAAAY!!!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡No es momento para
+hablar! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;¡¡¡Huyamos, &#xE;&#x5;&#x7;&#x0;!!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;
+&#x0;¡¿De qué vas?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Llévate esas
+abejas lejos de mí! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡¡¡FUERA!!!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;
+&#x0;¡¿De qué vas?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Llévate esas
+abejas lejos de mí! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡¡¡FUERA!!!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh, I love high-end shops like this,
+don't you?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xD;&#x0;Now, if only this place
+wasn't SO out of my budget!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh, I love high-end shops like this,
+don't you?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xD;&#x0;Now, if only this place
+wasn't SO out of my budget!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;It's so stylish in here, I just have to
+soak up all this chic, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;It's so stylish in here, I just have to
+soak up all this chic, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Stylish girls like moi totally mob
+this shop to pick up ALL the
+latest trends, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Stylish girls like moi totally mob
+this shop to pick up ALL the
+latest trends, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Whenever I come in here, I feel my
+fashion stat totally leveling up,
+don't you, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Whenever I come in here, I feel my
+fashion stat totally leveling up,
+don't you, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;I can stand to be in nice shops like
+this for only so long! What if I
+splurge for fashion I can't afford?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;I can stand to be in nice shops like
+this for only so long! What if I
+splurge for fashion I can't afford?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

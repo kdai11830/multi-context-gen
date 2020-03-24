@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1C;&#x0;Feel like playing a little
+game? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Let's play for my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.
+&#xE;&#x7;&#xD;&#x0;&#xE;&#x3;&#xB;&#x0;If you do well, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you could get it for
+free! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;#&#x0;Otherwise, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you have to buy it
+at whatever price I choose.
+&#xE;&#x3;&#x15;&#x0;We'll play a little game I like to call
+Find the Queen. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;What do you say?&#xE;&#x8;&#x5;&#x8;&#x8;&#x0;&#x15;&#x0;&#x2;&#x0;(&#x0;
+Let's do it!
+Not right now.</original>
+			<edited>Hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1C;&#x0;Feel like playing a little
+game? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Let's play for my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.
+&#xE;&#x7;&#xD;&#x0;&#xE;&#x3;&#xB;&#x0;If you do well, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you could get it for
+free! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;#&#x0;Otherwise, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you have to buy it
+at whatever price I choose.
+&#xE;&#x3;&#x15;&#x0;We'll play a little game I like to call
+Find the Queen. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;What do you say?&#xE;&#x8;&#x5;&#x8;&#x8;&#x0;&#x15;&#x0;&#x2;&#x0;(&#x0;
+Let's do it!
+Not right now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;that's too bad. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I was
+looking forward to a little
+excitement. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Maybe next time.</original>
+			<edited>&#xE;&#x3;	&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;that's too bad. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;I was
+looking forward to a little
+excitement. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Maybe next time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1F;&#x0;You did it! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;You just won my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; for free.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Well played.</original>
+			<edited>&#xE;&#x3;&#x1F;&#x0;You did it! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;You just won my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; for free.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Well played.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Not bad, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;not bad. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Two queens
+means I'll sell it to you for only
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;%&#x0;Not bad, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;not bad. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Two queens
+means I'll sell it to you for only
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;Nice work!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You found 2 of the
+queens, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;so I'll sell it to you
+for&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x1;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;Nice work!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You found 2 of the
+queens, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;so I'll sell it to you
+for&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x1;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;at least you found 1 of the
+queens. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1C;&#x0;That means it will cost you
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x2;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>&#xE;&#x3;$&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;at least you found 1 of the
+queens. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1C;&#x0;That means it will cost you
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x2;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Sorry to do this to
+you, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;but I have no choice but to
+charge &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x3;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Sorry to do this to
+you, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;but I have no choice but to
+charge &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x3;&#x0; Bells&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;All right!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Let's do this. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Oh,&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; do you
+need a little more information about
+how the game works?&#xE;&#x8;&#x5;&#x8;	&#x0;&#x15;&#x0;
+&#x0;(&#x0;
+Yes, please.
+I know how to play.</original>
+			<edited>&#xE;&#x3;&amp;&#x0;All right!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Let's do this. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Oh,&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; do you
+need a little more information about
+how the game works?&#xE;&#x8;&#x5;&#x8;	&#x0;&#x15;&#x0;
+&#x0;(&#x0;
+Yes, please.
+I know how to play.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;No problem.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; the game is played
+with 3 cards. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;There's a jack,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; a
+queen,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and a king.
+I'll shuffle the cards and then have
+you pick one. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;If you pick the queen,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+you win!
+&#xE;&#x3;&#x15;&#x0;It's as simple as that. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Pick the
+queen 3 times in a row, and the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; is free!
+&#xE;&#x3;$&#x0;If you pick the queen 1 or 2
+times,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; then you'll have to pay a
+little something for it.
+And if you can't manage to find the
+queen at all&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;well&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1C;&#x0;then it's going to
+cost you a pretty penny.
+I think that covers it&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; So let's get
+started! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Pick a card,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; any card.&#xE;&#x8;&#x1;&#xC;&#xB;&#x0;&#x0;&#x0;&#xB;&#x0;&#x0;&#x0;&#xB;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>&#xE;&#x3;%&#x0;No problem.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; the game is played
+with 3 cards. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;There's a jack,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; a
+queen,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and a king.
+I'll shuffle the cards and then have
+you pick one. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;If you pick the queen,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+you win!
+&#xE;&#x3;&#x15;&#x0;It's as simple as that. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Pick the
+queen 3 times in a row, and the
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; is free!
+&#xE;&#x3;$&#x0;If you pick the queen 1 or 2
+times,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; then you'll have to pay a
+little something for it.
+And if you can't manage to find the
+queen at all&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;well&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1C;&#x0;then it's going to
+cost you a pretty penny.
+I think that covers it&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; So let's get
+started! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Pick a card,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; any card.&#xE;&#x8;&#x1;&#xC;&#xB;&#x0;&#x0;&#x0;&#xB;&#x0;&#x0;&#x0;&#xB;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;You're an old pro, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;eh?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1C;&#x0;All right then,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+let's play.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Pick a card, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;any card.&#xE;&#x8;&#x1;&#xC;&#xB;&#x0;&#x0;&#x0;&#xB;&#x0;&#x0;&#x0;&#xB;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>&#xE;&#x3;$&#x0;You're an old pro, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;eh?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1C;&#x0;All right then,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+let's play.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Pick a card, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;any card.&#xE;&#x8;&#x1;&#xC;&#xB;&#x0;&#x0;&#x0;&#xB;&#x0;&#x0;&#x0;&#xB;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x3;
+&#xC;&#x0;&#xC;&#x0;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;</original>
+			<edited>&#xE;	&#x3;
+&#xC;&#x0;&#xC;&#x0;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Are you sure? &#xE;&#x7;&#x1;&#x0;Well&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;good choice!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+You found the queen!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;You win this round&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but there are
+2 more rounds to go.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Choose
+another card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#xF;&#x0;&#x0;&#x0;&#xF;&#x0;&#x0;&#x0;&#xF;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Are you sure? &#xE;&#x7;&#x1;&#x0;Well&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;good choice!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+You found the queen!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;You win this round&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but there are
+2 more rounds to go.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Choose
+another card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#xF;&#x0;&#x0;&#x0;&#xF;&#x0;&#x0;&#x0;&#xF;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;was this the card you wanted?&#xE;&#x7;&#x1;&#x0;
+Oh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xC;&#x0;too bad. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;It's the king.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;That's OK. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;You have 2 more tries
+to find a queen. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Ready? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Choose
+another card!&#xE;&#x8;&#x1;&#xC;&#x10;&#x0;&#x0;&#x0;&#x10;&#x0;&#x0;&#x0;&#x10;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;was this the card you wanted?&#xE;&#x7;&#x1;&#x0;
+Oh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xC;&#x0;too bad. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;It's the king.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;That's OK. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;You have 2 more tries
+to find a queen. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Ready? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Choose
+another card!&#xE;&#x8;&#x1;&#xC;&#x10;&#x0;&#x0;&#x0;&#x10;&#x0;&#x0;&#x0;&#x10;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;This is the card you wanted?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it's the&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;jack. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;So
+sorry.
+&#xE;&#x3;&#x1;&#x0;Not to worry—&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you get 2 more
+tries. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Starting now!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Pick a card,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+any card.&#xE;&#x8;&#x1;&#xC;&#x10;&#x0;&#x0;&#x0;&#x10;&#x0;&#x0;&#x0;&#x10;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;This is the card you wanted?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; it's the&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;jack. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;So
+sorry.
+&#xE;&#x3;&#x1;&#x0;Not to worry—&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you get 2 more
+tries. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Starting now!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Pick a card,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+any card.&#xE;&#x8;&#x1;&#xC;&#x10;&#x0;&#x0;&#x0;&#x10;&#x0;&#x0;&#x0;&#x10;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x11;&#x0;&#x11;&#x0;&#x12;&#x0;&#x13;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x11;&#x0;&#x11;&#x0;&#x12;&#x0;&#x13;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x3;
+&#x14;&#x0;&#x14;&#x0;&#x14;&#x0;&#x15;&#x0;&#x16;&#x0;</original>
+			<edited>&#xE;	&#x3;
+&#x14;&#x0;&#x14;&#x0;&#x14;&#x0;&#x15;&#x0;&#x16;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;here's the card you chose.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; It
+feels like a winner&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;and it is!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Wow,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+that's 2 queens in a row!
+&#xE;&#x3;&#x15;&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; last round. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;One more
+queen and you're the big winner.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;No pressure. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Choose a card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x17;&#x0;&#x0;&#x0;&#x17;&#x0;&#x0;&#x0;&#x17;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;here's the card you chose.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; It
+feels like a winner&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;and it is!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Wow,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+that's 2 queens in a row!
+&#xE;&#x3;&#x15;&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; last round. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;One more
+queen and you're the big winner.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;No pressure. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Choose a card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x17;&#x0;&#x0;&#x0;&#x17;&#x0;&#x0;&#x0;&#x17;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; you're pretty lucky.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's
+see if you can keep it up.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Oh! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+You chose a king.
+That's OK.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You have one more
+chance to get a real bargain.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1C;&#x0;So&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+choose a card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x18;&#x0;&#x0;&#x0;&#x18;&#x0;&#x0;&#x0;&#x18;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; you're pretty lucky.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's
+see if you can keep it up.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Oh! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+You chose a king.
+That's OK.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You have one more
+chance to get a real bargain.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1C;&#x0;So&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+choose a card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x18;&#x0;&#x0;&#x0;&#x18;&#x0;&#x0;&#x0;&#x18;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; you're pretty lucky.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's
+see if you can keep it up.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Oh! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+You chose a jack.
+That's OK.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You have 1 more
+chance to get a real bargain.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1C;&#x0;So&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+choose a card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x18;&#x0;&#x0;&#x0;&#x18;&#x0;&#x0;&#x0;&#x18;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; you're pretty lucky.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's
+see if you can keep it up.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Oh! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+You chose a jack.
+That's OK.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; You have 1 more
+chance to get a real bargain.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1C;&#x0;So&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+choose a card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x18;&#x0;&#x0;&#x0;&#x18;&#x0;&#x0;&#x0;&#x18;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>This one, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;right? &#xE;&#x7;&#x1;&#x0;Ooh, &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;good choice.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1D;&#x0;It's the queen! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Now you've got 1 more chance.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x10;&#x0;You could still get a good deal! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Just
+pick any card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x19;&#x0;&#x0;&#x0;&#x19;&#x0;&#x0;&#x0;&#x19;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>This one, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;right? &#xE;&#x7;&#x1;&#x0;Ooh, &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;good choice.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1D;&#x0;It's the queen! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Now you've got 1 more chance.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x10;&#x0;You could still get a good deal! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Just
+pick any card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x19;&#x0;&#x0;&#x0;&#x19;&#x0;&#x0;&#x0;&#x19;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>And&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you made a great choice&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#xC;&#x0;is
+what I would be saying if you hadn't
+just picked the king.
+&#xE;&#x3;	&#x0;So sorry. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;At least you've got 1
+more chance at this thing. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;So&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pick a
+card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x1A;&#x0;&#x0;&#x0;&#x1A;&#x0;&#x0;&#x0;&#x1A;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>And&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you made a great choice&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#xC;&#x0;is
+what I would be saying if you hadn't
+just picked the king.
+&#xE;&#x3;	&#x0;So sorry. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;At least you've got 1
+more chance at this thing. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;So&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pick a
+card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x1A;&#x0;&#x0;&#x0;&#x1A;&#x0;&#x0;&#x0;&#x1A;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>And&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you made a great choice&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#xC;&#x0;is
+what I would be saying if you hadn't
+just picked the jack.
+&#xE;&#x3;	&#x0;So sorry. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;At least you've got 1
+more chance at this thing. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;So&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pick a
+card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x1A;&#x0;&#x0;&#x0;&#x1A;&#x0;&#x0;&#x0;&#x1A;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</original>
+			<edited>And&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you made a great choice&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;&#xC;&#x0;is
+what I would be saying if you hadn't
+just picked the jack.
+&#xE;&#x3;	&#x0;So sorry. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;At least you've got 1
+more chance at this thing. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;So&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pick a
+card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x8;&#x1;&#xC;&#x1A;&#x0;&#x0;&#x0;&#x1A;&#x0;&#x0;&#x0;&#x1A;&#x0;&#x0;&#x0;
+The left card.
+The middle card.
+The right card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x3;
+&#x1B;&#x0;&#x1C;&#x0;&#x1C;&#x0;&#x1D;&#x0;&#x1D;&#x0;</original>
+			<edited>&#xE;	&#x3;
+&#x1B;&#x0;&#x1C;&#x0;&#x1C;&#x0;&#x1D;&#x0;&#x1D;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x1E;&#x0;&#x1F;&#x0; &#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x1E;&#x0;&#x1F;&#x0; &#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;!&#x0;"&#x0;#&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;!&#x0;"&#x0;#&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;$&#x0;$&#x0;%&#x0;&amp;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;$&#x0;$&#x0;%&#x0;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;You're doing so well! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Last card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Are you sure you want that one? &#xE;&#x7;&#x1;&#x0;
+OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; here we go&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x11;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; you did it!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Three
+queens in a row. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;I'm not even mad!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+That's just incredible!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;You're doing so well! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Last card&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Are you sure you want that one? &#xE;&#x7;&#x1;&#x0;
+OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; here we go&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x11;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; you did it!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Three
+queens in a row. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;I'm not even mad!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+That's just incredible!</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Here's your chance for the trifecta.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+And&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;not in the cards.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;You got
+a king.
+&#xE;&#x3;&#x10;&#x0;Wow, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you were really close to a
+perfect score. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;But 2 out of 3
+isn't bad at all!&#xE;	&#x2;&#x8;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Here's your chance for the trifecta.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+And&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;not in the cards.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;You got
+a king.
+&#xE;&#x3;&#x10;&#x0;Wow, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you were really close to a
+perfect score. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;But 2 out of 3
+isn't bad at all!&#xE;	&#x2;&#x8;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Here's your chance for the trifecta.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+And&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;not in the cards.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;You got
+a jack.
+&#xE;&#x3;&#x10;&#x0;Wow, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you were really close to a
+perfect score. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;But 2 out of 3
+isn't bad at all!&#xE;	&#x2;&#x8;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Here's your chance for the trifecta.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+And&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;not in the cards.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;You got
+a jack.
+&#xE;&#x3;&#x10;&#x0;Wow, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you were really close to a
+perfect score. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;But 2 out of 3
+isn't bad at all!&#xE;	&#x2;&#x8;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; let's see what you picked.&#xE;&#x7;&#x1;&#x0;
+It's&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a queen!&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;nice
+work.
+&#xE;&#x3;&#x1F;&#x0;Congratulations! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Two out of 3
+means you're going to get a pretty
+good deal.&#xE;	&#x2;&#x8;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</original>
+			<edited>All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; let's see what you picked.&#xE;&#x7;&#x1;&#x0;
+It's&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a queen!&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;nice
+work.
+&#xE;&#x3;&#x1F;&#x0;Congratulations! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Two out of 3
+means you're going to get a pretty
+good deal.&#xE;	&#x2;&#x8;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;This is the card you want, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;right?&#xE;&#x7;&#x1;&#x0; Oh,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+I didn't see this coming&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0; It's a king.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!
+&#xE;&#x3;&#xB;&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you started out on fire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but
+you couldn't keep it up.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Better luck
+next time!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;This is the card you want, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;right?&#xE;&#x7;&#x1;&#x0; Oh,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+I didn't see this coming&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0; It's a king.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!
+&#xE;&#x3;&#xB;&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you started out on fire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but
+you couldn't keep it up.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Better luck
+next time!</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;This is the card you want, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;right?&#xE;&#x7;&#x1;&#x0; Oh,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+I didn't see this coming&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0; It's a jack.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!
+&#xE;&#x3;&#xB;&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you started out on fire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but
+you couldn't keep it up.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Better luck
+next time!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;This is the card you want, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;right?&#xE;&#x7;&#x1;&#x0; Oh,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+I didn't see this coming&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0; It's a jack.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!
+&#xE;&#x3;&#xB;&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you started out on fire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but
+you couldn't keep it up.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Better luck
+next time!</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I've got the card you
+chose in my hot little hand,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and I'm
+going to look at it now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+It's&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;another queen! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+you're good at this. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;What a
+comeback!&#xE;	&#x2;&#x8;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;All right,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I've got the card you
+chose in my hot little hand,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and I'm
+going to look at it now&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+It's&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;another queen! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+you're good at this. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;What a
+comeback!&#xE;	&#x2;&#x8;&#x4;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's see how ya did.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I've seen the card, and I will not
+waste any more time in telling you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;that it's been a pleasure and I hope
+we can play this game again.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;and you had a king. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Sorry!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's see how ya did.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I've seen the card, and I will not
+waste any more time in telling you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;that it's been a pleasure and I hope
+we can play this game again.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;and you had a king. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Sorry!</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's see how ya did.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I've seen the card, and I will not
+waste any more time in telling you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;that it's been a pleasure and I hope
+we can play this game again.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;and you had a jack. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Sorry!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's see how ya did.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I've seen the card, and I will not
+waste any more time in telling you&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;that it's been a pleasure and I hope
+we can play this game again.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;and you had a jack. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Sorry!</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;It's your last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;and believe it
+or not,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'm pulling for you.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;You got the queen!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+Nice save.</original>
+			<edited>&#xE;&#x3;	&#x0;It's your last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;and believe it
+or not,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'm pulling for you.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;You got the queen!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+Nice save.</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's your last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's see
+how you did.&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;A king! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;That's good!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; No, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;wait.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xC;&#x0;That's bad.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Especially since you
+haven't found a single queen&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's your last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's see
+how you did.&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;A king! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;That's good!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; No, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;wait.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xC;&#x0;That's bad.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Especially since you
+haven't found a single queen&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's your last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's see
+how you did.&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;A jack! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;That's good!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; No, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;wait.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xC;&#x0;That's bad.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Especially since you
+haven't found a single queen&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;$&#x0;OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;it's your last chance&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Let's see
+how you did.&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x10;&#x0;A jack! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;That's good!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; No, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;wait.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xC;&#x0;That's bad.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Especially since you
+haven't found a single queen&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Unbelievable&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Three queens in
+3 tries.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0; It almost seems like this
+game is rigged somehow.
+&#xE;&#x3;&#xD;&#x0;Is it possible to be suspicious of
+yourself?</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Unbelievable&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Three queens in
+3 tries.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0; It almost seems like this
+game is rigged somehow.
+&#xE;&#x3;&#xD;&#x0;Is it possible to be suspicious of
+yourself?</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmm, 2 out of 3 is pretty
+good.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Are you sure you can't see
+the other side of the cards?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmm, 2 out of 3 is pretty
+good.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Are you sure you can't see
+the other side of the cards?</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I hope you're happy with your
+purchase. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;You did get quite a
+bargain&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I hope you're happy with your
+purchase. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;You did get quite a
+bargain&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Cheer up. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;We can play again later,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;and you'll probably do better.
+&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Cheer up. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;We can play again later,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;and you'll probably do better.
+&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;Look, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I can't believe you missed all
+3 times either. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;But I promise
+the game is fair.
+&#xE;&#x3;&#x17;&#x0;Why don't we play again sometime?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;I guarantee at least a 70.37 percent
+chance you'll get at least 1 queen.</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;Look, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I can't believe you missed all
+3 times either. &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;But I promise
+the game is fair.
+&#xE;&#x3;&#x17;&#x0;Why don't we play again sometime?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;I guarantee at least a 70.37 percent
+chance you'll get at least 1 queen.</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

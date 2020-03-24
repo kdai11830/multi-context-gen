@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Il faut ouvrir l'œil :&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; il y a de très
+bonnes affaires à réaliser dans le
+magasin de bricolage !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Il faut ouvrir l'œil :&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; il y a de très
+bonnes affaires à réaliser dans le
+magasin de bricolage !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;On tombe parfois sur des pépites
+dans le magasin de bricolage !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;On tombe parfois sur des pépites
+dans le magasin de bricolage !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Impossible de remettre la main sur
+la liste d'achats que j'avais
+préparée...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est bien ma veine...</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Impossible de remettre la main sur
+la liste d'achats que j'avais
+préparée...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est bien ma veine...</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Je ne suis pas encore tout à fait
+décidée... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;D'ailleurs, je ne fais
+jamais d'achat à la légère !
+Il faut toujours tourner sept fois ses
+clochettes dans son porte-monnaie
+avant d'acheter quelque chose !</original>
+			<edited>&#xE;&#x3;%&#x0;Je ne suis pas encore tout à fait
+décidée... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;D'ailleurs, je ne fais
+jamais d'achat à la légère !
+Il faut toujours tourner sept fois ses
+clochettes dans son porte-monnaie
+avant d'acheter quelque chose !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;J'ai peur d'avoir déjà crevé le
+plafond de mon budget...&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Mais
+regarder, ça ne coûte rien !</original>
+			<edited>&#xE;&#x3;	&#x0;J'ai peur d'avoir déjà crevé le
+plafond de mon budget...&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Mais
+regarder, ça ne coûte rien !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

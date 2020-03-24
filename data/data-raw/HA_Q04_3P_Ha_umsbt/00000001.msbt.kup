@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3; &#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qué bien que hayáis venido.&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3; &#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qué bien que hayáis venido.&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x2;&#x0;¡Ja, ja!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡Habéis podido venir!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Gracias por el favor, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x2;&#x0;¡Ja, ja!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡Habéis podido venir!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Gracias por el favor, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&amp;&#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡Bienvenidos!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&amp;&#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡Bienvenidos!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x1B;&#x0;¡Pero bueno!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Venís tarde!&#xE;&#x0;&#x4;&#x0;Ya estaba cansado de esperar, ¡e
+iba a salir a buscaros, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x1B;&#x0;¡Pero bueno!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Venís tarde!&#xE;&#x0;&#x4;&#x0;Ya estaba cansado de esperar, ¡e
+iba a salir a buscaros, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;¡Hola, tronco!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;¿Para qué me has hecho venir,
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;¡Hola, tronco!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;¿Para qué me has hecho venir,
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;¡Hola, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿Para qué me has hecho venir?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿Es para competir, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;¡Hola, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿Para qué me has hecho venir?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿Es para competir, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;¡&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;¿Para qué me has
+llamado? ¡He tenido que interrumpir
+mi sesión de ejercicios para venir!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;¡&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;¿Para qué me has
+llamado? ¡He tenido que interrumpir
+mi sesión de ejercicios para venir!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;&#x1A;&#x0;A ver&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Me da palo admitirlo, pero&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Es hora de que te devuelva esto!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Me lo dejaste hace mucho tiempo...
+&#xE;&#x3;&amp;&#x0;¡Aquí lo tienes!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Gracias,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;&#x1A;&#x0;A ver&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Me da palo admitirlo, pero&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Es hora de que te devuelva esto!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Me lo dejaste hace mucho tiempo...
+&#xE;&#x3;&amp;&#x0;¡Aquí lo tienes!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Gracias,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#xF;&#x0;¡Eh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Mi &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿Seguro que quieres devolvérmel&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;Se me nota que no l&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0; he echado
+mucho de menos, ¿verdad?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Lo
+cierto es que ya l&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0; había olvidado&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#xF;&#x0;¡Eh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Mi &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿Seguro que quieres devolvérmel&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;Se me nota que no l&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0; he echado
+mucho de menos, ¿verdad?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Lo
+cierto es que ya l&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0; había olvidado&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;!&#x0;No es que me sobre la pasta, pero
+es que encontré algo que pensé
+que te iba a molar mucho.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Así que te lo he comprado&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;!&#x0;No es que me sobre la pasta, pero
+es que encontré algo que pensé
+que te iba a molar mucho.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Así que te lo he comprado&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#xF;&#x0;¡Eh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;¡Gracias, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Qué pasada
+que hayas tenido este detallazo
+conmigo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#xF;&#x0;¡Eh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;¡Gracias, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Qué pasada
+que hayas tenido este detallazo
+conmigo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;El otro día, cuando estaba saltando
+a la comba por ahí para mi
+entrenamiento, me encontré algo.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Esto es tuyo, ¿no?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;El otro día, cuando estaba saltando
+a la comba por ahí para mi
+entrenamiento, me encontré algo.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Esto es tuyo, ¿no?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x17;&#x0;¿Eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Pues sí! ¡Es
+mi &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pensé que l&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0; había perdido
+para siempre,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡pero aquí está!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;¡Gracias!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Mucha gente se l&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0; hubiera
+quedado, ¡pero tú eres un tío legal
+a tope, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x17;&#x0;¿Eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Pues sí! ¡Es
+mi &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pensé que l&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0; había perdido
+para siempre,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡pero aquí está!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;¡Gracias!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Mucha gente se l&#xE;&#xE;&#x8;&#xE;&#x0;Í&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x2;&#x0;0&#x0; hubiera
+quedado, ¡pero tú eres un tío legal
+a tope, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;	&#x0;Ya sé que te prometí ir a correr
+contigo, &#xE;&#x3;&#xC;&#x0;¡pero tengo los gemelos
+hechos polvo por lo de ayer!
+No puedo ni moverme, y por eso
+no pude ni ir a buscarte yo&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¿Lo dejamos para otro día?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;	&#x0;Ya sé que te prometí ir a correr
+contigo, &#xE;&#x3;&#xC;&#x0;¡pero tengo los gemelos
+hechos polvo por lo de ayer!
+No puedo ni moverme, y por eso
+no pude ni ir a buscarte yo&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¿Lo dejamos para otro día?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x1;&#x0;Hum...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Vale&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No te preocupes
+por eso, tú tranqui...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;Pero no sé si envidiarte.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Que estés
+así indica que tus músculos están
+pasando al siguiente nivel&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;!&#x0;¡No me vas a dejar atrás!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Voy a
+tener que hacer más ejercicio en
+cuanto salga de aquí, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x1;&#x0;Hum...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Vale&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No te preocupes
+por eso, tú tranqui...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;Pero no sé si envidiarte.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Que estés
+así indica que tus músculos están
+pasando al siguiente nivel&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;!&#x0;¡No me vas a dejar atrás!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Voy a
+tener que hacer más ejercicio en
+cuanto salga de aquí, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3; &#x0;¡Te voy a contar lo que pasa!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡Quiero retarte!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Echemos un pulso!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;¡Seguimos con un empate de cien
+pulsos!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Sé que el siguiente lo
+decidirá todo de una vez por todas!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3; &#x0;¡Te voy a contar lo que pasa!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡Quiero retarte!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Echemos un pulso!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;¡Seguimos con un empate de cien
+pulsos!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Sé que el siguiente lo
+decidirá todo de una vez por todas!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;¡Ah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Bueno, ya sabes que yo
+encantado, tronco, pero es que&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Esto&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; A ver&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Es que me acabo
+de echar crema en las manos,
+así que no veas cómo resbalan.
+&#xE;&#x3;&#x1B;&#x0;¡Parece que vamos a tener que
+dejar esto para otra ocasión!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Lo siento!</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;¡Ah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Bueno, ya sabes que yo
+encantado, tronco, pero es que&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Esto&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; A ver&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Es que me acabo
+de echar crema en las manos,
+así que no veas cómo resbalan.
+&#xE;&#x3;&#x1B;&#x0;¡Parece que vamos a tener que
+dejar esto para otra ocasión!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Lo siento!</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Bueno, al final no fue para tanto.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Yo ahora me tengo que largar!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;¡Gracias por acompañarme hasta
+aquí, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Tienes energía!
+¡A ver si hacemos ejercicio juntos!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Bueno, al final no fue para tanto.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Yo ahora me tengo que largar!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;¡Gracias por acompañarme hasta
+aquí, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Tienes energía!
+¡A ver si hacemos ejercicio juntos!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Bueno, creo que esto ya no da
+más de sí,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; así que me voy a dar
+el piro como está mandado.
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;¡Gracias por molestarte en venir
+aquí conmigo, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Eres
+muy enrollad&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>Bueno, creo que esto ya no da
+más de sí,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; así que me voy a dar
+el piro como está mandado.
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;¡Gracias por molestarte en venir
+aquí conmigo, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Eres
+muy enrollad&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Bueno, &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;parece que hemos hecho
+lo que teníamos que hacer,
+¡así que me largo de aquí!&#xE;&#x0;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;¡Ya os veré, campeones!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Bueno, &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;parece que hemos hecho
+lo que teníamos que hacer,
+¡así que me largo de aquí!&#xE;&#x0;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;¡Ya os veré, campeones!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

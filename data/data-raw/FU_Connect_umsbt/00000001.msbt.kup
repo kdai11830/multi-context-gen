@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¿Y bien, cariño?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¿Querías preguntarme algo?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¿Y bien, cariño?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¿Querías preguntarme algo?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;En fin, cielo,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¿en qué
+puedo ayudarte?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;En fin, cielo,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¿en qué
+puedo ayudarte?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Y... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¿necesitas algo, bichín?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Y... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¿necesitas algo, bichín?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

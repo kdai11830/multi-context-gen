@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;I &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;don't feel&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; like talking to you
+right now!</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;I &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;don't feel&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; like talking to you
+right now!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;Just leave me alone already,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;(&#x0;Just leave me alone already,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;What is your problem?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Leave me
+alone,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;What is your problem?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Leave me
+alone,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

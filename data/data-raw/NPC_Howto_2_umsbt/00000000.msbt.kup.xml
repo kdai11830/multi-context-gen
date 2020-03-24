@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;hello there!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; I just delivered
+some mail to you!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;hello there!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; I just delivered
+some mail to you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>I already put it in your &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mailbox&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;so be sure to check it later.</original>
+			<edited>I already put it in your &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mailbox&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;so be sure to check it later.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>When your mailbox is full, I can't
+cram any more in there, so&#xE;&#x3;&#x1;&#x0; don't
+forget to collect your mail, OK?
+&#xE;&#x3;&#x0;&#x0;When you have mail,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; you'll see a
+blinking sign like you see now.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+That's how you'll know!
+Well, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I've gotta get moving!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3; &#x0;I'll see you later!</original>
+			<edited>When your mailbox is full, I can't
+cram any more in there, so&#xE;&#x3;&#x1;&#x0; don't
+forget to collect your mail, OK?
+&#xE;&#x3;&#x0;&#x0;When you have mail,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; you'll see a
+blinking sign like you see now.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+That's how you'll know!
+Well, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I've gotta get moving!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3; &#x0;I'll see you later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>When your mailbox is full, I can't
+make any more deliveries, so be
+sure to take out the letters, OK?
+&#xE;&#x3;	&#x0;See? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You can tell your mailbox is
+completely full at the moment, so&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+please empty it as soon as possible!
+Well, that's all for now. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I've gotta
+get moving!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3; &#x0;See ya later!</original>
+			<edited>When your mailbox is full, I can't
+make any more deliveries, so be
+sure to take out the letters, OK?
+&#xE;&#x3;	&#x0;See? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You can tell your mailbox is
+completely full at the moment, so&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+please empty it as soon as possible!
+Well, that's all for now. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I've gotta
+get moving!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3; &#x0;See ya later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>When you want to send a letter,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; just
+visit the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;post office &#xE;&#x0;&#x3;&#x2;ÿÿover in the
+shopping district.
+I'm just the delivery guy,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so I can't
+take any of your mail directly. It's
+just how the rules work, I guess.</original>
+			<edited>When you want to send a letter,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; just
+visit the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;post office &#xE;&#x0;&#x3;&#x2;ÿÿover in the
+shopping district.
+I'm just the delivery guy,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so I can't
+take any of your mail directly. It's
+just how the rules work, I guess.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>You can buy &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;stationery&#xE;&#x0;&#x3;&#x2;ÿÿ for writing
+letters from the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;shop&#xE;&#x0;&#x3;&#x2;ÿÿ in the
+shopping district!
+If people don't write letters, we'll
+go out of business&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;So I hope you write lots of letters!</original>
+			<edited>You can buy &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;stationery&#xE;&#x0;&#x3;&#x2;ÿÿ for writing
+letters from the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;shop&#xE;&#x0;&#x3;&#x2;ÿÿ in the
+shopping district!
+If people don't write letters, we'll
+go out of business&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;So I hope you write lots of letters!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;By the way, letters aren't just for
+sending messages. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You can use them
+to send presents too.
+&#xE;&#x3;&#x1;&#x0;It doesn't cost you a thing,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so I'd be
+quite happy to send something along
+if you ever need it done!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;By the way, letters aren't just for
+sending messages. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You can use them
+to send presents too.
+&#xE;&#x3;&#x1;&#x0;It doesn't cost you a thing,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; so I'd be
+quite happy to send something along
+if you ever need it done!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ahhh! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Hello there, Mayor!
+&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I've got a delivery for you!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ahhh! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Hello there, Mayor!
+&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I've got a delivery for you!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

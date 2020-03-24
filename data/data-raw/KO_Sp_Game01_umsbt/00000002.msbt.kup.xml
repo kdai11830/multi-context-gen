@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Bien, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu es prê&#xE;&#xE;&#x6;
+&#x2;&#x0;t&#x0;&#x4;&#x0;t&#x0;e&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;#&#x0; On ne joue
+qu'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;une &#xE;&#x0;&#x3;&#x2;ÿÿseule fois !</original>
+			<edited>Bien, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu es prê&#xE;&#xE;&#x6;
+&#x2;&#x0;t&#x0;&#x4;&#x0;t&#x0;e&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;#&#x0; On ne joue
+qu'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;une &#xE;&#x0;&#x3;&#x2;ÿÿseule fois !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Prê&#xE;&#xE;&#x6;
+&#x2;&#x0;t&#x0;&#x4;&#x0;t&#x0;e&#x0; ?&#xE;&#x7;&#x1;&#x0; Le premier qui gagne &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; fois&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+remporte le jeu !</original>
+			<edited>Prê&#xE;&#xE;&#x6;
+&#x2;&#x0;t&#x0;&#x4;&#x0;t&#x0;e&#x0; ?&#xE;&#x7;&#x1;&#x0; Le premier qui gagne &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; fois&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+remporte le jeu !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Un... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Deux&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Pierre.
+Ciseaux.
+Papier.</original>
+			<edited>Un... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Deux&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Pierre.
+Ciseaux.
+Papier.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>
+                &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;PIERRE !&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+                &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;PIERRE !&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>
+                &#xE;&#x7;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;CISEAUX !&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+                &#xE;&#x7;&#xB;&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;CISEAUX !&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>
+                &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;PAPIER !&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+                &#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#xB;&#x0;PAPIER !&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;)&#x0;AH !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;)&#x0;AH !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hein ? Égalité.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;,&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; On la refait !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hein ? Égalité.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;,&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; On la refait !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Youpi !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3; &#x0;Youpi !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Ce qui signifie&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1B;&#x0;que tu as gagné.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+C'est nul, ce jeu.</original>
+			<edited>Ce qui signifie&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1B;&#x0;que tu as gagné.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+C'est nul, ce jeu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Ce qui signifie&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; que j'ai gagné !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; J'adore ce jeu.</original>
+			<edited>Ce qui signifie&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; que j'ai gagné !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;HA HA HA !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; J'adore ce jeu.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

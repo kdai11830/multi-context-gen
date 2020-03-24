@@ -1,0 +1,773 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Déjà de retour ?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Déjà de retour ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Déjà de retour ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Déjà de retour ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Ah !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; vous êtes
+né&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; un 29 février, pas vrai ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Cette année n'est pas bissextile,
+alors&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x3;&#x0;Eh bien, c'est un jour trop
+tôt, mais... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;joyeux anniversaire !
+Votre nouveau rôle de maire,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; votre
+déménagement,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; et maintenant votre
+anniversaire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+C'est vraiment un jour faste pour
+vous !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; désolée !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Je me laisse un peu
+emporter, mais je suis si heureuse
+pour vous&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Ah !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; vous êtes
+né&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; un 29 février, pas vrai ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Cette année n'est pas bissextile,
+alors&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x3;&#x0;Eh bien, c'est un jour trop
+tôt, mais... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;joyeux anniversaire !
+Votre nouveau rôle de maire,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; votre
+déménagement,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; et maintenant votre
+anniversaire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+C'est vraiment un jour faste pour
+vous !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; désolée !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Je me laisse un peu
+emporter, mais je suis si heureuse
+pour vous&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Ah !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; vous êtes
+né&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; un 29 février, pas vrai ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Cette année n'est pas bissextile,
+alors&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x3;&#x0;Eh bien, c'est un jour trop
+tôt, mais... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;joyeux anniversaire !
+Ce jour est doublement spécial !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Eh oui, nous fêtons à la fois votre
+emménagement dans notre ville et
+votre anniversaire !
+&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; désolée !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Je me laisse un peu
+emporter, mais je suis si heureuse
+pour vous&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Ah !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; vous êtes
+né&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; un 29 février, pas vrai ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Cette année n'est pas bissextile,
+alors&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x3;&#x0;Eh bien, c'est un jour trop
+tôt, mais... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;joyeux anniversaire !
+Ce jour est doublement spécial !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Eh oui, nous fêtons à la fois votre
+emménagement dans notre ville et
+votre anniversaire !
+&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; désolée !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Je me laisse un peu
+emporter, mais je suis si heureuse
+pour vous&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Alors,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; avez-vous trouvé votre petit
+coin de paradis ?&#xE;&#xF;&#x1;&#x6;&#x15;&#x0;&#x0;&#x0;&#x0;&#x0;
+Oh oui !
+Plus ou moins...
+Parfait, mais cher !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Alors,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; avez-vous trouvé votre petit
+coin de paradis ?&#xE;&#xF;&#x1;&#x6;&#x15;&#x0;&#x0;&#x0;&#x0;&#x0;
+Oh oui !
+Plus ou moins...
+Parfait, mais cher !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merveilleux ! Ça fait plaisir à
+entendre !&#xE;&#x7;&#x1;&#x0; Alors vous allez
+emménager bientôt ?
+J'espère que votre maison sera vite
+prête à vous accueillir.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Vivre dans
+une tente peut être usant.
+&#xE;&#x3;&#x0;&#x0;Bien, passons à votre inscription
+dans le registre !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; J'ai déjà
+commencé à remplir le formulaire.
+&#xE;&#x3;&#x1;&#x0;Cependant il me manque quelques
+informations...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Quelle est votre date
+de naissance ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merveilleux ! Ça fait plaisir à
+entendre !&#xE;&#x7;&#x1;&#x0; Alors vous allez
+emménager bientôt ?
+J'espère que votre maison sera vite
+prête à vous accueillir.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Vivre dans
+une tente peut être usant.
+&#xE;&#x3;&#x0;&#x0;Bien, passons à votre inscription
+dans le registre !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; J'ai déjà
+commencé à remplir le formulaire.
+&#xE;&#x3;&#x1;&#x0;Cependant il me manque quelques
+informations...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Quelle est votre date
+de naissance ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;sans plus ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Bon, attendez de
+voir la maison terminée, vous
+changerez sûrement d'avis !
+&#xE;&#x3;&#x15;&#x0;Ça sera toujours mieux que de vivre
+dans une tente.&#xE;&#x7;&#x1;&#x0; Vivement que vous
+puissiez emménager !
+&#xE;&#x3;&#x0;&#x0;Bien, passons à votre inscription
+dans le registre !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; J'ai déjà
+commencé à remplir le formulaire.
+&#xE;&#x3;&#x1;&#x0;Cependant il me manque quelques
+informations...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Quelle est votre date
+de naissance ?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;sans plus ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Bon, attendez de
+voir la maison terminée, vous
+changerez sûrement d'avis !
+&#xE;&#x3;&#x15;&#x0;Ça sera toujours mieux que de vivre
+dans une tente.&#xE;&#x7;&#x1;&#x0; Vivement que vous
+puissiez emménager !
+&#xE;&#x3;&#x0;&#x0;Bien, passons à votre inscription
+dans le registre !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; J'ai déjà
+commencé à remplir le formulaire.
+&#xE;&#x3;&#x1;&#x0;Cependant il me manque quelques
+informations...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Quelle est votre date
+de naissance ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, je suis navrée de savoir que la
+perspective du prêt vous chiffonne.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Mais vous vivez dans une tente
+actuellement, non ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Vous verrez, une fois la maison
+terminée, vous serez &#xE;&#xE;&#x6;"&#xE;&#x0;h&#x0;e&#x0;u&#x0;r&#x0;e&#x0;u&#x0;x&#x0;&#x10;&#x0;h&#x0;e&#x0;u&#x0;r&#x0;e&#x0;u&#x0;s&#x0;e&#x0; de
+quitter votre tente !
+Ne ruminez pas le coût global du
+prêt, pensez juste à réunir de quoi
+honorer le premier versement.
+&#xE;&#x3;&#x0;&#x0;Enfin,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; maintenant que cette histoire
+de maison est réglée,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; passons à
+votre inscription dans le registre.
+J'ai déjà rempli le formulaire
+comme j'ai pu,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; mais il me manque
+une information...
+&#xE;&#x3;&#x1;&#x0;Pouvez-vous me donner &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;votre date
+de naissance, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0; ?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, je suis navrée de savoir que la
+perspective du prêt vous chiffonne.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Mais vous vivez dans une tente
+actuellement, non ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Vous verrez, une fois la maison
+terminée, vous serez &#xE;&#xE;&#x6;"&#xE;&#x0;h&#x0;e&#x0;u&#x0;r&#x0;e&#x0;u&#x0;x&#x0;&#x10;&#x0;h&#x0;e&#x0;u&#x0;r&#x0;e&#x0;u&#x0;s&#x0;e&#x0; de
+quitter votre tente !
+Ne ruminez pas le coût global du
+prêt, pensez juste à réunir de quoi
+honorer le premier versement.
+&#xE;&#x3;&#x0;&#x0;Enfin,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; maintenant que cette histoire
+de maison est réglée,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; passons à
+votre inscription dans le registre.
+J'ai déjà rempli le formulaire
+comme j'ai pu,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; mais il me manque
+une information...
+&#xE;&#x3;&#x1;&#x0;Pouvez-vous me donner &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;votre date
+de naissance, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0; ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Alors, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ça s'est bien passé ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Vous
+avez trouvé l'emplacement de vos
+rêves ?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;&#x0;&#x0;
+Carrément, oui !
+Plus ou moins...</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Alors, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ça s'est bien passé ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Vous
+avez trouvé l'emplacement de vos
+rêves ?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;&#x0;&#x0;
+Carrément, oui !
+Plus ou moins...</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Parfait, ravie de l'entendre !&#xE;&#x7;&#x1;&#x0;
+J'espère que vous vous sentirez
+rapidement chez vous à &#xE;&#x5;&#x5;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Parfait, ravie de l'entendre !&#xE;&#x7;&#x1;&#x0;
+J'espère que vous vous sentirez
+rapidement chez vous à &#xE;&#x5;&#x5;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Se sentir bien chez soi est le
+premier pas de votre intégration
+dans votre nouvelle ville.
+&#xE;&#x3;&#x1;&#x0;Nul doute que vous vous sentirez
+très vite comme chez vous à
+&#xE;&#x5;&#x5;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Se sentir bien chez soi est le
+premier pas de votre intégration
+dans votre nouvelle ville.
+&#xE;&#x3;&#x1;&#x0;Nul doute que vous vous sentirez
+très vite comme chez vous à
+&#xE;&#x5;&#x5;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci pour votre patience !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et voici
+qui atteste de votre inscription
+auprès de nos services municipaux.
+Il s'agit de votre &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;carte de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;résident&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ou &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;« &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;C&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0;R&#xE;&#x0;&#x3;&#x2;ÿÿ » ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Prenez-en soin,
+&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci pour votre patience !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et voici
+qui atteste de votre inscription
+auprès de nos services municipaux.
+Il s'agit de votre &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;carte de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;résident&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ou &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;« &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;C&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0;R&#xE;&#x0;&#x3;&#x2;ÿÿ » ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Prenez-en soin,
+&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Les informations inscrites sur votre
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;CR&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;se mettent automatiquement à
+jour dès que votre profil change.
+Touchez simplement  sur l'écran
+tactile &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;pour y accéder.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Tant que vous avez votre CR sur
+vous, vous pouvez aller visiter
+d'autres villes quand vous le voulez !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Les informations inscrites sur votre
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;CR&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;se mettent automatiquement à
+jour dès que votre profil change.
+Touchez simplement  sur l'écran
+tactile &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;pour y accéder.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Tant que vous avez votre CR sur
+vous, vous pouvez aller visiter
+d'autres villes quand vous le voulez !</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Veuillez accepter ceci !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Veuillez accepter ceci !</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bien,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;j'espère de tout cœur que
+vous vous plairez à &#xE;&#x5;&#x6;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;De mon côté, j'essaierai d'être une
+employée municipale exemplaire, &#xE;&#x3;&#x1;&#x0;et
+de vous simplifier la vie.
+&#xE;&#x3;&#x0;&#x0;Si vous avez besoin de quoi que ce
+soit, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;n'hésitez pas à venir me voir !</original>
+			<edited>&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bien,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;j'espère de tout cœur que
+vous vous plairez à &#xE;&#x5;&#x6;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;De mon côté, j'essaierai d'être une
+employée municipale exemplaire, &#xE;&#x3;&#x1;&#x0;et
+de vous simplifier la vie.
+&#xE;&#x3;&#x0;&#x0;Si vous avez besoin de quoi que ce
+soit, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;n'hésitez pas à venir me voir !</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Et voili voilou !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Je suis ravie de
+pouvoir vous compter parmi nos
+voisins désormais !&#xE;&#x0;&#x4;&#x0;À propos,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0; vous venez d'arriver,
+alors installez-vous tranquillement
+et apprenez à connaître la ville.
+&#xE;&#x3;&#x1;&#x0;Prenez votre temps pour vous
+familiariser avec &#xE;&#x5;&#x5;&#x0; et son
+rythme de vie.
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je sais !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; Pourquoi ne pas
+commencer par vous présenter
+auprès de vos nouveaux voisins ?
+&#xE;&#x3;&#x1;&#x0;Ils en profiteront sûrement pour
+vous prodiguer de nombreux
+conseils pleins de bon sens !
+&#xE;&#x3;&#x0;&#x0;D'ailleurs,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; à la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mairie&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; nous donnons
+aussi des conseils bien pratiques
+pour votre nouvelle vie ici&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Si vous avez une question ou un
+souci...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; n'hésitez pas à venir me
+voir !
+&#xE;&#x3;&#x0;&#x0;Bon, mais je suis une vraie
+pipelette, ma parole !&#xE;&#x0;&#x4;&#x0;Je me réjouis de votre présence
+parmi nous, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !&#xE;&#x0;&#x4;&#x0;Je suis sûre que le futur
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x6;&#x0; sera rayonnant avec
+vous aux commandes de la ville !</original>
+			<edited>&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Et voili voilou !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Je suis ravie de
+pouvoir vous compter parmi nos
+voisins désormais !&#xE;&#x0;&#x4;&#x0;À propos,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0; vous venez d'arriver,
+alors installez-vous tranquillement
+et apprenez à connaître la ville.
+&#xE;&#x3;&#x1;&#x0;Prenez votre temps pour vous
+familiariser avec &#xE;&#x5;&#x5;&#x0; et son
+rythme de vie.
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je sais !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; Pourquoi ne pas
+commencer par vous présenter
+auprès de vos nouveaux voisins ?
+&#xE;&#x3;&#x1;&#x0;Ils en profiteront sûrement pour
+vous prodiguer de nombreux
+conseils pleins de bon sens !
+&#xE;&#x3;&#x0;&#x0;D'ailleurs,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; à la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mairie&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; nous donnons
+aussi des conseils bien pratiques
+pour votre nouvelle vie ici&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Si vous avez une question ou un
+souci...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; n'hésitez pas à venir me
+voir !
+&#xE;&#x3;&#x0;&#x0;Bon, mais je suis une vraie
+pipelette, ma parole !&#xE;&#x0;&#x4;&#x0;Je me réjouis de votre présence
+parmi nous, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !&#xE;&#x0;&#x4;&#x0;Je suis sûre que le futur
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x6;&#x0; sera rayonnant avec
+vous aux commandes de la ville !</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>Voici votre &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;carte de résident&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ !&#xE;&#x0;&#x4;&#x0;C'est la preuve que vous êtes
+maintenant officiellement un&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+habitant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x6;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Pour simplifier les choses, on a
+coutume d'appeler cette carte
+« &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;C&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;R&#xE;&#x0;&#x3;&#x2;ÿÿ »&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; tout simplement !</original>
+			<edited>Voici votre &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;carte de résident&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ !&#xE;&#x0;&#x4;&#x0;C'est la preuve que vous êtes
+maintenant officiellement un&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+habitant&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x6;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Pour simplifier les choses, on a
+coutume d'appeler cette carte
+« &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;C&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;R&#xE;&#x0;&#x3;&#x2;ÿÿ »&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; tout simplement !</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Merci pour votre patience ! &#xE;&#x3;&#x1;&#x0;Voici
+votre toute nouvelle &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;CR&#xE;&#x0;&#x3;&#x2;ÿÿ,
+&#xE;&#x5;&#x0;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Merci pour votre patience ! &#xE;&#x3;&#x1;&#x0;Voici
+votre toute nouvelle &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;CR&#xE;&#x0;&#x3;&#x2;ÿÿ,
+&#xE;&#x5;&#x0;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>Bien, bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Nous devrions en avoir
+terminé avec l'aspect administratif
+de votre déménagement&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+J'aimerais encore juste vous
+demander une petite faveur...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;Faites-nous l'honneur de participer
+à une petite cérémonie pour
+célébrer dignement votre arrivée !
+&#xE;&#x3;&#x17;&#x0;Pourriez-vous jeter un œil à votre
+carte sur l'écran tactile ?</original>
+			<edited>Bien, bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Nous devrions en avoir
+terminé avec l'aspect administratif
+de votre déménagement&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+J'aimerais encore juste vous
+demander une petite faveur...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;Faites-nous l'honneur de participer
+à une petite cérémonie pour
+célébrer dignement votre arrivée !
+&#xE;&#x3;&#x17;&#x0;Pourriez-vous jeter un œil à votre
+carte sur l'écran tactile ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>L'endroit marqué &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;× &#xE;&#x0;&#x3;&#x2;ÿÿcorrespond à la
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;place de la ville&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;C'est là que nous organisons les
+fêtes et autres événements&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Nous aimerions que vous plantiez
+un arbre sur cette place, le symbole
+serait très fort pour notre ville !
+&#xE;&#x3;&#x1;&#x0;Je vais vous mener sur le lieu de la
+cérémonie, suivez-moi !</original>
+			<edited>L'endroit marqué &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;× &#xE;&#x0;&#x3;&#x2;ÿÿcorrespond à la
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;place de la ville&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;C'est là que nous organisons les
+fêtes et autres événements&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Nous aimerions que vous plantiez
+un arbre sur cette place, le symbole
+serait très fort pour notre ville !
+&#xE;&#x3;&#x1;&#x0;Je vais vous mener sur le lieu de la
+cérémonie, suivez-moi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Aujourd'hui c'est votre
+anniversaire, n'est-ce pas, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0;
+&#xE;&#x5;&#x0;&#x0; ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Figurez-vous que c'est aussi mon
+anniversaire !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Quelle incroyable
+coïncidence !&#xE;&#x3;%&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;toutes mes excuses !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Ça me
+réjouit tellement que je me laisse un
+peu emporter&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Aujourd'hui c'est votre
+anniversaire, n'est-ce pas, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0;
+&#xE;&#x5;&#x0;&#x0; ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Figurez-vous que c'est aussi mon
+anniversaire !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Quelle incroyable
+coïncidence !&#xE;&#x3;%&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;toutes mes excuses !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Ça me
+réjouit tellement que je me laisse un
+peu emporter&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Aujourd'hui c'est votre
+anniversaire, n'est-ce pas ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Eh bien, joyeux anniversaire,
+&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;Vous avez déménagé le jour même
+de votre anniversaire, c'est un
+événement vraiment spécial !
+&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;toutes mes excuses !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Ça me
+réjouit tellement que je me laisse un
+peu emporter&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Aujourd'hui c'est votre
+anniversaire, n'est-ce pas ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Eh bien, joyeux anniversaire,
+&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;Vous avez déménagé le jour même
+de votre anniversaire, c'est un
+événement vraiment spécial !
+&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;toutes mes excuses !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Ça me
+réjouit tellement que je me laisse un
+peu emporter&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Le &#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hmm ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est bel
+et bien votre date de naissance ?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Tout juste !
+Raté !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Le &#xE;&#x4;&#xF;&#x2;&#x0;Í &#xE;&#x4;&#xE;&#x2;&#x0;Í,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hmm ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est bel
+et bien votre date de naissance ?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Tout juste !
+Raté !</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai mal compris, désolée !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Vous voulez bien me répéter votre
+date de naissance ?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai mal compris, désolée !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Vous voulez bien me répéter votre
+date de naissance ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Ouah !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0; On est &#xE;&#xE;&#x6;&#x12;&#x6;&#x0;n&#x0;é&#x0;s&#x0;&#x8;&#x0;n&#x0;é&#x0;e&#x0;s&#x0; le même jour,
+vous et moi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Quelle coïncidence !&#xE;&#x3;%&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;Oh, excusez-moi, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;c'était totalement
+déplacé.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Je me suis laissé emporter
+par l'enthousiasme !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Ouah !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0; On est &#xE;&#xE;&#x6;&#x12;&#x6;&#x0;n&#x0;é&#x0;s&#x0;&#x8;&#x0;n&#x0;é&#x0;e&#x0;s&#x0; le même jour,
+vous et moi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Quelle coïncidence !&#xE;&#x3;%&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;Oh, excusez-moi, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;c'était totalement
+déplacé.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Je me suis laissé emporter
+par l'enthousiasme !</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'est noté, merci !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'est noté, merci !</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>Toutes ces informations sont très
+précieuses.&#xE;&#x0;&#x4;&#x0;Pour être sûr&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;s de ne pas les
+perdre, nous allons&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; les sauvegarder
+immédiatement !</original>
+			<edited>Toutes ces informations sont très
+précieuses.&#xE;&#x0;&#x4;&#x0;Pour être sûr&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;s de ne pas les
+perdre, nous allons&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; les sauvegarder
+immédiatement !</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh, mais !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Ça signifie que c'est
+votre anniversaire aujourd'hui,
+&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !
+&#xE;&#x3;&#x3;&#x0;Joyeux anniversaire !&#xE;&#x0;&#x4;&#x0;Votre prise de fonction en tant que
+maire,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; votre déménagement,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; votre
+anniversaire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tout ça le même jour ! Ça en fait
+des belles choses à fêter !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;pardon, j'ai honte !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Je suis si
+heureuse pour vous que je me suis
+laissé un peu emporter&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh, mais !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Ça signifie que c'est
+votre anniversaire aujourd'hui,
+&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !
+&#xE;&#x3;&#x3;&#x0;Joyeux anniversaire !&#xE;&#x0;&#x4;&#x0;Votre prise de fonction en tant que
+maire,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; votre déménagement,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; votre
+anniversaire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tout ça le même jour ! Ça en fait
+des belles choses à fêter !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;)&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;pardon, j'ai honte !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;'&#x0;Je suis si
+heureuse pour vous que je me suis
+laissé un peu emporter&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6; &#x0;!&#x0;"&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6; &#x0;!&#x0;"&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Vous pouvez recevoir toutes sortes
+d'informations pratiques à la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mairie&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Pensez à venir me voir demain ou
+dès que vous le souhaiterez !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Vous pouvez recevoir toutes sortes
+d'informations pratiques à la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mairie&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Pensez à venir me voir demain ou
+dès que vous le souhaiterez !</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Vous devriez vous reposer
+aujourd'hui.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0; Un déménagement,
+c'est épuisant !</original>
+			<edited>&#xE;&#x3;%&#x0;Vous devriez vous reposer
+aujourd'hui.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0; Un déménagement,
+c'est épuisant !</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>Vous venez d'arriver dans cette
+ville,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; vous aurez peut-être besoin
+d'un temps d'adaptation.</original>
+			<edited>Vous venez d'arriver dans cette
+ville,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; vous aurez peut-être besoin
+d'un temps d'adaptation.</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>Hmmmm,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; très bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>Hmmmm,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; très bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tout va
+comme vous voulez ?</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tout va
+comme vous voulez ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tout va
+comme vous voulez ?</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tout va
+comme vous voulez ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Si vous êtes un peu déboussolé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à
+cause du déménagement,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;je peux
+vous donner quelques conseils !&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, avec plaisir !
+Tu parles, je gère...</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Si vous êtes un peu déboussolé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à
+cause du déménagement,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;je peux
+vous donner quelques conseils !&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, avec plaisir !
+Tu parles, je gère...</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ça ne m'étonne pas de vous !&#xE;&#x0;&#x4;&#x0;Cependant,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;il y a certaines choses
+dont je devrais vous entretenir
+avant que vous ne soyez débordé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;Dès que vous aurez un peu de temps
+libre,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; passez me voir pour que je
+vous procure un ou deux conseils !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ça ne m'étonne pas de vous !&#xE;&#x0;&#x4;&#x0;Cependant,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;il y a certaines choses
+dont je devrais vous entretenir
+avant que vous ne soyez débordé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1;&#x0;Dès que vous aurez un peu de temps
+libre,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; passez me voir pour que je
+vous procure un ou deux conseils !</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>Bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je vous confie cet
+arbrisseau !</original>
+			<edited>Bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je vous confie cet
+arbrisseau !</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>À vous de jouer, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0;
+&#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;Appuyez sur  pour planter
+l'arbrisseau ! Mettez-y tout votre
+cœur !</original>
+			<edited>À vous de jouer, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0;
+&#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;Appuyez sur  pour planter
+l'arbrisseau ! Mettez-y tout votre
+cœur !</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Félicitations, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1D;&#x0;Bravo, bravo !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;J'espère que cet arbre grandira
+aussi vite et sainement
+&#xE;&#xE;
+&#x12;&#x8;&#x0;q&#x0;u&#x0;e&#x0; &#x0;&#x6;&#x0;q&#x0;u&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; !&#xE;&#x0;&#x4;&#x0;Nous nous réjouissons tous des
+changements que vous allez
+apporter à notre belle ville !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Félicitations, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1D;&#x0;Bravo, bravo !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;J'espère que cet arbre grandira
+aussi vite et sainement
+&#xE;&#xE;
+&#x12;&#x8;&#x0;q&#x0;u&#x0;e&#x0; &#x0;&#x6;&#x0;q&#x0;u&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; !&#xE;&#x0;&#x4;&#x0;Nous nous réjouissons tous des
+changements que vous allez
+apporter à notre belle ville !</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>Je dois retourner au travail à
+présent,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; la journée est encore
+loin d'être finie.
+&#xE;&#x3;&#xD;&#x0;À vrai dire, nous nous apprêtons à
+célébrer un deuxième événement sur
+cette place aujourd'hui !
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire, si vous aviez
+le temps,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; nous serions ravis que
+vous y participiez !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3; &#x0;Et encore bravo pour tout ce que
+vous avez déjà accompli !</original>
+			<edited>Je dois retourner au travail à
+présent,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; la journée est encore
+loin d'être finie.
+&#xE;&#x3;&#xD;&#x0;À vrai dire, nous nous apprêtons à
+célébrer un deuxième événement sur
+cette place aujourd'hui !
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire, si vous aviez
+le temps,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; nous serions ravis que
+vous y participiez !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3; &#x0;Et encore bravo pour tout ce que
+vous avez déjà accompli !</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Je dois retourner à la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mairie&#xE;&#x0;&#x3;&#x2;ÿÿ
+maintenant, d'autres tâches
+m'attendent&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;De votre côté, visitez donc un peu
+la ville et faites connaissance avec
+vos nouveaux voisins !
+&#xE;&#x3;&#x0;&#x0;Cependant,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; si le moindre aspect
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; vous laisse perplexe,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+ou si vous ne savez plus quoi faire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+... je me tiens à votre disposition à
+la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mairie &#xE;&#x0;&#x3;&#x2;ÿÿpour vous donner des
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;conseils pratiques sur la vie locale&#xE;&#x0;&#x3;&#x2;ÿÿ.
+&#xE;&#x3; &#x0;Sur ce, permettez-moi de vous
+féliciter encore pour tout ce que
+vous avez déjà accompli !</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Je dois retourner à la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mairie&#xE;&#x0;&#x3;&#x2;ÿÿ
+maintenant, d'autres tâches
+m'attendent&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;De votre côté, visitez donc un peu
+la ville et faites connaissance avec
+vos nouveaux voisins !
+&#xE;&#x3;&#x0;&#x0;Cependant,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; si le moindre aspect
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; vous laisse perplexe,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+ou si vous ne savez plus quoi faire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+... je me tiens à votre disposition à
+la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mairie &#xE;&#x0;&#x3;&#x2;ÿÿpour vous donner des
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;conseils pratiques sur la vie locale&#xE;&#x0;&#x3;&#x2;ÿÿ.
+&#xE;&#x3; &#x0;Sur ce, permettez-moi de vous
+féliciter encore pour tout ce que
+vous avez déjà accompli !</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x4;&#x0;En ce jour glorieux du &#xE;&#x4;&#x2;&#x0;
+&#xE;&#x4;&#x1;&#x0; &#xE;&#x4;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; nous célébrons
+ensemble l'arrivée providentielle...
+... en notre belle ville &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0;,&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+de notre nouveau maire, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0;
+&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;¤&#x1;&#x0;&#x0;</original>
+			<edited>&#xE;&#x7;&#x4;&#x0;En ce jour glorieux du &#xE;&#x4;&#x2;&#x0;
+&#xE;&#x4;&#x1;&#x0; &#xE;&#x4;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; nous célébrons
+ensemble l'arrivée providentielle...
+... en notre belle ville &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0;,&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+de notre nouveau maire, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0;
+&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x7;	&#x4;¤&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0; ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Qu'y a-t-il ?&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0;
+Appuyez sur &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; pour planter l'arbre !</original>
+			<edited>&#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; &#xE;&#x5;&#x0;&#x0; ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Qu'y a-t-il ?&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0;
+Appuyez sur &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; pour planter l'arbre !</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>Hmmm, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;eh bien voilà&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;L'arbre est planté et notre ville
+prend un nouvel essor !&#xE;&#x0;&#x4;&#x0;Profitez du reste de la journée pour
+vous reposer, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !</original>
+			<edited>Hmmm, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;eh bien voilà&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;L'arbre est planté et notre ville
+prend un nouvel essor !&#xE;&#x0;&#x4;&#x0;Profitez du reste de la journée pour
+vous reposer, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

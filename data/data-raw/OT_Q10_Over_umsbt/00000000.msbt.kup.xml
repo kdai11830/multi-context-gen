@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you found me! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;But wait.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Time's up, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;isn't it?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;In that case, I guess you lose,
+&#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you found me! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;But wait.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Time's up, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;isn't it?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;In that case, I guess you lose,
+&#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;You found me? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;	&#x0;Well, I'm sorry to
+break the news to you,
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Time's up already, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;so that means.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;we're the winners!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;You found me? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;	&#x0;Well, I'm sorry to
+break the news to you,
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Time's up already, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;so that means.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;we're the winners!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;No, no, no! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You got me! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x17;&#x0;Hold on.
+Are we over the time limit?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;What luck! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;We are! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I guess that
+means.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you lose, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;No, no, no! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You got me! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x17;&#x0;Hold on.
+Are we over the time limit?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;What luck! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;We are! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I guess that
+means.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;you lose, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

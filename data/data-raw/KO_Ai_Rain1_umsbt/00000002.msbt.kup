@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#xF;&#x0;&#x11;&#x0;Í</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#xF;&#x0;&#x11;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#x10;&#x0;&#x12;&#x0;Í</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#x10;&#x0;&#x12;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Salut, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#xF;&#x0;&#x13;&#x0;Í</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Salut, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#xF;&#x0;&#x13;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#x10;&#x0;&#x14;&#x0;Í</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#x10;&#x0;&#x14;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Yo, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#xF;&#x0;&#x15;&#x0;Í</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Yo, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#xF;&#x0;&#x15;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Salut, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#x10;&#x0;&#x16;&#x0;Í</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Salut, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#x10;&#x0;&#x16;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#xB;&#x6;&#x10;&#x19;&#x0;&#x17;&#x0;Í</original>
+			<edited>&#xE;
+&#xB;&#x6;&#x10;&#x19;&#x0;&#x17;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Yo, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#x10;&#x0;&#x18;&#x0;Í</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Yo, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;
+&#xB;&#x6;&#x10;&#x10;&#x0;&#x18;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#xB;&#x6;&#x10;&#x1C;&#x0;&#x1A;&#x0;Í</original>
+			<edited>&#xE;
+&#xB;&#x6;&#x10;&#x1C;&#x0;&#x1A;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#xB;&#x6;&#x10;&#x1D;&#x0;&#x1B;&#x0;Í</original>
+			<edited>&#xE;
+&#xB;&#x6;&#x10;&#x1D;&#x0;&#x1B;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;À vue de nez, je dirais que tu es du
+genre à sauter à pieds joints dans
+les flaques d'eau...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Avoue-le que tu aimes la pluie. Il
+faut de tout pour faire un monde,
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;À vue de nez, je dirais que tu es du
+genre à sauter à pieds joints dans
+les flaques d'eau...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Avoue-le que tu aimes la pluie. Il
+faut de tout pour faire un monde,
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Quand il pleut sur &#xE;&#x5;&#x5;&#x0;, il
+pleut aussi sur moi.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Et comment
+dire... j'aime pas ça. &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Quand il pleut sur &#xE;&#x5;&#x5;&#x0;, il
+pleut aussi sur moi.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Et comment
+dire... j'aime pas ça. &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Qu'il pleuve des cordes&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ou des
+spaghettis, je suis sûr que ça t'est
+totalement égal, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Qu'il pleuve des cordes&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ou des
+spaghettis, je suis sûr que ça t'est
+totalement égal, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;La pluie, c'est du bonheur à l'état
+liquide&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça te rafraîchit à
+l'extérieur, et te purifie à l'intérieur.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;C'est simple, ça me donne envie de
+chanter ! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;La pluie, c'est du bonheur à l'état
+liquide&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça te rafraîchit à
+l'extérieur, et te purifie à l'intérieur.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;C'est simple, ça me donne envie de
+chanter ! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Cette pluie, ça me revigore !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Par
+contre toi, sans vouloir te vexer, ça
+n'a pas l'air de te réussir.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Après tout, les goûts et les
+couleurs, ça ne se discute pas !
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Cette pluie, ça me revigore !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Par
+contre toi, sans vouloir te vexer, ça
+n'a pas l'air de te réussir.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Après tout, les goûts et les
+couleurs, ça ne se discute pas !
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;C'est bien ma veine !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Je décide de
+me lever tôt et hop ! Il se met à
+pleuvoir...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pfff, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;C'est bien ma veine !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Je décide de
+me lever tôt et hop ! Il se met à
+pleuvoir...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pfff, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Se recevoir des seaux d'eau sur la
+tête dès le matin...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Le réveil idéal,
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Se recevoir des seaux d'eau sur la
+tête dès le matin...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Le réveil idéal,
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>Bon, ben faut pas demander...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;(&#x0; Il va
+encore pleuvoir toute la journée.
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>Bon, ben faut pas demander...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;(&#x0; Il va
+encore pleuvoir toute la journée.
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Quand le baromètre s'arrête sur
+« pluie », mon humeur se bloque sur
+« exécrable »... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Quand le baromètre s'arrête sur
+« pluie », mon humeur se bloque sur
+« exécrable »... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Le sol est glissant...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Je surveille, au
+cas où quelqu'un ferait un petit vol
+plané, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>Le sol est glissant...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Je surveille, au
+cas où quelqu'un ferait un petit vol
+plané, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;Il fait nuit, il pleut&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x0;&#x0;Tu m'expliques
+ce qu'on fait encore dehors, toi et
+moi, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ?!</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;Il fait nuit, il pleut&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x0;&#x0;Tu m'expliques
+ce qu'on fait encore dehors, toi et
+moi, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;Ouah ! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;On n'a pas idée de se promener
+sous la pluie au beau milieu de la
+nuit ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;Ouah ! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;On n'a pas idée de se promener
+sous la pluie au beau milieu de la
+nuit ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Alors... Primo, il pleut. Deuzio, il fait
+nuit.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; Tope là, &#xE;&#xE;&#x6;$&#x12;&#x0;m&#x0;o&#x0;n&#x0; &#x0;f&#x0;r&#x0;è&#x0;r&#x0;e&#x0;&#xE;&#x0;m&#x0;a&#x0; &#x0;s&#x0;S&#x1;u&#x0;r&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;Il y a vraiment que deux hurluberlus
+comme nous pour se balader dans
+ces conditions, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Alors... Primo, il pleut. Deuzio, il fait
+nuit.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; Tope là, &#xE;&#xE;&#x6;$&#x12;&#x0;m&#x0;o&#x0;n&#x0; &#x0;f&#x0;r&#x0;è&#x0;r&#x0;e&#x0;&#xE;&#x0;m&#x0;a&#x0; &#x0;s&#x0;S&#x1;u&#x0;r&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;Il y a vraiment que deux hurluberlus
+comme nous pour se balader dans
+ces conditions, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Si j'aime la pluie ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x3;&#x0;Je préfère
+encore ça&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; à la nourriture, et c'est
+pas peu dire, &#xE;&#x5;&#x7;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Je peux rester dessous pendant des
+heures ! Et puis au moins, avec la
+pluie, pas besoin de mâcher !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Si j'aime la pluie ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x3;&#x0;Je préfère
+encore ça&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; à la nourriture, et c'est
+pas peu dire, &#xE;&#x5;&#x7;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Je peux rester dessous pendant des
+heures ! Et puis au moins, avec la
+pluie, pas besoin de mâcher !</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;Ohhh, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;si seulement il pouvait arrêter
+de pleuvoir un peu.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Je t'envie, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Tu gambades
+à travers la ville &#xE;&#x3;&#x1;&#x0;comme si de rien
+n'était, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;
+&#x0;Ohhh, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;si seulement il pouvait arrêter
+de pleuvoir un peu.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Je t'envie, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Tu gambades
+à travers la ville &#xE;&#x3;&#x1;&#x0;comme si de rien
+n'était, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0; Quand je te vois
+folâtrer sous la pluie... &#xE;&#x3;&#x6;&#x0;Ça
+m'énerve !
+&#xE;&#x3;&#xF;&#x0;Tu ne vas quand même pas me
+dire...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; que tu aimes ce temps ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Ah&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Chacun son truc,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0; Quand je te vois
+folâtrer sous la pluie... &#xE;&#x3;&#x6;&#x0;Ça
+m'énerve !
+&#xE;&#x3;&#xF;&#x0;Tu ne vas quand même pas me
+dire...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; que tu aimes ce temps ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Ah&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Chacun son truc,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;On a été gâtés aujourd'hui,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; la pluie
+n'a pas arrêté une seconde !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Je sais que tout le monde n'aime
+pas, mais toi je sens que tu me
+comprends. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;On a été gâtés aujourd'hui,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; la pluie
+n'a pas arrêté une seconde !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Je sais que tout le monde n'aime
+pas, mais toi je sens que tu me
+comprends. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Pourquoi est-ce qu'il ne pleut pas
+comme ça TOUS les jours ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Pourquoi est-ce qu'il ne pleut pas
+comme ça TOUS les jours ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x2;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

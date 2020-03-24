@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, good morning, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Cold today, isn't it, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, good morning, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Cold today, isn't it, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, hello there, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Bit chilly out!</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, hello there, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Bit chilly out!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;Brrrr! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Good day for a nice cup of
+&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;if you like it
+heated up of course, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;Brrrr! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Good day for a nice cup of
+&#xE;&#x5;&#xE;&#x2;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;if you like it
+heated up of course, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, hi there, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Liking this snow today?</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, hi there, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Liking this snow today?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hey, good to see you, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+This snow is really pretty, right?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Yeah, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;for sure, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Hey, good to see you, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+This snow is really pretty, right?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Yeah, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;for sure, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, good evening there, friend&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Liking our town on a wintry, chilly
+evening, &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, good evening there, friend&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Liking our town on a wintry, chilly
+evening, &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;Gah! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Snowman attack! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x17;&#x0;Wait—&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;what?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Is that &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I had a
+snowflake in my eye, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;Gah! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Snowman attack! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x17;&#x0;Wait—&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;what?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Is that &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I had a
+snowflake in my eye, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, late night, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Going to be outside for a while?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;Stay bundled up, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hey, late night, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Going to be outside for a while?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;Stay bundled up, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

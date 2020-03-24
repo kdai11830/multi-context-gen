@@ -1,0 +1,8 @@
+GE Q08 Reserve $ENTITY I'm busy until ... , but anytime after that is good. What time should I come over?
+GE Q08 Reserve $ENTITY I'm busy until $ENTITY :30... , but I'm free after that. $ENTITY What time do you want me over?
+GE Q08 Reserve $ENTITY Wow, when did it get so late? It's already past ... I'll come over to your house another time, OK?
+GE Q08 Reserve $ENTITY What? You don't want to do this?... OK, we'll do it some other day then, $ENTITY .
+GE Q08 Reserve Hey, that's just TOO soon for me.... Mind picking something that's later than that, $ENTITY ?
+GE Q08 Reserve $ENTITY I'll drop by at ... , OK? $ENTITY See ya later, $ENTITY !
+GE Q08 Reserve $ENTITY OK, I promise to stop by at ... , all right? See you then, $ENTITY !
+GE Q08 Reserve Hmm... It's not easy for me to stay up that late. $ENTITY Can you pick an earlier time, $ENTITY ?

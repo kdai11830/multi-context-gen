@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;gimme the usual!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;gimme the usual!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Yo, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+The usual!</original>
+			<edited>&#xE;&#x3; &#x0;Yo, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+The usual!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;And make it a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Blue Mountain&#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;And make it a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Blue Mountain&#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;And make it a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mocha&#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;And make it a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;mocha&#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;And make it a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Kilimanjaro&#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;And make it a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Kilimanjaro&#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;And make it a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;blend&#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;And make it a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;blend&#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;lotta &#xE;&#x0;&#x3;&#x2;ÿÿmilk!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;lotta &#xE;&#x0;&#x3;&#x2;ÿÿmilk!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;regular amount&#xE;&#x0;&#x3;&#x2;ÿÿ of milk!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;regular amount&#xE;&#x0;&#x3;&#x2;ÿÿ of milk!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;just a bit&#xE;&#x0;&#x3;&#x2;ÿÿ of milk!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;just a bit&#xE;&#x0;&#x3;&#x2;ÿÿ of milk!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;no&#xE;&#x0;&#x3;&#x2;ÿÿ milk!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;no&#xE;&#x0;&#x3;&#x2;ÿÿ milk!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3&#xE;&#x0;&#x3;&#x2;ÿÿ sugars!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3&#xE;&#x0;&#x3;&#x2;ÿÿ sugars!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;2&#xE;&#x0;&#x3;&#x2;ÿÿ sugars!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;2&#xE;&#x0;&#x3;&#x2;ÿÿ sugars!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1&#xE;&#x0;&#x3;&#x2;ÿÿ sugar!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1&#xE;&#x0;&#x3;&#x2;ÿÿ sugar!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;no&#xE;&#x0;&#x3;&#x2;ÿÿ sugar!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Gimme a coffee!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;With &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;no&#xE;&#x0;&#x3;&#x2;ÿÿ sugar!</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;here we go&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;here we go&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Here it is&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Here it is&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ohh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;come to daddy&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Ohh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;come to daddy&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Whoa! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;That smells crazy delicious!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x15;&#x0;Seriously, &#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;this is good stuff!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Good work, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;Thanks!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I'll be back!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Whoa! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;That smells crazy delicious!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x15;&#x0;Seriously, &#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;this is good stuff!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Good work, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;Thanks!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I'll be back!</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Whoa! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;That's good!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Just the way I like it!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#xE;&#x0;You know, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;I wouldn't have thought
+you could make such good coffee!&#xE;&#x0;&#x4;&#x0;I'll be coming here again!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Whoa! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;That's good!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Just the way I like it!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#xE;&#x0;You know, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;I wouldn't have thought
+you could make such good coffee!&#xE;&#x0;&#x4;&#x0;I'll be coming here again!</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Whoa! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;That's good stuff!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x1;&#x0;You know, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;you make a
+fine cup of joe!
+&#xE;&#x3;#&#x0;In fact, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you may have even
+surpassed &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Brewster&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Or is that overdoing it?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;GAHAHA!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+All right, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;see you later!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+And thanks!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Whoa! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;That's good stuff!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x1;&#x0;You know, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;you make a
+fine cup of joe!
+&#xE;&#x3;#&#x0;In fact, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;you may have even
+surpassed &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Brewster&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#xD;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Or is that overdoing it?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;GAHAHA!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+All right, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;see you later!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+And thanks!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;this isn't bad.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;But it would've
+been better if you'd used the right
+kind of &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;coffee beans&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&amp;&#x0;But hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;not bad for a part-timer!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I'll be back!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;this isn't bad.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;But it would've
+been better if you'd used the right
+kind of &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;coffee beans&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&amp;&#x0;But hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;not bad for a part-timer!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I'll be back!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;this isn't bad.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;But you should
+have used the right &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;amount of milk&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;But hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;not bad for a part-timer!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I'll be back!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;this isn't bad.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;But you should
+have used the right &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;amount of milk&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;But hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;not bad for a part-timer!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I'll be back!</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;this isn't bad.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;But you used
+the wrong &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;amount of sugar&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;But hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;not bad for a part-timer!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I'll be back!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Yeah, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;this isn't bad.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;But you used
+the wrong &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;amount of sugar&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;But hey, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;not bad for a part-timer!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I'll be back!</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;This just isn't gonna cut it.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Well, actually, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I think the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;coffee
+beans &#xE;&#x0;&#x3;&#x2;ÿÿare probably OK.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's the rest
+of it that's so lackluster.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;I'm expecting good things from you
+in the future, though!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll see ya again sometime!</original>
+			<edited>Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;This just isn't gonna cut it.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Well, actually, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;I think the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;coffee
+beans &#xE;&#x0;&#x3;&#x2;ÿÿare probably OK.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's the rest
+of it that's so lackluster.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;I'm expecting good things from you
+in the future, though!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll see ya again sometime!</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;Nope, that's not quite
+what I was looking for.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I mean,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; this is the right &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;amount of
+milk&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; but everything else seems
+off.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; You'll do better next time!
+&#xE;&#x3;&#x1;&#x0;Anyway,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll see you later!</original>
+			<edited>Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;Nope, that's not quite
+what I was looking for.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I mean,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; this is the right &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;amount of
+milk&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; but everything else seems
+off.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; You'll do better next time!
+&#xE;&#x3;&#x1;&#x0;Anyway,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll see you later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;Nope, that's not quite
+what I was looking for.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I mean,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; this is the right &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;amount of
+sugar&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; but everything else seems
+off.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; You'll do better next time!
+&#xE;&#x3;&#x1;&#x0;Anyway,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll see you later!</original>
+			<edited>Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;Nope, that's not quite
+what I was looking for.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I mean,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; this is the right &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;amount of
+sugar&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; but everything else seems
+off.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; You'll do better next time!
+&#xE;&#x3;&#x1;&#x0;Anyway,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'll see you later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;BLEH!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Sorry, sorry.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I thought
+I was going to drop my coffee!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;I never expected something so
+different from the cup I thought
+I'd ordered!
+&#xE;&#x3;&#x1;&#x0;I suppose it's not easy to master
+the secret world of coffee.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Don't give up! You can do it!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;BLEH!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Sorry, sorry.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I thought
+I was going to drop my coffee!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;I never expected something so
+different from the cup I thought
+I'd ordered!
+&#xE;&#x3;&#x1;&#x0;I suppose it's not easy to master
+the secret world of coffee.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Don't give up! You can do it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Well, what do we have here? This is
+superb!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x1;&#x0;I'm gonna have to keep my
+eyes on &#xE;&#x5;&#x5;&#x0;'s café!
+I'll be by again sometime!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Thanks!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Well, what do we have here? This is
+superb!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x1;&#x0;I'm gonna have to keep my
+eyes on &#xE;&#x5;&#x5;&#x0;'s café!
+I'll be by again sometime!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Thanks!</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; This is fantastic!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x0;&#x0;I heard there was a legendary
+barista at the café in &#xE;&#x5;&#x5;&#x0;,
+but were they talking about you?&#xE;&#x7;&#xD;&#x0;
+&#xE;&#x3;&#x1;&#x0;You really made an awesome drink.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+I'll be back again!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; This is fantastic!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x0;&#x0;I heard there was a legendary
+barista at the café in &#xE;&#x5;&#x5;&#x0;,
+but were they talking about you?&#xE;&#x7;&#xD;&#x0;
+&#xE;&#x3;&#x1;&#x0;You really made an awesome drink.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+I'll be back again!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And put &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;a lotta&#xE;&#x0;&#x3;&#x2;ÿÿ milk in it!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And put &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;a lotta&#xE;&#x0;&#x3;&#x2;ÿÿ milk in it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And put the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;regular amount
+&#xE;&#x0;&#x3;&#x2;ÿÿof milk in it!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And put the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;regular amount
+&#xE;&#x0;&#x3;&#x2;ÿÿof milk in it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And put &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;just a bit&#xE;&#x0;&#x3;&#x2;ÿÿ of milk in it!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And put &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;just a bit&#xE;&#x0;&#x3;&#x2;ÿÿ of milk in it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;no&#xE;&#x0;&#x3;&#x2;ÿÿ milk!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;no&#xE;&#x0;&#x3;&#x2;ÿÿ milk!</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And I take &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3&#xE;&#x0;&#x3;&#x2;ÿÿ sugars!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And I take &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;3&#xE;&#x0;&#x3;&#x2;ÿÿ sugars!</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And I take &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;2&#xE;&#x0;&#x3;&#x2;ÿÿ sugars!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And I take &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;2&#xE;&#x0;&#x3;&#x2;ÿÿ sugars!</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And I take &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1&#xE;&#x0;&#x3;&#x2;ÿÿ sugar!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And I take &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1&#xE;&#x0;&#x3;&#x2;ÿÿ sugar!</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;And &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;no&#xE;&#x0;&#x3;&#x2;ÿÿ sugar!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;And &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;no&#xE;&#x0;&#x3;&#x2;ÿÿ sugar!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

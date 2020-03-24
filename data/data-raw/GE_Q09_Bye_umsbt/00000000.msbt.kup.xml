@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Come over again sometime,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Come over again sometime,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hopefully we can do this again
+sometime!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hopefully we can do this again
+sometime!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;This was fun! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Thanks for coming
+over, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;This was fun! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Thanks for coming
+over, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Going home already?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;We should talk a bit first!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Going home already?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;We should talk a bit first!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You just got here! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0;I wanted
+to talk to you about my place!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You just got here! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0;I wanted
+to talk to you about my place!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Hold on there! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;I mean, stay awhile!
+We should talk. At least a little?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Hold on there! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;I mean, stay awhile!
+We should talk. At least a little?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

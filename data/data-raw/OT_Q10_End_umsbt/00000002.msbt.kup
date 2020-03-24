@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;Même si j'ai perdu, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;je suis contente
+d'avoir joué, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je me suis
+bien amusée.</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;Même si j'ai perdu, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;je suis contente
+d'avoir joué, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je me suis
+bien amusée.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;J'avoue que j'adore jouer à
+cache-cache, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;C'est si
+amusant quel que soit le gagnant !</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;J'avoue que j'adore jouer à
+cache-cache, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;C'est si
+amusant quel que soit le gagnant !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Parfois on gagne,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; parfois on perd,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+mais on s'amuse toujours quand on
+joue à cache-cache, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Parfois on gagne,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; parfois on perd,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+mais on s'amuse toujours quand on
+joue à cache-cache, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

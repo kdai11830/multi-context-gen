@@ -1,0 +1,733 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Il n'y a rien à acheter aujourd'hui ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x7;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Et comment je vais dépenser mes
+clochettes moi, alors ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Hein ?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Il n'y a rien à acheter aujourd'hui ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x7;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Et comment je vais dépenser mes
+clochettes moi, alors ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Hein ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Comment ?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Il n'y a rien à acheter
+aujourd'hui ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x7;&#x0;On est bien dans une
+boutique, oui ou non ?</original>
+			<edited>&#xE;&#x3;	&#x0;Comment ?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Il n'y a rien à acheter
+aujourd'hui ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;&#x7;&#x0;On est bien dans une
+boutique, oui ou non ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Quelle surprise&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Toujours rien à
+acheter ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; J'ai vraiment l'impression
+qu'on se moque de moi, ici.&#xE;&#x3;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Pfff !</original>
+			<edited>&#xE;&#x3;	&#x0;Quelle surprise&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Toujours rien à
+acheter ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; J'ai vraiment l'impression
+qu'on se moque de moi, ici.&#xE;&#x3;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Pfff !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Il n'y a plus qu'un seul article&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0; Ce
+qui en fait un collector ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Si tu ne
+l'achète pas, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;moi je le prends !</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Il n'y a plus qu'un seul article&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0; Ce
+qui en fait un collector ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Si tu ne
+l'achète pas, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;moi je le prends !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Ooh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Il ne reste plus qu'un seul
+article en vente&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+C'est un signe ! je dois l'acheter !
+&#xE;&#x3;
+&#x0;Pfff ! Pfff !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je respire
+profondément... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Pfff ! Pfff ! Je me
+calme... Pfff ! Pfff !
+Calme-toi...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Rationalise, ma grande.
+&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;As-tu vraiment besoin d'acheter cet
+objet ? &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;OUI !!!</original>
+			<edited>&#xE;&#x3;	&#x0;Ooh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Il ne reste plus qu'un seul
+article en vente&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+C'est un signe ! je dois l'acheter !
+&#xE;&#x3;
+&#x0;Pfff ! Pfff !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je respire
+profondément... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Pfff ! Pfff ! Je me
+calme... Pfff ! Pfff !
+Calme-toi...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Rationalise, ma grande.
+&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;As-tu vraiment besoin d'acheter cet
+objet ? &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;OUI !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Ce n'est pas que cet objet me plaise
+vraiment, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;mais c'est le seul en
+vente&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Et j'ai BESOIN d'acheter quelque
+chose !</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Ce n'est pas que cet objet me plaise
+vraiment, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;mais c'est le seul en
+vente&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Et j'ai BESOIN d'acheter quelque
+chose !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Recule-toi un peu et observe une
+pro en action,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;J'ai un
+doctorat en shopping !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Recule-toi un peu et observe une
+pro en action,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; &#xE;&#x3;&#x2;&#x0;J'ai un
+doctorat en shopping !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Bien. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Il y a des objets en vente
+aujourd'hui.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1D;&#x0;Passons aux choses
+sérieuses, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>Bien. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Il y a des objets en vente
+aujourd'hui.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1D;&#x0;Passons aux choses
+sérieuses, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1C;&#x0;Alors je vais acheter ça, et ça, et
+puis ça aussi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1C;&#x0;Alors je vais acheter ça, et ça, et
+puis ça aussi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Il y a du choix pour une fois ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je ne
+sais même pas par quoi commencer,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Il y a du choix pour une fois ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je ne
+sais même pas par quoi commencer,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Oh ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Il y a du choix aujourd'hui... &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Et
+je n'ai pas de quoi tout acheter. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Il
+va falloir en laisser, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;zut !</original>
+			<edited>&#xE;&#x3;%&#x0;Oh ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Il y a du choix aujourd'hui... &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Et
+je n'ai pas de quoi tout acheter. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Il
+va falloir en laisser, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;zut !</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;N'est-ce pas magnifique,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0; ? N'est-il pas magnifique
+de voir tous ces articles en vente ?
+&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Que c'est beau !</original>
+			<edited>&#xE;&#x3;%&#x0;N'est-ce pas magnifique,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0; ? N'est-il pas magnifique
+de voir tous ces articles en vente ?
+&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Que c'est beau !</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je n'aime pas vraiment l'idée que
+ces objets d'occasion soient déjà
+passés entre plusieurs pattes.
+&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Mais j'aime me dire que ces choses
+ont fait du chemin pour finalement
+trouver leur véritable propriétaire.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je n'aime pas vraiment l'idée que
+ces objets d'occasion soient déjà
+passés entre plusieurs pattes.
+&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Mais j'aime me dire que ces choses
+ont fait du chemin pour finalement
+trouver leur véritable propriétaire.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Si tu es venu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; vendre un objet,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+j'espère que tu n'y attachais pas
+une valeur sentimentale.
+&#xE;&#x3;&#xE;&#x0;Je trouve cela si triste que certains
+soient obligés de vendre leurs
+souvenirs pour quelques clochettes.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Si tu es venu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; vendre un objet,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+j'espère que tu n'y attachais pas
+une valeur sentimentale.
+&#xE;&#x3;&#xE;&#x0;Je trouve cela si triste que certains
+soient obligés de vendre leurs
+souvenirs pour quelques clochettes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;C'est la personne qui met un objet
+en vente qui décide de son prix.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Alors parfois on peut faire une
+bonne, voire une excellente affaire,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;et parfois le prix est surestimé. </original>
+			<edited>&#xE;&#x3;$&#x0;C'est la personne qui met un objet
+en vente qui décide de son prix.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Alors parfois on peut faire une
+bonne, voire une excellente affaire,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;et parfois le prix est surestimé. </edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;J'adore venir chiner dans les
+boutiques d'objets d'occasion.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;On y trouve parfois de véritables
+trésors,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;J'adore venir chiner dans les
+boutiques d'objets d'occasion.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;On y trouve parfois de véritables
+trésors,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>Connais-tu la meilleure thérapie
+anti-stress ? &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x4;&#x0;Le shopping !</original>
+			<edited>Connais-tu la meilleure thérapie
+anti-stress ? &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x4;&#x0;Le shopping !</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;Ça y est.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai recommencé.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Je suis
+venue ici pour vendre et&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; et je n'ai
+pas pu m'empêcher d'acheter.
+Il va falloir que je pense à faire
+agrandir ma maison, si cela
+continue...</original>
+			<edited>&#xE;&#x3;
+&#x0;Ça y est.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai recommencé.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Je suis
+venue ici pour vendre et&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; et je n'ai
+pas pu m'empêcher d'acheter.
+Il va falloir que je pense à faire
+agrandir ma maison, si cela
+continue...</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oups... &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je crois que je viens de faire
+une grosse bêtise...</original>
+			<edited>&#xE;&#x3;	&#x0;Oups... &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je crois que je viens de faire
+une grosse bêtise...</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Le shopping est le meilleur remède
+anti-stress que je connaisse.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça me
+fait vraiment du bien.
+&#xE;&#x3;&#x2;&#x0;Même mon médecin l'a remarqué, et
+c'est lui qui m'encourage
+maintenant à venir ici tous les jours.</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Le shopping est le meilleur remède
+anti-stress que je connaisse.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça me
+fait vraiment du bien.
+&#xE;&#x3;&#x2;&#x0;Même mon médecin l'a remarqué, et
+c'est lui qui m'encourage
+maintenant à venir ici tous les jours.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je vois que c'est
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; qui
+t'appartient qui est proposé&#xE;&#xE;&#x8;
+&#x0;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x0;&#x0; ici...
+&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Tu m'assures que c'est une bonne
+affaire ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Une excellente affaire.
+Euh... À vrai dire...</original>
+			<edited>Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je vois que c'est
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; qui
+t'appartient qui est proposé&#xE;&#xE;&#x8;
+&#x0;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x0;&#x0; ici...
+&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Tu m'assures que c'est une bonne
+affaire ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Une excellente affaire.
+Euh... À vrai dire...</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1F;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; me
+fait tellement envie !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; C'est à toi ?
+&#xE;&#x3;%&#x0;Puisque tu es là, autant te le
+demander, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;. Comment
+as-tu estimé son prix ?
+&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;C'est une bonne affaire ou non ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Plutôt, oui !
+Pas vraiment, non.</original>
+			<edited>&#xE;&#x3;&#x1F;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; me
+fait tellement envie !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; C'est à toi ?
+&#xE;&#x3;%&#x0;Puisque tu es là, autant te le
+demander, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;. Comment
+as-tu estimé son prix ?
+&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;C'est une bonne affaire ou non ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Plutôt, oui !
+Pas vraiment, non.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;J'ai du nez pour flairer les bonnes
+affaires, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu sais.&#xE;&#x0;&#x4;&#x0;Et &#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; en
+est une. Cela ne fait aucun doute.
+J'avoue que je suis tentée.
+C'est à toi, &#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; Que me
+conseillerais-tu ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Je l'achète, ou je
+ne l'achète pas ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Achète !
+C'est pas une affaire.</original>
+			<edited>&#xE;&#x3;%&#x0;J'ai du nez pour flairer les bonnes
+affaires, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu sais.&#xE;&#x0;&#x4;&#x0;Et &#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; en
+est une. Cela ne fait aucun doute.
+J'avoue que je suis tentée.
+C'est à toi, &#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; Que me
+conseillerais-tu ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Je l'achète, ou je
+ne l'achète pas ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Achète !
+C'est pas une affaire.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;C'est vrai ? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; merci pour cet avis
+éclairé... &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;Et moi qui me voyais déjà
+l'emmener chez moi...&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Grâce à toi, je vais pouvoir
+dépenser mes clochettes à meilleur
+escient.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;Tu es vraiment formidable,
+&#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;C'est vrai ? &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; merci pour cet avis
+éclairé... &#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;Et moi qui me voyais déjà
+l'emmener chez moi...&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Grâce à toi, je vais pouvoir
+dépenser mes clochettes à meilleur
+escient.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;Tu es vraiment formidable,
+&#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Parfait !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; C'est exactement ce que je
+voulais entendre ! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Parfait !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; C'est exactement ce que je
+voulais entendre ! &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;Parfait ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;J'espérais que tu dirais
+cela.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Finissons-en.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0; J'ai d'autres
+bonnes affaires à faire aujourd'hui !</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;Parfait ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;J'espérais que tu dirais
+cela.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Finissons-en.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0; J'ai d'autres
+bonnes affaires à faire aujourd'hui !</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Risette&#xE;&#x0;&#x3;&#x2;ÿÿ, pourrais-tu venir ici un
+instant s'il te plaît ? &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Risette&#xE;&#x0;&#x3;&#x2;ÿÿ, pourrais-tu venir ici un
+instant s'il te plaît ? &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;Et si je te payais directement
+plutôt ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu acceptes les règlements
+en clochettes ? &#xE;&#x3;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Hi hi !</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;Et si je te payais directement
+plutôt ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu acceptes les règlements
+en clochettes ? &#xE;&#x3;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Si j'étais riche,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je n'hésiterais pas
+un instant à l'acheter !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x8;2&#x0;Í&#x14;&#x0;U&#x0;n&#x0; &#x0;s&#x0;u&#x0;p&#x0;e&#x0;r&#x0;b&#x0;e&#x0;&#x16;&#x0;U&#x0;n&#x0;e&#x0; &#x0;s&#x0;u&#x0;p&#x0;e&#x0;r&#x0;b&#x0;e&#x0;&#x0;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; comme ça !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Mais je dois faire attention à mes
+dépenses, alors&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Que me conseilles-
+tu ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;J'achète ou je n'achète pas ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Achète !
+Garde ton argent.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Si j'étais riche,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je n'hésiterais pas
+un instant à l'acheter !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x8;2&#x0;Í&#x14;&#x0;U&#x0;n&#x0; &#x0;s&#x0;u&#x0;p&#x0;e&#x0;r&#x0;b&#x0;e&#x0;&#x16;&#x0;U&#x0;n&#x0;e&#x0; &#x0;s&#x0;u&#x0;p&#x0;e&#x0;r&#x0;b&#x0;e&#x0;&#x0;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; comme ça !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Mais je dois faire attention à mes
+dépenses, alors&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Que me conseilles-
+tu ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;J'achète ou je n'achète pas ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Achète !
+Garde ton argent.</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>C'est véritablement &#xE;&#xE;&#x8;&lt;&#x0;Í&#x18;&#x0;u&#x0;n&#x0; &#x0;t&#x0;r&#x0;è&#x0;s&#x0; &#x0;j&#x0;o&#x0;l&#x0;i&#x0;&#x1C;&#x0;u&#x0;n&#x0;e&#x0; &#x0;t&#x0;r&#x0;è&#x0;s&#x0; &#x0;b&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Mais c'est
+un peu cher, tout de même...&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Mais non ! Achète !
+Tu as raison. Tant pis.</original>
+			<edited>C'est véritablement &#xE;&#xE;&#x8;&lt;&#x0;Í&#x18;&#x0;u&#x0;n&#x0; &#x0;t&#x0;r&#x0;è&#x0;s&#x0; &#x0;j&#x0;o&#x0;l&#x0;i&#x0;&#x1C;&#x0;u&#x0;n&#x0;e&#x0; &#x0;t&#x0;r&#x0;è&#x0;s&#x0; &#x0;b&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Mais c'est
+un peu cher, tout de même...&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Mais non ! Achète !
+Tu as raison. Tant pis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Justement, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;je cherchais
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Mais
+je me demande si le prix est bon...&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui, c'est le prix.
+Non, c'est cher.</original>
+			<edited>&#xE;&#x3;	&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Justement, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;je cherchais
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Mais
+je me demande si le prix est bon...&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Oui, c'est le prix.
+Non, c'est cher.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;J'apprécie ta franchise,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Mais permets-moi de mettre en
+doute tes talents de vendeur !</original>
+			<edited>&#xE;&#x3;$&#x0;J'apprécie ta franchise,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Mais permets-moi de mettre en
+doute tes talents de vendeur !</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Tu sais te montrer très persuasi&#xE;&#xE;&#x6;
+&#x2;&#x0;f&#x0;&#x4;&#x0;v&#x0;e&#x0;,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; mais pour une fois, je
+me contenterai de regarder.</original>
+			<edited>&#xE;&#x3;	&#x0;Tu sais te montrer très persuasi&#xE;&#xE;&#x6;
+&#x2;&#x0;f&#x0;&#x4;&#x0;v&#x0;e&#x0;,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; mais pour une fois, je
+me contenterai de regarder.</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Il y a peu de temps encore, &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;j'aurais
+acheté cet article sans regarder à la
+dépense.
+&#xE;&#x3;(&#x0;Mais maintenant,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je sais exactement
+combien cela vaut vraiment.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Alors
+merci,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; mais sans moi !</original>
+			<edited>&#xE;&#x3;$&#x0;Il y a peu de temps encore, &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;j'aurais
+acheté cet article sans regarder à la
+dépense.
+&#xE;&#x3;(&#x0;Mais maintenant,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je sais exactement
+combien cela vaut vraiment.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Alors
+merci,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; mais sans moi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x7;&#x0;Tu me prends pour un pigeon, ma
+parole !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Ça ne vaut pas ce prix-là,
+et tu le sais très bien d'ailleurs !</original>
+			<edited>&#xE;&#x3;&#x7;&#x0;Tu me prends pour un pigeon, ma
+parole !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Ça ne vaut pas ce prix-là,
+et tu le sais très bien d'ailleurs !</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>Très bien, très bien... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Tu as gagné.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;
+Je l'achète.</original>
+			<edited>Très bien, très bien... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Tu as gagné.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;
+Je l'achète.</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Je n'en voulais pas vraiment, mais
+tu as finalement réussi à me
+convaincre de l'acheter.
+&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Tu ferais &#xE;&#xE;&#x6;Z(&#x0;u&#x0;n&#x0; &#x0;e&#x0;x&#x0;c&#x0;e&#x0;l&#x0;l&#x0;e&#x0;n&#x0;t&#x0; &#x0;v&#x0;e&#x0;n&#x0;d&#x0;e&#x0;u&#x0;r&#x0;.&#x0;u&#x0;n&#x0;e&#x0; &#x0;e&#x0;x&#x0;c&#x0;e&#x0;l&#x0;l&#x0;e&#x0;n&#x0;t&#x0;e&#x0; &#x0;v&#x0;e&#x0;n&#x0;d&#x0;e&#x0;u&#x0;s&#x0;e&#x0;,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;, tu sais...</original>
+			<edited>&#xE;&#x3;%&#x0;Je n'en voulais pas vraiment, mais
+tu as finalement réussi à me
+convaincre de l'acheter.
+&#xE;&#x3;&#x1D;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Tu ferais &#xE;&#xE;&#x6;Z(&#x0;u&#x0;n&#x0; &#x0;e&#x0;x&#x0;c&#x0;e&#x0;l&#x0;l&#x0;e&#x0;n&#x0;t&#x0; &#x0;v&#x0;e&#x0;n&#x0;d&#x0;e&#x0;u&#x0;r&#x0;.&#x0;u&#x0;n&#x0;e&#x0; &#x0;e&#x0;x&#x0;c&#x0;e&#x0;l&#x0;l&#x0;e&#x0;n&#x0;t&#x0;e&#x0; &#x0;v&#x0;e&#x0;n&#x0;d&#x0;e&#x0;u&#x0;s&#x0;e&#x0;,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;, tu sais...</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>Tu sais quoi,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; c'est toi qui as raison.
+&#xE;&#x3;&#x15;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je mérite de l'avoir ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Même si c'est
+un peu cher.
+Après tout,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ce n'est pas tous les
+jours que l'on trouve un objet aussi
+beau.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;Oh, &#xE;&#x5;&#x7;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je suis tellement
+contente !</original>
+			<edited>Tu sais quoi,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; c'est toi qui as raison.
+&#xE;&#x3;&#x15;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je mérite de l'avoir ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Même si c'est
+un peu cher.
+Après tout,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ce n'est pas tous les
+jours que l'on trouve un objet aussi
+beau.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x3;&#x0;Oh, &#xE;&#x5;&#x7;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je suis tellement
+contente !</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Je n'avais jamais vu &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; à un si petit
+prix.
+Seulement &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ...&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Je serais vraiment idiote de ne pas
+l'acheter.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu es sûr&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; pour le prix ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Absolument !
+Attends !</original>
+			<edited>Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Je n'avais jamais vu &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; à un si petit
+prix.
+Seulement &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ...&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Je serais vraiment idiote de ne pas
+l'acheter.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu es sûr&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; pour le prix ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Absolument !
+Attends !</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Je n'imaginais pas un seul
+instant que tu changerais d'avis...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;(&#x0;Je viens de passer à côté d'une
+bonne affaire, on dirait...</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;Oh !&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Je n'imaginais pas un seul
+instant que tu changerais d'avis...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;(&#x0;Je viens de passer à côté d'une
+bonne affaire, on dirait...</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;Non&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Quelque chose ne va pas.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ce
+prix est bien trop bas. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;Essaierais-tu
+de me vendre un objet défectueux ?
+&#xE;&#x3;&#x17;&#x0;Ou alors, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;peut-être que c'est &#xE;&#xE;&#x8;&#x12;&#x0;Í&#x4;&#x0;u&#x0;n&#x0;&#x6;&#x0;u&#x0;n&#x0;e&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x8;&#x1C;&#x0;Í&#x8;&#x0;f&#x0;a&#x0;u&#x0;x&#x0;&#xC;&#x0;f&#x0;a&#x0;u&#x0;s&#x0;s&#x0;e&#x0;&#x0;&#x0; &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+C'est cela ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;J'ai vu juste ?
+&#xE;&#x3;&#x6;&#x0;Bien essayé ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Mais ça ne prend pas
+avec moi !</original>
+			<edited>&#xE;&#x3;(&#x0;Non&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Quelque chose ne va pas.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ce
+prix est bien trop bas. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;Essaierais-tu
+de me vendre un objet défectueux ?
+&#xE;&#x3;&#x17;&#x0;Ou alors, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;peut-être que c'est &#xE;&#xE;&#x8;&#x12;&#x0;Í&#x4;&#x0;u&#x0;n&#x0;&#x6;&#x0;u&#x0;n&#x0;e&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x8;&#x1C;&#x0;Í&#x8;&#x0;f&#x0;a&#x0;u&#x0;x&#x0;&#xC;&#x0;f&#x0;a&#x0;u&#x0;s&#x0;s&#x0;e&#x0;&#x0;&#x0; &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+C'est cela ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;J'ai vu juste ?
+&#xE;&#x3;&#x6;&#x0;Bien essayé ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Mais ça ne prend pas
+avec moi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>Bon. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Parfait !&#xE;&#x3;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Merci &#xE;&#x5;&#x8;&#x0; !
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; va
+donc rejoindre ma collection.</original>
+			<edited>Bon. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Parfait !&#xE;&#x3;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Merci &#xE;&#x5;&#x8;&#x0; !
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; va
+donc rejoindre ma collection.</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;J'hésite&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; est
+vraiment superbe...
+Mais cela fait beaucoup de
+clochettes&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;	&#x0;J'hésite&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; est
+vraiment superbe...
+Mais cela fait beaucoup de
+clochettes&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Je ne comptais pas dépenser autant
+aujourd'hui&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ,
+c'est une somme&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Mais &#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+me fait tellement envie&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, que faire ?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Je ne comptais pas dépenser autant
+aujourd'hui&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ,
+c'est une somme&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+Mais &#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+me fait tellement envie&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, que faire ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Je n'arrive pas à me décider...&#xE;&#x7;&#x0;&#x4;-&#x0;&#x0;&#x0;
+J'achète ou je n'achète pas
+&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?
+&#xE;&#x3;&#x17;&#x0;Qu'en penses-tu,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; dis-moi, &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;que
+ferais-tu à ma place ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+J'achèterais.
+Je n'achèterais pas.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Je n'arrive pas à me décider...&#xE;&#x7;&#x0;&#x4;-&#x0;&#x0;&#x0;
+J'achète ou je n'achète pas
+&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?
+&#xE;&#x3;&#x17;&#x0;Qu'en penses-tu,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; dis-moi, &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;que
+ferais-tu à ma place ?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+J'achèterais.
+Je n'achèterais pas.</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Merci de m'avoir raisonnée. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Sans
+toi,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; j'aurais peut-être acheté toute
+la boutique !
+Tu as mille fois raison&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0; Je devrais
+consacrer mes clochettes à des fins
+plus futiles. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Euh... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Utiles ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Utiles.</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Merci de m'avoir raisonnée. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Sans
+toi,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; j'aurais peut-être acheté toute
+la boutique !
+Tu as mille fois raison&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0; Je devrais
+consacrer mes clochettes à des fins
+plus futiles. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Euh... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Utiles ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Utiles.</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Tu n'es pas de mèche avec la
+vendeuse, au moins ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Tu penses
+vraiment que je devrais l'acheter ?
+&#xE;&#x3;&amp;&#x0;Je plaisantais,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; ! Je suis
+du même avis que toi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Je prends,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Tu n'es pas de mèche avec la
+vendeuse, au moins ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Tu penses
+vraiment que je devrais l'acheter ?
+&#xE;&#x3;&amp;&#x0;Je plaisantais,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; ! Je suis
+du même avis que toi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Je prends,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Son prix est presque trop beau pour
+être honnête.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je me demande s'il
+n'y a pas erreur dans l'étiquetage&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+C'est une affaire !
+Sois prudente.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Son prix est presque trop beau pour
+être honnête.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je me demande s'il
+n'y a pas erreur dans l'étiquetage&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+C'est une affaire !
+Sois prudente.</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Oui, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;je vais suivre ton conseil. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je
+pense qu'il y a soit une erreur, soit
+l'objet a un défaut.&#xE;&#x3;&#x15;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Dommage...</original>
+			<edited>&#xE;&#x3;$&#x0;Oui, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;je vais suivre ton conseil. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je
+pense qu'il y a soit une erreur, soit
+l'objet a un défaut.&#xE;&#x3;&#x15;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Dommage...</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Je ne sais pas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Cela a tout l'air
+d'être une affaire en or, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et tu me
+conseilles d'acheter&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Mais je ne sais pas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Non.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Je ne le
+sens pas.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Je ne sais pas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Cela a tout l'air
+d'être une affaire en or, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et tu me
+conseilles d'acheter&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Mais je ne sais pas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Non.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Je ne le
+sens pas.</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Tu as raison.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Ce n'est pas tous les
+jours qu'on voit passer une si bonne
+affaire.&#xE;&#x3;&amp;&#x0; &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Je prends !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Tu as raison.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Ce n'est pas tous les
+jours qu'on voit passer une si bonne
+affaire.&#xE;&#x3;&amp;&#x0; &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Je prends !</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;Yes ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je crois bien que j'ai fait
+l'affaire du siècle !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;,&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; YES !</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;Yes ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je crois bien que j'ai fait
+l'affaire du siècle !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;,&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; YES !</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Tu as vu la pro à l'œuvre,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; C'est comme cela que
+l'on fait une affaire.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Tu as vu la pro à l'œuvre,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; C'est comme cela que
+l'on fait une affaire.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Je n'y peux rien. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;C'est plus fort que
+moi.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Il faut toujours que je fasse de
+bonnes affaires, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Je n'y peux rien. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;C'est plus fort que
+moi.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Il faut toujours que je fasse de
+bonnes affaires, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Acheter d'occasion c'est aussi un
+geste pour l'environnement, tu sais.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Sans cette boutique, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x5;&#x0;
+serait un vrai dépotoir.</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Acheter d'occasion c'est aussi un
+geste pour l'environnement, tu sais.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Sans cette boutique, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x5;&#x0;
+serait un vrai dépotoir.</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Merci, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; J'aurais acheté
+cet objet de toute façon, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;mais tu
+me donnes bonne conscience.</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Merci, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; J'aurais acheté
+cet objet de toute façon, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;mais tu
+me donnes bonne conscience.</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;Je pense que je viens de faire une
+très belle affaire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;Vite, internet !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Je dois vérifier le prix de cet objet !</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;Je pense que je viens de faire une
+très belle affaire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;Vite, internet !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Je dois vérifier le prix de cet objet !</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;
+&#x0;Je me demande maintenant si le prix
+de cet objet n'était pas un petit peu
+exagéré...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x7;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Zut !</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;
+&#x0;Je me demande maintenant si le prix
+de cet objet n'était pas un petit peu
+exagéré...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x7;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Zut !</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Les clochettes sont faites pour être
+dépensées, c'est ce que je dis tout
+le temps. Ça et &#xE;&#x5;&#x7;&#x0;.&#xE;&#x3;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Hi hi.</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Les clochettes sont faites pour être
+dépensées, c'est ce que je dis tout
+le temps. Ça et &#xE;&#x5;&#x7;&#x0;.&#xE;&#x3;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Hi hi.</edited>
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;'&#x0;Bien.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai réussi à ne pas dépasser le
+budget que je m'étais fixé.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Enfin
+presque, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;'&#x0;Bien.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai réussi à ne pas dépasser le
+budget que je m'étais fixé.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Enfin
+presque, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

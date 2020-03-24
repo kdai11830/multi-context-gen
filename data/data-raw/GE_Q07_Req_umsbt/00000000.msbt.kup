@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Huh? But didn't you find
+something, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;How will I know if I lost something
+if you don't show it to me,
+&#xE;&#x5;&#x7;&#x0;?&#xE;&#x3;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Huh? But didn't you find
+something, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;How will I know if I lost something
+if you don't show it to me,
+&#xE;&#x5;&#x7;&#x0;?&#xE;&#x3;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Hmm? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Wait—you had something
+to show me, didn't you,
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;If I lost something, I really want to
+see it, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Hmm? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Wait—you had something
+to show me, didn't you,
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;If I lost something, I really want to
+see it, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Wait. You thought I lost something,
+but now you've got nothing to
+show me, &#xE;&#x5;&#x8;&#x0;?
+&#xE;&#x3;$&#x0;Then you'll never know if it's
+really mine, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Wait. You thought I lost something,
+but now you've got nothing to
+show me, &#xE;&#x5;&#x8;&#x0;?
+&#xE;&#x3;$&#x0;Then you'll never know if it's
+really mine, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;Sorry, but that's not mine. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Why
+don't you try someone else,
+&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;(&#x0;Sorry, but that's not mine. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Why
+don't you try someone else,
+&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; No, that doesn't look like
+anything I own, &#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Maybe ask someone else?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; No, that doesn't look like
+anything I own, &#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Maybe ask someone else?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Sorry. That's not mine. But it must
+belong to someone, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Sorry. That's not mine. But it must
+belong to someone, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Hey! My book! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I couldn't find it
+anywhere!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I guess I dropped it. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's one of my
+favorites.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Hey! My book! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I couldn't find it
+anywhere!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I guess I dropped it. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's one of my
+favorites.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What?! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I looked everywhere for
+this book!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;I'm such a scatterbrain. I must have
+dropped it.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What?! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I looked everywhere for
+this book!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;I'm such a scatterbrain. I must have
+dropped it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hey! I've been looking everywhere
+for my book!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I must have dropped it when I
+was walking around.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hey! I've been looking everywhere
+for my book!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I must have dropped it when I
+was walking around.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hey! My fancy pouch! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0;I must have
+dropped that when I was walking
+around town!
+&#xE;&#x3;
+&#x0;It is SUCH a big relief to get that
+back, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hey! My fancy pouch! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0;I must have
+dropped that when I was walking
+around town!
+&#xE;&#x3;
+&#x0;It is SUCH a big relief to get that
+back, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Wow! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I thought I'd lost my
+schmancy pouch forever!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;
+Where'd you find it?
+I keep my favorite makeup inside,
+so I'm glad to get this back,
+&#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Wow! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I thought I'd lost my
+schmancy pouch forever!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;
+Where'd you find it?
+I keep my favorite makeup inside,
+so I'm glad to get this back,
+&#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What?! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Where'd you find this?
+I thought I'd never see my favorite
+pouch ever again!
+&#xE;&#x3;#&#x0;This is where I put my most
+treasured possessions. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;So now I'll
+have a place to put them again!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What?! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Where'd you find this?
+I thought I'd never see my favorite
+pouch ever again!
+&#xE;&#x3;#&#x0;This is where I put my most
+treasured possessions. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;So now I'll
+have a place to put them again!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Where did you find this? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, never
+mind. I'm just glad to get it back!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Now I can keep both of my hands
+warm again.</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Where did you find this? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, never
+mind. I'm just glad to get it back!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Now I can keep both of my hands
+warm again.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Hey, that's mine! I thought I'd
+never see it again!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I've felt so off balance without it!
+I'm so glad to have it back.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Hey, that's mine! I thought I'd
+never see it again!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I've felt so off balance without it!
+I'm so glad to have it back.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Hold on! Where'd you get that?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+That's the mitten I dropped
+when I was out playing!
+&#xE;&#x3;$&#x0;I've felt only half as fashionable
+without it. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm so happy to get
+this mitten back.</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Hold on! Where'd you get that?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+That's the mitten I dropped
+when I was out playing!
+&#xE;&#x3;$&#x0;I've felt only half as fashionable
+without it. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm so happy to get
+this mitten back.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Where'd you find this bag?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I've been down in the dumps since I
+lost it! I put &#xE;&#x5;&#x10;&#x2;&#x0;&#x0; in
+there, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Where'd you find this bag?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I've been down in the dumps since I
+lost it! I put &#xE;&#x5;&#x10;&#x2;&#x0;&#x0; in
+there, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;Wow! That's my bag! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;How could I
+have lost something so valuable?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;I'm so glad you found it, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I'd hate to think what would have
+happened if anyone else did.</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;Wow! That's my bag! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;How could I
+have lost something so valuable?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;I'm so glad you found it, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I'd hate to think what would have
+happened if anyone else did.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;I was wondering what happened to
+this! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Thanks for finding it!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I don't know WHAT I would have
+done if I didn't get this back.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I was so worried!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;I was wondering what happened to
+this! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Thanks for finding it!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I don't know WHAT I would have
+done if I didn't get this back.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I was so worried!</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks for going to all the trouble
+of finding out who the owner was.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;I don't have much to give you in
+thanks, but I hope you won't mind
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks for going to all the trouble
+of finding out who the owner was.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;I don't have much to give you in
+thanks, but I hope you won't mind
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;...</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks so much for bringing this
+to me, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I need to give
+you something in thanks.
+How about this, &#xE;&#x5;&#x8;&#x0;? It's
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks so much for bringing this
+to me, &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I need to give
+you something in thanks.
+How about this, &#xE;&#x5;&#x8;&#x0;? It's
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Thanks for returning this to me.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Hey, I'd like to give you a little
+thank-you gift!
+&#xE;&#x3;&#x5;&#x0;Yeah, I think you'll totally like this.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Thanks for returning this to me.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Hey, I'd like to give you a little
+thank-you gift!
+&#xE;&#x3;&#x5;&#x0;Yeah, I think you'll totally like this.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+It's &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;I'd better be more careful in the
+future. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I seem to drop things
+WAY too often, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;$&#x0;I'd better be more careful in the
+future. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I seem to drop things
+WAY too often, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;I'd better try harder not to lose my
+things when walking around!</original>
+			<edited>&#xE;&#x3;$&#x0;I'd better try harder not to lose my
+things when walking around!</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;You know, I wish I didn't lose
+my stuff so often, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;You know, I wish I didn't lose
+my stuff so often, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

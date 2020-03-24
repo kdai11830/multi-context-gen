@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;C'est parti !&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Commençons par le début :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; les
+règles !&#xE;&#x7;&#x1;&#x0; Tu dois deviner dans quelle
+direction je vais regarder...
+Haut,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; bas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; gauche&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ou droite.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je dis
+« Regarde où... », et tu appuies sur
+la direction correspondante sur  !
+Et si on regarde dans le même sens,
+tu as gagné !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0; Comme tu vois, c'est
+simple comme bonjour !
+Tu as droit à trois essais.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Prêt&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;C'est parti !&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Commençons par le début :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; les
+règles !&#xE;&#x7;&#x1;&#x0; Tu dois deviner dans quelle
+direction je vais regarder...
+Haut,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; bas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; gauche&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ou droite.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je dis
+« Regarde où... », et tu appuies sur
+la direction correspondante sur  !
+Et si on regarde dans le même sens,
+tu as gagné !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0; Comme tu vois, c'est
+simple comme bonjour !
+Tu as droit à trois essais.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Prêt&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Regarde où...&#xE;&#x7;	&#x4;&#x14;&#x0;&#x0;&#x0;</original>
+			<edited>Regarde où...&#xE;&#x7;	&#x4;&#x14;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;... JE REGARDE !&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;... JE REGARDE !&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;)&#x0;Waouh !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Voilà ce que j'appelle une
+victoire rondement menée ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0;Bien
+joué !</original>
+			<edited>&#xE;&#x3;)&#x0;Waouh !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Voilà ce que j'appelle une
+victoire rondement menée ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0;Bien
+joué !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Perdu.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Réessaie.</original>
+			<edited>&#xE;&#x3;%&#x0;Perdu.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Réessaie.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;Re-perdu...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; La troisième sera-t-elle
+la bonne ?</original>
+			<edited>&#xE;&#x3;(&#x0;Re-perdu...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; La troisième sera-t-elle
+la bonne ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Argh... &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Pas de chance, ce sera
+peut-être pour une prochaine fois...</original>
+			<edited>&#xE;&#x3;'&#x0;Argh... &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Pas de chance, ce sera
+peut-être pour une prochaine fois...</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Gagné !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Jolie partie, bravo !</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Gagné !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Jolie partie, bravo !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh, je crois que j'ai perdu...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Bah,
+l'important, c'est de participer.</original>
+			<edited>&#xE;&#x3;	&#x0;Oh, je crois que j'ai perdu...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Bah,
+l'important, c'est de participer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;J'ai gagné !</original>
+			<edited>&#xE;&#x3;%&#x0;J'ai gagné !</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Le résultat est sans appel :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est
+moi qui remporte la victoire !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Mais
+belle partie, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Le résultat est sans appel :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est
+moi qui remporte la victoire !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Mais
+belle partie, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

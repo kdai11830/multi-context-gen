@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;Oooh, the heat is on!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; It's winner
+takes all—just &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1 round&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x3;&#x1;&#x0;But if we
+tie, we get to go again!</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;Oooh, the heat is on!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; It's winner
+takes all—just &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;1 round&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x3;&#x1;&#x0;But if we
+tie, we get to go again!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;You're in for some trouble now!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;OK, whoever reaches &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; wins &#xE;&#x0;&#x3;&#x2;ÿÿfirst
+will be named the grand champ!</original>
+			<edited>&#xE;&#x3;#&#x0;You're in for some trouble now!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;OK, whoever reaches &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; wins &#xE;&#x0;&#x3;&#x2;ÿÿfirst
+will be named the grand champ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>One&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. Two&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Rock!
+Scissors!
+Paper!</original>
+			<edited>One&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. Two&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Rock!
+Scissors!
+Paper!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;ROCK!</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;ROCK!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;SCISSORS!</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;SCISSORS!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;PAPER!</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;PAPER!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;)&#x0;Uh-oh! And I totally thought mine
+would win too!</original>
+			<edited>&#xE;&#x3;)&#x0;Uh-oh! And I totally thought mine
+would win too!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Ohmigosh! A tie! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1B;&#x0;Well, that won't
+do. Let's try again!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Ohmigosh! A tie! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1B;&#x0;Well, that won't
+do. Let's try again!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Woo! Go, &#xE;&#x5;&#x1;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Woo! Go, &#xE;&#x5;&#x1;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Losing isn't fun at all. If you ask
+me, it kinda stinks, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Losing isn't fun at all. If you ask
+me, it kinda stinks, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>It feels SO good to be the winner,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>It feels SO good to be the winner,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

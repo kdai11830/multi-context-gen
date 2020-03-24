@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Bonjour,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Bonjour,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Coucou&#xE;&#x7;&#x7;&#x0; !&#xE;&#x7;&#x1;&#x0;
+Chouette temps aujourd'hui, hein ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Coucou&#xE;&#x7;&#x7;&#x0; !&#xE;&#x7;&#x1;&#x0;
+Chouette temps aujourd'hui, hein ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tiens, &#xE;&#x5;&#x8;&#x0;, tu connais ce
+poème :&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;« Soleil au réveil, vermeil à
+merveille » ? Non ? &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tiens, &#xE;&#x5;&#x8;&#x0;, tu connais ce
+poème :&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;« Soleil au réveil, vermeil à
+merveille » ? Non ? &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Youp-youp !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;C'est le
+temps idéal pour aller faire un tour,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ! Tu trouves aussi ?</original>
+			<edited>&#xE;&#x3; &#x0;Youp-youp !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;C'est le
+temps idéal pour aller faire un tour,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ! Tu trouves aussi ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hello,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x4;&#x0;Tu as l'air tout&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; joyeu&#xE;&#xE;&#x6;
+&#x2;&#x0;x&#x0;&#x4;&#x0;s&#x0;e&#x0;
+aujourd'hui... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Comme d'habitude !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hello,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x4;&#x0;Tu as l'air tout&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; joyeu&#xE;&#xE;&#x6;
+&#x2;&#x0;x&#x0;&#x4;&#x0;s&#x0;e&#x0;
+aujourd'hui... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Comme d'habitude !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;Quel temps de rêve pour aller
+pique-niquer,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3; &#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hello, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;Quel temps de rêve pour aller
+pique-niquer,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hola,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;C'est agréable cette petite brise,
+pas vrai, &#xE;&#x5;&#x8;&#x0; ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hola,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;C'est agréable cette petite brise,
+pas vrai, &#xE;&#x5;&#x8;&#x0; ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ah, &#xE;&#x5;&#x8;&#x0; ! Salut toi !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;Quelle journée ! Je l'ai pas vue
+passer, dis donc.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ah, &#xE;&#x5;&#x8;&#x0; ! Salut toi !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;Quelle journée ! Je l'ai pas vue
+passer, dis donc.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Bonsoir&#xE;&#x7;&#x7;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Encore une journée bien remplie.
+Vivement demain, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Bonsoir&#xE;&#x7;&#x7;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Encore une journée bien remplie.
+Vivement demain, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; coucou,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !
+&#xE;&#x3;%&#x0;Il est tard, mais au moins on se sera
+croisé&#xE;&#xE;&#x6;
+&#x2;&#x0;s&#x0;&#x4;&#x0;e&#x0;s&#x0; aujourd'hui,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; coucou,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !
+&#xE;&#x3;%&#x0;Il est tard, mais au moins on se sera
+croisé&#xE;&#xE;&#x6;
+&#x2;&#x0;s&#x0;&#x4;&#x0;e&#x0;s&#x0; aujourd'hui,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hé, &#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Il est tard pour se
+promener, dis !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Je suis pas ta mère,
+mais fais attention,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hé, &#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Il est tard pour se
+promener, dis !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Je suis pas ta mère,
+mais fais attention,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Hello, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Toi aussi tu
+avais besoin de prendre l'air avant
+d'aller dormir ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Hello, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Toi aussi tu
+avais besoin de prendre l'air avant
+d'aller dormir ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x8;&#x10;&#x3;&#x0;&#x3;&#x0;&#x2;&#x0;&#x2;&#x0;&#x2;&#x0;&#x2;&#x0;&#x2;&#x0;&#x2;&#x0;</original>
+			<edited>&#xE;
+&#x8;&#x10;&#x3;&#x0;&#x3;&#x0;&#x2;&#x0;&#x2;&#x0;&#x2;&#x0;&#x2;&#x0;&#x2;&#x0;&#x2;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x8;&#x10;&#x6;&#x0;&#x6;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</original>
+			<edited>&#xE;
+&#x8;&#x10;&#x6;&#x0;&#x6;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

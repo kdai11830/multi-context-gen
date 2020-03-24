@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>La configuration de la salle
+d'exposition ne peut pas être
+modifiée en présence de visiteurs !</original>
+			<edited>La configuration de la salle
+d'exposition ne peut pas être
+modifiée en présence de visiteurs !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de poser du
+papier peint dans une tente !</original>
+			<edited>Impossible de poser du
+papier peint dans une tente !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de poser un
+tapis dans une tente !</original>
+			<edited>Impossible de poser un
+tapis dans une tente !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de changer de vêtements
+car tes poches sont pleines !</original>
+			<edited>Impossible de changer de vêtements
+car tes poches sont pleines !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'ôter chapeau et
+accessoires car tes poches
+sont pleines !</original>
+			<edited>Impossible d'ôter chapeau et
+accessoires car tes poches
+sont pleines !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de placer l'un de
+tes motifs dans une tente !</original>
+			<edited>Impossible de placer l'un de
+tes motifs dans une tente !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'accrocher un
+objet dans une tente, ça
+abîmerait le tissu !</original>
+			<edited>Impossible d'accrocher un
+objet dans une tente, ça
+abîmerait le tissu !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de modifier le motif
+au mur ou au sol en présence
+de visiteurs !</original>
+			<edited>Impossible de modifier le motif
+au mur ou au sol en présence
+de visiteurs !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de déplacer des
+meubles quand tu as de la visite !</original>
+			<edited>Impossible de déplacer des
+meubles quand tu as de la visite !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de changer de
+sol quand tu as de la visite !</original>
+			<edited>Impossible de changer de
+sol quand tu as de la visite !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de changer de papier
+peint quand tu as de la visite !</original>
+			<edited>Impossible de changer de papier
+peint quand tu as de la visite !</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de placer des
+objets dans une pièce
+quand tu as de la visite !</original>
+			<edited>Impossible de placer des
+objets dans une pièce
+quand tu as de la visite !</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de déplacer
+les objets d'une pièce
+en présence de visiteurs !</original>
+			<edited>Impossible de déplacer
+les objets d'une pièce
+en présence de visiteurs !</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de placer davantage
+de meubles dans cette pièce !</original>
+			<edited>Impossible de placer davantage
+de meubles dans cette pièce !</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de placer un
+objet de cette taille ici !</original>
+			<edited>Impossible de placer un
+objet de cette taille ici !</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>
+Impossible de placer un motif ici !</original>
+			<edited>
+Impossible de placer un motif ici !</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de modifier un
+motif quand le portillon de
+la gare est ouvert !</original>
+			<edited>Impossible de modifier un
+motif quand le portillon de
+la gare est ouvert !</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de modifier
+un motif lorsque tu joues
+avec d'autres joueurs !</original>
+			<edited>Impossible de modifier
+un motif lorsque tu joues
+avec d'autres joueurs !</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'utiliser ce motif :
+tu n'as pas de place pour
+ranger ce qu'il va remplacer.</original>
+			<edited>Impossible d'utiliser ce motif :
+tu n'as pas de place pour
+ranger ce qu'il va remplacer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de porter le masque Mii :
+la place est insuffisante pour ranger
+ce qu'il va remplacer.</original>
+			<edited>Impossible de porter le masque Mii :
+la place est insuffisante pour ranger
+ce qu'il va remplacer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de porter le masque Mii :
+la place est insuffisante pour ranger
+l'élément qu'il va remplacer.</original>
+			<edited>Impossible de porter le masque Mii :
+la place est insuffisante pour ranger
+l'élément qu'il va remplacer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de placer cet objet
+dans la salle d'exposition !</original>
+			<edited>Impossible de placer cet objet
+dans la salle d'exposition !</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de modifier un
+motif quand tu es sur l'île !</original>
+			<edited>Impossible de modifier un
+motif quand tu es sur l'île !</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>Tu n'as pas assez de place
+dans ton inventaire pour
+un échange !</original>
+			<edited>Tu n'as pas assez de place
+dans ton inventaire pour
+un échange !</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'écrire d'autres
+lettres car l'espace lettres
+de ton inventaire est plein !</original>
+			<edited>Impossible d'écrire d'autres
+lettres car l'espace lettres
+de ton inventaire est plein !</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de porter plus de
+lettres ! Fais de la place dans
+l'espace lettres de ton inventaire.</original>
+			<edited>Impossible de porter plus de
+lettres ! Fais de la place dans
+l'espace lettres de ton inventaire.</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de planter
+quoi que ce soit ici !</original>
+			<edited>Impossible de planter
+quoi que ce soit ici !</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'enterrer
+quoi que ce soit ici !</original>
+			<edited>Impossible d'enterrer
+quoi que ce soit ici !</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>Impossible pour le moment,
+tes poches sont pleines !</original>
+			<edited>Impossible pour le moment,
+tes poches sont pleines !</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de prendre le cadeau
+car tes poches sont pleines !</original>
+			<edited>Impossible de prendre le cadeau
+car tes poches sont pleines !</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de prendre l'argent
+car tes poches sont pleines !</original>
+			<edited>Impossible de prendre l'argent
+car tes poches sont pleines !</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de joindre
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+à une lettre !</original>
+			<edited>Impossible de joindre
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+à une lettre !</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'utiliser le chrono
+pendant le désherbage !</original>
+			<edited>Impossible d'utiliser le chrono
+pendant le désherbage !</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>Ton portefeuille ne peut pas
+contenir davantage de clochettes !</original>
+			<edited>Ton portefeuille ne peut pas
+contenir davantage de clochettes !</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'utiliser le chrono
+pendant que quelqu'un joue à
+cache-cache !</original>
+			<edited>Impossible d'utiliser le chrono
+pendant que quelqu'un joue à
+cache-cache !</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'utiliser le chrono
+pendant une partie de cache-cache !</original>
+			<edited>Impossible d'utiliser le chrono
+pendant une partie de cache-cache !</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de saisir
+plus de caractères !</original>
+			<edited>Impossible de saisir
+plus de caractères !</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'utiliser le
+chrono pendant un rêve !</original>
+			<edited>Impossible d'utiliser le
+chrono pendant un rêve !</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>Tu n'es pas assez près du
+mur pour accrocher ça...</original>
+			<edited>Tu n'es pas assez près du
+mur pour accrocher ça...</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>Il n'y a pas assez de place
+ici pour poser cet objet !</original>
+			<edited>Il n'y a pas assez de place
+ici pour poser cet objet !</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>Il n'y a pas assez de place sur le
+mur pour accrocher cet objet.</original>
+			<edited>Il n'y a pas assez de place sur le
+mur pour accrocher cet objet.</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>Impossible de vérifier ce
+document pour l'instant...</original>
+			<edited>Impossible de vérifier ce
+document pour l'instant...</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>Impossible d'écrire une
+lettre pendant un rêve !</original>
+			<edited>Impossible d'écrire une
+lettre pendant un rêve !</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x5;%&#x0;</original>
+			<edited>&#xE;&#x5;%&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Heya! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;You came to visit again,
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Heya! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;You came to visit again,
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;You must really like my house,
+&#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;You must really like my house,
+&#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;You must really love talking to me
+or something. You're back again,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;You must really love talking to me
+or something. You're back again,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh, hi! Thanks for coming by
+again, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh, hi! Thanks for coming by
+again, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hiya, hiya, &#xE;&#x5;&#x8;&#x0;!
+Are you, like, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;in love with my
+house? You're back!</original>
+			<edited>&#xE;&#x3;%&#x0;Hiya, hiya, &#xE;&#x5;&#x8;&#x0;!
+Are you, like, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;in love with my
+house? You're back!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Woohoo! You're back! Can't get
+enough of me, huh, &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Woohoo! You're back! Can't get
+enough of me, huh, &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh! Back again!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; That's OK. I love
+seeing you, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh! Back again!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; That's OK. I love
+seeing you, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hello again, &#xE;&#x5;&#x8;&#x0;!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Make yourself at home,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;Hello again, &#xE;&#x5;&#x8;&#x0;!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Make yourself at home,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hello, hello, &#xE;&#x5;&#x8;&#x0;. Good to
+see you again, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hello, hello, &#xE;&#x5;&#x8;&#x0;. Good to
+see you again, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Hey, you're back! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You're always
+welcome here.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Hey, you're back! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;You're always
+welcome here.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

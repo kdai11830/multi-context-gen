@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Primero te explicaré cómo se juega.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Cuando yo diga "Mira...", tienes que
+pulsar  en la dirección en la
+que quieras mirar.
+&#xE;&#x3;&#x1D;&#x0;Si miramos hacia el mismo lado,
+¡tú ganas! Solo tendrás tres
+oportunidades, aprovéchalas.
+&#xE;&#x3;&#x1;&#x0;¿Arriba? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;¿Abajo? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;¿Izquierda? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¿Derecha? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;¿Hacia dónde voy
+a mirar...?</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Primero te explicaré cómo se juega.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Cuando yo diga "Mira...", tienes que
+pulsar  en la dirección en la
+que quieras mirar.
+&#xE;&#x3;&#x1D;&#x0;Si miramos hacia el mismo lado,
+¡tú ganas! Solo tendrás tres
+oportunidades, aprovéchalas.
+&#xE;&#x3;&#x1;&#x0;¿Arriba? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;¿Abajo? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;¿Izquierda? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¿Derecha? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0;¿Hacia dónde voy
+a mirar...?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Mira...&#xE;&#x7;	&#x4;&#x14;&#x0;&#x0;&#x0;</original>
+			<edited>Mira...&#xE;&#x7;	&#x4;&#x14;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;A&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;L&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;L&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;A&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;L&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;L&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¿Eeeh? Eres buen&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;, &#xE;&#x5;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+¡Superbuen&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¿Eeeh? Eres buen&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;, &#xE;&#x5;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+¡Superbuen&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;¡Te engañé, je, je! No es tan fácil,
+¿eh? &#xE;&#x3;&#x1;&#x0;¿List&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0; para la segunda ronda?</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;¡Te engañé, je, je! No es tan fácil,
+¿eh? &#xE;&#x3;&#x1;&#x0;¿List&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0; para la segunda ronda?</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Chupiii!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Última ronda! &#xE;&#x3;#&#x0;Esta es
+tu última oportunidad.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Sin presión.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Chupiii!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Última ronda! &#xE;&#x3;#&#x0;Esta es
+tu última oportunidad.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Sin presión.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Se acabó! &#xE;&#x3;&#x15;&#x0;¿Has visto cómo te
+he mareado?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si es que soy
+la "más mejor".</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Se acabó! &#xE;&#x3;&#x15;&#x0;¿Has visto cómo te
+he mareado?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si es que soy
+la "más mejor".</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;Todavía no me creo que
+haya perdido.</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;Todavía no me creo que
+haya perdido.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;No sabrás leer la mente o
+algo así, ¿no? ¡Porque esto
+no me lo explico!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;No sabrás leer la mente o
+algo así, ¿no? ¡Porque esto
+no me lo explico!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Pues gano yo! ¡Viva, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Pues gano yo! ¡Viva, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Lo siento&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0; ¡pero gano yo!</original>
+			<edited>&#xE;&#x3;'&#x0;Lo siento&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0; ¡pero gano yo!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

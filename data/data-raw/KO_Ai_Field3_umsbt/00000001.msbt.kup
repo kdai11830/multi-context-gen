@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Je, je, ¿no me estarás
+siguiendo, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;$&#x0;Je, je, ¿no me estarás
+siguiendo, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hola de nuevo, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;.
+¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hola de nuevo, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;.
+¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Hombre, &#xE;&#x5;&#x8;&#x0;!
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;¿Alguna novedad, o es que te gusta
+venir a verme, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Hombre, &#xE;&#x5;&#x8;&#x0;!
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;¿Alguna novedad, o es que te gusta
+venir a verme, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡¿Cómo?! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¿Otra vez tú, &#xE;&#x5;&#x8;&#x0;?
+&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;¡Hoy estás hasta en la sopa,
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡¿Cómo?! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¿Otra vez tú, &#xE;&#x5;&#x8;&#x0;?
+&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;¡Hoy estás hasta en la sopa,
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

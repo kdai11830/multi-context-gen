@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;I should unpack my furniture first&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+but then my clothes will get even
+more wrinkly, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;I should unpack my furniture first&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+but then my clothes will get even
+more wrinkly, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;I'm done doing so much work for
+today, but I really have to get
+this unpacking over with!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;I'm done doing so much work for
+today, but I really have to get
+this unpacking over with!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;If you come back tomorrow, this
+place will be totally amazing.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I promise, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;If you come back tomorrow, this
+place will be totally amazing.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I promise, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I got an early start today on all
+this unpacking stuff, so I bet
+I'll be done by tomorrow!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I got an early start today on all
+this unpacking stuff, so I bet
+I'll be done by tomorrow!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;How did it get so late? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I haven't
+unpacked much of anything yet!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I have to be done by morning!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;How did it get so late? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I haven't
+unpacked much of anything yet!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I have to be done by morning!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

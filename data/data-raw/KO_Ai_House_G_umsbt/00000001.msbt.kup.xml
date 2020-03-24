@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¿Tú también has venido a ver
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;? ¡Qué coincidencia,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¿Tú también has venido a ver
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;? ¡Qué coincidencia,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Ja, ja!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Como puedes comprobar,
+a mí también se me ha ocurrido
+venir aquí, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Ja, ja!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Como puedes comprobar,
+a mí también se me ha ocurrido
+venir aquí, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Yo también vengo a ver
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; de vez en cuando.
+¿Qué te crees, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Yo también vengo a ver
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; de vez en cuando.
+¿Qué te crees, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

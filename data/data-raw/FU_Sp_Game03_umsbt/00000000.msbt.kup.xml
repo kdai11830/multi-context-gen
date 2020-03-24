@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Let the game begin!&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;First&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; let me explain how it works.&#xE;&#x7;&#x1;&#x0;
+You guess which direction I'll turn
+my head:&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; up,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; down,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; left,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; or right.
+When I say "Made Ya," it's your cue
+to press that direction on .&#xE;&#x0;&#x4;&#x0;If we end up facing the same way,
+you win!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0; I'll give you 3 chances
+to get it right.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Let the game begin!&#xE;&#x7;	&#x4;Z&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;First&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; let me explain how it works.&#xE;&#x7;&#x1;&#x0;
+You guess which direction I'll turn
+my head:&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; up,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; down,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; left,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; or right.
+When I say "Made Ya," it's your cue
+to press that direction on .&#xE;&#x0;&#x4;&#x0;If we end up facing the same way,
+you win!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0; I'll give you 3 chances
+to get it right.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Made Ya...&#xE;&#x7;	&#x4;&#x14;&#x0;&#x0;&#x0;</original>
+			<edited>Made Ya...&#xE;&#x7;	&#x4;&#x14;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;LOOK!&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>
+&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x2;&#x2;È&#x0;LOOK!&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;)&#x0;Oh, wow!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You won so quickly!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;Good job.</original>
+			<edited>&#xE;&#x3;)&#x0;Oh, wow!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You won so quickly!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;Good job.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Nope.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Try again.</original>
+			<edited>&#xE;&#x3;%&#x0;Nope.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Try again.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;Nope.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Will the third time be the
+charm?</original>
+			<edited>&#xE;&#x3;(&#x0;Nope.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Will the third time be the
+charm?</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Awww.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Too bad,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but there's always
+next time.</original>
+			<edited>&#xE;&#x3;'&#x0;Awww.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Too bad,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but there's always
+next time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;You won!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Way to go.</original>
+			<edited>&#xE;&#x3;&amp;&#x0;You won!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Way to go.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;I lost?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;That's OK.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Great game!</original>
+			<edited>&#xE;&#x3;	&#x0;I lost?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;That's OK.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Great game!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I win this time!</original>
+			<edited>&#xE;&#x3;%&#x0;I win this time!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; the results are in and I'm the
+winner!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Good game, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; the results are in and I'm the
+winner!&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Good game, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Vaya, vaya, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;no está mal.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tu personalidad está presente
+en toda la casa, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Vaya, vaya, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;no está mal.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tu personalidad está presente
+en toda la casa, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Ya veo que así es como
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;
+&#x2;&#x0;Í como
+tú decora su hogar.</original>
+			<edited>&#xE;&#x3;'&#x0;Ya veo que así es como
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;
+&#x2;&#x0;Í como
+tú decora su hogar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡No me había asombrado tanto
+desde que &#xE;&#x5;&#x2;&#x0; empezó
+a &#xE;&#x5;&#x12;&#x2;&#x3;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;¡No me había asombrado tanto
+desde que &#xE;&#x5;&#x2;&#x0; empezó
+a &#xE;&#x5;&#x12;&#x2;&#x3;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

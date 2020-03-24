@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf &#xE;&#x0;&#x3;&#x2;ÿÿuses
+SpotPass to distribute presents
+and/or notifications about presents.
+This can also include both
+advertisements and promotions
+from time to time.
+Would you like to enable SpotPass
+to receive these presents and/or
+notifications from Nintendo?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf &#xE;&#x0;&#x3;&#x2;ÿÿuses
+SpotPass to distribute presents
+and/or notifications about presents.
+This can also include both
+advertisements and promotions
+from time to time.
+Would you like to enable SpotPass
+to receive these presents and/or
+notifications from Nintendo?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>SpotPass for &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ has been activated.</original>
+			<edited>SpotPass for &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ has been activated.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>SpotPass for &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf &#xE;&#x0;&#x3;&#x2;ÿÿhas not been activated.</original>
+			<edited>SpotPass for &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf &#xE;&#x0;&#x3;&#x2;ÿÿhas not been activated.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>If you would like to change your
+SpotPass settings, please select
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;SpotPass&#xE;&#x0;&#x3;&#x2;ÿÿ from the title screen.</original>
+			<edited>If you would like to change your
+SpotPass settings, please select
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;SpotPass&#xE;&#x0;&#x3;&#x2;ÿÿ from the title screen.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>You have chosen to opt-in to
+receive data and notifications from
+Nintendo via SpotPass for this title.
+Change SpotPass settings?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Leave as is.
+Opt-out.</original>
+			<edited>You have chosen to opt-in to
+receive data and notifications from
+Nintendo via SpotPass for this title.
+Change SpotPass settings?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Leave as is.
+Opt-out.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>You have opted out of receiving
+presents and notifications about
+presents from Nintendo via
+SpotPass for this title.
+Note: This can also include
+advertisements and promotions.
+Would you like to receive presents
+and/or notifications from Nintendo
+via SpotPass?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Leave as is.
+Opt-in.</original>
+			<edited>You have opted out of receiving
+presents and notifications about
+presents from Nintendo via
+SpotPass for this title.
+Note: This can also include
+advertisements and promotions.
+Would you like to receive presents
+and/or notifications from Nintendo
+via SpotPass?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Leave as is.
+Opt-in.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>You can change SpotPass settings
+at any time from this menu.</original>
+			<edited>You can change SpotPass settings
+at any time from this menu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Extra data for &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf &#xE;&#x0;&#x3;&#x2;ÿÿwill now be created on
+the SD Card.</original>
+			<edited>Extra data for &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf &#xE;&#x0;&#x3;&#x2;ÿÿwill now be created on
+the SD Card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>You are opted in to receive data
+but not notifications for this title
+from Nintendo via SpotPass.
+Change SpotPass settings?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Leave as is.
+Receive notifications.
+Opt-out of both.</original>
+			<edited>You are opted in to receive data
+but not notifications for this title
+from Nintendo via SpotPass.
+Change SpotPass settings?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Leave as is.
+Receive notifications.
+Opt-out of both.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>You will now receive SpotPass
+notifications for &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>You will now receive SpotPass
+notifications for &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing:
+New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Connecting. Please wait a moment.
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(Cancel by pressing .)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Connecting. Please wait a moment.
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(Cancel by pressing .)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>No connectable user was found.</original>
+			<edited>No connectable user was found.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>Preparing to move in.
+Please wait a moment.</original>
+			<edited>Preparing to move in.
+Please wait a moment.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>There is a player in the process
+of moving in. This move-in will
+now be resumed.</original>
+			<edited>There is a player in the process
+of moving in. This move-in will
+now be resumed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; from &#xE;&#x11;&#x2;&#x2;&#x0;&#x0;
+is looking for a place to move.
+Allow this person to move in?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Allow.
+Refuse.</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; from &#xE;&#x11;&#x2;&#x2;&#x0;&#x0;
+is looking for a place to move.
+Allow this person to move in?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Allow.
+Refuse.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>The move-in process was canceled.</original>
+			<edited>The move-in process was canceled.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>The move-in process was canceled.</original>
+			<edited>The move-in process was canceled.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>By moving from another copy of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you can
+experience life in a new town.
+Only nonmayor residents
+who already own a home&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+are eligible to move.
+Would you like to begin the
+moving process?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+OK!
+No.</original>
+			<edited>By moving from another copy of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you can
+experience life in a new town.
+Only nonmayor residents
+who already own a home&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+are eligible to move.
+Would you like to begin the
+moving process?&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+OK!
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>
+Connecting to the Internet...</original>
+			<edited>
+Connecting to the Internet...</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>
+We will be arriving soon...</original>
+			<edited>
+We will be arriving soon...</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>
+The game will now shut down.</original>
+			<edited>
+The game will now shut down.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>Disconnecting from the Internet
+and beginning local wireless...</original>
+			<edited>Disconnecting from the Internet
+and beginning local wireless...</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>
+Waiting for the train...</original>
+			<edited>
+Waiting for the train...</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>Please push the wireless
+switch to enable wireless
+communication.</original>
+			<edited>Please push the wireless
+switch to enable wireless
+communication.</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>
+A communications error occurred.</original>
+			<edited>
+A communications error occurred.</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; from &#xE;&#x11;&#x2;&#x2;&#x0;&#x0;
+has just arrived in &#xE;&#x5;&#x5;&#x0;.&#xE;&#x7;	&#x4;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; from &#xE;&#x11;&#x2;&#x2;&#x0;&#x0;
+has just arrived in &#xE;&#x5;&#x5;&#x0;.&#xE;&#x7;	&#x4;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; from &#xE;&#x11;&#x2;&#x2;&#x0;&#x0;
+is going home.&#xE;&#x7;	&#x4;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x0;&#x2;&#x0;&#x0; from &#xE;&#x11;&#x2;&#x2;&#x0;&#x0;
+is going home.&#xE;&#x7;	&#x4;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>
+Welcome to &#xE;&#x5;&#x5;&#x0;.&#xE;&#x7;	&#x4;x&#x0;&#x0;&#x0;</original>
+			<edited>
+Welcome to &#xE;&#x5;&#x5;&#x0;.&#xE;&#x7;	&#x4;x&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>
+Checking contents...</original>
+			<edited>
+Checking contents...</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>SpotPass cannot be used because
+no SD Card can be found.</original>
+			<edited>SpotPass cannot be used because
+no SD Card can be found.</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>SpotPass cannot be used because
+the SD Card is write-protected.</original>
+			<edited>SpotPass cannot be used because
+the SD Card is write-protected.</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>SpotPass cannot be used because
+there is insufficient space on the
+SD Card.</original>
+			<edited>SpotPass cannot be used because
+there is insufficient space on the
+SD Card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>Extra data could not be found,
+so SpotPass is currently unusable.
+Extra data will now be re-created.</original>
+			<edited>Extra data could not be found,
+so SpotPass is currently unusable.
+Extra data will now be re-created.</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>Extra data could not be created,
+so SpotPass cannot be used.</original>
+			<edited>Extra data could not be created,
+so SpotPass cannot be used.</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>Would you like to opt-out of
+SpotPass for this software?&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Opt-out.
+Don't change setting.</original>
+			<edited>Would you like to opt-out of
+SpotPass for this software?&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Opt-out.
+Don't change setting.</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>
+Opted-out of SpotPass.</original>
+			<edited>
+Opted-out of SpotPass.</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>
+Created extra data for SpotPass.</original>
+			<edited>
+Created extra data for SpotPass.</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>
+Creating extra data...</original>
+			<edited>
+Creating extra data...</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>You must consent to the most
+recent Nintendo 3DS Service User
+Agreement to use SpotPass.
+Go to &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;System Settings&#xE;&#x0;&#x3;&#x2;ÿÿ → &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Internet
+Settings&#xE;&#x0;&#x3;&#x2;ÿÿ → &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Other Information&#xE;&#x0;&#x3;&#x2;ÿÿ →
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;User Agreement&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Once there, consent to the Nintendo
+3DS Service User Agreement to
+gain SpotPass privileges.</original>
+			<edited>You must consent to the most
+recent Nintendo 3DS Service User
+Agreement to use SpotPass.
+Go to &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;System Settings&#xE;&#x0;&#x3;&#x2;ÿÿ → &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Internet
+Settings&#xE;&#x0;&#x3;&#x2;ÿÿ → &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Other Information&#xE;&#x0;&#x3;&#x2;ÿÿ →
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;User Agreement&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Once there, consent to the Nintendo
+3DS Service User Agreement to
+gain SpotPass privileges.</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>Your update data is not up-to-date.
+Because of this, certain network
+features will be restricted.
+Would you like to download the
+most current update data?&#xE;&#x8;&#x0;&#x8;&#x0;&#x0;&#x0;&#x0;1&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>Your update data is not up-to-date.
+Because of this, certain network
+features will be restricted.
+Would you like to download the
+most current update data?&#xE;&#x8;&#x0;&#x8;&#x0;&#x0;&#x0;&#x0;1&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>If you want to download the update
+data in the future, please select
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Update Data&#xE;&#x0;&#x3;&#x2;ÿÿ from the title screen.</original>
+			<edited>If you want to download the update
+data in the future, please select
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Update Data&#xE;&#x0;&#x3;&#x2;ÿÿ from the title screen.</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>The update data has finished
+downloading. The system will
+now restart.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>The update data has finished
+downloading. The system will
+now restart.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>
+Your update data is up-to-date.</original>
+			<edited>
+Your update data is up-to-date.</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>It's possible to download the most
+current update data from the server
+by connecting to the Internet.
+If you do not have the most current
+update data, certain network
+features will be restricted.
+Would you like to download the
+update data?&#xE;&#x8;&#x0;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Yes.
+I'll pass for now.</original>
+			<edited>It's possible to download the most
+current update data from the server
+by connecting to the Internet.
+If you do not have the most current
+update data, certain network
+features will be restricted.
+Would you like to download the
+update data?&#xE;&#x8;&#x0;&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Yes.
+I'll pass for now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>
+An SD Card could not be identified.</original>
+			<edited>
+An SD Card could not be identified.</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>An error has occurred.
+Now returning to title screen.</original>
+			<edited>An error has occurred.
+Now returning to title screen.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

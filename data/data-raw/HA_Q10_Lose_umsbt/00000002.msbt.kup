@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Youhou !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu as perdu !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Je sais, c'est dur, mais ne te laisse
+pas abattre.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu prendras ta
+revanche un de ces jours !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Youhou !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu as perdu !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Je sais, c'est dur, mais ne te laisse
+pas abattre.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu prendras ta
+revanche un de ces jours !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;!&#x0;Bah, on s'entraîne tous les jours.
+On pouvait que gagner !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;Cela dit, si cette écrasante défaite
+te laisse un goût amer, on joue la
+revanche quand tu veux !</original>
+			<edited>&#xE;&#x3;!&#x0;Bah, on s'entraîne tous les jours.
+On pouvait que gagner !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;Cela dit, si cette écrasante défaite
+te laisse un goût amer, on joue la
+revanche quand tu veux !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;*&#x0;Parfait !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et une victoire de plus
+pour mon équipe, une !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Hé hé !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Retente ta chance quand tu
+voudras, mais le résultat risque
+d'être identique,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;*&#x0;Parfait !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Et une victoire de plus
+pour mon équipe, une !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Hé hé !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Retente ta chance quand tu
+voudras, mais le résultat risque
+d'être identique,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

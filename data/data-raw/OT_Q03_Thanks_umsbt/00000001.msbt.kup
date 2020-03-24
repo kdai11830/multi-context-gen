@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Te agradezco que hayas enterrado
+la cápsula, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;¡Espero que recuerdes dónde
+la enterraste.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. porque querré
+recuperarla en el futuro!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Te agradezco que hayas enterrado
+la cápsula, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;¡Espero que recuerdes dónde
+la enterraste.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. porque querré
+recuperarla en el futuro!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡Muchas gracias por la ayuda,
+&#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;En el futuro te pediré que
+desentierres la cápsula para que
+podamos abrirla.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Pero pueden pasar varias semanas,
+así que, por favor, no te olvides
+de dónde la has escondido, cielín.</original>
+			<edited>&#xE;&#x3;%&#x0;¡Muchas gracias por la ayuda,
+&#xE;&#x5;&#x8;&#x0;!&#xE;&#x0;&#x4;&#x0;En el futuro te pediré que
+desentierres la cápsula para que
+podamos abrirla.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Pero pueden pasar varias semanas,
+así que, por favor, no te olvides
+de dónde la has escondido, cielín.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;¡Gracias por ayudarme con
+la cápsula, &#xE;&#x5;&#x8;&#x0;! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Que no se
+te olvide dónde la has puesto.
+&#xE;&#x3;%&#x0;Querré recuperarla en el futuro.</original>
+			<edited>&#xE;&#x3;'&#x0;¡Gracias por ayudarme con
+la cápsula, &#xE;&#x5;&#x8;&#x0;! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Que no se
+te olvide dónde la has puesto.
+&#xE;&#x3;%&#x0;Querré recuperarla en el futuro.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;¡Mmmmm!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No lo interpretes mal,&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+¡pero me encanta cómo huele
+tu casa, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;¡Mmmmm!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No lo interpretes mal,&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+¡pero me encanta cómo huele
+tu casa, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Así que estoy de verdad
+en casa de &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x4;&#x0;¡Había
+soñado tanto con este momento!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Así que estoy de verdad
+en casa de &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x4;&#x0;¡Había
+soñado tanto con este momento!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oye, no te molesta que revuelva
+un poco por aquí, ¿no?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Je, je, je!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oye, no te molesta que revuelva
+un poco por aquí, ¿no?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Je, je, je!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

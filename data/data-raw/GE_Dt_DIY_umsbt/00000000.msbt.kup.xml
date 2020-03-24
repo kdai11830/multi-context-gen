@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;The home-improvement center has
+SO much to choose from. I can't
+make up my mind, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;The home-improvement center has
+SO much to choose from. I can't
+make up my mind, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;I want that! And that! Or do I really
+want THAT, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;I want that! And that! Or do I really
+want THAT, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Are you totally in need of
+home-improvement help too,
+&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Are you totally in need of
+home-improvement help too,
+&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Whenever I come here, I always buy
+stuff I don't need, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Whenever I come here, I always buy
+stuff I don't need, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Wait. What WAS it I ran over here
+to buy?&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xD;&#x0; I can't remember!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Wait. What WAS it I ran over here
+to buy?&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xD;&#x0; I can't remember!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

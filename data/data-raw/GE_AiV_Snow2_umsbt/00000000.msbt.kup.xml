@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hello again, &#xE;&#x5;&#x0;&#x0;!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I'm starting to think I need to
+head inside, &#xE;&#x5;&#x7;&#x0;!
+&#xE;&#x3;&#x14;&#x0;No one wants to see an adorable,
+&#xE;&#x5;&#x1;&#x0;-shaped icicle hanging
+around town!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hello again, &#xE;&#x5;&#x0;&#x0;!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I'm starting to think I need to
+head inside, &#xE;&#x5;&#x7;&#x0;!
+&#xE;&#x3;&#x14;&#x0;No one wants to see an adorable,
+&#xE;&#x5;&#x1;&#x0;-shaped icicle hanging
+around town!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hey, if the cold starts to get to
+you, just remember...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0; always has a warm
+welcome for YOU, &#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hey, if the cold starts to get to
+you, just remember...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;*&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0; always has a warm
+welcome for YOU, &#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Hee hee hee. It's still early here in
+&#xE;&#x5;&#x5;&#x0;, and my hands are
+already frozen, &#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Oh, don't worry. It's not any colder
+than it was before. It's just that
+I'm staying outside too long!</original>
+			<edited>&#xE;&#x3;$&#x0;Hee hee hee. It's still early here in
+&#xE;&#x5;&#x5;&#x0;, and my hands are
+already frozen, &#xE;&#x5;&#x7;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Oh, don't worry. It's not any colder
+than it was before. It's just that
+I'm staying outside too long!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Heya! Good to see you again!
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;You're not getting all distracted
+by how cold it is,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; are you?
+&#xE;&#x3;&#x1F;&#x0;You've got to push through the icy
+pain, &#xE;&#x5;&#x7;&#x0;! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's all worth it,
+'cause cold gives you rosy cheeks!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Heya! Good to see you again!
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;You're not getting all distracted
+by how cold it is,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; are you?
+&#xE;&#x3;&#x1F;&#x0;You've got to push through the icy
+pain, &#xE;&#x5;&#x7;&#x0;! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;It's all worth it,
+'cause cold gives you rosy cheeks!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Wow, and here you are again!
+Wait, wait, don't tell me. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I look like
+a snow princess, right? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Thanks!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Wow, and here you are again!
+Wait, wait, don't tell me. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I look like
+a snow princess, right? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Thanks!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>Yay! We meet again! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x11;&#x0;But wait!
+Where did you go? Everything's
+going white!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;No, no... Just my eyes freezing up.
+OK, blink it out, &#xE;&#x5;&#x1;&#x0;...
+Warm up the peepers...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Whew. All good again!
+Was that totally weird or WHAT?</original>
+			<edited>Yay! We meet again! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x11;&#x0;But wait!
+Where did you go? Everything's
+going white!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;No, no... Just my eyes freezing up.
+OK, blink it out, &#xE;&#x5;&#x1;&#x0;...
+Warm up the peepers...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Whew. All good again!
+Was that totally weird or WHAT?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hey, &#xE;&#x5;&#x8;&#x0;! Good to see you
+again! Great time of night for us
+troublemakers, right, &#xE;&#x5;&#x7;&#x0;?
+&#xE;&#x3;&#x14;&#x0;But we can't stay out too long or
+we'll freeze! THEN who will make
+trouble? Everyone's counting on us!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hey, &#xE;&#x5;&#x8;&#x0;! Good to see you
+again! Great time of night for us
+troublemakers, right, &#xE;&#x5;&#x7;&#x0;?
+&#xE;&#x3;&#x14;&#x0;But we can't stay out too long or
+we'll freeze! THEN who will make
+trouble? Everyone's counting on us!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;AAAAAH! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Whew! It's just you,
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;It's so dark, I thought you were the
+ghost of &#xE;&#x5;&#x4;&#x2;&#x0;Í!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;I'm so silly! It's just all that snow all
+over you! And &#xE;&#x5;&#x4;&#x2;&#x0;Í CAN'T be
+a ghost. We were just partying!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;AAAAAH! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Whew! It's just you,
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;It's so dark, I thought you were the
+ghost of &#xE;&#x5;&#x4;&#x2;&#x0;Í!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;I'm so silly! It's just all that snow all
+over you! And &#xE;&#x5;&#x4;&#x2;&#x0;Í CAN'T be
+a ghost. We were just partying!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

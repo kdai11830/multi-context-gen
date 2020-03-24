@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;Today's hide-and-seek session was
+the most fun I've had in ages!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Let's
+definitely do it again,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;Today's hide-and-seek session was
+the most fun I've had in ages!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Let's
+definitely do it again,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;You are SO good&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; at being "it,"
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; Did you go to school
+for that,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;? </original>
+			<edited>&#xE;&#x3;&#x4;&#x0;You are SO good&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; at being "it,"
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; Did you go to school
+for that,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;? </edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Let's play hide-and-seek again
+sometime,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>Let's play hide-and-seek again
+sometime,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

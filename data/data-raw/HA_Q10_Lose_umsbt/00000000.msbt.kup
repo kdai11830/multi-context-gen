@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Yay!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; My team wins!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Try not to let it get you down.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; We
+should play again soon!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Yay!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; My team wins!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Try not to let it get you down.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; We
+should play again soon!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;!&#x0;Well, we've been training every day,
+so there was really no way you were
+going to beat us.
+&#xE;&#x3;&amp;&#x0;But if you want revenge, we can try
+again some other time!</original>
+			<edited>&#xE;&#x3;!&#x0;Well, we've been training every day,
+so there was really no way you were
+going to beat us.
+&#xE;&#x3;&amp;&#x0;But if you want revenge, we can try
+again some other time!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;*&#x0;All right!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Huge win for my team!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Heh heh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You can try again one of
+these days, but I'm pretty much
+invincible! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;*&#x0;All right!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Huge win for my team!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Heh heh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You can try again one of
+these days, but I'm pretty much
+invincible! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

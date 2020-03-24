@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;¡Hola! Te veo algo cansad&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Jugar muchas horas seguidas
+tampoco es bueno, ¿eh? ¿Por
+qué no descansas un poco?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;¡Hola! Te veo algo cansad&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Jugar muchas horas seguidas
+tampoco es bueno, ¿eh? ¿Por
+qué no descansas un poco?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Oye, ya llevas jugando bastante
+tiempo. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;¿Por qué no descansas
+un ratito si eso?
+&#xE;&#x3;&#x6;&#x0;¡Descansar también es importante!
+Si no descansas bien, ¡tus músculos
+no se desarrollarán, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>Oye, ya llevas jugando bastante
+tiempo. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;¿Por qué no descansas
+un ratito si eso?
+&#xE;&#x3;&#x6;&#x0;¡Descansar también es importante!
+Si no descansas bien, ¡tus músculos
+no se desarrollarán, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;¡Escúchame bien, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Ahora te toca descansar! ¡Jugar
+demasiado no es buena idea!</original>
+			<edited>&#xE;&#x3;(&#x0;¡Escúchame bien, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Ahora te toca descansar! ¡Jugar
+demasiado no es buena idea!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

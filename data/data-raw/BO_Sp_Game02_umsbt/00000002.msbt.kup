@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;On va jouer au mime !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je vais te
+mimer quelque chose...&#xE;&#x0;&#x4;&#x0;Et tu devras deviner quoi !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;Tu es &#xE;&#xE;&#x6;&#x16;&#x8;&#x0;p&#x0;r&#x0;ê&#x0;t&#x0;
+&#x0;p&#x0;r&#x0;ê&#x0;t&#x0;e&#x0; ?!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;On va jouer au mime !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je vais te
+mimer quelque chose...&#xE;&#x0;&#x4;&#x0;Et tu devras deviner quoi !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;Tu es &#xE;&#xE;&#x6;&#x16;&#x8;&#x0;p&#x0;r&#x0;ê&#x0;t&#x0;
+&#x0;p&#x0;r&#x0;ê&#x0;t&#x0;e&#x0; ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Dommage&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; C'était pas ça !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;La bonne réponse était :
+&#xE;&#x12;&#x13;&#x2;&#x0;Í !</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Dommage&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; C'était pas ça !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;La bonne réponse était :
+&#xE;&#x12;&#x13;&#x2;&#x0;Í !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;Perdu !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Il fallait répondre :&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x12;&#x13;&#x2;&#x0;Í !</original>
+			<edited>&#xE;&#x3;(&#x0;Perdu !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Il fallait répondre :&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x12;&#x13;&#x2;&#x0;Í !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;Bravo !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Tu as deviné exactement
+ce que c'était !</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;Bravo !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Tu as deviné exactement
+ce que c'était !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;Félicitations !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; C'est une excellente
+réponse !</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;Félicitations !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; C'est une excellente
+réponse !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

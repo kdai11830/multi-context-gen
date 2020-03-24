@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh, bonjour.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu cherches quelques
+plantes vertes pour agrémenter ton
+intérieur ?
+Rien de tel qu'un peu de végétation
+pour apporter une petite touche
+apaisante à sa déco, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh, bonjour.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu cherches quelques
+plantes vertes pour agrémenter ton
+intérieur ?
+Rien de tel qu'un peu de végétation
+pour apporter une petite touche
+apaisante à sa déco, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Quelques plantes dans la maison,
+c'est agréable. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ça met du baume au
+cœur les jours de cafard...</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Quelques plantes dans la maison,
+c'est agréable. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ça met du baume au
+cœur les jours de cafard...</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;Les fleurs, c'est fou ce que c'est
+beau !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Il faudrait en mettre partout
+en ville !</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;Les fleurs, c'est fou ce que c'est
+beau !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Il faudrait en mettre partout
+en ville !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je te vois bien, assis&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; au milieu des
+fleurs, dans une prairie de toutes les
+couleurs...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Une vraie carte postale !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je te vois bien, assis&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; au milieu des
+fleurs, dans une prairie de toutes les
+couleurs...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Une vraie carte postale !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu veux offrir une fleur ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;Oh, ça
+fait plaisir de voir qu'il y a encore
+des vrai&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;s romantiques !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu veux offrir une fleur ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;Oh, ça
+fait plaisir de voir qu'il y a encore
+des vrai&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;s romantiques !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Dis-moi, quelles plantes poussent le
+mieux à &#xE;&#x5;&#x6;&#x0; ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; À part les
+mauvaises herbes, j'entends...</original>
+			<edited>&#xE;&#x3;%&#x0;Dis-moi, quelles plantes poussent le
+mieux à &#xE;&#x5;&#x6;&#x0; ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; À part les
+mauvaises herbes, j'entends...</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

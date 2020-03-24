@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Aw, are you feeling lonely?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x17;&#x0;Well, what do you want to chat
+about,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;#&#x0;Aw, are you feeling lonely?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x17;&#x0;Well, what do you want to chat
+about,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Is everything OK with you,
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; What do you want to
+talk about now,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Is everything OK with you,
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; What do you want to
+talk about now,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Don't worry. I've always got time
+for you, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;Well then, what
+can I do for you?</original>
+			<edited>&#xE;&#x3;'&#x0;Don't worry. I've always got time
+for you, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;Well then, what
+can I do for you?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Calm down, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; want&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; you&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; to&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; speak&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; slowly,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Calm down, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; want&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; you&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; to&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; speak&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; slowly,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

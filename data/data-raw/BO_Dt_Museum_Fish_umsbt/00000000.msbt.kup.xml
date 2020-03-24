@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;I wish I could swim like a fish.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It looks so fun!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;I wish I could swim like a fish.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It looks so fun!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;I'm way hungry, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;but I just can't
+imagine eating any of the fish here,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;I'm way hungry, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;but I just can't
+imagine eating any of the fish here,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;A huh huh huh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Is this what you'd
+call&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; "mood lighting"?</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;A huh huh huh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Is this what you'd
+call&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; "mood lighting"?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;Augh!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;	&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;sorry.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; It's so dark in here,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I thought maybe you were an
+octopus.</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;Augh!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;	&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;sorry.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; It's so dark in here,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I thought maybe you were an
+octopus.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x19;&#x0;Staring at the aquarium&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; is making
+me sleepy.</original>
+			<edited>&#xE;&#x3;&#x19;&#x0;Staring at the aquarium&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; is making
+me sleepy.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

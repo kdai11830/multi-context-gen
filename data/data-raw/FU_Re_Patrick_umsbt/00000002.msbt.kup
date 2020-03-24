@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh, voilà ce que j'appelle un joli
+chapeau ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x4;&#x0;Tu as le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;jour du trèfle&#xE;&#x0;&#x3;&#x2;ÿÿ
+dans la peau, toi !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh, voilà ce que j'appelle un joli
+chapeau ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x4;&#x0;Tu as le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;jour du trèfle&#xE;&#x0;&#x3;&#x2;ÿÿ
+dans la peau, toi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'est pour le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;jour du trèfle&#xE;&#x0;&#x3;&#x2;ÿÿ que tu
+as mis ce chapeau ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; En voilà une
+bonne idée, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'est pour le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;jour du trèfle&#xE;&#x0;&#x3;&#x2;ÿÿ que tu
+as mis ce chapeau ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; En voilà une
+bonne idée, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Waouh, ça, c'est du chapeau !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Il
+suffit de le voir pour avoir envie
+de célébrer le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;jour du trèfle&#xE;&#x0;&#x3;&#x2;ÿÿ !</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Waouh, ça, c'est du chapeau !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Il
+suffit de le voir pour avoir envie
+de célébrer le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;jour du trèfle&#xE;&#x0;&#x3;&#x2;ÿÿ !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

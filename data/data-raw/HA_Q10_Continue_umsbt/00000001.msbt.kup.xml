@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Solo te queda encontrar
+a alguien más y ya se acabó!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¡A buscar, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Solo te queda encontrar
+a alguien más y ya se acabó!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¡A buscar, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Todavía queda alguien más por
+encontrar.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;¡Espabila, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Levanta esas rodillas!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Todavía queda alguien más por
+encontrar.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;¡Espabila, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Levanta esas rodillas!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;¡Todavía no has encontrado a
+todo el mundo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; ¡Te faltan dos!</original>
+			<edited>&#xE;&#x3;#&#x0;¡Todavía no has encontrado a
+todo el mundo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; ¡Te faltan dos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Aún no has encontrado a todo el
+mundo.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;¡Te falta por encontrar
+a dos ninjas del escondite!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Aún no has encontrado a todo el
+mundo.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;¡Te falta por encontrar
+a dos ninjas del escondite!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

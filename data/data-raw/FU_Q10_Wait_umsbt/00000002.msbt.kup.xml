@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ce n'est pas le moment de jeter
+l'éponge, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x5;&#x0; Quand on
+cherche, on trouve !</original>
+			<edited>&#xE;&#x3;%&#x0;Ce n'est pas le moment de jeter
+l'éponge, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x5;&#x0; Quand on
+cherche, on trouve !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Tu as gagné une bataille, mais pas
+la guerre !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu dois continuer à
+chercher...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Bonne chance !</original>
+			<edited>&#xE;&#x3;%&#x0;Tu as gagné une bataille, mais pas
+la guerre !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu dois continuer à
+chercher...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Bonne chance !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ne crie pas victoire trop tôt !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0; Tu
+n'as pas encore trouvé tout le
+monde !</original>
+			<edited>&#xE;&#x3;%&#x0;Ne crie pas victoire trop tôt !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0; Tu
+n'as pas encore trouvé tout le
+monde !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Oh ! Trop tard, le temps est écoulé.
+&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;	&#x0;Ça s'est joué à un cheveu,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;mais
+c'est nous qui avons gagné !</original>
+			<edited>&#xE;&#x3;%&#x0;Oh ! Trop tard, le temps est écoulé.
+&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;	&#x0;Ça s'est joué à un cheveu,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;mais
+c'est nous qui avons gagné !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

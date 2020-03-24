@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;
+&#x0;Raaaah !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; La honte !</original>
+			<edited>&#xE;&#x7;
+&#x0;Raaaah !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; La honte !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;
+&#x0;Argh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'l'ai pas vu venir, j'avoue !</original>
+			<edited>&#xE;&#x7;
+&#x0;Argh !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'l'ai pas vu venir, j'avoue !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;
+&#x0;Grrrrrr !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si j'trouve l'andouille qu'a
+creusé ce trou, ça va barder !</original>
+			<edited>&#xE;&#x7;
+&#x0;Grrrrrr !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si j'trouve l'andouille qu'a
+creusé ce trou, ça va barder !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

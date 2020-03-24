@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;AUGH!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; What'd you do to make
+these bees so mad?!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xD;&#x0;Just apologize
+already,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;AUGH!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; What'd you do to make
+these bees so mad?!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xD;&#x0;Just apologize
+already,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;Oh no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Bees!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;	&#x0;Did you &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;wake them up
+from their nap time?&#xE;&#x0;&#x4;&#x0;You probably deserve it then,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;Oh no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Bees!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;	&#x0;Did you &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;wake them up
+from their nap time?&#xE;&#x0;&#x4;&#x0;You probably deserve it then,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xB;&#x0;AUGH!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Don't bring those bees
+over to me!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xB;&#x0;AUGH!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Don't bring those bees
+over to me!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

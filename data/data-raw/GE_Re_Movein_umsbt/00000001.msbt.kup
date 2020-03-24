@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;¡Debería colocar los muebles
+primero, pero entonces la ropa
+se arrugará aún más, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;¡Debería colocar los muebles
+primero, pero entonces la ropa
+se arrugará aún más, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Estoy superharta de abrir cajas!
+Pero si lo dejo para mañana
+será mucho peor...</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Estoy superharta de abrir cajas!
+Pero si lo dejo para mañana
+será mucho peor...</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Te aseguro que mañana este sitio
+se verá totalmente distinto.
+¡Te lo juro, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Te aseguro que mañana este sitio
+se verá totalmente distinto.
+¡Te lo juro, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡He empezado supertemprano
+para poder tenerlo todo listo
+para mañana!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡He empezado supertemprano
+para poder tenerlo todo listo
+para mañana!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¿Tan tarde es? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡Pues aún me queda
+mucho por desempaquetar!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Menuda noche me espera...</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¿Tan tarde es? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡Pues aún me queda
+mucho por desempaquetar!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Menuda noche me espera...</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¿Le has entregado ya el paquete
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Cuento contigo,
+&#xE;&#x5;&#x8;&#x0;, ¡no me falles!</original>
+			<edited>&#xE;&#x3;	&#x0;¿Le has entregado ya el paquete
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Cuento contigo,
+&#xE;&#x5;&#x8;&#x0;, ¡no me falles!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¿Todavía no le has entregado
+el paquete a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x0;&#x4;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;, si no lo recibe,
+no podré disculparme por
+nuestra pelea!</original>
+			<edited>&#xE;&#x3;	&#x0;¿Todavía no le has entregado
+el paquete a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;?&#xE;&#x0;&#x4;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;, si no lo recibe,
+no podré disculparme por
+nuestra pelea!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; está esperando a que
+se lo devuelva, &#xE;&#x5;&#x8;&#x0;.
+Apresúrate a llevarle el paquete.</original>
+			<edited>&#xE;&#x3;	&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; está esperando a que
+se lo devuelva, &#xE;&#x5;&#x8;&#x0;.
+Apresúrate a llevarle el paquete.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¿Aún tienes el paquete?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Entrégaselo
+cuanto antes a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;. ¡Seguro
+que se alegrará de recuperarlo!</original>
+			<edited>&#xE;&#x3;	&#x0;¿Aún tienes el paquete?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Entrégaselo
+cuanto antes a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;. ¡Seguro
+que se alegrará de recuperarlo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Ibas a llevarle el paquete a
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿recuerdas? El cartero
+lo dejó en mi casa por error.
+¡Llévaselo pronto, no quiero que
+alguien empiece a decir que se
+lo he robado del buzón!</original>
+			<edited>&#xE;&#x3;	&#x0;Ibas a llevarle el paquete a
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿recuerdas? El cartero
+lo dejó en mi casa por error.
+¡Llévaselo pronto, no quiero que
+alguien empiece a decir que se
+lo he robado del buzón!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; me pidió una cosa
+y tú te has ofrecido a llevarle
+el paquete, ¿recuerdas?
+Llévaselo en cuanto puedas, cielín,
+no quiero que piense que se me
+ha olvidado.</original>
+			<edited>&#xE;&#x3;	&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; me pidió una cosa
+y tú te has ofrecido a llevarle
+el paquete, ¿recuerdas?
+Llévaselo en cuanto puedas, cielín,
+no quiero que piense que se me
+ha olvidado.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

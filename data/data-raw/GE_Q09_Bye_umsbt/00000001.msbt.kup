@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Vuelve a visitarme otro día,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Vuelve a visitarme otro día,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Tenemos que repetirlo pronto!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Tenemos que repetirlo pronto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Gracias por venir, &#xE;&#x5;&#x8;&#x0;!
+¡Ha sido de lo más díver!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Gracias por venir, &#xE;&#x5;&#x8;&#x0;!
+¡Ha sido de lo más díver!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¿Eh? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¿Ya te vas?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;¡Pero si todavía no hemos hablado
+de lo divina que es mi casa!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¿Eh? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¿Ya te vas?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;¡Pero si todavía no hemos hablado
+de lo divina que es mi casa!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¿Te vas?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¡Si acabas de llegar! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0;
+¡Quería hablar contigo de
+muchas cosas!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¿Te vas?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¡Si acabas de llegar! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0;
+¡Quería hablar contigo de
+muchas cosas!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Espera! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;¡No puedes irte!
+¿No quieres hablar un poco
+antes de marcharte?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Espera! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;¡No puedes irte!
+¿No quieres hablar un poco
+antes de marcharte?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

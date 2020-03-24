@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Hola,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Cómo te va?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Hoy me apetecía darme una vuelta
+por &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3; &#x0;Hola,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Cómo te va?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Hoy me apetecía darme una vuelta
+por &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡Pero si es &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;Hoy
+me ha dado por venir a hacer
+unas compras,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡Pero si es &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;Hoy
+me ha dado por venir a hacer
+unas compras,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;
+&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Pero si es &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡Je, je, je!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Bueno, no sé por qué
+me sorprendo tanto.
+&#xE;&#x3;&#x5;&#x0;¡Hoy me he venido a &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0;
+a hacer unas compras!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¡Esto no lo tengo tan visto!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;
+&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Pero si es &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡Je, je, je!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Bueno, no sé por qué
+me sorprendo tanto.
+&#xE;&#x3;&#x5;&#x0;¡Hoy me he venido a &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0;
+a hacer unas compras!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+¡Esto no lo tengo tan visto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;¡Vaya, pero si eres tú, &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Me dije que por qué no venir hoy a
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Qué bien que te veo!</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;¡Vaya, pero si eres tú, &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Me dije que por qué no venir hoy a
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Qué bien que te veo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;¡Hola,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Hoy he venido a &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0;
+a comprarme algunas cosas.
+&#xE;&#x3;&#x15;&#x0;Te daré un consejo que trato de
+aplicarme a mí mismo.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡No te lo
+gastes todo en la primera tienda!</original>
+			<edited>&#xE;&#x3; &#x0;¡Hola,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Hoy he venido a &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0;
+a comprarme algunas cosas.
+&#xE;&#x3;&#x15;&#x0;Te daré un consejo que trato de
+aplicarme a mí mismo.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡No te lo
+gastes todo en la primera tienda!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

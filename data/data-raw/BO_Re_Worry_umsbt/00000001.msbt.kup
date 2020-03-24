@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Si hago esto,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; no voy a poder
+ocuparme de lo otro.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pero luego
+tendría pendiente aquello otro...
+&#xE;&#x3;&#xF;&#x0;Ay, me has pillado mientras
+trataba de resolver un problema.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+Hablemos luego, ¿vale?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Si hago esto,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; no voy a poder
+ocuparme de lo otro.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pero luego
+tendría pendiente aquello otro...
+&#xE;&#x3;&#xF;&#x0;Ay, me has pillado mientras
+trataba de resolver un problema.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+Hablemos luego, ¿vale?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Vaya,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; es que tengo muchas cosas
+en las que pensar ahora mismo&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Mejor hablamos luego, ¿vale?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Vaya,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; es que tengo muchas cosas
+en las que pensar ahora mismo&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Mejor hablamos luego, ¿vale?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Perdona, pero no puedo hablar
+contigo ahora mismo.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Tengo
+que centrarme en otra cosa.</original>
+			<edited>&#xE;&#x3;	&#x0;Perdona, pero no puedo hablar
+contigo ahora mismo.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Tengo
+que centrarme en otra cosa.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

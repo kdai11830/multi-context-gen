@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Au fait,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tu voulais quoi ?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Au fait,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tu voulais quoi ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Mais bref, tu voulais m'parler d'un
+truc en particulier ?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Mais bref, tu voulais m'parler d'un
+truc en particulier ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Alors, qu'est-ce qui t'arrive ?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Alors, qu'est-ce qui t'arrive ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Y t'fallait quelque chose ?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Y t'fallait quelque chose ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Au fait,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; j'peux t'aider ?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Au fait,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; j'peux t'aider ?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

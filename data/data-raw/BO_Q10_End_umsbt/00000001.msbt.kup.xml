@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;¡Jugando al escondite hoy me he
+divertido más que en muchísimo
+tiempo!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¡Tenemos que repetirlo!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;¡Jugando al escondite hoy me he
+divertido más que en muchísimo
+tiempo!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¡Tenemos que repetirlo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;¡Qué bien se te da&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; encontrar a los
+demás, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; ¿Es que has ido
+a clases o algo así,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;¡Qué bien se te da&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; encontrar a los
+demás, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; ¿Es que has ido
+a clases o algo así,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>¡Tenemos que volver a jugar
+al escondite otro día,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>¡Tenemos que volver a jugar
+al escondite otro día,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

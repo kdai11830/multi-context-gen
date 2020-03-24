@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>What would you like to do?
+You can't save and continue right 
+now.&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Save and quit.
+Keep playing.</original>
+			<edited>What would you like to do?
+You can't save and continue right 
+now.&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Save and quit.
+Keep playing.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Preparing your town.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Do not touch .</original>
+			<edited>Preparing your town.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Do not touch .</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>What would you like to do?&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Save and quit.
+Save and continue.
+Keep playing.</original>
+			<edited>What would you like to do?&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Save and quit.
+Save and continue.
+Keep playing.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>
+Saving.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Do not touch .
+</original>
+			<edited>
+Saving.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Do not touch .
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>
+Saving complete!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; See you soon!</original>
+			<edited>
+Saving complete!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; See you soon!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>Unable to save. Your game will exit
+without saving.</original>
+			<edited>Unable to save. Your game will exit
+without saving.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>
+Saving.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Do not touch .
+</original>
+			<edited>
+Saving.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Do not touch .
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Unable to read game data.
+Your game will exit now.</original>
+			<edited>Unable to read game data.
+Your game will exit now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>Preparing to start game.
+Wait, and do not touch .</original>
+			<edited>Preparing to start game.
+Wait, and do not touch .</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Unable to read save data.
+Hold  to turn off the power, and 
+then reinsert the Game Card.</original>
+			<edited>Unable to read save data.
+Hold  to turn off the power, and 
+then reinsert the Game Card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>The save data is corrupted
+and will be deleted.</original>
+			<edited>The save data is corrupted
+and will be deleted.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>Yes</original>
+			<edited>Yes</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>No</original>
+			<edited>No</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>Reformatting save data.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Do not touch .</original>
+			<edited>Reformatting save data.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Do not touch .</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>A player is moving in.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Please finish
+moving into your new town.</original>
+			<edited>A player is moving in.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Please finish
+moving into your new town.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't save right now.</original>
+			<edited>
+You can't save right now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't save while dreaming.</original>
+			<edited>
+You can't save while dreaming.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>You can't save in the middle
+of a birthday party...</original>
+			<edited>You can't save in the middle
+of a birthday party...</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>You can't end the multiplayer
+session while you're on the boat...&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>You can't end the multiplayer
+session while you're on the boat...&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>
+What would you like to do? &#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+End the multiplayer session.
+Save.
+Cancel.</original>
+			<edited>
+What would you like to do? &#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+End the multiplayer session.
+Save.
+Cancel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>
+Confirming.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Please wait.&#xE;&#x7;&#x8;&#x4;&lt;&#x0;&#x0;&#x0;</original>
+			<edited>
+Confirming.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Please wait.&#xE;&#x7;&#x8;&#x4;&lt;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>
+Ending the multiplayer session.</original>
+			<edited>
+Ending the multiplayer session.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>
+Trying to save.
+</original>
+			<edited>
+Trying to save.
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>
+Please try saving again later. </original>
+			<edited>
+Please try saving again later. </edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>
+The multiplayer session has ended.</original>
+			<edited>
+The multiplayer session has ended.</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>Looks like saving is totally
+impossible here...&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>Looks like saving is totally
+impossible here...&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>Looks like we absolutely can't
+save on the island...&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>Looks like we absolutely can't
+save on the island...&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>Looks like we can't end this
+multiplayer session on the island...&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>Looks like we can't end this
+multiplayer session on the island...&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>StreetPass is being activated.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Do not touch .</original>
+			<edited>StreetPass is being activated.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Do not touch .</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>
+Saving.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Do not touch .</original>
+			<edited>
+Saving.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Do not touch .</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>Cannot use save data because it
+was not the last data saved.
+Delete data?</original>
+			<edited>Cannot use save data because it
+was not the last data saved.
+Delete data?</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>
+All data will be deleted. Is this OK?</original>
+			<edited>
+All data will be deleted. Is this OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>Deleted data cannot be recovered.
+Are you sure you want to delete all
+data?</original>
+			<edited>Deleted data cannot be recovered.
+Are you sure you want to delete all
+data?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

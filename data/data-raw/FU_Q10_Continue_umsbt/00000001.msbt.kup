@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¡Ya solo queda uno escondido!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;Esto está que arde&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;¡Buena suerte!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¡Ya solo queda uno escondido!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;Esto está que arde&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;¡Buena suerte!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Todavía te queda alguien por
+encontrar. Buena suerte con
+tu búsqueda, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Todavía te queda alguien por
+encontrar. Buena suerte con
+tu búsqueda, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Todavía te quedan dos!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;¡Suerte!&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Todavía te quedan dos!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;¡Suerte!&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡Aún te faltan dos!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Ay, ay, a ver
+cómo acaba esto.&#xE;&#x7;&#x1;&#x0; ¡Suerte!</original>
+			<edited>&#xE;&#x3;%&#x0;¡Aún te faltan dos!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Ay, ay, a ver
+cómo acaba esto.&#xE;&#x7;&#x1;&#x0; ¡Suerte!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

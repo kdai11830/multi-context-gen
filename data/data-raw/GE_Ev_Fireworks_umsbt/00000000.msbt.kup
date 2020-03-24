@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;	&#x0;
+&#x0;&#xB;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;	&#x0;
+&#x0;&#xB;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;&#x1E;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;&#x1E;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x4;&#xC;&#xF;&#x0;&#x10;&#x0;&#x11;&#x0;&#x12;&#x0;&#x13;&#x0;&#x1E;&#x0;</original>
+			<edited>&#xE;	&#x4;&#xC;&#xF;&#x0;&#x10;&#x0;&#x11;&#x0;&#x12;&#x0;&#x13;&#x0;&#x1E;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x14;&#x0;&#x15;&#x0;&#x16;&#x0;&#x1E;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x14;&#x0;&#x15;&#x0;&#x16;&#x0;&#x1E;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x17;&#x0;&#x18;&#x0;&#x19;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x17;&#x0;&#x18;&#x0;&#x19;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x1A;&#x0;&#x1B;&#x0;&#x1C;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x1A;&#x0;&#x1B;&#x0;&#x1C;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's almost time for the fireworks!
+&#xE;&#x3;&#x1D;&#x0;Sparkly things! &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Sparkly things!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I'm about to see &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;sparkly things!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's almost time for the fireworks!
+&#xE;&#x3;&#x1D;&#x0;Sparkly things! &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Sparkly things!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I'm about to see &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;sparkly things!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Just a little while&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; before the skies
+light up with fireworks!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0; I can't wait!</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Just a little while&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; before the skies
+light up with fireworks!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0; I can't wait!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;I love fireworks!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; As a matter of
+fact,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;'&#x0; I've been told my eyes sparkle
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;like beautiful fireworks!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;I love fireworks!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; As a matter of
+fact,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;'&#x0; I've been told my eyes sparkle
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;like beautiful fireworks!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;The &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;has finally
+started!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1F;&#x0; Go and light up the sky,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+you magical sparkly things!</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;The &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;has finally
+started!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1F;&#x0; Go and light up the sky,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+you magical sparkly things!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;The &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ in &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x5;&#x0;
+is, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;like, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;WAY better than anywhere
+else.&#xE;&#x3;&#x15;&#x0; Trust me,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I've seen 'em all!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;The &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ in &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x5;&#x0;
+is, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;like, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;WAY better than anywhere
+else.&#xE;&#x3;&#x15;&#x0; Trust me,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I've seen 'em all!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Not a bad start so far,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; huh?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;+&#x0;I bet
+they're gonna hit us &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;with the really&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+BIG fireworks soon, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Not a bad start so far,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; huh?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;+&#x0;I bet
+they're gonna hit us &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;with the really&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+BIG fireworks soon, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;I hope &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;SOMEONE in town&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; is taking
+advantage of this &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;utterly romantic
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ...</original>
+			<edited>&#xE;&#x3;+&#x0;I hope &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;SOMEONE in town&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; is taking
+advantage of this &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;utterly romantic
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ...</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;You can call me a firecracker,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+'cause I &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1F;&#x0;totally give off the same
+sparkling aura &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;as a lit firework!</original>
+			<edited>&#xE;&#x3;'&#x0;You can call me a firecracker,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+'cause I &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1F;&#x0;totally give off the same
+sparkling aura &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;as a lit firework!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;Aren't fireworks &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;SO romantic?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+They're like sparkly jewelry&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+for the beautiful night sky!
+&#xE;&#x3;'&#x0;Maybe someday someone special
+will buy ME fancy jewelry like that!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;Aren't fireworks &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;SO romantic?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+They're like sparkly jewelry&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+for the beautiful night sky!
+&#xE;&#x3;'&#x0;Maybe someday someone special
+will buy ME fancy jewelry like that!</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1F;&#x0;I can hear these fireworks and&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+FEEL them too!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; They're all,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; like,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x7;&#xB;&#x0;KA-&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;BOOM in my heart!</original>
+			<edited>&#xE;&#x3;&#x1F;&#x0;I can hear these fireworks and&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+FEEL them too!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; They're all,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; like,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x7;&#xB;&#x0;KA-&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;BOOM in my heart!</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;I totally believe&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; that every time
+you see a beautiful thing,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0; you get&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+just a little more beautiful yourself!
+&#xE;&#x3;&#x3;&#x0;I am gonna be &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;TOTALLY beautiful&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+after seeing all of these beautiful
+fireworks tonight, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;don't you think?</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;I totally believe&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; that every time
+you see a beautiful thing,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0; you get&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+just a little more beautiful yourself!
+&#xE;&#x3;&#x3;&#x0;I am gonna be &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;TOTALLY beautiful&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+after seeing all of these beautiful
+fireworks tonight, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;don't you think?</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Looks like the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+is starting to wind down.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xC;&#x0; That's,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+like, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;a total bummer!
+&#xE;&#x3;&#x16;&#x0;Time to practice&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; my photographic
+memory! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I want to remember these
+fireworks&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0; forever and ever!</original>
+			<edited>&#xE;&#x3;	&#x0;Looks like the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+is starting to wind down.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#xC;&#x0; That's,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+like, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;a total bummer!
+&#xE;&#x3;&#x16;&#x0;Time to practice&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; my photographic
+memory! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I want to remember these
+fireworks&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0; forever and ever!</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;The &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; is almost over.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;
+I'm gonna soak up &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;every last minute&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+of this sparkly spectacular!</original>
+			<edited>&#xE;&#x3;	&#x0;The &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; is almost over.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;
+I'm gonna soak up &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;every last minute&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+of this sparkly spectacular!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;I feel like I've missed half the
+fireworks&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; 'cause I've been so busy&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;
+TALKING about the fireworks!
+Awwww&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0; Why can't the fireworks
+just keep going &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;all night long?!</original>
+			<edited>&#xE;&#x3;	&#x0;I feel like I've missed half the
+fireworks&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; 'cause I've been so busy&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;
+TALKING about the fireworks!
+Awwww&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0; Why can't the fireworks
+just keep going &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;all night long?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;Is the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ over? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;That's,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+like, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;so sad. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;But at least we know&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+we'll have another one next week!</original>
+			<edited>&#xE;&#x3;
+&#x0;Is the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ over? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;That's,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+like, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;so sad. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;But at least we know&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+we'll have another one next week!</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Weren't those fireworks, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;like,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+totally&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; AMAZING?! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;How are they
+gonna improve on that&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; next week?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Weren't those fireworks, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;like,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+totally&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; AMAZING?! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;How are they
+gonna improve on that&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; next week?</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Summer and fireworks&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; go together
+like,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; well, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;summer and sun! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Or like
+summer and &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0;!
+&#xE;&#x3;&#x3;&#x0;The best part is,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; we get to do it all
+over again&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; next week! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;I'm already
+super psyched for it,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Summer and fireworks&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; go together
+like,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; well, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;summer and sun! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Or like
+summer and &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0;!
+&#xE;&#x3;&#x3;&#x0;The best part is,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; we get to do it all
+over again&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; next week! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;I'm already
+super psyched for it,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;No more fireworks,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; huh?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0; I don't
+know how I'm gonna wait&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; a whole
+'nother year &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;for the next show!</original>
+			<edited>&#xE;&#x3;	&#x0;No more fireworks,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; huh?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0; I don't
+know how I'm gonna wait&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; a whole
+'nother year &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;for the next show!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;There's no &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;WAY I can wait a whole
+year&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; for another &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+But I guess&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0; I have no choice...
+&#xE;&#x3;'&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;at least I can start imagining&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+next year's show! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x4;&#x0;Maybe I'll fall in
+love &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;beneath the sparkly skies!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;There's no &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;WAY I can wait a whole
+year&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; for another &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+But I guess&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0; I have no choice...
+&#xE;&#x3;'&#x0;Well, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;at least I can start imagining&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+next year's show! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x4;&#x0;Maybe I'll fall in
+love &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;beneath the sparkly skies!</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;I'm sad &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;that the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ has
+ended&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but I'm totally &#xE;&#x3;&#x1D;&#x0;HAPPY that
+we'll have another show &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;next year!</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;I'm sad &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;that the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fireworks show&#xE;&#x0;&#x3;&#x2;ÿÿ has
+ended&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;but I'm totally &#xE;&#x3;&#x1D;&#x0;HAPPY that
+we'll have another show &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;next year!</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;My neck hurts&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; from staring up at
+all these beautiful fireworks,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0; but
+it's totally worth it!
+&#xE;&#x3;&#x1;&#x0;You know you can press up &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;on  &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+to look up at the sky, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;right?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+You get the best view that way!</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;My neck hurts&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; from staring up at
+all these beautiful fireworks,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0; but
+it's totally worth it!
+&#xE;&#x3;&#x1;&#x0;You know you can press up &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;on  &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+to look up at the sky, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;right?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+You get the best view that way!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

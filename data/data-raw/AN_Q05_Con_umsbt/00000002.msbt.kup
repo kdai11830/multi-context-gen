@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Amène-moi un gros meuble !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Peu
+importe lequel,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; le premier qui
+t'passe par la tête,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Amène-moi un gros meuble !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Peu
+importe lequel,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; le premier qui
+t'passe par la tête,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;J'cherche un meuble pour combler
+un espace ni trop gros... ni trop
+p'tit !
+&#xE;&#x3;&#x15;&#x0;Contente-toi de m'en amener un de
+taille moyenne, en gros !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;J'cherche un meuble pour combler
+un espace ni trop gros... ni trop
+p'tit !
+&#xE;&#x3;&#x15;&#x0;Contente-toi de m'en amener un de
+taille moyenne, en gros !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Y m'faut un meuble de p'tite taille !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Y m'reste un emplacement riquiqui à
+occuper...
+&#xE;&#x3;%&#x0;Si t'as l'moindre truc qui pourrait
+faire l'affaire, file-le moi, OK ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Y m'faut un meuble de p'tite taille !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Y m'reste un emplacement riquiqui à
+occuper...
+&#xE;&#x3;%&#x0;Si t'as l'moindre truc qui pourrait
+faire l'affaire, file-le moi, OK ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Y m'faut un truc d'la même taille
+qu'&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Amène-moi c'que tu trouveras,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Y m'faut un truc d'la même taille
+qu'&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Amène-moi c'que tu trouveras,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;J'cherche un truc que j'puisse poser
+sur un autre meuble !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;T'aurais pas
+ça en stock ?</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;J'cherche un truc que j'puisse poser
+sur un autre meuble !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;T'aurais pas
+ça en stock ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;J'cherche un truc que j'puisse poser
+sur un meuble à la place
+d'&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;...
+&#xE;&#x3;%&#x0;Amène-moi du bon matos !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;J'cherche un truc que j'puisse poser
+sur un meuble à la place
+d'&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;...
+&#xE;&#x3;%&#x0;Amène-moi du bon matos !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;J'cherche quelque chose à
+accrocher au mur !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Amène-moi
+c'que t'as d'mieux,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;J'cherche quelque chose à
+accrocher au mur !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Amène-moi
+c'que t'as d'mieux,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;J'cherche un truc à fixer au mur qui
+remplace avantageusement &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; !
+Si tu tombes sur quelque chose de
+cool, t'sais où m'trouver !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;J'cherche un truc à fixer au mur qui
+remplace avantageusement &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; !
+Si tu tombes sur quelque chose de
+cool, t'sais où m'trouver !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;J'cherche un meuble qui par sa seule
+présence transfigure la pièce où y
+s'trouve ! Un truc qu'a du chien !
+&#xE;&#x3;%&#x0;Peu importe le style,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; tant qu'ça en
+jette !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;J'cherche un meuble qui par sa seule
+présence transfigure la pièce où y
+s'trouve ! Un truc qu'a du chien !
+&#xE;&#x3;%&#x0;Peu importe le style,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; tant qu'ça en
+jette !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

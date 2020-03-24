@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Chupi!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Chupi!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Pues decidido, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Pues decidido, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡No te arrepentirás!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡No te arrepentirás!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Ya verás como le dará a tu
+casa el toque de modernidad
+que le falta!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Ya verás como le dará a tu
+casa el toque de modernidad
+que le falta!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Seguro que quedará divinamente
+en tu casa, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Seguro que quedará divinamente
+en tu casa, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Quedaba ideal en mi casa.
+Espero que también sea así
+en la tuya.</original>
+			<edited>&#xE;&#x3;'&#x0;Quedaba ideal en mi casa.
+Espero que también sea así
+en la tuya.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

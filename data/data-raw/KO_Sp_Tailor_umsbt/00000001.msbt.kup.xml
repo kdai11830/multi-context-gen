@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Sí, lo confieso: hasta a mí
+me cuesta a veces decidir
+qué me pongo,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Sí, lo confieso: hasta a mí
+me cuesta a veces decidir
+qué me pongo,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ponerse lo mismo todos los días
+sería aburridísimo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿no?</original>
+			<edited>&#xE;&#x3;%&#x0;Ponerse lo mismo todos los días
+sería aburridísimo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿no?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;¡Eh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Has visto algo que te guste?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3; &#x0;¡Eh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Has visto algo que te guste?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ya solo el hecho de probarse trapos
+puede ser entretenido.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;Sí, me gusta
+arreglarme a veces,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡¿qué pasa?!</original>
+			<edited>&#xE;&#x3;%&#x0;Ya solo el hecho de probarse trapos
+puede ser entretenido.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;Sí, me gusta
+arreglarme a veces,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡¿qué pasa?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡Aaah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;¿Vienes de fuera para
+hacer unas compras?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡Aaah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;¿Vienes de fuera para
+hacer unas compras?</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¿Buscas algo en particular
+o solo estás mirando?</original>
+			<edited>&#xE;&#x3;%&#x0;¿Buscas algo en particular
+o solo estás mirando?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

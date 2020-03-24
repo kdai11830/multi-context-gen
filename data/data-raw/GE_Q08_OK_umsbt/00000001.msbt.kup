@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Chupi! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0;¡Venga, vamos!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Chupi! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0;¡Venga, vamos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Viva! ¡Voy detrás de ti,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Viva! ¡Voy detrás de ti,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Yupi! ¡Lo pasaremos requetebién!
+¡Te sigo hasta tu casa, venga!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Yupi! ¡Lo pasaremos requetebién!
+¡Te sigo hasta tu casa, venga!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

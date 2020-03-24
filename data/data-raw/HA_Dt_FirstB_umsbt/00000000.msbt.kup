@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You live in this town?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I mean,
+not to be nosy or anything.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It's just that I used to live here, and
+I'm not great with names and faces.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;But don't worry! I won't get lost
+or anything, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You live in this town?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I mean,
+not to be nosy or anything.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;It's just that I used to live here, and
+I'm not great with names and faces.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;But don't worry! I won't get lost
+or anything, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Yeahhhh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Shoppin' in &#xE;&#x5;&#x5;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Yeahhhh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Shoppin' in &#xE;&#x5;&#x5;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; You from this town?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; I actually
+used to live here a while back.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;This shopping area was part of my
+daily jogging route, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3; &#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; You from this town?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; I actually
+used to live here a while back.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;This shopping area was part of my
+daily jogging route, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Even though I moved away, I always
+end up visiting &#xE;&#x5;&#x5;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Memory
+lane is a good little jog!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Even though I moved away, I always
+end up visiting &#xE;&#x5;&#x5;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Memory
+lane is a good little jog!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;"&#x0;Hoooo!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I went jogging and ended up
+here.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Let me just cool down a bit!</original>
+			<edited>&#xE;&#x3;"&#x0;Hoooo!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I went jogging and ended up
+here.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Let me just cool down a bit!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

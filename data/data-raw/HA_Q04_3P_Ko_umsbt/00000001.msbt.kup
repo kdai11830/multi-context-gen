@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3; &#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Habéis llegado, troncos.&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3; &#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Habéis llegado, troncos.&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x2;&#x0;¡Ja, ja!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡Así que habéis podido
+venir!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Gracias por currártelo,
+&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x2;&#x0;¡Ja, ja!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡Así que habéis podido
+venir!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Gracias por currártelo,
+&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&amp;&#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡Bienvenidos!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&amp;&#x0;¡Hola!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡Bienvenidos!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x1B;&#x0;¡Eh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Llegáis tarde!&#xE;&#x0;&#x4;&#x0;¡Ya me había cansado de esperar
+e iba a ir a buscaros, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x6;&#x0;&#xE;&#x3;&#x1B;&#x0;¡Eh!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Llegáis tarde!&#xE;&#x0;&#x4;&#x0;¡Ya me había cansado de esperar
+e iba a ir a buscaros, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;¡Buenas!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; A ver,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿para qué
+me querías?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;¡Buenas!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; A ver,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿para qué
+me querías?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;Aquí me tienes,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;¿Qué te pica?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;Aquí me tienes,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;¿Qué te pica?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;Buenas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; me ha
+arrastrado hasta aquí.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;¿Qué tripa se te ha roto?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x8;&#x0;Buenas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; me ha
+arrastrado hasta aquí.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;¿Qué tripa se te ha roto?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;&#x1A;&#x0;Hum&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; A ver&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ya es hora de que
+te devuelva esto.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Me lo prestaste
+hace mucho tiempo!
+&#xE;&#x3;&amp;&#x0;¡Así que toma!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Gracias,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;&#x1A;&#x0;Hum&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; A ver&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ya es hora de que
+te devuelva esto.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Me lo prestaste
+hace mucho tiempo!
+&#xE;&#x3;&amp;&#x0;¡Así que toma!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Gracias,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#xB;&#x0;¡Mi &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Es cierto que te l&#xE;&#xE;&#x12;&#xC;&#x10;&#x0;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x0;&#x0; presté.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Ya temía que tuvieras intención
+de quedártel&#xE;&#xE;&#x12;&#xC;&#x10;&#x0;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;¡Eres un tío decente,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#xB;&#x0;¡Mi &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Es cierto que te l&#xE;&#xE;&#x12;&#xC;&#x10;&#x0;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x0;&#x0; presté.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Ya temía que tuvieras intención
+de quedártel&#xE;&#xE;&#x12;&#xC;&#x10;&#x0;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;¡Eres un tío decente,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;¿Sabes esa cosa de la que siempre
+me hablabas? Pues&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; ¡resulta que
+la encontré!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Y te la he comprado!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;¿Sabes esa cosa de la que siempre
+me hablabas? Pues&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; ¡resulta que
+la encontré!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Y te la he comprado!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;¡Qué excelente noticia!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ya no sé
+el tiempo que llevaba buscando
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.
+&#xE;&#x3;&amp;&#x0;Ya no quedan tipos como tú,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Estoy en deuda contigo.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;¡Qué excelente noticia!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ya no sé
+el tiempo que llevaba buscando
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.
+&#xE;&#x3;&amp;&#x0;Ya no quedan tipos como tú,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Estoy en deuda contigo.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;Resulta que estaba por ahí fuera
+jugando a la rayuela extrema&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+y me encontré una cosilla.
+&#xE;&#x3;&#x1;&#x0;Esto es tuyo, ¿no?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;Resulta que estaba por ahí fuera
+jugando a la rayuela extrema&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+y me encontré una cosilla.
+&#xE;&#x3;&#x1;&#x0;Esto es tuyo, ¿no?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#xB;&#x0;¡Albricias!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Claro que es mío!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Es mi &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,
+nada menos.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ¡Gracias,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!
+&#xE;&#x3;+&#x0;Además, aquí donde l&#xE;&#xE;&#x12;&#xC;&#x10;&#x0;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x0;&#x0; ves,
+est&#xE;&#xE;&#x12;&#xC;&#x10;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;a&#x0;&#x0;&#x0; &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+tiene su historia.
+Era pleno agosto.&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0; Un sábado,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; en vez
+de &#xE;&#x5;&#x12;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; decidí leer
+"&#xE;&#x5;&#x1D;&#x2;&#x0;&#x0;"&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Pensándolo mejor,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;igual la historia
+no es tan interesante como pensaba,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x10;&#x0;&#xE;&#x7;&#xB;&#x0;¡Albricias!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Claro que es mío!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Es mi &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;,
+nada menos.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ¡Gracias,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!
+&#xE;&#x3;+&#x0;Además, aquí donde l&#xE;&#xE;&#x12;&#xC;&#x10;&#x0;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;&#x0;&#x0; ves,
+est&#xE;&#xE;&#x12;&#xC;&#x10;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;a&#x0;&#x0;&#x0; &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+tiene su historia.
+Era pleno agosto.&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0; Un sábado,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; en vez
+de &#xE;&#x5;&#x12;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; decidí leer
+"&#xE;&#x5;&#x1D;&#x2;&#x0;&#x0;"&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Pensándolo mejor,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;(&#x0;igual la historia
+no es tan interesante como pensaba,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;&#x15;&#x0;El caso es que&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; me gustaría
+aprender cosas de esas de listos.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xB;&#x0;A ver si puedes enseñarme algo.
+Porque a ti te gusta pensar.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; ¡Y
+además vienes cuando te llamo!
+&#xE;&#x3;&#x17;&#x0;¿Entonces qué?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿Me ayudas?&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;&#x15;&#x0;El caso es que&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; me gustaría
+aprender cosas de esas de listos.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xB;&#x0;A ver si puedes enseñarme algo.
+Porque a ti te gusta pensar.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; ¡Y
+además vienes cuando te llamo!
+&#xE;&#x3;&#x17;&#x0;¿Entonces qué?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¿Me ayudas?&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;¿Buscas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;un mentor? &#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Me mondo!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Me troncho!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Me desternillo!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x18;&#x0;¿Pero tú sabes lo que me estás
+pidiendo?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Hay quien solo sabe contar con los
+dedos,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; y tú solo sabes contar&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡flexiones!
+&#xE;&#x3;(&#x0;Qué va,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; qué va,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; llevaría mucho
+tiempo y yo ya no tengo edad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;Esto me pasa por venir.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ofrece
+uno la mano y le agarran el brazo&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;¿Buscas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;un mentor? &#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Me mondo!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Me troncho!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Me desternillo!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x18;&#x0;¿Pero tú sabes lo que me estás
+pidiendo?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Hay quien solo sabe contar con los
+dedos,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; y tú solo sabes contar&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¡flexiones!
+&#xE;&#x3;(&#x0;Qué va,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; qué va,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; llevaría mucho
+tiempo y yo ya no tengo edad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;Esto me pasa por venir.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ofrece
+uno la mano y le agarran el brazo&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;!&#x0;Hoy voy a hacerte un favor.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Porque hoy puedes llamarme&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡&#xE;&#x5;&#x1;&#x0;, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;el maestro del masaje!
+&#xE;&#x3;&#x15;&#x0;Me han dicho que tienes la cabeza
+muy dura.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0; ¡Yo te la ablandaré con
+un masaje de mis manos mágicas!&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#x3;!&#x0;Hoy voy a hacerte un favor.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Porque hoy puedes llamarme&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡&#xE;&#x5;&#x1;&#x0;, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;el maestro del masaje!
+&#xE;&#x3;&#x15;&#x0;Me han dicho que tienes la cabeza
+muy dura.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0; ¡Yo te la ablandaré con
+un masaje de mis manos mágicas!&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡La cabeza no es
+un músculo!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;No se ablanda tan
+fácilmente.
+&#xE;&#x3;&#x15;&#x0;Además,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; tener la cabeza dura
+significa otra cosa.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Significa que
+una persona es muy testaruda y&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;¡Un momento!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ¿Eso es lo
+que la gente dice de mí?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+¿Que soy un cabezota?
+&#xE;&#x3;
+&#x0;Y que me tenga que enterar por ti&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡La cabeza no es
+un músculo!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;No se ablanda tan
+fácilmente.
+&#xE;&#x3;&#x15;&#x0;Además,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; tener la cabeza dura
+significa otra cosa.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Significa que
+una persona es muy testaruda y&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x12;&#x0;&#xE;&#x7;&#xB;&#x0;¡Un momento!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ¿Eso es lo
+que la gente dice de mí?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+¿Que soy un cabezota?
+&#xE;&#x3;
+&#x0;Y que me tenga que enterar por ti&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>Bueno, creo que con esto ya he
+socializado para toda la semana.&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0;
+Tomo el camino,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;Siento que te hayas tomado tantas
+molestias para tan poca cosa,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>Bueno, creo que con esto ya he
+socializado para toda la semana.&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0;
+Tomo el camino,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;Siento que te hayas tomado tantas
+molestias para tan poca cosa,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Y dicho esto,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; creo que lo más
+prudente es agarrar la puerta
+y no volver en una temporadica.&#xE;&#x0;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; tú asegúrate de que
+este cabeza de bíceps te dé algo
+decente por hacerle los recados.</original>
+			<edited>Y dicho esto,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; creo que lo más
+prudente es agarrar la puerta
+y no volver en una temporadica.&#xE;&#x0;&#x4;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; tú asegúrate de que
+este cabeza de bíceps te dé algo
+decente por hacerle los recados.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>Y así hemos echado el rato.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Me voy a casa,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; que me espera
+mi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; musaraña.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;¡Adiós muy buenas!</original>
+			<edited>Y así hemos echado el rato.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Me voy a casa,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; que me espera
+mi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; musaraña.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;¡Adiós muy buenas!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

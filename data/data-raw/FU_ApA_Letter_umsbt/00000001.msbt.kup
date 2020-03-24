@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Mira lo que tengo, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Una carta!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Mira lo que tengo, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Una carta!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡He recibido una carta fantástica!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;¡Tienes que leerla!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡He recibido una carta fantástica!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;%&#x0;¡Tienes que leerla!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x4;&#x0;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x4;&#x0;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Lo que más feliz me hace es saber
+que quien escribió esta carta
+puso todo su empeño.&#xE;&#x3;&amp;&#x0;
+&#xE;&#x3;%&#x0;¡Alguien que se esfuerza tanto
+por mí&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;se merece mi amistad,
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Lo que más feliz me hace es saber
+que quien escribió esta carta
+puso todo su empeño.&#xE;&#x3;&amp;&#x0;
+&#xE;&#x3;%&#x0;¡Alguien que se esfuerza tanto
+por mí&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;se merece mi amistad,
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Esta carta es tan expresiva...&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x15;&#x0;Ojalá yo supiera escribir cartas
+así...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Esta carta es tan expresiva...&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x15;&#x0;Ojalá yo supiera escribir cartas
+así...</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Qué te ha parecido?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;+&#x0;A mí me ha emocionado.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; He notado
+como una sacudida en el corazón.
+&#xE;&#x3;%&#x0;Si recibo otra carta tan bonita,
+me aseguraré de enseñártela.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Qué te ha parecido?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;+&#x0;A mí me ha emocionado.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; He notado
+como una sacudida en el corazón.
+&#xE;&#x3;%&#x0;Si recibo otra carta tan bonita,
+me aseguraré de enseñártela.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡He recibido una carta estupenda!&#xE;&#x7;&#x1;&#x0;
+¡Toma, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;léela!&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡He recibido una carta estupenda!&#xE;&#x7;&#x1;&#x0;
+¡Toma, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;léela!&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Ah, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¡Echa un vistazo a esta carta!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Ah, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¡Echa un vistazo a esta carta!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;
+&#x0;&#xB;&#x0;&#xC;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;
+&#x0;&#xB;&#x0;&#xC;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¿Qué te parece esta carta? &#xE;&#x7;&#x0;&#x4;&#xE;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;Bonita, ¿eh?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;¡Lo importante no es lo que dice,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;sino cómo lo dice!&#xE;&#x3;&amp;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¿Qué te parece esta carta? &#xE;&#x7;&#x0;&#x4;&#xE;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;Bonita, ¿eh?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;¡Lo importante no es lo que dice,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;sino cómo lo dice!&#xE;&#x3;&amp;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Estoy muy agradecida de tener
+a alguien que me escriba estas
+cartas tan fantásticas!
+&#xE;&#x3;&#x4;&#x0;¡Las guardaré como un tesoro!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Estoy muy agradecida de tener
+a alguien que me escriba estas
+cartas tan fantásticas!
+&#xE;&#x3;&#x4;&#x0;¡Las guardaré como un tesoro!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;El contenido de esta carta
+hace que me sienta muy querida.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;La leeré antes dormir. ¡Seguro que
+así tendré felices sueños!</original>
+			<edited>&#xE;&#x3;%&#x0;El contenido de esta carta
+hace que me sienta muy querida.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;La leeré antes dormir. ¡Seguro que
+así tendré felices sueños!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

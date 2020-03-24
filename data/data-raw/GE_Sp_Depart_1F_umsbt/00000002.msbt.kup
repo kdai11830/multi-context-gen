@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#xC;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#xC;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x0;&#x6;&#x2;	&#x0;
+&#x0;Í</original>
+			<edited>&#xE;
+&#x0;&#x6;&#x2;	&#x0;
+&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Les vendeurs des deux étages se
+ressemblent trop, c'est pas
+possible !
+&#xE;&#x3;&#x16;&#x0;Remarque, qu'est-ce qui me dit que
+c'est pas la même personne ? Il doit
+être crevé en fin de journée !!!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Les vendeurs des deux étages se
+ressemblent trop, c'est pas
+possible !
+&#xE;&#x3;&#x16;&#x0;Remarque, qu'est-ce qui me dit que
+c'est pas la même personne ? Il doit
+être crevé en fin de journée !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Y'a tellement de trucs à acheter à
+chaque étage&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est dangereux,
+hi hi hi !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Y'a tellement de trucs à acheter à
+chaque étage&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est dangereux,
+hi hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Je sais pas quoi acheter&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. Mais je
+ferais bien de me décider sinon tu
+vas l'acheter avant moi, hi hi hi !</original>
+			<edited>&#xE;&#x3;%&#x0;Je sais pas quoi acheter&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. Mais je
+ferais bien de me décider sinon tu
+vas l'acheter avant moi, hi hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ouais, c'est la classe ici...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Sans
+parler du deuxième étage !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Y'a trop
+de trucs à voir, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ouais, c'est la classe ici...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Sans
+parler du deuxième étage !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Y'a trop
+de trucs à voir, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;J'ai un milliard de choses à acheter
+aujourd'hui...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je vais leur suggérer
+la livraison à domicile !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;J'ai un milliard de choses à acheter
+aujourd'hui...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je vais leur suggérer
+la livraison à domicile !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>Dring-dring-dring ! Tu es le millième
+client du jour, bravo ! T'as gagné le
+droit de visiter &#xE;&#x5;&#x5;&#x0;, hi hi !</original>
+			<edited>Dring-dring-dring ! Tu es le millième
+client du jour, bravo ! T'as gagné le
+droit de visiter &#xE;&#x5;&#x5;&#x0;, hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x0;&#x6;&#x2;&#x7;&#x0;&#x8;&#x0;Í</original>
+			<edited>&#xE;
+&#x0;&#x6;&#x2;&#x7;&#x0;&#x8;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

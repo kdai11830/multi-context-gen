@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>¡Voy a pillarme unas herramientas
+y empezaré a hacerme las cosas
+yo mismo, a lo rey del bricolaje!</original>
+			<edited>¡Voy a pillarme unas herramientas
+y empezaré a hacerme las cosas
+yo mismo, a lo rey del bricolaje!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Las tiendas estas de utensilios
+son unos sitios tremendos, ¿eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Aquí hay potencial para lo que sea!</original>
+			<edited>Las tiendas estas de utensilios
+son unos sitios tremendos, ¿eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Aquí hay potencial para lo que sea!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#xB;&#x0;¡Atiza!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡¿Tienen aquí todo esto?!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Hay cosas que no me esperaba!</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#xB;&#x0;¡Atiza!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡¿Tienen aquí todo esto?!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;¡Hay cosas que no me esperaba!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Tú también te vas a comprar
+algunas cosillas?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Tú también te vas a comprar
+algunas cosillas?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Las tiendas como esta son mucho
+más de mi rollo que esos otros
+sitios tan finos,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Las tiendas como esta son mucho
+más de mi rollo que esos otros
+sitios tan finos,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

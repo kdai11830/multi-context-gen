@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;Bon, ben t'as gagné, &#xE;&#x5;&#x8;&#x0;...&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Tiens,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; voici ton prix.</original>
+			<edited>&#xE;&#x3;
+&#x0;Bon, ben t'as gagné, &#xE;&#x5;&#x8;&#x0;...&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Tiens,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; voici ton prix.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; t'assures, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Un peu
+trop à mon goût, même !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Mais bref,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; tiens, c'est l'prix qu'tu
+viens d'remporter !</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; t'assures, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Un peu
+trop à mon goût, même !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Mais bref,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; tiens, c'est l'prix qu'tu
+viens d'remporter !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Avoue&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; T'as suivi un stage de
+formation en cache-cache ou quoi ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Tiens, ton prix.</original>
+			<edited>&#xE;&#x3;$&#x0;Avoue&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; T'as suivi un stage de
+formation en cache-cache ou quoi ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Tiens, ton prix.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

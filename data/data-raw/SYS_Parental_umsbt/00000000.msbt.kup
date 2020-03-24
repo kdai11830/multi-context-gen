@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Please enter the PIN that's set in
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls&#xE;&#x0;&#x3;&#x2;ÿÿ on the system.</original>
+			<edited>Please enter the PIN that's set in
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls&#xE;&#x0;&#x3;&#x2;ÿÿ on the system.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>
+The PIN is incorrect.</original>
+			<edited>
+The PIN is incorrect.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Do you want to create an exception
+for this game?&#xE;&#x0;&#x4;&#x0;This will always allow use of these
+communication features when you
+play this game on this system.&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes, always allow.
+No, allow this time only.</original>
+			<edited>Do you want to create an exception
+for this game?&#xE;&#x0;&#x4;&#x0;This will always allow use of these
+communication features when you
+play this game on this system.&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes, always allow.
+No, allow this time only.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>The restrictions will be removed
+for this instance. They will return
+if you quit and restart the game.</original>
+			<edited>The restrictions will be removed
+for this instance. They will return
+if you quit and restart the game.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Saving the settings.
+Do not touch .</original>
+			<edited>Saving the settings.
+Do not touch .</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>Wireless communication features
+will be available whenever you play
+on this system from now on.
+To reactivate the restrictions,
+please select &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls&#xE;&#x0;&#x3;&#x2;ÿÿ
+from the title screen.</original>
+			<edited>Wireless communication features
+will be available whenever you play
+on this system from now on.
+To reactivate the restrictions,
+please select &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls&#xE;&#x0;&#x3;&#x2;ÿÿ
+from the title screen.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>The Dream Suite allows you to
+see other people's towns and show
+others your town via the Internet.
+Because you will be able to share
+your town, custom designs, and
+comments on your TPC...&#xE;&#x0;&#x4;&#x0;systems that have a restriction on
+Sharing Images / Audio / Video /
+Long Text Data...
+will not have access to features
+such as the Dream Suite.&#xE;&#x0;&#x4;&#x0;In &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ, you
+can keep Parental Controls on the
+system...
+but only allow the use of these
+features during a play session of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Would you like to do this and allow
+the use of features like the Dream
+Suite on this system?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>The Dream Suite allows you to
+see other people's towns and show
+others your town via the Internet.
+Because you will be able to share
+your town, custom designs, and
+comments on your TPC...&#xE;&#x0;&#x4;&#x0;systems that have a restriction on
+Sharing Images / Audio / Video /
+Long Text Data...
+will not have access to features
+such as the Dream Suite.&#xE;&#x0;&#x4;&#x0;In &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ, you
+can keep Parental Controls on the
+system...
+but only allow the use of these
+features during a play session of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Would you like to do this and allow
+the use of features like the Dream
+Suite on this system?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Currently, features like the Dream
+Suite that allow communication
+with others have been allowed...
+but you are playing on a different
+system than the one you have
+allowed these features on.
+On this system, Sharing Images /
+Audio / Video / Long Text Data has
+been restricted.
+Would you like to allow this system
+to use features such as the Dream
+Suite...
+during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>Currently, features like the Dream
+Suite that allow communication
+with others have been allowed...
+but you are playing on a different
+system than the one you have
+allowed these features on.
+On this system, Sharing Images /
+Audio / Video / Long Text Data has
+been restricted.
+Would you like to allow this system
+to use features such as the Dream
+Suite...
+during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>By using the station, you can see
+other people's towns and show
+others your town via the Internet.
+Because connecting with another
+person allows you to see...&#xE;&#x0;&#x4;&#x0;each other's towns, custom designs,
+TPCs, bulletin boards, letters, and
+in-game text chat...
+systems that have a restriction on
+Sharing Images / Audio / Video /
+Long Text Data...
+will not have access to features
+such as the station.&#xE;&#x0;&#x4;&#x0;In &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ, you
+can keep Parental Controls on the
+system...
+but allow the use of these features
+only during play sessions with
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Would you like to do this and allow
+the use of features like the station?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>By using the station, you can see
+other people's towns and show
+others your town via the Internet.
+Because connecting with another
+person allows you to see...&#xE;&#x0;&#x4;&#x0;each other's towns, custom designs,
+TPCs, bulletin boards, letters, and
+in-game text chat...
+systems that have a restriction on
+Sharing Images / Audio / Video /
+Long Text Data...
+will not have access to features
+such as the station.&#xE;&#x0;&#x4;&#x0;In &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ, you
+can keep Parental Controls on the
+system...
+but allow the use of these features
+only during play sessions with
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Would you like to do this and allow
+the use of features like the station?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>Currently, features like the station
+that allow communication
+with others have been allowed.
+However, you are playing on a
+different system than the one
+you have allowed these features on.
+On this system, Sharing Images /
+Audio / Video / Long Text Data
+has been restricted.
+Would you like to allow this system
+to use communication features like
+the station...
+during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>Currently, features like the station
+that allow communication
+with others have been allowed.
+However, you are playing on a
+different system than the one
+you have allowed these features on.
+On this system, Sharing Images /
+Audio / Video / Long Text Data
+has been restricted.
+Would you like to allow this system
+to use communication features like
+the station...
+during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>The HH Showcase allows you to 
+exchange data with strangers using
+the StreetPass function.
+Because you can share towns,
+players, TPCs, and custom designs
+placed indoors and on your person...
+systems that have a restriction on
+Sharing Images / Audio / Video /
+Long Text Data...
+will not have access to features
+such as the HH Showcase.&#xE;&#x0;&#x4;&#x0;In &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ, you
+can keep Parental Controls on the
+system...
+but allow the use of these features
+only during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Would you like to do this and
+allow the use of features like
+the HH Showcase?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>The HH Showcase allows you to 
+exchange data with strangers using
+the StreetPass function.
+Because you can share towns,
+players, TPCs, and custom designs
+placed indoors and on your person...
+systems that have a restriction on
+Sharing Images / Audio / Video /
+Long Text Data...
+will not have access to features
+such as the HH Showcase.&#xE;&#x0;&#x4;&#x0;In &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ, you
+can keep Parental Controls on the
+system...
+but allow the use of these features
+only during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Would you like to do this and
+allow the use of features like
+the HH Showcase?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>Currently, features such as the HH
+Showcase that allow communication
+with others have been allowed.
+However, you are playing on a
+different system than the one
+you have allowed these features on.
+On this system, Sharing Images /
+Audio / Video / Long Text Data
+has been restricted.
+Would you like to allow this system
+to use communication features like
+the HH Showcase...
+during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>Currently, features such as the HH
+Showcase that allow communication
+with others have been allowed.
+However, you are playing on a
+different system than the one
+you have allowed these features on.
+On this system, Sharing Images /
+Audio / Video / Long Text Data
+has been restricted.
+Would you like to allow this system
+to use communication features like
+the HH Showcase...
+during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>You can play with other members
+of Club Tortimer via an Internet
+connection while on the island.
+Because you can see each other's
+custom designs and TPCs, as well
+as talk using in-game text chat...
+systems that have a restriction on
+Sharing Images / Audio / Video /
+Long Text Data...
+will not have access to this, along
+with other features that allow the
+sharing of information.
+In &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ, you
+can keep Parental Controls on the
+system...
+but allow the use of these features
+only during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Would you like to proceed and allow
+the use of this and other wireless
+communication features?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>You can play with other members
+of Club Tortimer via an Internet
+connection while on the island.
+Because you can see each other's
+custom designs and TPCs, as well
+as talk using in-game text chat...
+systems that have a restriction on
+Sharing Images / Audio / Video /
+Long Text Data...
+will not have access to this, along
+with other features that allow the
+sharing of information.
+In &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ, you
+can keep Parental Controls on the
+system...
+but allow the use of these features
+only during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Would you like to proceed and allow
+the use of this and other wireless
+communication features?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>Currently, features like the Club
+Tortimer membership, which allow
+communication with others...
+have been allowed.&#xE;&#x0;&#x4;&#x0;However, you are playing on a
+different system than the one
+you have allowed these features on.
+On this system, Sharing Images /
+Audio / Video / Long Text Data
+has been restricted.
+Would you like to allow this system
+to use communication features like
+the Club Tortimer membership...
+during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</original>
+			<edited>Currently, features like the Club
+Tortimer membership, which allow
+communication with others...
+have been allowed.&#xE;&#x0;&#x4;&#x0;However, you are playing on a
+different system than the one
+you have allowed these features on.
+On this system, Sharing Images /
+Audio / Video / Long Text Data
+has been restricted.
+Would you like to allow this system
+to use communication features like
+the Club Tortimer membership...
+during play sessions of
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;Animal Crossing: New Leaf&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Yes.
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>Parental consent is required to use
+any features that allow sharing of
+personal data.
+Please refer to the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Child Online
+Privacy Protection&#xE;&#x0;&#x3;&#x2;ÿÿ restriction.&#xE;&#x0;&#x4;&#x0;This can be located in &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;System
+Settings&#xE;&#x0;&#x3;&#x2;ÿÿ under &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>Parental consent is required to use
+any features that allow sharing of
+personal data.
+Please refer to the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Child Online
+Privacy Protection&#xE;&#x0;&#x3;&#x2;ÿÿ restriction.&#xE;&#x0;&#x4;&#x0;This can be located in &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;System
+Settings&#xE;&#x0;&#x3;&#x2;ÿÿ under &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>Please enter the PIN that's set in
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls&#xE;&#x0;&#x3;&#x2;ÿÿ on the system.</original>
+			<edited>Please enter the PIN that's set in
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls&#xE;&#x0;&#x3;&#x2;ÿÿ on the system.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>
+The PIN is incorrect.</original>
+			<edited>
+The PIN is incorrect.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>
+There was no PIN entered.</original>
+			<edited>
+There was no PIN entered.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>There is currently an exception in
+place that always allows the sharing
+of images, audio, video and...
+long text data. This feature lets the
+player freely share information with
+others.
+Do you want to delete this
+exception and restrict use based
+on Parental Controls settings?
+(If the Child Online Privacy
+Protection restriction for this
+software has been disabled, it will...
+also become enabled again.)&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Delete exception.
+Don't delete exception.</original>
+			<edited>There is currently an exception in
+place that always allows the sharing
+of images, audio, video and...
+long text data. This feature lets the
+player freely share information with
+others.
+Do you want to delete this
+exception and restrict use based
+on Parental Controls settings?
+(If the Child Online Privacy
+Protection restriction for this
+software has been disabled, it will...
+also become enabled again.)&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Delete exception.
+Don't delete exception.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>Please enter the PIN for the
+Parental Controls set on this
+system.</original>
+			<edited>Please enter the PIN for the
+Parental Controls set on this
+system.</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>
+This PIN is incorrect.</original>
+			<edited>
+This PIN is incorrect.</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>The exception for sharing features
+has been deleted.&#xE;&#x0;&#x4;&#x0;The use of these features will be
+restricted according to the Parental
+Controls settings.</original>
+			<edited>The exception for sharing features
+has been deleted.&#xE;&#x0;&#x4;&#x0;The use of these features will be
+restricted according to the Parental
+Controls settings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>This system does not have a
+restriction set for sharing images,
+audio, video, and long text data.
+Deleting this exception will not
+restrict the use of corresponding
+communication features.
+Do you still want to delete this
+exception?&#xE;&#x0;&#x4;&#x0;(If the Child Online Privacy
+Protection restriction setting for
+this software has been...
+deactivated, it will be reset.)&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Delete it.
+Leave it as it is.</original>
+			<edited>This system does not have a
+restriction set for sharing images,
+audio, video, and long text data.
+Deleting this exception will not
+restrict the use of corresponding
+communication features.
+Do you still want to delete this
+exception?&#xE;&#x0;&#x4;&#x0;(If the Child Online Privacy
+Protection restriction setting for
+this software has been...
+deactivated, it will be reset.)&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Delete it.
+Leave it as it is.</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>This system does not have a
+restriction set for sharing images,
+audio, video, and long text data.
+Deleting this exception will not
+restrict the use of corresponding
+communication features.
+Do you still want to delete this
+exception?&#xE;&#x0;&#x4;&#x0;(If the Child Online Privacy
+Protection restriction setting for
+this software has been...
+deactivated, it will be reset.)&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Delete it.
+Leave it as it is.</original>
+			<edited>This system does not have a
+restriction set for sharing images,
+audio, video, and long text data.
+Deleting this exception will not
+restrict the use of corresponding
+communication features.
+Do you still want to delete this
+exception?&#xE;&#x0;&#x4;&#x0;(If the Child Online Privacy
+Protection restriction setting for
+this software has been...
+deactivated, it will be reset.)&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Delete it.
+Leave it as it is.</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>In order to restrict the sharing of
+images, audio, video, and long text
+data, you must delete this...
+exception. You should then set
+restrictions using &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls
+&#xE;&#x0;&#x3;&#x2;ÿÿin System Settings.</original>
+			<edited>In order to restrict the sharing of
+images, audio, video, and long text
+data, you must delete this...
+exception. You should then set
+restrictions using &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental Controls
+&#xE;&#x0;&#x3;&#x2;ÿÿin System Settings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>The exception for sharing features
+has been deleted.&#xE;&#x0;&#x4;&#x0;If you want to restrict these
+features, you can configure &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental
+Controls &#xE;&#x0;&#x3;&#x2;ÿÿin System Settings.</original>
+			<edited>The exception for sharing features
+has been deleted.&#xE;&#x0;&#x4;&#x0;If you want to restrict these
+features, you can configure &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Parental
+Controls &#xE;&#x0;&#x3;&#x2;ÿÿin System Settings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

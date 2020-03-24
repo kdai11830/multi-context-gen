@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;This is a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;single-round &#xE;&#x0;&#x3;&#x2;ÿÿgame, OK?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+If we're tied, we'll do a tiebreaker 
+round! Ready? Here we go!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;This is a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;single-round &#xE;&#x0;&#x3;&#x2;ÿÿgame, OK?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+If we're tied, we'll do a tiebreaker 
+round! Ready? Here we go!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Whoever wins &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; times &#xE;&#x0;&#x3;&#x2;ÿÿis the winner!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Are you ready?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Whoever wins &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; times &#xE;&#x0;&#x3;&#x2;ÿÿis the winner!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Are you ready?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>One,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; two&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Rock!
+Scissors!
+Paper!</original>
+			<edited>One,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; two&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Rock!
+Scissors!
+Paper!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>ROCK!</original>
+			<edited>ROCK!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>SCISSORS!</original>
+			<edited>SCISSORS!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>PAPER!</original>
+			<edited>PAPER!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;)&#x0;Oh! You got me, &#xE;&#xE;&#x6;&#x18;&#x6;&#x0;b&#x0;r&#x0;o&#x0;&#xE;&#x0;l&#x0;a&#x0;d&#x0;y&#x0;b&#x0;r&#x0;o&#x0;!</original>
+			<edited>&#xE;&#x3;)&#x0;Oh! You got me, &#xE;&#xE;&#x6;&#x18;&#x6;&#x0;b&#x0;r&#x0;o&#x0;&#xE;&#x0;l&#x0;a&#x0;d&#x0;y&#x0;b&#x0;r&#x0;o&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Man&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; We tied! One more time!</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Man&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; We tied! One more time!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;All right!</original>
+			<edited>&#xE;&#x3; &#x0;All right!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;This means&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;you win!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;This means&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1D;&#x0;you win!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;This means&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;,&#x0;I win!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;This means&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;,&#x0;I win!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Oh, la pêche et moi, décidément, ça
+fait deux.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Enfin, je prends l'air à
+défaut de poissons, c'est déjà ça !</original>
+			<edited>Oh, la pêche et moi, décidément, ça
+fait deux.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Enfin, je prends l'air à
+défaut de poissons, c'est déjà ça !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Argh, j'ai beau lancer ma ligne et
+mouliner sans arrêt, ça ne mord
+pas...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je me demande ce qui pèche...</original>
+			<edited>Argh, j'ai beau lancer ma ligne et
+mouliner sans arrêt, ça ne mord
+pas...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je me demande ce qui pèche...</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Je n'aime pas qu'on me regarde
+pêcher...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ça me déconcentre et ça
+effraie les poissons, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>Je n'aime pas qu'on me regarde
+pêcher...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ça me déconcentre et ça
+effraie les poissons, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>J'ai lu quelque part qu'il suffit
+d'attendre et qu'un poisson finit
+toujours par mordre.
+Ça paraît un peu trop simple, mais
+qui sait ?&#xE;&#x7;&#x1;&#x0; La science de l'appât est
+basée sur la patience !</original>
+			<edited>J'ai lu quelque part qu'il suffit
+d'attendre et qu'un poisson finit
+toujours par mordre.
+Ça paraît un peu trop simple, mais
+qui sait ?&#xE;&#x7;&#x1;&#x0; La science de l'appât est
+basée sur la patience !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

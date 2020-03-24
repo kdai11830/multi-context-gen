@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You found me?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oh, wait.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+You're not the one trying to
+find us!
+&#xE;&#x3;&#xD;&#x0;Shoo! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm playing hide-and-seek
+right now. I don't want you to
+give me away, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You found me?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Oh, wait.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+You're not the one trying to
+find us!
+&#xE;&#x3;&#xD;&#x0;Shoo! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm playing hide-and-seek
+right now. I don't want you to
+give me away, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Hey, shhhhhhh! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm playing a game
+of hide-and-seek right now!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I'll talk to you later, OK?</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Hey, shhhhhhh! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I'm playing a game
+of hide-and-seek right now!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I'll talk to you later, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;No, no, no! Get away! I'm playing
+hide-and-seek, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;No, no, no! Get away! I'm playing
+hide-and-seek, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;NOOOO! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Where am I supposed to
+hide now?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;NOOOO! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Where am I supposed to
+hide now?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

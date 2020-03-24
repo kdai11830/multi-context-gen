@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡La tienda de bricolaje tiene tanto
+donde elegir que no consigo
+decidirme, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡La tienda de bricolaje tiene tanto
+donde elegir que no consigo
+decidirme, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Quiero esto! ¡Y eso! ¡Y aquello
+también! ¡Ay, no sé qué hacer,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Quiero esto! ¡Y eso! ¡Y aquello
+también! ¡Ay, no sé qué hacer,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Ay, noooo! ¡Se ha agotado lo que
+venía a comprar! ¿Y ahora qué
+hago, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Ay, noooo! ¡Se ha agotado lo que
+venía a comprar! ¿Y ahora qué
+hago, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Es imposible salir de aquí sin
+comprar nada, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Es imposible salir de aquí sin
+comprar nada, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;¿Era eso o tal vez aquello? Mmm...
+&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xD;&#x0;¡No me acuerdo de lo que quería
+comprar, jo!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;¿Era eso o tal vez aquello? Mmm...
+&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xD;&#x0;¡No me acuerdo de lo que quería
+comprar, jo!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

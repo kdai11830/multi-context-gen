@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x4;&#x0;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x4;&#x0;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x7;&#xC;&#x7;&#x0;&#x7;&#x0;&#x7;&#x0;&#x7;&#x0;&#xB;&#x0;&#xB;&#x0;</original>
+			<edited>&#xE;
+&#x7;&#xC;&#x7;&#x0;&#x7;&#x0;&#x7;&#x0;&#x7;&#x0;&#xB;&#x0;&#xB;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#xE;&#x0;&#xF;&#x0;&#x10;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#xE;&#x0;&#xF;&#x0;&#x10;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Hola, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Hola, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Buenas, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Estoy aquí
+tomándome un descansico.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Buenas, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Estoy aquí
+tomándome un descansico.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¿Qué te cuentas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;¿Qué te cuentas,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x8;&#x0;	&#x0;
+&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x8;&#x0;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Esto está libre,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; así que si quieres
+descansar un rato,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡ya sabes!</original>
+			<edited>&#xE;&#x3;%&#x0;Esto está libre,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; así que si quieres
+descansar un rato,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ¡ya sabes!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Una pausa de vez en cuando no solo
+sienta bien,&#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0; ¡es que hace falta!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Una pausa de vez en cuando no solo
+sienta bien,&#xE;&#x7;&#x0;&#x4;&#xC;&#x0;&#x0;&#x0; ¡es que hace falta!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¿Te quieres sentar?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿Y a qué esperas?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¿Te quieres sentar?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¿Y a qué esperas?</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x10;&#x8;&#xC;&#x0;&#xC;&#x0;&#xC;&#x0;&#xD;&#x0;</original>
+			<edited>&#xE;
+&#x10;&#x8;&#xC;&#x0;&#xC;&#x0;&#xC;&#x0;&#xD;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Aquí sentado recupero el aliento,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+oyendo soplar el viento,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+disfrutando de mi asiento.
+&#xE;&#x3;&#x6;&#x0;¡Sí, tengo la noche poética!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¿Qué pasa?</original>
+			<edited>&#xE;&#x3;%&#x0;Aquí sentado recupero el aliento,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+oyendo soplar el viento,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+disfrutando de mi asiento.
+&#xE;&#x3;&#x6;&#x0;¡Sí, tengo la noche poética!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+¿Qué pasa?</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Me gusta sentarme aquí
+a filosofar&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Pero esta noche&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x13;&#x0;Br&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; ¡Se me congelan las ideas!</original>
+			<edited>&#xE;&#x3;%&#x0;Me gusta sentarme aquí
+a filosofar&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Pero esta noche&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x13;&#x0;Br&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; ¡Se me congelan las ideas!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Llegas tarde,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+¡Está todo pillado!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Llegas tarde,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+¡Está todo pillado!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x2;&#x0;¡Ja, ja, ja!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Lo siento,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;pero creo
+que, por mucho que nos apretemos,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+aquí no cabemos&#xE;&#x3;%&#x0; tres.</original>
+			<edited>&#xE;&#x3;%&#x0;Lo siento,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;pero creo
+que, por mucho que nos apretemos,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+aquí no cabemos&#xE;&#x3;%&#x0; tres.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¿Qué pasa,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Nosotros
+estamos tomándonos un descanso
+en nuestras ajetreadas vidas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;¿Qué pasa,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Nosotros
+estamos tomándonos un descanso
+en nuestras ajetreadas vidas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

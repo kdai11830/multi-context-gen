@@ -1,0 +1,965 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;J'ai une de ces envies de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fruit &#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;J'ai une de ces envies de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fruit &#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;J'ai tellement faim que je pourrais
+manger un arbre ! Tu devais pas
+me ramener un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fruit&#xE;&#x0;&#x3;&#x2;ÿÿ, d'ailleurs ?</original>
+			<edited>&#xE;&#x3;	&#x0;J'ai tellement faim que je pourrais
+manger un arbre ! Tu devais pas
+me ramener un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fruit&#xE;&#x0;&#x3;&#x2;ÿÿ, d'ailleurs ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Et &#xE;&#xE;&#x1;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ que
+tu m'avais promis&#xE;&#xE;&#x8;&#xC;&#x0;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0; ?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;Me dis pas
+que t'as oublié, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>Et &#xE;&#xE;&#x1;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ que
+tu m'avais promis&#xE;&#xE;&#x8;&#xC;&#x0;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0; ?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;Me dis pas
+que t'as oublié, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Tu dois me ramener un&#xE;&#x0;&#x3;&#x2;&#x2;&#x0; fruit
+parfait &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Oublie pas, hein !!!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Tu dois me ramener un&#xE;&#x0;&#x3;&#x2;&#x2;&#x0; fruit
+parfait &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Oublie pas, hein !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Au fait, le fruit que je t'avais
+demandé...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Je l'ai commandé sur
+Internet au final, mais merci !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Au fait, le fruit que je t'avais
+demandé...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Je l'ai commandé sur
+Internet au final, mais merci !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;Youhou ! Tu as pensé à moi,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;Youhou ! Tu as pensé à moi,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Wouhou, tu as trouvé ce que je
+t'avais demandé, &#xE;&#x5;&#x7;&#x0; ?</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Wouhou, tu as trouvé ce que je
+t'avais demandé, &#xE;&#x5;&#x7;&#x0; ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Tu as ce que je t'avais demandé ?
+T'es un amour, &#xE;&#x5;&#x7;&#x0; !!!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Tu as ce que je t'avais demandé ?
+T'es un amour, &#xE;&#x5;&#x7;&#x0; !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Quoi ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Non mais&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; c'est carrément
+cruel, ce que t'es en train de faire,
+&#xE;&#x5;&#x7;&#x0; !!!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Quoi ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Non mais&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; c'est carrément
+cruel, ce que t'es en train de faire,
+&#xE;&#x5;&#x7;&#x0; !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Une seconde...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu veux dire que t'as
+rien pour moi, &#xE;&#x5;&#x7;&#x0; ?!</original>
+			<edited>&#xE;&#x3;	&#x0;Une seconde...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu veux dire que t'as
+rien pour moi, &#xE;&#x5;&#x7;&#x0; ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Mmmmm... Ça a l'air divin !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Mmmmm... Ça a l'air divin !</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ça sent trop bon, je vais me
+régaler !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ça sent trop bon, je vais me
+régaler !</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh là là, j'ai le ventre qui fait des
+gargouillis ! C'est un vrai concert
+là-dedans, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh là là, j'ai le ventre qui fait des
+gargouillis ! C'est un vrai concert
+là-dedans, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;C'est vraiment ce que je t'avais
+demandé ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Bah, y'a qu'un moyen de
+le savoir !</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;C'est vraiment ce que je t'avais
+demandé ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Bah, y'a qu'un moyen de
+le savoir !</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;C'est pas e&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;xa&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;cte&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ment ce que je
+t'avais demandé, mais... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;À taaaable,
+&#xE;&#x5;&#x7;&#x0; !!!</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;C'est pas e&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;xa&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;cte&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ment ce que je
+t'avais demandé, mais... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;À taaaable,
+&#xE;&#x5;&#x7;&#x0; !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;&#xE;&#x5;&#x1;&#x0; a-t-elle trouvé le fruit
+de ses rêves ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Vous le découvrirez
+au prochain épisode...
+&#xE;&#x3;&#x1;&#x0;Oh et puis, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;pourquoi attendre ?!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;&#xE;&#x5;&#x1;&#x0; a-t-elle trouvé le fruit
+de ses rêves ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Vous le découvrirez
+au prochain épisode...
+&#xE;&#x3;&#x1;&#x0;Oh et puis, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;pourquoi attendre ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;J'avais oublié à quel point c'était
+bon, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça c'est &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;J'avais oublié à quel point c'était
+bon, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ça c'est &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Mmmm ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;C'est &#xE;&#xE;&#x8;8&#x2;Í&#x16;&#x0;l&#x0;e&#x0; &#x0;M&#x0;E&#x0;I&#x0;L&#x0;L&#x0;E&#x0;U&#x0;R&#x0;&#x18;&#x0;l&#x0;a&#x0; &#x0;M&#x0;E&#x0;I&#x0;L&#x0;L&#x0;E&#x0;U&#x0;R&#x0;E&#x0;&#x2;&#x0;0&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; que j'aie
+jamais mangé&#xE;&#xE;&#x8;&#xC;&#x2;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0; !!!</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Mmmm ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;C'est &#xE;&#xE;&#x8;8&#x2;Í&#x16;&#x0;l&#x0;e&#x0; &#x0;M&#x0;E&#x0;I&#x0;L&#x0;L&#x0;E&#x0;U&#x0;R&#x0;&#x18;&#x0;l&#x0;a&#x0; &#x0;M&#x0;E&#x0;I&#x0;L&#x0;L&#x0;E&#x0;U&#x0;R&#x0;E&#x0;&#x2;&#x0;0&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; que j'aie
+jamais mangé&#xE;&#xE;&#x8;&#xC;&#x2;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0; !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;Miam, miam et re-miam ! Trop
+&#xE;&#xE;&#x8;J&#x2;Í&#x1A;&#x0;b&#x0;o&#x0;n&#x0;,&#x0; &#x0;c&#x0;e&#x0; &#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0;&amp;&#x0;b&#x0;o&#x0;n&#x0;n&#x0;e&#x0;,&#x0; &#x0;c&#x0;e&#x0;t&#x0;t&#x0;e&#x0; &#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0;e&#x0;&#x2;&#x0;0&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;Miam, miam et re-miam ! Trop
+&#xE;&#xE;&#x8;J&#x2;Í&#x1A;&#x0;b&#x0;o&#x0;n&#x0;,&#x0; &#x0;c&#x0;e&#x0; &#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0;&amp;&#x0;b&#x0;o&#x0;n&#x0;n&#x0;e&#x0;,&#x0; &#x0;c&#x0;e&#x0;t&#x0;t&#x0;e&#x0; &#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0;e&#x0;&#x2;&#x0;0&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Waouh, c'est encore meilleur que je
+pensais, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Waouh, c'est encore meilleur que je
+pensais, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;C'était pas mauvais du tout ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Ça
+rafraîchit, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;C'était pas mauvais du tout ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Ça
+rafraîchit, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;C'était bien bon !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;C'était bien bon !</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Pas mal du tout, &#xE;&#xE;&#x8;2&#x2;Í&#x10;&#x0;c&#x0;e&#x0; &#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0;&#x18;&#x0;c&#x0;e&#x0;t&#x0;t&#x0;e&#x0; &#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0;e&#x0;&#x2;&#x0;0&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; !!!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Pas mal du tout, &#xE;&#xE;&#x8;2&#x2;Í&#x10;&#x0;c&#x0;e&#x0; &#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0;&#x18;&#x0;c&#x0;e&#x0;t&#x0;t&#x0;e&#x0; &#x0;p&#x0;e&#x0;t&#x0;i&#x0;t&#x0;e&#x0;&#x2;&#x0;0&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Des fruits comme ça, je pourrais en
+manger matin, midi et soir,
+&#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Des fruits comme ça, je pourrais en
+manger matin, midi et soir,
+&#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;C'est un vers qui se tortille là...?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;C'est carrément immonde ! Berk !!!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Ça va pas, &#xE;&#x5;&#x7;&#x0; ?!&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;C'est un vers qui se tortille là...?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;C'est carrément immonde ! Berk !!!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Ça va pas, &#xE;&#x5;&#x7;&#x0; ?!&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;C'est tout pourri à l'intérieur !!!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;Ça
+me donne envie de...&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Mais pourquoi
+t'as fait ça ?!&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;C'est tout pourri à l'intérieur !!!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;Ça
+me donne envie de...&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;Mais pourquoi
+t'as fait ça ?!&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Tu m'excuseras, mais je tiens à ma
+bouche&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. &#xE;&#x3;&#xD;&#x0;Je chante devant un jury&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+demain,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je te signale !!!</original>
+			<edited>&#xE;&#x3;	&#x0;Tu m'excuseras, mais je tiens à ma
+bouche&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. &#xE;&#x3;&#xD;&#x0;Je chante devant un jury&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+demain,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je te signale !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;C'est gentil, mais...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ça va carrément
+pas le faire, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;C'est gentil, mais...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ça va carrément
+pas le faire, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;Ça pue ton truc !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Mange-le
+toi-même, hi hi hi !</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;Ça pue ton truc !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Mange-le
+toi-même, hi hi hi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1C;&#x0;Tu veux me faire croire que c'est un
+fruit, ça ?!</original>
+			<edited>&#xE;&#x3;&#x1C;&#x0;Tu veux me faire croire que c'est un
+fruit, ça ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci, &#xE;&#x5;&#x8;&#x0;. C'est l'intention
+qui compte et tout et tout... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;mais je
+voulais un fruit, tu te rappelles ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci, &#xE;&#x5;&#x8;&#x0;. C'est l'intention
+qui compte et tout et tout... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;mais je
+voulais un fruit, tu te rappelles ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;Un&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; vrai &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ré&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;gal ! &#xE;&#x7;&#x1;&#x0;C'est plus que bon,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;c'est méga bon, &#xE;&#x5;&#x7;&#x0; !!!</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;Un&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; vrai &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ré&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;gal ! &#xE;&#x7;&#x1;&#x0;C'est plus que bon,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;c'est méga bon, &#xE;&#x5;&#x7;&#x0; !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;Wouhou !&#xE;&#x7;&#x1;&#x0; Je me suis régalée !</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;Wouhou !&#xE;&#x7;&#x1;&#x0; Je me suis régalée !</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Waouh...&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;Elles hallucinent, mes
+pupilles gustatives !!! &#xE;&#xE;&#x8;&#x1E;&#x2;Í&#x8;&#x0;Q&#x0;u&#x0;e&#x0;l&#x0;&#xC;&#x0;Q&#x0;u&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x2;&#x0;0&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; !!!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Waouh...&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x5;&#x0;Elles hallucinent, mes
+pupilles gustatives !!! &#xE;&#xE;&#x8;&#x1E;&#x2;Í&#x8;&#x0;Q&#x0;u&#x0;e&#x0;l&#x0;&#xC;&#x0;Q&#x0;u&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x2;&#x0;0&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Waouh ! C'était &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; ?
+Délicieux !!!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Waouh ! C'était &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; ?
+Délicieux !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; de
+rêve, j'y crois pas !!! Ce petit goût
+frais et sucré, juste indescriptible !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; de
+rêve, j'y crois pas !!! Ce petit goût
+frais et sucré, juste indescriptible !</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;C'est &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;
+trafiqué&#xE;&#xE;&#x8;&#xC;&#x2;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0;, c'est pas possible. &#xE;&#x3;&#x4;&#x0;J'en
+avais jamais mangé d'aussi bon&#xE;&#xE;&#x8;&#xE;&#x2;Í&#x0;&#x0;&#x4;&#x0;n&#x0;e&#x0;&#x2;&#x0;0&#x0; !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;C'est &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;
+trafiqué&#xE;&#xE;&#x8;&#xC;&#x2;Í&#x0;&#x0;&#x2;&#x0;e&#x0;&#x2;&#x0;0&#x0;, c'est pas possible. &#xE;&#x3;&#x4;&#x0;J'en
+avais jamais mangé d'aussi bon&#xE;&#xE;&#x8;&#xE;&#x2;Í&#x0;&#x0;&#x4;&#x0;n&#x0;e&#x0;&#x2;&#x0;0&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Youhou ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je suis en surchauffe, là !!!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;C'est un concentré de vitamines, ce
+fruit !</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Youhou ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je suis en surchauffe, là !!!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;C'est un concentré de vitamines, ce
+fruit !</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Je t'avais demandé ça au final ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je
+me rappelle pas. En tout cas&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. c'est
+délicieux !</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Je t'avais demandé ça au final ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je
+me rappelle pas. En tout cas&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;. c'est
+délicieux !</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;C'est pas du tout ce à quoi je
+m'attendais ! Mais c'est bon quand
+même&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;C'est pas du tout ce à quoi je
+m'attendais ! Mais c'est bon quand
+même&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;C'est pas du tout ce à quoi je
+m'attendais.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Mais c'est encore
+meilleur, alors je te pardonne !</original>
+			<edited>&#xE;&#x3;(&#x0;C'est pas du tout ce à quoi je
+m'attendais.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Mais c'est encore
+meilleur, alors je te pardonne !</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Y'avait un gros vers à l'intérieur !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Berk, c'est dégoûtant !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Non mais,
+je suis pas une poubelle !&#xE;&#xB;&#x2;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Y'avait un gros vers à l'intérieur !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Berk, c'est dégoûtant !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Non mais,
+je suis pas une poubelle !&#xE;&#xB;&#x2;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>Non mais... &#xE;&#x3;&#x17;&#x0;j'ai une tête à manger
+des fruits pourris&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;La prochaine
+fois, mange-le toi-même !&#xE;&#xB;&#x2;&#x2;&#x3;Í</original>
+			<edited>Non mais... &#xE;&#x3;&#x17;&#x0;j'ai une tête à manger
+des fruits pourris&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;La prochaine
+fois, mange-le toi-même !&#xE;&#xB;&#x2;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Je t'avais demandé un fruit, pas des
+maracas, &#xE;&#x5;&#x8;&#x0;...</original>
+			<edited>&#xE;&#x3;	&#x0;Je t'avais demandé un fruit, pas des
+maracas, &#xE;&#x5;&#x8;&#x0;...</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Tu m'as donné du&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; gâ&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;teau...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai pas
+tout suivi, hi hi hi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est gentil, mais
+un peu hors sujet, en fait...</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Tu m'as donné du&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; gâ&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;teau...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; J'ai pas
+tout suivi, hi hi hi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est gentil, mais
+un peu hors sujet, en fait...</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Excuse-moi, mais il pue, ton fruit...&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;Tu me feras pas manger un truc
+pareil !!!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Excuse-moi, mais il pue, ton fruit...&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;Tu me feras pas manger un truc
+pareil !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Berk !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Si ça c'est un fruit,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; moi je
+suis une courge !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;Une nouvelle
+variété, tu dis...?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Berk !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Si ça c'est un fruit,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; moi je
+suis une courge !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;Une nouvelle
+variété, tu dis...?</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu oses ramener ta fraise sans
+fruit ?! &#xE;&#x3;&#x1C;&#x0;Attention, tu vas te prendre
+une prune, mdr !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu oses ramener ta fraise sans
+fruit ?! &#xE;&#x3;&#x1C;&#x0;Attention, tu vas te prendre
+une prune, mdr !</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Je me suis régalée avec ce fruit !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Voici &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;,
+cadeau !</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Je me suis régalée avec ce fruit !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Voici &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;,
+cadeau !</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Tu m'as gâtée, &#xE;&#x5;&#x8;&#x0; ! Tiens,
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; rien
+que pour toi !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Tu m'as gâtée, &#xE;&#x5;&#x8;&#x0; ! Tiens,
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; rien
+que pour toi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci pour ce fruit ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Ça mérite
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, moi
+je dis !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Pour toi, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci pour ce fruit ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Ça mérite
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, moi
+je dis !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Pour toi, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;T'es un amour !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tiens, j'ai &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, &#xE;&#xE;&#x8;&#x16;&#x1;Í&#x4;&#x0;i&#x0;l&#x0;&#x8;&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x2;&#x0;0&#x0; est à
+toi maintenant.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;T'es un amour !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tiens, j'ai &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, &#xE;&#xE;&#x8;&#x16;&#x1;Í&#x4;&#x0;i&#x0;l&#x0;&#x8;&#x0;e&#x0;l&#x0;l&#x0;e&#x0;&#x2;&#x0;0&#x0; est à
+toi maintenant.</edited>
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'était trop adorable ! Tiens, &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, pour te
+remercier !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'était trop adorable ! Tiens, &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, pour te
+remercier !</edited>
+			<subEntries />
+		</entry>
+		<entry name="061" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ça m'a fait trop plaisir, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tiens, &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;,
+cadeau !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ça m'a fait trop plaisir, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tiens, &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;,
+cadeau !</edited>
+			<subEntries />
+		</entry>
+		<entry name="062" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh, je t'ai pas remercié&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tiens,
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, pour
+toi !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh, je t'ai pas remercié&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tiens,
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, pour
+toi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="063" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Rhô là là, ça mérite un petit
+cadeau ! Tiens, c'est &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Rhô là là, ça mérite un petit
+cadeau ! Tiens, c'est &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="064" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="065" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="066" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;J'avais prévu une récompense !&#xE;&#x7;&#x1;&#x0;
+C'est &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;J'avais prévu une récompense !&#xE;&#x7;&#x1;&#x0;
+C'est &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="067" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'est trop chou de ta part de t'être
+donné tout ce mal !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu mérites
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'est trop chou de ta part de t'être
+donné tout ce mal !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu mérites
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="068" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu mérites une belle récompense !
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, ça te
+dit ?!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu mérites une belle récompense !
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, ça te
+dit ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="069" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;C'était encore mieux que ce
+que je voulais, délire !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tiens, &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, accepte !!!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;C'était encore mieux que ce
+que je voulais, délire !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tiens, &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, accepte !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="070" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Tu mériterais que je te prenne dans
+mes bras !&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, ça te
+va aussi ?</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Tu mériterais que je te prenne dans
+mes bras !&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, ça te
+va aussi ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="071" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;T'es trop gentil&#xE;&#xE;&#x6;&#x8;&#x0;&#x0;&#x4;&#x0;l&#x0;e&#x0; !!!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Prends ça, tu le
+mérites, y'a pas photo ! C'est &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;T'es trop gentil&#xE;&#xE;&#x6;&#x8;&#x0;&#x0;&#x4;&#x0;l&#x0;e&#x0; !!!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Prends ça, tu le
+mérites, y'a pas photo ! C'est &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="072" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Qu'est-ce que j'ai en magasin pour
+toi... &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; ?
+&#xE;&#x3;&#x1D;&#x0;Cadeau !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Qu'est-ce que j'ai en magasin pour
+toi... &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; ?
+&#xE;&#x3;&#x1D;&#x0;Cadeau !</edited>
+			<subEntries />
+		</entry>
+		<entry name="073" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ça mérite un petit quelque chose...
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, ça te
+dit ? Tiens !</original>
+			<edited>&#xE;&#x3;%&#x0;Ça mérite un petit quelque chose...
+&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;, ça te
+dit ? Tiens !</edited>
+			<subEntries />
+		</entry>
+		<entry name="074" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;En guise de remerciement pour ce
+bon petit fruit, voici &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;En guise de remerciement pour ce
+bon petit fruit, voici &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="075" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;T'attends ton cadeau, on dirait...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+mdr !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Allez, tu as bien mérité &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;T'attends ton cadeau, on dirait...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+mdr !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Allez, tu as bien mérité &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="076" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="077" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="078" offset="00" relocatable="true" max_length="0">
+			<original>Ah là là&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1D;&#x0;Livraison sur place, même
+pas besoin de lever le petit doigt !&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Trop fort !</original>
+			<edited>Ah là là&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1D;&#x0;Livraison sur place, même
+pas besoin de lever le petit doigt !&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Trop fort !</edited>
+			<subEntries />
+		</entry>
+		<entry name="079" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Va-t'en vite avant que je te prenne
+dans mes bras, &#xE;&#x5;&#x7;&#x0; !!!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Va-t'en vite avant que je te prenne
+dans mes bras, &#xE;&#x5;&#x7;&#x0; !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="080" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Un gros merci, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Un gros merci, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="081" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'était trop bon, &#xE;&#x5;&#x7;&#x0;.
+Merci encore, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'était trop bon, &#xE;&#x5;&#x7;&#x0;.
+Merci encore, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="082" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="083" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci encore, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci encore, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="084" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci de m'avoir aidée, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci de m'avoir aidée, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="085" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Des comme toi, on en fait plus,
+&#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Des comme toi, on en fait plus,
+&#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="086" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Ce genre de blagues, c'est bon pour
+&#xE;&#x5;&#x3;&#x0;, OK ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je suis une lady,
+je te ferais dire, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Ce genre de blagues, c'est bon pour
+&#xE;&#x5;&#x3;&#x0;, OK ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je suis une lady,
+je te ferais dire, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="087" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;La vendange est un plat qui se
+mange froid, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;La vendange est un plat qui se
+mange froid, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="088" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;La prochaine fois, essaie de me
+ramener un truc qui se mange sans
+se casser les dents, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;La prochaine fois, essaie de me
+ramener un truc qui se mange sans
+se casser les dents, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="089" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci quand même, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci quand même, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="090" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'est gentil d'avoir&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; euh&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; essayé,
+&#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'est gentil d'avoir&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; euh&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; essayé,
+&#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="091" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je te laisse cette bestiole,
+puisque t'as l'air de trouver ça
+comestible,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;	&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je te laisse cette bestiole,
+puisque t'as l'air de trouver ça
+comestible,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="092" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, je préfère que tu
+gardes ce truc, lol !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;, je préfère que tu
+gardes ce truc, lol !</edited>
+			<subEntries />
+		</entry>
+		<entry name="093" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="094" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="095" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Encore merci pour cette pause
+gourmande !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je t'ai déjà dit que je
+t'adorais ?!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Encore merci pour cette pause
+gourmande !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je t'ai déjà dit que je
+t'adorais ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="096" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Encore merci pour tout, j'ai
+l'impression d'être une princesse,
+grâce à toi !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Encore merci pour tout, j'ai
+l'impression d'être une princesse,
+grâce à toi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="097" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Ce que je suis contente,
+&#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Ce que je suis contente,
+&#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="098" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je vais en rêver pendant des
+semaines, de ce fruit !!!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je vais en rêver pendant des
+semaines, de ce fruit !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="099" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Bisous, bisous !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Bisous, bisous !</edited>
+			<subEntries />
+		</entry>
+		<entry name="100" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci, &#xE;&#x5;&#x8;&#x0; ! C'est bien toi,
+&#xE;&#xE;&#x6;2&#x16;&#x0;l&#x0;e&#x0; &#x0;m&#x0;e&#x0;i&#x0;l&#x0;l&#x0;e&#x0;u&#x0;r&#x0;&#x18;&#x0;l&#x0;a&#x0; &#x0;m&#x0;e&#x0;i&#x0;l&#x0;l&#x0;e&#x0;u&#x0;r&#x0;e&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci, &#xE;&#x5;&#x8;&#x0; ! C'est bien toi,
+&#xE;&#xE;&#x6;2&#x16;&#x0;l&#x0;e&#x0; &#x0;m&#x0;e&#x0;i&#x0;l&#x0;l&#x0;e&#x0;u&#x0;r&#x0;&#x18;&#x0;l&#x0;a&#x0; &#x0;m&#x0;e&#x0;i&#x0;l&#x0;l&#x0;e&#x0;u&#x0;r&#x0;e&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="101" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Pssst, approche, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1C;&#x0;La
+prochaine fois&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; tu m'apportes ce
+que je t'ai demandé, OK ? LOL !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Pssst, approche, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1C;&#x0;La
+prochaine fois&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; tu m'apportes ce
+que je t'ai demandé, OK ? LOL !</edited>
+			<subEntries />
+		</entry>
+		<entry name="102" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je suis sûre que la prochaine fois,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; tu
+m'amèneras exactement ce que je
+t'aurai demandé, &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je suis sûre que la prochaine fois,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; tu
+m'amèneras exactement ce que je
+t'aurai demandé, &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="103" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;J'avoue,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; j'aurais quand même
+préféré que tu me donnes ce que je
+t'avais demandé !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;J'avoue,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; j'aurais quand même
+préféré que tu me donnes ce que je
+t'avais demandé !</edited>
+			<subEntries />
+		</entry>
+		<entry name="104" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Euh... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Le prends pas mal, OK ?
+J'aurais quand même préféré que tu
+m'apportes ce que j'avais demandé.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Euh... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Le prends pas mal, OK ?
+J'aurais quand même préféré que tu
+m'apportes ce que j'avais demandé.</edited>
+			<subEntries />
+		</entry>
+		<entry name="105" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Je tâcherai d'oublier, &#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;Dans une centaine d'années, je me
+tordrai de rire en y repensant !</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Je tâcherai d'oublier, &#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;Dans une centaine d'années, je me
+tordrai de rire en y repensant !</edited>
+			<subEntries />
+		</entry>
+		<entry name="106" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Pouah ! Je suis pas prête d'oublier
+ce goût, &#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Pouah ! Je suis pas prête d'oublier
+ce goût, &#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="107" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="108" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Houlà ! Y'a un petit malentendu, là.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x2;&#x0;Je pourrai jamais manger tout ça,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Houlà ! Y'a un petit malentendu, là.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x2;&#x0;Je pourrai jamais manger tout ça,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="109" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'est adorable, hein... Mais un fruit,
+ça suffit, je t'assure !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'est adorable, hein... Mais un fruit,
+ça suffit, je t'assure !</edited>
+			<subEntries />
+		</entry>
+		<entry name="110" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;ÿÿ?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x12;&#x14;&#x10;&#x2;&#x4;&#x0;I&#x0;l&#x0;&#x8;&#x0;E&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; a l'air délicieu&#xE;&#xE;&#x12;&#xE;&#x10;&#x2;&#x2;&#x0;x&#x0;&#x4;&#x0;s&#x0;e&#x0;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est pour
+moi,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; vraiment ?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;ÿÿ?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x12;&#x14;&#x10;&#x2;&#x4;&#x0;I&#x0;l&#x0;&#x8;&#x0;E&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; a l'air délicieu&#xE;&#xE;&#x12;&#xE;&#x10;&#x2;&#x2;&#x0;x&#x0;&#x4;&#x0;s&#x0;e&#x0;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est pour
+moi,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; vraiment ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="111" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Je reconnais cette bonne odeur !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;ÿÿ!!!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Par ici, merci !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Je reconnais cette bonne odeur !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;ÿÿ!!!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Par ici, merci !</edited>
+			<subEntries />
+		</entry>
+		<entry name="112" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;J'en reviens pas que tu aies trouvé
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu
+as assuré grave,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;J'en reviens pas que tu aies trouvé
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0; &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu
+as assuré grave,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="113" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu m'as pas juste apporté &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,
+&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;
+&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x3;&amp;&#x0;Tu m'as carrément amené le
+meilleur fruit que j'ai jamais
+mangé !!!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu m'as pas juste apporté &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ,
+&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;
+&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x3;&amp;&#x0;Tu m'as carrément amené le
+meilleur fruit que j'ai jamais
+mangé !!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="114" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="115" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x4;&#x0;MIAM MIAM !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; C'est délicieux !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;C'est pas LE meilleur fruit que j'aie
+jamais mangé,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; mais presque !
+&#xE;&#x3;&amp;&#x0;Je me suis régalée, alors voilà pour
+toi !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x4;&#x0;MIAM MIAM !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; C'est délicieux !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;C'est pas LE meilleur fruit que j'aie
+jamais mangé,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; mais presque !
+&#xE;&#x3;&amp;&#x0;Je me suis régalée, alors voilà pour
+toi !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; C'est &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="116" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;C'est pas encore aujourd'hui que je
+mangerai un fruit parfait...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Enfin,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;merci à toi,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;$&#x0;C'est pas encore aujourd'hui que je
+mangerai un fruit parfait...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Enfin,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;merci à toi,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

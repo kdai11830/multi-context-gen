@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Te gusta mi estilo, ¿no?
+Siempre crea tendencia...&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;!&#x0;¡Puedes copiarlo si quieres!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Te gusta mi estilo, ¿no?
+Siempre crea tendencia...&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;!&#x0;¡Puedes copiarlo si quieres!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡Mi habitación es de lo más
+estupén!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¡Disfrútala!</original>
+			<edited>&#xE;&#x3;%&#x0;¡Mi habitación es de lo más
+estupén!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;¡Disfrútala!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Me alegro de verte! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Estaba a
+punto de quedarme dormida...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Me alegro de verte! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Estaba a
+punto de quedarme dormida...</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;He soñado que venías de visita.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+pero sigo soñando, ¿no?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;He soñado que venías de visita.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+pero sigo soñando, ¿no?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¿Qué te parece mi casa de ensueño?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;!&#x0;¡Le he dedicado mucho tiempo y
+esfuerzo para que esté tan divina!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¿Qué te parece mi casa de ensueño?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;!&#x0;¡Le he dedicado mucho tiempo y
+esfuerzo para que esté tan divina!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

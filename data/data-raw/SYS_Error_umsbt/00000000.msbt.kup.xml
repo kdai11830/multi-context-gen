@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>You can't change the layout of the
+exhibition room while company is
+present!</original>
+			<edited>You can't change the layout of the
+exhibition room while company is
+present!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't hang wallpaper in a tent!</original>
+			<edited>
+You can't hang wallpaper in a tent!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't lay carpet in a tent!</original>
+			<edited>
+You can't lay carpet in a tent!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>You can't change your clothes
+because your pockets are too full!</original>
+			<edited>You can't change your clothes
+because your pockets are too full!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>You can't take anything off your
+head now because your pockets
+are too full!</original>
+			<edited>You can't take anything off your
+head now because your pockets
+are too full!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>You can't spread a design of your
+own creation in a tent!</original>
+			<edited>You can't spread a design of your
+own creation in a tent!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't hang items on a tent wall!</original>
+			<edited>
+You can't hang items on a tent wall!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>You can't change the wall or floor
+design while company is present!</original>
+			<edited>You can't change the wall or floor
+design while company is present!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>You can't move furniture around
+while you have company over!</original>
+			<edited>You can't move furniture around
+while you have company over!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>You can't change the carpet while
+company is over!</original>
+			<edited>You can't change the carpet while
+company is over!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>You can't change wallpaper while
+you have company present!</original>
+			<edited>You can't change wallpaper while
+you have company present!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>You can't set things out in your
+room while you have company over!</original>
+			<edited>You can't set things out in your
+room while you have company over!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>You can't move things around while
+you have company over!</original>
+			<edited>You can't move things around while
+you have company over!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>You can't put out any more
+furniture here!</original>
+			<edited>You can't put out any more
+furniture here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>You can't put anything else out
+here! There's no more room!</original>
+			<edited>You can't put anything else out
+here! There's no more room!</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't put a design around here!</original>
+			<edited>
+You can't put a design around here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>You can't edit designs while the
+station gate is open!</original>
+			<edited>You can't edit designs while the
+station gate is open!</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>You can't edit any designs during
+communications with other players!</original>
+			<edited>You can't edit any designs during
+communications with other players!</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>You can't do that right now because
+your pockets can't hold the item
+you're replacing with the design!</original>
+			<edited>You can't do that right now because
+your pockets can't hold the item
+you're replacing with the design!</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>You can't wear the Mii mask now
+because your pockets can't hold
+the outfit you'd need to remove!</original>
+			<edited>You can't wear the Mii mask now
+because your pockets can't hold
+the outfit you'd need to remove!</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>You can't wear the Mii mask right
+now since your pockets are too full!</original>
+			<edited>You can't wear the Mii mask right
+now since your pockets are too full!</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>You can't put that item in the
+exhibition hall!</original>
+			<edited>You can't put that item in the
+exhibition hall!</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>You can't edit your designs while on
+the island!</original>
+			<edited>You can't edit your designs while on
+the island!</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>Your pockets are too full to swap
+those items!</original>
+			<edited>Your pockets are too full to swap
+those items!</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>You can't write any more letters
+because your mail pouch is full!</original>
+			<edited>You can't write any more letters
+because your mail pouch is full!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't hold any more letters!</original>
+			<edited>
+You can't hold any more letters!</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't plant anything here!</original>
+			<edited>
+You can't plant anything here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't bury anything here!</original>
+			<edited>
+You can't bury anything here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>Your pockets are full, so you can't
+do that right now!</original>
+			<edited>Your pockets are full, so you can't
+do that right now!</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>Your pockets are full, so you can't
+grab your present!</original>
+			<edited>Your pockets are full, so you can't
+grab your present!</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>You can't take money out of your
+wallet when your pockets are full!</original>
+			<edited>You can't take money out of your
+wallet when your pockets are full!</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>The &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; cannot
+be attached to a letter!</original>
+			<edited>The &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; cannot
+be attached to a letter!</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>You can't use the stopwatch while
+pulling weeds!</original>
+			<edited>You can't use the stopwatch while
+pulling weeds!</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>Your wallet is full, so no more Bells
+will fit!</original>
+			<edited>Your wallet is full, so no more Bells
+will fit!</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>You can't use the stopwatch while
+somebody is playing hide-and-seek!</original>
+			<edited>You can't use the stopwatch while
+somebody is playing hide-and-seek!</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>You can't use the stopwatch while
+you're playing hide-and-seek!</original>
+			<edited>You can't use the stopwatch while
+you're playing hide-and-seek!</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't type any more characters!</original>
+			<edited>
+You can't type any more characters!</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>You can't use the stopwatch while
+dreaming!</original>
+			<edited>You can't use the stopwatch while
+dreaming!</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't hang this here!</original>
+			<edited>
+You can't hang this here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>There's no space for you to put
+that item around here!</original>
+			<edited>There's no space for you to put
+that item around here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>There's no space on the wall to
+hang up that item...</original>
+			<edited>There's no space on the wall to
+hang up that item...</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>
+You can't view that right now.</original>
+			<edited>
+You can't view that right now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>You can't write a letter while
+you're dreaming!</original>
+			<edited>You can't write a letter while
+you're dreaming!</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x5;%&#x0;</original>
+			<edited>&#xE;&#x5;%&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

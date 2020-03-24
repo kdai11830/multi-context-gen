@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Being in here makes my skin
+crawl, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Being in here makes my skin
+crawl, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I really should start catching bugs
+again, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I really should start catching bugs
+again, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>I just can't stand being near certain
+kinds of bugs. But some ARE
+supercute, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>I just can't stand being near certain
+kinds of bugs. But some ARE
+supercute, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Have any of the bugs gotten on me?
+I wouldn't even want the pretty
+ones near me, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Have any of the bugs gotten on me?
+I wouldn't even want the pretty
+ones near me, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's fun catching bugs, but I release
+the creepy ones. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Yeah, only the
+pretty ones for me, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's fun catching bugs, but I release
+the creepy ones. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Yeah, only the
+pretty ones for me, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

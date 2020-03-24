@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¡Te lo ruego, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; No te
+olvides de darle a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+mi regalo, ¿vale?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;	&#x0;¡Te lo ruego, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; No te
+olvides de darle a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+mi regalo, ¿vale?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Cuento contigo para salvar mi
+amistad con &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; así que
+llévale el regalo de mi parte.
+&#xE;&#x3;	&#x0;¡No te entretengas o &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+se enfadará todavía más conmigo,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>Cuento contigo para salvar mi
+amistad con &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; así que
+llévale el regalo de mi parte.
+&#xE;&#x3;	&#x0;¡No te entretengas o &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+se enfadará todavía más conmigo,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡Cuento contigo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Devuélvele a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; el objeto
+que me prestó, por favor.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;%&#x0;¡Cuento contigo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Devuélvele a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; el objeto
+que me prestó, por favor.&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; debe de estar buscando
+como loc&#xE;&#xE;&#x7;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0; ese objeto. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;¡Llévaselo
+antes de que pierda el juicio!</original>
+			<edited>&#xE;&#x3;	&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; debe de estar buscando
+como loc&#xE;&#xE;&#x7;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0; ese objeto. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;¡Llévaselo
+antes de que pierda el juicio!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡En tus manos queda, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Llévale ese objeto extraviado
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿de acuerdo?</original>
+			<edited>&#xE;&#x3;%&#x0;¡En tus manos queda, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Llévale ese objeto extraviado
+a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, ¿de acuerdo?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Por favor, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;llévale a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+el objeto que te he dado,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; que
+por algo es suyo.</original>
+			<edited>&#xE;&#x3;%&#x0;Por favor, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;llévale a &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+el objeto que te he dado,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; que
+por algo es suyo.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

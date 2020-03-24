@@ -1,0 +1,11 @@
+FU Sp Game03 $ENTITY Let the game begin! $ENTITY First $ENTITY let me explain how it works. $ENTITY You guess which direction I'll turn my head: $ENTITY up, $ENTITY down, $ENTITY left, $ENTITY or right. When I say "Made Ya," it's your cue to press that direction on . $ENTITY If we end up facing the same way, you win! $ENTITY I'll give you 3 chances to get it right.
+FU Sp Game03 Made Ya... $ENTITY 
+FU Sp Game03 LOOK! $ENTITY 
+FU Sp Game03 $ENTITY Oh, wow! $ENTITY You won so quickly!... Good job.
+FU Sp Game03 $ENTITY Nope. $ENTITY Try again.
+FU Sp Game03 $ENTITY Nope. $ENTITY Will the third time be the charm?
+FU Sp Game03 $ENTITY Awww. $ENTITY Too bad, $ENTITY but there's always next time.
+FU Sp Game03 $ENTITY You won! $ENTITY Way to go.
+FU Sp Game03 I lost?... That's OK. $ENTITY Great game!
+FU Sp Game03 $ENTITY I win this time!
+FU Sp Game03 $ENTITY Well, $ENTITY the results are in and I'm the winner! $ENTITY Good game, $ENTITY .

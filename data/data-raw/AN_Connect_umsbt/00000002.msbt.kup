@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Et donc&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; T'avais besoin d'quelque
+chose ?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Et donc&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; T'avais besoin d'quelque
+chose ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Bon,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; j'peux faire quelque chose
+pour toi, sinon ?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Bon,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; j'peux faire quelque chose
+pour toi, sinon ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Et sinon,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; qu'est-ce tu m'voulais ?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Et sinon,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; qu'est-ce tu m'voulais ?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

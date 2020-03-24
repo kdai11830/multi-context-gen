@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;ARGH !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qu'est-ce que t'as fait pour
+mettre ces abeilles autant en
+colère ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Dépêche-toi de leur présenter tes
+excuses,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;ARGH !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qu'est-ce que t'as fait pour
+mettre ces abeilles autant en
+colère ?!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Dépêche-toi de leur présenter tes
+excuses,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;Oh non !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Des abeilles ! &#xE;&#x3;	&#x0;T'as essayé&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+de leur chiper leur miel ou quoi ?!&#xE;&#x0;&#x4;&#x0;Quoi que t'aies fait, tu l'as
+sûrement bien mérité,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;Oh non !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Des abeilles ! &#xE;&#x3;	&#x0;T'as essayé&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+de leur chiper leur miel ou quoi ?!&#xE;&#x0;&#x4;&#x0;Quoi que t'aies fait, tu l'as
+sûrement bien mérité,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xB;&#x0;ARGH !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Attention, tu vas attirer les
+abeilles par ici !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xB;&#x0;ARGH !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Attention, tu vas attirer les
+abeilles par ici !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

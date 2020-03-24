@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Je n'ai aucune envie de discuter
+avec toi maintenant !</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Je n'ai aucune envie de discuter
+avec toi maintenant !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;Laisse-moi tranquille, tu veux ?
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;(&#x0;Laisse-moi tranquille, tu veux ?
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Qu'est-ce qui va pas avec toi ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Fiche-moi la paix, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Qu'est-ce qui va pas avec toi ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Fiche-moi la paix, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

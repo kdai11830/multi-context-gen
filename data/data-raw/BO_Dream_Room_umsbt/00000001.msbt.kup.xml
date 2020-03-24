@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;No he limpiado mi casa ni un
+poquito,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pero esto es un sueño,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+así que... ¿qué más da?</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;No he limpiado mi casa ni un
+poquito,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pero esto es un sueño,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+así que... ¿qué más da?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Bienvenid&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0; a mi casa.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Te ofrecería
+algo de picar,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1B;&#x0;pero esto es un sueño,
+no un bufé libre, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Bienvenid&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0; a mi casa.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;Te ofrecería
+algo de picar,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1B;&#x0;pero esto es un sueño,
+no un bufé libre, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Los sueños en los que te pasa de
+todo tampoco están mal,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pero yo
+prefiero algo tranqui,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;%&#x0;Los sueños en los que te pasa de
+todo tampoco están mal,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pero yo
+prefiero algo tranqui,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Mi casa es muy relajante,
+¿a que sí?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Siempre me lo dice
+todo el mundo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Mi casa es muy relajante,
+¿a que sí?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Siempre me lo dice
+todo el mundo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x19;&#x0;Uaaah...&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; Oye, tampoco pasará
+nada si te echas a dormir dentro
+de un sueño,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿no,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x19;&#x0;Uaaah...&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; Oye, tampoco pasará
+nada si te echas a dormir dentro
+de un sueño,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿no,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

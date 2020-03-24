@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Salut, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;Là tout de suite, je suis occupé à
+penser à des trucs.
+&#xE;&#x3;%&#x0;Désolé, va falloir que tu repasses
+plus tard,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !&#xE;&#xB;&#x5;&#x2;&#x3;Í</original>
+			<edited>Salut, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;Là tout de suite, je suis occupé à
+penser à des trucs.
+&#xE;&#x3;%&#x0;Désolé, va falloir que tu repasses
+plus tard,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !&#xE;&#xB;&#x5;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;J'imagine que tu voudrais rester
+discuter toute la journée, &#xE;&#x3;&#x0;&#x0;mais je
+viens de me souvenir d'un truc...
+&#xE;&#x3;	&#x0;Et ça signifie qu'il me faut du calme,
+j'aimerais réussir à m'entendre
+penser.
+&#xE;&#x3;%&#x0;On se revoit plus tard !&#xE;&#xB;&#x5;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;%&#x0;J'imagine que tu voudrais rester
+discuter toute la journée, &#xE;&#x3;&#x0;&#x0;mais je
+viens de me souvenir d'un truc...
+&#xE;&#x3;	&#x0;Et ça signifie qu'il me faut du calme,
+j'aimerais réussir à m'entendre
+penser.
+&#xE;&#x3;%&#x0;On se revoit plus tard !&#xE;&#xB;&#x5;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Désolé de te rejeter alors que tu as
+envie de parler,&#xE;&#x3;	&#x0; mais j'ai des tonnes
+de trucs à penser.
+&#xE;&#x3;%&#x0;Donc voilà, je suis occupé, on
+discutera une autre fois, OK ?&#xE;&#xB;&#x5;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;%&#x0;Désolé de te rejeter alors que tu as
+envie de parler,&#xE;&#x3;	&#x0; mais j'ai des tonnes
+de trucs à penser.
+&#xE;&#x3;%&#x0;Donc voilà, je suis occupé, on
+discutera une autre fois, OK ?&#xE;&#xB;&#x5;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

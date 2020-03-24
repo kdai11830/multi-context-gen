@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Anyway,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; did you need something?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Anyway,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; did you need something?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;So, anyway,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; what's up?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;So, anyway,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; what's up?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>So&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;what can I do for you?</original>
+			<edited>So&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;what can I do for you?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

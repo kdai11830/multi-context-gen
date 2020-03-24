@@ -1,0 +1,773 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Salut, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !</original>
+			<edited>Salut, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Salut, &#xE;&#x5;&#x0;&#x0; !</original>
+			<edited>Salut, &#xE;&#x5;&#x0;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Jette un œil à ta boîte aux lettres.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+J'y ai peut-être bien déposé quelque
+chose...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Jette un œil à ta boîte aux lettres.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+J'y ai peut-être bien déposé quelque
+chose...</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je suis en pleine distribution du
+courrier, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et comme tu le vois,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ce
+n'est pas de tout repos.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je suis en pleine distribution du
+courrier, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et comme tu le vois,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; ce
+n'est pas de tout repos.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;"&#x0;Pfiou ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je te jure...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pfff...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; les gens
+s'amusent à s'envoyer des briques
+par la poste ou quoi ?</original>
+			<edited>&#xE;&#x3;"&#x0;Pfiou ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Je te jure...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pfff...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; les gens
+s'amusent à s'envoyer des briques
+par la poste ou quoi ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x19;&#x0;Oua&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;h&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;J'ai passé toute la nuit à penser à
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Mais pourquoi est-ce que
+je me fais du mal comme ça ?
+&#xE;&#x3;&#x1;&#x0;Heureusement, le travail me permet
+de penser à autre chose...&#xE;&#x0;&#x4;&#x0;Au courrier... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;À la poste...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;À
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ...</original>
+			<edited>&#xE;&#x3;&#x19;&#x0;Oua&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;h&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;J'ai passé toute la nuit à penser à
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Mais pourquoi est-ce que
+je me fais du mal comme ça ?
+&#xE;&#x3;&#x1;&#x0;Heureusement, le travail me permet
+de penser à autre chose...&#xE;&#x0;&#x4;&#x0;Au courrier... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;À la poste...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;À
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ...</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>Bonsoir, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !</original>
+			<edited>Bonsoir, &#xE;&#xE;&#x6; &#x10;&#x0;M&#x0;o&#x0;n&#x0;s&#x0;i&#x0;e&#x0;u&#x0;r&#x0;&#xC;&#x0;M&#x0;a&#x0;d&#x0;a&#x0;m&#x0;e&#x0; le maire !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Salut, &#xE;&#x5;&#x0;&#x0; !</original>
+			<edited>Salut, &#xE;&#x5;&#x0;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Tu as pris le temps de vérifier ta
+boîte aux lettres ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Je viens d'y
+déposer du courrier.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Tu as pris le temps de vérifier ta
+boîte aux lettres ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Je viens d'y
+déposer du courrier.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>La tournée du soir est toujours la
+plus dure.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Enfin, c'est un boulot de dingue,
+mais il faut bien que quelqu'un le
+fasse !</original>
+			<edited>La tournée du soir est toujours la
+plus dure.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Enfin, c'est un boulot de dingue,
+mais il faut bien que quelqu'un le
+fasse !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>Je me suis gardé un petit poisson
+bien frais dans un coin de mon bec.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;J'ai hâte de terminer ma tournée
+pour le déguster !</original>
+			<edited>Je me suis gardé un petit poisson
+bien frais dans un coin de mon bec.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;J'ai hâte de terminer ma tournée
+pour le déguster !</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Ça alors, on voit pas le temps
+passer, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;c'est déjà le soir !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;Ah, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;le soir&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;. &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿtravaille de
+nuit, tu sais ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bien sûr, je pourrais prétexter
+l'envoi d'une lettre pour aller la
+voir...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Mais venant de moi, ça serait
+trop louche, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;elle flairerait tout de
+suite le poisson.
+Euh, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;désolé, je voulais pas
+t'embêter avec mes histoires. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;J'y
+retourne, à plus !</original>
+			<edited>Ça alors, on voit pas le temps
+passer, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;c'est déjà le soir !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;Ah, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;le soir&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;. &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿtravaille de
+nuit, tu sais ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bien sûr, je pourrais prétexter
+l'envoi d'une lettre pour aller la
+voir...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Mais venant de moi, ça serait
+trop louche, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;elle flairerait tout de
+suite le poisson.
+Euh, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;désolé, je voulais pas
+t'embêter avec mes histoires. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;J'y
+retourne, à plus !</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;&#xE;&#x3;&#xD;&#x0;AAAH ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je suis en retard ! Il faut
+que je m'active !</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;&#xE;&#x3;&#xD;&#x0;AAAH ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je suis en retard ! Il faut
+que je m'active !</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;"&#x0;Ce sac pèse une TONNE !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Les gens
+ont jamais entendu parler du
+courrier électronique ?</original>
+			<edited>&#xE;&#x3;"&#x0;Ce sac pèse une TONNE !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Les gens
+ont jamais entendu parler du
+courrier électronique ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>Tu arrives à lire l'adresse toi ? Une
+écriture pareille, je vous jure...&#xE;&#x0;&#x4;&#x0;Les habitants de cette ville écrivent
+en marchant ou quoi ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Bon, j'arrête
+de me plaindre, j'ai du boulot !</original>
+			<edited>Tu arrives à lire l'adresse toi ? Une
+écriture pareille, je vous jure...&#xE;&#x0;&#x4;&#x0;Les habitants de cette ville écrivent
+en marchant ou quoi ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Bon, j'arrête
+de me plaindre, j'ai du boulot !</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Pas le temps ! Pas le temps !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Encore une montagne de courrier à
+distribuer !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Pas le temps ! Pas le temps !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Encore une montagne de courrier à
+distribuer !</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>Parfois je ronchonne parce que les
+gens s'envoient trop de lettres alors
+qu'ils pourraient utiliser Internet.
+&#xE;&#x3;&#x15;&#x0;... Mais à la réflexion, une lettre
+c'est tellement plus sympa.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;Même si c'est plus lourd qu'un
+e-mail, c'est sûr.</original>
+			<edited>Parfois je ronchonne parce que les
+gens s'envoient trop de lettres alors
+qu'ils pourraient utiliser Internet.
+&#xE;&#x3;&#x15;&#x0;... Mais à la réflexion, une lettre
+c'est tellement plus sympa.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;Même si c'est plus lourd qu'un
+e-mail, c'est sûr.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>Quand je vois une lettre qui vient
+d'un autre continent, je me dis :&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1F;&#x0;« Ouah, le postier qui a transporté
+ça doit être crevé ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Dire qu'il doit
+ensuite faire le chemin inverse ! »</original>
+			<edited>Quand je vois une lettre qui vient
+d'un autre continent, je me dis :&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1F;&#x0;« Ouah, le postier qui a transporté
+ça doit être crevé ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Dire qu'il doit
+ensuite faire le chemin inverse ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>Les habitants &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0;
+s'envoient vraiment beaucoup
+de lettres.&#xE;&#x0;&#x4;&#x0;Bon, tant mieux pour moi. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Je risque
+pas de me retrouver au chômage
+d'ici peu.</original>
+			<edited>Les habitants &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0;
+s'envoient vraiment beaucoup
+de lettres.&#xE;&#x0;&#x4;&#x0;Bon, tant mieux pour moi. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Je risque
+pas de me retrouver au chômage
+d'ici peu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>Les gens s'imaginent&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; que les
+lettres atterrissent comme par
+miracle dans leur boîte aux lettres.
+&#xE;&#x3;&#x1B;&#x0;Mais c'est pas comme ça que ça
+marche !&#xE;&#x3;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Je distribue personnellement chaque
+lettre,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; mais je travaille si vite que
+personne ne s'en rend compte !
+&#xE;&#x3;!&#x0;Je suis un peu un superhéros du
+courrier, en fait.</original>
+			<edited>Les gens s'imaginent&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; que les
+lettres atterrissent comme par
+miracle dans leur boîte aux lettres.
+&#xE;&#x3;&#x1B;&#x0;Mais c'est pas comme ça que ça
+marche !&#xE;&#x3;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Je distribue personnellement chaque
+lettre,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; mais je travaille si vite que
+personne ne s'en rend compte !
+&#xE;&#x3;!&#x0;Je suis un peu un superhéros du
+courrier, en fait.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Tu sais, il y a deux belles
+représentantes de mon espèce qui
+travaillent au bureau de poste.
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ, qui travaille de jour,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; et
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ, qui travaille de nuit.&#xE;&#x0;&#x4;&#x0;Ma question va peut-être te sembler
+étrange, mais &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;laquelle est la plus
+jolie, selon toi ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Opélie.
+Élisabec.
+Ben...</original>
+			<edited>&#xE;&#x3;'&#x0;Tu sais, il y a deux belles
+représentantes de mon espèce qui
+travaillent au bureau de poste.
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ, qui travaille de jour,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; et
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ, qui travaille de nuit.&#xE;&#x0;&#x4;&#x0;Ma question va peut-être te sembler
+étrange, mais &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;laquelle est la plus
+jolie, selon toi ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Opélie.
+Élisabec.
+Ben...</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Les rumeurs qui courent sur &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie
+&#xE;&#x0;&#x3;&#x2;ÿÿet moi...?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; Une pure invention.&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ est gentille et tout, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;mais mon
+cœur appartient à &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Parfois je me décourage et je me
+dis qu'&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ ferait bien l'affaire
+après tout.
+Mais dans ces moments, je repense
+à tout ce qu'&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ et moi avons
+traversé ensemble.
+Ouais,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;rien pour l'instant. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Mais
+ça viendra.&#xE;&#x0;&#x4;&#x0;Ça vaut pas le coup de gâcher mon
+inévitable histoire d'amour avec elle
+pour une passade avec &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Voilà,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; merci de m'avoir écouté en
+tout cas.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Je sais que toi, tu me
+comprends.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Les rumeurs qui courent sur &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie
+&#xE;&#x0;&#x3;&#x2;ÿÿet moi...?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0; Une pure invention.&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ est gentille et tout, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;mais mon
+cœur appartient à &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;Parfois je me décourage et je me
+dis qu'&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ ferait bien l'affaire
+après tout.
+Mais dans ces moments, je repense
+à tout ce qu'&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ et moi avons
+traversé ensemble.
+Ouais,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; OK, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;rien pour l'instant. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Mais
+ça viendra.&#xE;&#x0;&#x4;&#x0;Ça vaut pas le coup de gâcher mon
+inévitable histoire d'amour avec elle
+pour une passade avec &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Voilà,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; merci de m'avoir écouté en
+tout cas.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Je sais que toi, tu me
+comprends.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hé, tu sais quel jour on est ?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;,&#x0;&#xE;&#x7;
+&#x0;On est mercredi !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Et comme chaque mercredi, je vais
+faire ma demande hebdomadaire de
+sortie avec &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;De son côté, elle va sans doute
+m'opposer son refus hebdomadaire,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+mais je garde un petit espoir !
+&#xE;&#x3;&#x1;&#x0;Ces derniers temps, je vois bien
+qu'elle me regarde &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;quand je la
+regarde pas.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hé, tu sais quel jour on est ?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;,&#x0;&#xE;&#x7;
+&#x0;On est mercredi !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Et comme chaque mercredi, je vais
+faire ma demande hebdomadaire de
+sortie avec &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1B;&#x0;De son côté, elle va sans doute
+m'opposer son refus hebdomadaire,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+mais je garde un petit espoir !
+&#xE;&#x3;&#x1;&#x0;Ces derniers temps, je vois bien
+qu'elle me regarde &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;quand je la
+regarde pas.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;AAAAAHHH ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Tu sais quoi ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1A;&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; m'a envoyé un bisou
+aujourd'hui !
+&#xE;&#x3;&#x4;&#x0;Elle a mis sa main devant sa bouche
+et a fait...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; SM&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;A&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;A&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;A&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;CK&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;-TCHOU !&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Puis, sans doute émue aux larmes,
+elle a sorti son mouchoir pour
+essuyer son petit bec... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Aaah&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x6;&#x0;Pourquoi tu souris ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;J'ai bien vu ce
+que j'ai vu.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;AAAAAHHH ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Tu sais quoi ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1A;&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; m'a envoyé un bisou
+aujourd'hui !
+&#xE;&#x3;&#x4;&#x0;Elle a mis sa main devant sa bouche
+et a fait...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; SM&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;A&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;A&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;A&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;CK&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#x7;
+&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;-TCHOU !&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Puis, sans doute émue aux larmes,
+elle a sorti son mouchoir pour
+essuyer son petit bec... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Aaah&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x6;&#x0;Pourquoi tu souris ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;J'ai bien vu ce
+que j'ai vu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;On est déjà vendredi ?
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;La semaine est passée vite !&#xE;&#x0;&#x4;&#x0;Je ne travaille pas le week-end,
+alors quand j'aurai fini ma journée&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1F;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;à moi la liberté !
+&#xE;&#x3;&#xB;&#x0;Tiens, je me demande ce que fait
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿce week-end ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;La liberté,
+sans elle, c'est comme une prison.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;On est déjà vendredi ?
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;La semaine est passée vite !&#xE;&#x0;&#x4;&#x0;Je ne travaille pas le week-end,
+alors quand j'aurai fini ma journée&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x1F;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;à moi la liberté !
+&#xE;&#x3;&#xB;&#x0;Tiens, je me demande ce que fait
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿce week-end ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xC;&#x0;La liberté,
+sans elle, c'est comme une prison.</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ, hein ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Oui, bien sûr, &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie &#xE;&#x0;&#x3;&#x2;ÿÿest pas mal
+dans son genre :&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; simple, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;douce,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+un peu gamine&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Mais &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;si tu recherches l'essence
+même d'une féminité pleinement
+mature,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; éprouvée,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; assumée...
+... alors&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿn'a pas sa pareille.&#xE;&#x0;&#x4;&#x0;Oh, elle se montre parfois un peu...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+irritable...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; mais c'est ça façon de ne
+pas se laisser marcher sur les ailes.
+&#xE;&#x3;&#x4;&#x0;J'aime les petits plis qui se forment
+sur la poche toute flasque de son
+bec quand elle me voit arriver.
+Tout le monde pense que c'est du
+dégoût, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;mais moi je connais la
+signification secrète de ce rictus...</original>
+			<edited>&#xE;&#x3;$&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie&#xE;&#x0;&#x3;&#x2;ÿÿ, hein ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Oui, bien sûr, &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Opélie &#xE;&#x0;&#x3;&#x2;ÿÿest pas mal
+dans son genre :&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; simple, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;douce,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+un peu gamine&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Mais &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;si tu recherches l'essence
+même d'une féminité pleinement
+mature,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; éprouvée,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; assumée...
+... alors&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿn'a pas sa pareille.&#xE;&#x0;&#x4;&#x0;Oh, elle se montre parfois un peu...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+irritable...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; mais c'est ça façon de ne
+pas se laisser marcher sur les ailes.
+&#xE;&#x3;&#x4;&#x0;J'aime les petits plis qui se forment
+sur la poche toute flasque de son
+bec quand elle me voit arriver.
+Tout le monde pense que c'est du
+dégoût, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;mais moi je connais la
+signification secrète de ce rictus...</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;Ouah !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est vrai ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Moi qui pensais
+être le seul à percevoir le charme
+ravageur d'&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿ!
+&#xE;&#x3;&#x4;&#x0;Ses petits yeux de truite timide
+qu'un arc-en-ciel de cils traverse...&#xE;&#x0;&#x4;&#x0;Le parfum de ses plumes lorsqu'elle
+les enduit de sa graisse délicate...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;Ah, &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Quand serons-nous
+enfin réunis ?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;Ouah !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est vrai ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Moi qui pensais
+être le seul à percevoir le charme
+ravageur d'&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿ!
+&#xE;&#x3;&#x4;&#x0;Ses petits yeux de truite timide
+qu'un arc-en-ciel de cils traverse...&#xE;&#x0;&#x4;&#x0;Le parfum de ses plumes lorsqu'elle
+les enduit de sa graisse délicate...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;Ah, &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec&#xE;&#x0;&#x3;&#x2;ÿÿ... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Quand serons-nous
+enfin réunis ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>« Ben... » ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ben quoi, « Ben... » ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;T'arrives pas à te décider tellement
+elles sont jolies toutes les deux ?
+&#xE;&#x3;&#x1;&#x0;Sans chercher à t'influencer, je te
+conseille de répondre&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; « &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿ».&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Elle a l'air dure comme ça, mais son
+cœur est tendre comme la chair de
+la limande.
+&#xE;&#x3;
+&#x0;Ah, si un seul petit battement de ce
+cœur adoré pouvait m'être destiné&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>« Ben... » ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ben quoi, « Ben... » ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;T'arrives pas à te décider tellement
+elles sont jolies toutes les deux ?
+&#xE;&#x3;&#x1;&#x0;Sans chercher à t'influencer, je te
+conseille de répondre&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; « &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿ».&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Elle a l'air dure comme ça, mais son
+cœur est tendre comme la chair de
+la limande.
+&#xE;&#x3;
+&#x0;Ah, si un seul petit battement de ce
+cœur adoré pouvait m'être destiné&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;Un temps pareil, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ça me donne envie
+d'étendre mes ailes et de voler
+jusqu'au bout du monde !
+&#xE;&#x3;&#x1;&#x0;Mais bon, faut que j'arrête de
+rêvasser. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;C'est que j'ai du travail,
+moi...</original>
+			<edited>&#xE;&#x3;+&#x0;Un temps pareil, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ça me donne envie
+d'étendre mes ailes et de voler
+jusqu'au bout du monde !
+&#xE;&#x3;&#x1;&#x0;Mais bon, faut que j'arrête de
+rêvasser. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;C'est que j'ai du travail,
+moi...</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Ma mission&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; est de distribuer le
+courrier par tous les temps. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Qu'il
+pleuve, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;qu'il grêle &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ou qu'il neige...
+&#xE;&#x3;!&#x0;&#xE;&#x7;&#xB;&#x0;RIEN NE PEUT M'ARRÊTER !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;Mais bon, c'est sûr que c'est plus
+agréable quand il fait beau.&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Ma mission&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; est de distribuer le
+courrier par tous les temps. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Qu'il
+pleuve, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;qu'il grêle &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ou qu'il neige...
+&#xE;&#x3;!&#x0;&#xE;&#x7;&#xB;&#x0;RIEN NE PEUT M'ARRÊTER !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x2;&#x0;Mais bon, c'est sûr que c'est plus
+agréable quand il fait beau.&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Hmm, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;il fait un peu sombre
+aujourd'hui.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Un temps idéal pour rester chez soi
+à écrire des lettres, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;si tu veux mon
+avis.</original>
+			<edited>&#xE;&#x3;	&#x0;Hmm, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;il fait un peu sombre
+aujourd'hui.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Un temps idéal pour rester chez soi
+à écrire des lettres, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;si tu veux mon
+avis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; euh...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; salut,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Désolé, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;j'ai l'air un peu ébouriffé
+sous cette pluie, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;j'ai pas eu le temps
+de me graisser les plumes ce matin.
+&#xE;&#x3;&#xC;&#x0;J'espère que je vais pas croiser
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿdans ce état...</original>
+			<edited>&#xE;&#x3;	&#x0;Oh...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; euh...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; salut,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Désolé, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;j'ai l'air un peu ébouriffé
+sous cette pluie, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;j'ai pas eu le temps
+de me graisser les plumes ce matin.
+&#xE;&#x3;&#xC;&#x0;J'espère que je vais pas croiser
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿdans ce état...</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Pfff, il pleut des cordes
+aujourd'hui !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;Je te dis pas le poids du sac de
+courrier quand il est gorgé d'eau...&#xE;&#x0;&#x4;&#x0;J'ai déjà du mal à prendre mon
+envol en temps normal,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; mais alors
+là...</original>
+			<edited>&#xE;&#x3;	&#x0;Pfff, il pleut des cordes
+aujourd'hui !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;Je te dis pas le poids du sac de
+courrier quand il est gorgé d'eau...&#xE;&#x0;&#x4;&#x0;J'ai déjà du mal à prendre mon
+envol en temps normal,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; mais alors
+là...</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Br&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Il&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; fait&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; froid&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Je ne sens plus mes plumes ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Si je
+continue à voler, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;je vais geler et
+tomber comme un gros grêlon.</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Br&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Il&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; fait&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; froid&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Je ne sens plus mes plumes ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Si je
+continue à voler, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;je vais geler et
+tomber comme un gros grêlon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;Ce blizzard cherche à me
+décourager mais je n'abandonnerai
+jamais !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; JAMAIS !
+Partout où une lettre attend d'être
+distribuée...&#xE;&#x0;&#x4;&#x0;Partout où un destinataire attend
+fébrilement des nouvelles de ses
+proches...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;C'est là qu'il me faut être ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;!&#x0;Car je
+suis Antoine,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; fier et unique facteur
+de la belle ville &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; !
+&#xE;&#x3;&#x1;&#x0;Pas mal, non ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Aah, si seulement
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿétait là pour entendre ça...!</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;Ce blizzard cherche à me
+décourager mais je n'abandonnerai
+jamais !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; JAMAIS !
+Partout où une lettre attend d'être
+distribuée...&#xE;&#x0;&#x4;&#x0;Partout où un destinataire attend
+fébrilement des nouvelles de ses
+proches...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;,&#x0;C'est là qu'il me faut être ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;!&#x0;Car je
+suis Antoine,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; fier et unique facteur
+de la belle ville &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x5;&#x5;&#x0; !
+&#xE;&#x3;&#x1;&#x0;Pas mal, non ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Aah, si seulement
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Élisabec &#xE;&#x0;&#x3;&#x2;ÿÿétait là pour entendre ça...!</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Quel temps délicieux &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;et quel parfum
+enivrant dans l'air...&#xE;&#x0;&#x4;&#x0;J'ai envie de voleter de boîte aux
+lettres en boîte aux lettres,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; libre
+comme ces pétales dans le vent...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Quel temps délicieux &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;et quel parfum
+enivrant dans l'air...&#xE;&#x0;&#x4;&#x0;J'ai envie de voleter de boîte aux
+lettres en boîte aux lettres,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; libre
+comme ces pétales dans le vent...</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>Hé ! J'ai une lettre
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ pour toi !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Oh,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; mais on dirait que tu as déjà
+trop de lettres sur toi, je ne peux
+rien te donner de plus.
+Tu n'as qu'à te débarrasser d'une
+vieille lettre et je repasserai.</original>
+			<edited>Hé ! J'ai une lettre
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ pour toi !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Oh,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; mais on dirait que tu as déjà
+trop de lettres sur toi, je ne peux
+rien te donner de plus.
+Tu n'as qu'à te débarrasser d'une
+vieille lettre et je repasserai.</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>Voici une lettre de la part
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ !</original>
+			<edited>Voici une lettre de la part
+&#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ !</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>Voilà, c'est tout ce que j'ai pour
+toi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;À bientôt !</original>
+			<edited>Voilà, c'est tout ce que j'ai pour
+toi !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;À bientôt !</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Tant de lettres !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si peu de temps !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Je dois me dépêcher de distribuer
+tout ce courrier.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; À la revoyure !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Tant de lettres !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si peu de temps !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Je dois me dépêcher de distribuer
+tout ce courrier.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; À la revoyure !</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Tu as ouvert&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; la lettre que je t'ai
+donnée ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1F;&#x0;Bonne nouvelle ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Un
+commérage croustillant, peut-être ?
+&#xE;&#x3;	&#x0;Hem, pardon.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ce ne sont pas mes
+affaires...</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Tu as ouvert&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; la lettre que je t'ai
+donnée ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1F;&#x0;Bonne nouvelle ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Un
+commérage croustillant, peut-être ?
+&#xE;&#x3;	&#x0;Hem, pardon.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ce ne sont pas mes
+affaires...</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;J'ai encore des tonnes de lettres à
+distribuer... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Impossible de rentrer
+chez moi avant d'avoir terminé !</original>
+			<edited>&#xE;&#x3;
+&#x0;J'ai encore des tonnes de lettres à
+distribuer... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Impossible de rentrer
+chez moi avant d'avoir terminé !</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>Mon patron trouve que je discute
+trop avec la clientèle pendant ma
+tournée.
+&#xE;&#x3;&#x1;&#x0;Mais j'estime que ça fait partie du
+boulot ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Bon, sur ce,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je m'y remets.</original>
+			<edited>Mon patron trouve que je discute
+trop avec la clientèle pendant ma
+tournée.
+&#xE;&#x3;&#x1;&#x0;Mais j'estime que ça fait partie du
+boulot ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Bon, sur ce,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je m'y remets.</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>On me demande souvent pourquoi
+je marche au lieu de voler quand je
+distribue le courrier.
+&#xE;&#x3;&#x1;&#x0;Eh bien, voler, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;c'est plutôt fatigant
+quand on transporte un sac plein de
+lettres et de colis.
+&#xE;&#x3;&#x6;&#x0;En plus je me suis fait tirer dessus
+au lance-pierre une fois : &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;quelqu'un
+m'avait confondu avec un ballon...
+&#xE;&#x3;&#xC;&#x0;Depuis, j'évite...</original>
+			<edited>On me demande souvent pourquoi
+je marche au lieu de voler quand je
+distribue le courrier.
+&#xE;&#x3;&#x1;&#x0;Eh bien, voler, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;c'est plutôt fatigant
+quand on transporte un sac plein de
+lettres et de colis.
+&#xE;&#x3;&#x6;&#x0;En plus je me suis fait tirer dessus
+au lance-pierre une fois : &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;quelqu'un
+m'avait confondu avec un ballon...
+&#xE;&#x3;&#xC;&#x0;Depuis, j'évite...</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Tu tombes à pic !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;J'ai une livraison express pour toi
+de la part &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Je dépose ça dans ta boîte aux
+lettres, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;alors pense à la consulter !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3; &#x0;Allez, au plaisir !</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Tu tombes à pic !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;J'ai une livraison express pour toi
+de la part &#xE;&#xE;
+&#xE;&#x6;&#x0;d&#x0;e&#x0; &#x0;&#x4;&#x0;d&#x0;'&#x0;&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Je dépose ça dans ta boîte aux
+lettres, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;alors pense à la consulter !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3; &#x0;Allez, au plaisir !</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;super timing, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;J'ai quelques lettres qui te sont
+adressées mais ta boîte aux lettres
+est pleine !
+&#xE;&#x3;&#xD;&#x0;C'est un peu la panique au bureau de
+poste dès qu'il y a du courrier qui
+s'accumule !
+&#xE;&#x3;&#x15;&#x0;Alors pense à vider un peu ta boîte
+pour que je puisse continuer à y
+déposer ton courrier !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;super timing, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;J'ai quelques lettres qui te sont
+adressées mais ta boîte aux lettres
+est pleine !
+&#xE;&#x3;&#xD;&#x0;C'est un peu la panique au bureau de
+poste dès qu'il y a du courrier qui
+s'accumule !
+&#xE;&#x3;&#x15;&#x0;Alors pense à vider un peu ta boîte
+pour que je puisse continuer à y
+déposer ton courrier !</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;tu tombes bien, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;J'ai quelques lettres adressées à
+&#xE;&#x11;&#x0;&#x2;&#x0;&#x0;, mais sa boîte aux
+lettres est pleine à ras bord !
+&#xE;&#x3;&#x15;&#x0;Tu pourrais aller lui demander de
+vider un peu sa boîte pour faire de
+la place ?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;tu tombes bien, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;J'ai quelques lettres adressées à
+&#xE;&#x11;&#x0;&#x2;&#x0;&#x0;, mais sa boîte aux
+lettres est pleine à ras bord !
+&#xE;&#x3;&#x15;&#x0;Tu pourrais aller lui demander de
+vider un peu sa boîte pour faire de
+la place ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;Je compte sur toi !</original>
+			<edited>&#xE;&#x3; &#x0;Je compte sur toi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>Et profites-en pour demander aux
+autres joueurs qui ont des boîtes
+pleines de faire un peu le ménage.
+&#xE;&#x3; &#x0;Merci pour ton aide !</original>
+			<edited>Et profites-en pour demander aux
+autres joueurs qui ont des boîtes
+pleines de faire un peu le ménage.
+&#xE;&#x3; &#x0;Merci pour ton aide !</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>Quel drame si une lettre importante
+ne pouvait pas être délivrée à cause
+d'une boîte aux lettres qui déborde.
+&#xE;&#x3;&#x1;&#x0;Alors je compte sur toi !</original>
+			<edited>Quel drame si une lettre importante
+ne pouvait pas être délivrée à cause
+d'une boîte aux lettres qui déborde.
+&#xE;&#x3;&#x1;&#x0;Alors je compte sur toi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>Très bien !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Sur ce, je me remets au
+travail !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;À plus !</original>
+			<edited>Très bien !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Sur ce, je me remets au
+travail !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;À plus !</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>J'adorerais papoter avec toi toute
+la journée, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;mais mon patron
+apprécierait moyennement.
+&#xE;&#x0;&#x2;&#x2;K&#x0;Chut, il a des yeux et des oreilles partout...&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;
+&#xE;&#x0;&#x2;&#x2;d&#x0;À la revoyure !&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>J'adorerais papoter avec toi toute
+la journée, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;mais mon patron
+apprécierait moyennement.
+&#xE;&#x0;&#x2;&#x2;K&#x0;Chut, il a des yeux et des oreilles partout...&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;
+&#xE;&#x0;&#x2;&#x2;d&#x0;À la revoyure !&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

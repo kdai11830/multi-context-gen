@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡No te rindas, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Buena suerte con tu búsqueda!</original>
+			<edited>&#xE;&#x3;%&#x0;¡No te rindas, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Buena suerte con tu búsqueda!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡Que me hayas encontrado no
+significa que esto se haya acabado!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Buena suerte!</original>
+			<edited>&#xE;&#x3;%&#x0;¡Que me hayas encontrado no
+significa que esto se haya acabado!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Buena suerte!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡No hay tiempo para descansar!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Hay gente a la que encontrar!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Ay, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;qué gracia, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;me ha salido
+un pareado y todo, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je.</original>
+			<edited>&#xE;&#x3;%&#x0;¡No hay tiempo para descansar!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;¡Hay gente a la que encontrar!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Ay, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;qué gracia, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;me ha salido
+un pareado y todo, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Se te ha acabado el tiempo!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;Has estado a punto de ganarnos,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;¡pero esta vez la victoria es nuestra!</original>
+			<edited>&#xE;&#x3;%&#x0;¡Vaya!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Se te ha acabado el tiempo!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;	&#x0;Has estado a punto de ganarnos,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;¡pero esta vez la victoria es nuestra!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

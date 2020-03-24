@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;You agreed to take that package
+over to &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; for me.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Don't forget now, OK?</original>
+			<edited>&#xE;&#x3;%&#x0;You agreed to take that package
+over to &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; for me.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Don't forget now, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;You promised to take that package
+to &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I really hope that gift
+will patch things up between us!</original>
+			<edited>&#xE;&#x3;%&#x0;You promised to take that package
+to &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I really hope that gift
+will patch things up between us!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I borrowed something from 
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, and you said you'd
+return it for me, &#xE;&#x5;&#x7;&#x0;.
+I put it in a package for you to
+deliver. &#xE;&#x3;%&#x0;Promise me you won't
+forget, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I borrowed something from 
+&#xE;&#x11;&#x1;&#x2;&#x0;&#x0;, and you said you'd
+return it for me, &#xE;&#x5;&#x7;&#x0;.
+I put it in a package for you to
+deliver. &#xE;&#x3;%&#x0;Promise me you won't
+forget, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;That silly &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; forgot
+something over at my place,
+and you said you'd return it.
+I gave you the package, remember?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Now make sure you deliver it,
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;That silly &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; forgot
+something over at my place,
+and you said you'd return it.
+I gave you the package, remember?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Now make sure you deliver it,
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I gave you a package that had
+been delivered to me by accident.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It belongs to &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!
+Don't forget to get it to &#xE;&#xE;&#x7;&#x10;&#x6;&#x0;h&#x0;i&#x0;m&#x0;&#x6;&#x0;h&#x0;e&#x0;r&#x0;, OK?
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I gave you a package that had
+been delivered to me by accident.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It belongs to &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;!
+Don't forget to get it to &#xE;&#xE;&#x7;&#x10;&#x6;&#x0;h&#x0;i&#x0;m&#x0;&#x6;&#x0;h&#x0;e&#x0;r&#x0;, OK?
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I gave you a package that has in
+it something &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; wanted.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Don't forget to deliver it, OK?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I gave you a package that has in
+it something &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; wanted.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Don't forget to deliver it, OK?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

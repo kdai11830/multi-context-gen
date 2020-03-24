@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Wait a sec&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;
+&#x0;My itchiness has been
+cured!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Did you &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;pick a flea off
+of me?</original>
+			<edited>Wait a sec&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;&#xE;&#x7;
+&#x0;My itchiness has been
+cured!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Did you &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;pick a flea off
+of me?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Did you get rid of that flea for me,
+&#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Did you get rid of that flea for me,
+&#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;My flea!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Did you pick it off of me?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;My flea!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Did you pick it off of me?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;I feel tons better now!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Thanks,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;I feel tons better now!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Thanks,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1A;&#x0;Thanks.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I should probably take
+more baths,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1A;&#x0;Thanks.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I should probably take
+more baths,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;As my way of saying thanks,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; please
+keep that flea as a present!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;As my way of saying thanks,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; please
+keep that flea as a present!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Vuelve cuando quieras, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;cariño!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Esto hay que repetirlo, sin duda.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Vuelve cuando quieras, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;cariño!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Esto hay que repetirlo, sin duda.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Me lo he pasado muy bien contigo!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Me lo he pasado muy bien contigo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Me alegro mucho de que hayas
+venido, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Me alegro mucho de que hayas
+venido, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;¿Eh? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¿Adónde vas? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡Con las ganas
+que tenía de hablar contigo!</original>
+			<edited>&#xE;&#x3;'&#x0;¿Eh? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¿Adónde vas? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡Con las ganas
+que tenía de hablar contigo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¡¿Cómo?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;¿Ya te quieres ir,
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;¡Anda, quédate
+un ratito más!</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¡¿Cómo?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;¿Ya te quieres ir,
+&#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;¡Anda, quédate
+un ratito más!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Espera, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;por favor!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;Ya que has
+venido, quédate un poquito más.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Espera, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;por favor!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;Ya que has
+venido, quédate un poquito más.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Hey! Who are YOU? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Are you...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;from another town maybe? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Well, have fun here, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>Hey! Who are YOU? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Are you...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;from another town maybe? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Well, have fun here, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Hey! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;What?! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Are you, like, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;a visitor
+to our town? &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0;Well, enjoy it here.
+You'll find it a dream, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Hey! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;What?! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Are you, like, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;a visitor
+to our town? &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x5;&#x0;Well, enjoy it here.
+You'll find it a dream, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Wait a sec! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Who are you?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x16;&#x0;You're a visitor! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Well, have a great
+time here, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Wait a sec! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Who are you?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x16;&#x0;You're a visitor! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Well, have a great
+time here, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmm. I can't place your face...&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Have we met? &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Wait. Am I dreaming?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Either way, have fun, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmm. I can't place your face...&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Have we met? &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Wait. Am I dreaming?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Either way, have fun, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hey, someone new! I've never seen
+you before! Wait—let me guess!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x16;&#x0;You're one of my biggest fans,
+right? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;So this must be like a dream
+come true. Good to meet you!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hey, someone new! I've never seen
+you before! Wait—let me guess!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x16;&#x0;You're one of my biggest fans,
+right? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;So this must be like a dream
+come true. Good to meet you!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Me gusta mucho venir aquí de
+compras.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Todos los días reciben
+nuevos productos!</original>
+			<edited>&#xE;&#x3;%&#x0;Me gusta mucho venir aquí de
+compras.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Todos los días reciben
+nuevos productos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Siempre que vengo tienen alguna
+oferta fabulosa.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Cómo no va a ser
+esta mi tienda favorita?</original>
+			<edited>&#xE;&#x3;%&#x0;Siempre que vengo tienen alguna
+oferta fabulosa.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Cómo no va a ser
+esta mi tienda favorita?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Ay, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;cielo!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Si ves alguna oferta
+especial hoy, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;avísame, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;por favor!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Ay, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;cielo!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡Si ves alguna oferta
+especial hoy, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;avísame, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;por favor!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Este sitio me viene como anillo
+al dedo: &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡siempre tienen mis
+artículos favoritos!</original>
+			<edited>&#xE;&#x3;%&#x0;Este sitio me viene como anillo
+al dedo: &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;¡siempre tienen mis
+artículos favoritos!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;¡Sí que te has ido lejos de compras!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No te olvides de llevarle algún
+detallito a la gente de tu pueblo.</original>
+			<edited>&#xE;&#x3;%&#x0;¡Sí que te has ido lejos de compras!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No te olvides de llevarle algún
+detallito a la gente de tu pueblo.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;¿Tienes ya todo lo que buscabas?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;¡No vaya a ser que te olvides algo
+y tengas que repetir todo el viaje!</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;¿Tienes ya todo lo que buscabas?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;¡No vaya a ser que te olvides algo
+y tengas que repetir todo el viaje!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

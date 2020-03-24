@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hola !&#xE;&#x7;&#x1;&#x0; Je m'appelle &#xE;&#x5;&#x1;&#x0;.
+J'ai vécu dans cette ville pendant
+quelque temps.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hola !&#xE;&#x7;&#x1;&#x0; Je m'appelle &#xE;&#x5;&#x1;&#x0;.
+J'ai vécu dans cette ville pendant
+quelque temps.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Sans me vanter, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;je connais cette
+ville comme ma poche. Parfois, j'ai
+l'impression d'y avoir grandi...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Pourtant, je suis toujours enchantée
+par sa beauté et ce sentiment de
+bien-être qui vous y envahit...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Sans me vanter, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;je connais cette
+ville comme ma poche. Parfois, j'ai
+l'impression d'y avoir grandi...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Pourtant, je suis toujours enchantée
+par sa beauté et ce sentiment de
+bien-être qui vous y envahit...</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>J'aime beaucoup la ville que j'habite
+actuellement... &#xE;&#x3;&#x1;&#x0;Mais celle-ci a un
+charme particulier...</original>
+			<edited>J'aime beaucoup la ville que j'habite
+actuellement... &#xE;&#x3;&#x1;&#x0;Mais celle-ci a un
+charme particulier...</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;C'est agréable de revoir des lieux
+qu'on a aimés. Une bonne rasade
+de nostalgie, il n'y a rien de tel !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Quand je me promène ici, ça me
+requinque pour un bon moment !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;C'est agréable de revoir des lieux
+qu'on a aimés. Une bonne rasade
+de nostalgie, il n'y a rien de tel !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Quand je me promène ici, ça me
+requinque pour un bon moment !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je m'appelle &#xE;&#x5;&#x1;&#x0;. Je vivais
+ici à une époque.&#xE;&#x0;&#x4;&#x0;Mon pêché mignon, c'est de
+dévorer un bon livre&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; et &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x5;&#x1A;&#x2;&#x0;Í...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Tu en as vu par ici ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je m'appelle &#xE;&#x5;&#x1;&#x0;. Je vivais
+ici à une époque.&#xE;&#x0;&#x4;&#x0;Mon pêché mignon, c'est de
+dévorer un bon livre&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; et &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x5;&#x1A;&#x2;&#x0;Í...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;Tu en as vu par ici ?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

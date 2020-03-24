@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Décidément, &#xE;&#x5;&#x7;&#x0; !
+&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; est là aussi, vous vous
+êtes donné le mot ?!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Décidément, &#xE;&#x5;&#x7;&#x0; !
+&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x11;&#x1;&#x2;&#x0;&#x0; est là aussi, vous vous
+êtes donné le mot ?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tiens, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; est là aussi
+justement.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; C'est cool, mais ne
+cassez rien, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tiens, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0; est là aussi
+justement.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; C'est cool, mais ne
+cassez rien, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hé, content de te voir !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Parce qu'on
+commençait à s'ennuyer, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+et moi, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hé, content de te voir !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Parce qu'on
+commençait à s'ennuyer, &#xE;&#x11;&#x1;&#x2;&#x0;&#x0;
+et moi, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

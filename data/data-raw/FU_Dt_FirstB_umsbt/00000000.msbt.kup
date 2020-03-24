@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hello!&#xE;&#x7;&#x1;&#x0; I used to live in this town.
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;My name is &#xE;&#x5;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It's nice to
+meet you,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hello!&#xE;&#x7;&#x1;&#x0; I used to live in this town.
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;My name is &#xE;&#x5;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; It's nice to
+meet you,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Not to brag,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but I consider myself
+an expert on this part of town.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Even though it's like my second
+home,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'm always struck by how
+pretty it is.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Not to brag,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; but I consider myself
+an expert on this part of town.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Even though it's like my second
+home,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I'm always struck by how
+pretty it is.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>The town where I live now is nice,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+but &#xE;&#x3;&#x1;&#x0;I love visiting this place.</original>
+			<edited>The town where I live now is nice,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+but &#xE;&#x3;&#x1;&#x0;I love visiting this place.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;It's so nice to visit my old haunts.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;If I come here right before I leave
+town,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I smile the whole way home.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;It's so nice to visit my old haunts.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;If I come here right before I leave
+town,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; I smile the whole way home.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm &#xE;&#x5;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I used to live here!&#xE;&#x0;&#x4;&#x0;One of my favorite things to do is
+munch on a local &#xE;&#x5;&#x1A;&#x2;&#x0;Í
+while reading a good book.
+&#xE;&#x3;&#x4;&#x0;I'll have to get some before I head
+home!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm &#xE;&#x5;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I used to live here!&#xE;&#x0;&#x4;&#x0;One of my favorite things to do is
+munch on a local &#xE;&#x5;&#x1A;&#x2;&#x0;Í
+while reading a good book.
+&#xE;&#x3;&#x4;&#x0;I'll have to get some before I head
+home!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

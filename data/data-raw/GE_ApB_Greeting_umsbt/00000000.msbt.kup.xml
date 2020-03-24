@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Hi, &#xE;&#x5;&#x8;&#x0;.
+&#xE;&#x3;&#x1;&#x0;I'm looking for a greeting that's
+more me, you know? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Know any?&#xE;&#x8;&#x5;&#x8;&#x4;&#x0;&#x15;&#x0;&#x5;&#x0;(&#x0;
+Yes, I do!
+No.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Hi, &#xE;&#x5;&#x8;&#x0;.
+&#xE;&#x3;&#x1;&#x0;I'm looking for a greeting that's
+more me, you know? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Know any?&#xE;&#x8;&#x5;&#x8;&#x4;&#x0;&#x15;&#x0;&#x5;&#x0;(&#x0;
+Yes, I do!
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hi there, &#xE;&#x5;&#x8;&#x0;.
+I want a greeting that's all sparkly
+fresh! Have one for me?&#xE;&#x8;&#x5;&#x8;&#x4;&#x0;&#x15;&#x0;&#x5;&#x0;(&#x0;
+Of course!
+I've got nothing.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hi there, &#xE;&#x5;&#x8;&#x0;.
+I want a greeting that's all sparkly
+fresh! Have one for me?&#xE;&#x8;&#x5;&#x8;&#x4;&#x0;&#x15;&#x0;&#x5;&#x0;(&#x0;
+Of course!
+I've got nothing.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;I think my greeting is severely
+lacking in sparkle. &#xE;&#x7;&#x1;&#x0;Can you give
+me a peppier one, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x8;&#x5;&#x8;&#x4;&#x0;&#x0;&#x0;&#x5;&#x0;&#x0;&#x0;
+Sure!
+No.</original>
+			<edited>&#xE;&#x3;	&#x0;I think my greeting is severely
+lacking in sparkle. &#xE;&#x7;&#x1;&#x0;Can you give
+me a peppier one, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x8;&#x5;&#x8;&#x4;&#x0;&#x0;&#x0;&#x5;&#x0;&#x0;&#x0;
+Sure!
+No.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Really? Tell me what I should say!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Really? Tell me what I should say!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Then I guess I'll just keep greeting
+the world in my usual way for a
+while longer. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;Oh well. That's OK!</original>
+			<edited>Then I guess I'll just keep greeting
+the world in my usual way for a
+while longer. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;Oh well. That's OK!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;So "&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;&#xE;&#x7;&#x7;&#x0;"?
+What do you think?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;&#x7;&#x0;&#x15;&#x0;&#x8;&#x0;(&#x0;
+Perfect.
+No, hang on...</original>
+			<edited>&#xE;&#x3;%&#x0;So "&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;&#xE;&#x7;&#x7;&#x0;"?
+What do you think?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;&#x7;&#x0;&#x15;&#x0;&#x8;&#x0;(&#x0;
+Perfect.
+No, hang on...</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;	&#x0;
+&#x0;&#xB;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;	&#x0;
+&#x0;&#xB;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Oh, I want to get it just right!
+What should it be?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Oh, I want to get it just right!
+What should it be?</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Oh, great! I'm feeling re-greetified
+already! Thanks, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Oh, great! I'm feeling re-greetified
+already! Thanks, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;I love it! I feel like a totally new
+person, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;I love it! I feel like a totally new
+person, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;I see, I see. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;I couldn't have thought
+of a better greeting myself.
+Thanks, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;I see, I see. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;I couldn't have thought
+of a better greeting myself.
+Thanks, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

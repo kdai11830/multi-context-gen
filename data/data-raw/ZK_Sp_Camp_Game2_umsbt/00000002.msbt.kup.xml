@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Ça te dirait de jouer à un jeu pour
+passer le temps,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; ?&#xE;&#x0;&#x4;&#x0;Je te propose une partie de
+« meubles à gogo » : &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;je te donne le
+nom d'un meuble et son prix...
+À partir de là, t'as le choix entre
+l'acheter ou passer au meuble
+suivant.
+T'as le droit de passer quatre fois,
+mais si tu ne t'es pas décidé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; avant,
+tu dois acheter le dernier meuble !
+&#xE;&#x7;&#xD;&#x0;&#xE;&#x3;&#x17;&#x0;T'en dis quoi ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Tu veux tenter le
+coup ?&#xE;&#x8;&#x5;&#x8;&#x3;&#x0;&#x15;&#x0;&#x2;&#x0;(&#x0;
+Bien sûr !
+Une prochaine fois.</original>
+			<edited>Ça te dirait de jouer à un jeu pour
+passer le temps,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; ?&#xE;&#x0;&#x4;&#x0;Je te propose une partie de
+« meubles à gogo » : &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;je te donne le
+nom d'un meuble et son prix...
+À partir de là, t'as le choix entre
+l'acheter ou passer au meuble
+suivant.
+T'as le droit de passer quatre fois,
+mais si tu ne t'es pas décidé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; avant,
+tu dois acheter le dernier meuble !
+&#xE;&#x7;&#xD;&#x0;&#xE;&#x3;&#x17;&#x0;T'en dis quoi ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Tu veux tenter le
+coup ?&#xE;&#x8;&#x5;&#x8;&#x3;&#x0;&#x15;&#x0;&#x2;&#x0;(&#x0;
+Bien sûr !
+Une prochaine fois.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh, c'est pas drôle&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;$&#x0; Bon,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; mais
+viens me voir si tu changes d'avis,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;Oh, c'est pas drôle&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x3;$&#x0; Bon,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; mais
+viens me voir si tu changes d'avis,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;OK !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Laisse-moi t'expliquer les
+règles en détail,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;J'ai là cinq meubles différents&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ça,
+tu le savais déjà.&#xE;&#x0;&#x4;&#x0;Tu dois en choisir un et l'acheter au
+prix que j'annonce.&#xE;&#x0;&#x4;&#x0;Je te présente les meubles et les
+prix dans l'ordre,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; alors arrête-moi
+quand tu penses avoir trouvé le bon.
+&#xE;&#x3;$&#x0;Mais si tu t'es toujours pas décidé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+pour un meuble à la fin de la partie,
+&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;t'es forcé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; d'acheter le cinquième.
+&#xE;&#x3;&#x6;&#x0;Prêt&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Voici le premier meuble :&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ! &#xE;&#x3;&#x17;&#x0;Alors ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;&#x4;&#x0;&#x15;&#x0;&#x5;&#x0;(&#x0;
+J'achète !
+Je passe !</original>
+			<edited>&#xE;&#x3;%&#x0;OK !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Laisse-moi t'expliquer les
+règles en détail,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;J'ai là cinq meubles différents&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ça,
+tu le savais déjà.&#xE;&#x0;&#x4;&#x0;Tu dois en choisir un et l'acheter au
+prix que j'annonce.&#xE;&#x0;&#x4;&#x0;Je te présente les meubles et les
+prix dans l'ordre,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; alors arrête-moi
+quand tu penses avoir trouvé le bon.
+&#xE;&#x3;$&#x0;Mais si tu t'es toujours pas décidé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+pour un meuble à la fin de la partie,
+&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;t'es forcé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; d'acheter le cinquième.
+&#xE;&#x3;&#x6;&#x0;Prêt&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Voici le premier meuble :&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ! &#xE;&#x3;&#x17;&#x0;Alors ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;&#x4;&#x0;&#x15;&#x0;&#x5;&#x0;(&#x0;
+J'achète !
+Je passe !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Ouah, dès la première proposition ?!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Avec toi, ça traîne pas, dis donc&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Ouah, dès la première proposition ?!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Avec toi, ça traîne pas, dis donc&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; On est du genre prudent,
+hein ?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; On attend de voir la suite,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ?
+&#xE;&#x3;&#x6;&#x0;Soit !&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Voici le second meuble :&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ! &#xE;&#x3;&#x17;&#x0;Intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;&#x6;&#x0;&#x15;&#x0;&#x7;&#x0;(&#x0;
+J'achète !
+Je passe !</original>
+			<edited>&#xE;&#x3;$&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; On est du genre prudent,
+hein ?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; On attend de voir la suite,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; ?
+&#xE;&#x3;&#x6;&#x0;Soit !&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Voici le second meuble :&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ! &#xE;&#x3;&#x17;&#x0;Intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;&#x6;&#x0;&#x15;&#x0;&#x7;&#x0;(&#x0;
+J'achète !
+Je passe !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Ah,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; alors c'est ton style de meuble,
+à ce que je vois&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;$&#x0;Ah,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; alors c'est ton style de meuble,
+à ce que je vois&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Toi, t'as une idée bien précise de ce
+que tu veux, je me trompe,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; ?
+&#xE;&#x3;&#x6;&#x0;Alors passons au troisième meuble :&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ! &#xE;&#x3;&#x17;&#x0;Verdict ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;&#x8;&#x0;&#x15;&#x0;	&#x0;(&#x0;
+J'achète !
+Je passe !</original>
+			<edited>&#xE;&#x3;$&#x0;Toi, t'as une idée bien précise de ce
+que tu veux, je me trompe,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; ?
+&#xE;&#x3;&#x6;&#x0;Alors passons au troisième meuble :&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ! &#xE;&#x3;&#x17;&#x0;Verdict ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;&#x8;&#x0;&#x15;&#x0;	&#x0;(&#x0;
+J'achète !
+Je passe !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Je vois,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; c'est le genre de truc sur
+lequel t'espérais tomber, hein ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ravi
+pour toi, alors, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;Je vois,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; c'est le genre de truc sur
+lequel t'espérais tomber, hein ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ravi
+pour toi, alors, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;D'accord, toi t'as l'air de savoir ce
+que tu veux, au moins&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Très bien, mais impossible de
+revenir en arrière, hein ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Si le prochain meuble ne te
+convient pas, tu seras forcé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+d'acheter le dernier !
+&#xE;&#x3;&#x6;&#x0;Parfait,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; voici donc le quatrième :&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ! &#xE;&#x3;&#x17;&#x0;Qu'en dis-tu ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;
+&#x0;&#x15;&#x0;&#xD;&#x0;(&#x0;
+J'achète !
+Je passe !</original>
+			<edited>&#xE;&#x3;$&#x0;D'accord, toi t'as l'air de savoir ce
+que tu veux, au moins&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;#&#x0;Très bien, mais impossible de
+revenir en arrière, hein ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Si le prochain meuble ne te
+convient pas, tu seras forcé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;
+d'acheter le dernier !
+&#xE;&#x3;&#x6;&#x0;Parfait,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; voici donc le quatrième :&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ! &#xE;&#x3;&#x17;&#x0;Qu'en dis-tu ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#x8;&#x5;&#x8;
+&#x0;&#x15;&#x0;&#xD;&#x0;(&#x0;
+J'achète !
+Je passe !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Waouh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Tout ce suspense, ça m'a
+complètement chamboulé,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;$&#x0;Waouh&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Tout ce suspense, ça m'a
+complètement chamboulé,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; On aime prendre des
+risques, à ce que je vois !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Bon, mais t'es obligé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; d'acheter le
+dernier meuble, quel qu'il soit... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;on
+est bien d'accord ?
+&#xE;&#x3;&#x6;&#x0;Parfait,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; dans ce cas, le voici :&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;$&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; On aime prendre des
+risques, à ce que je vois !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Bon, mais t'es obligé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; d'acheter le
+dernier meuble, quel qu'il soit... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;on
+est bien d'accord ?
+&#xE;&#x3;&#x6;&#x0;Parfait,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; dans ce cas, le voici :&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; J'adore quand ça se termine
+comme ça !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Juste pour que ce soit bien clair :&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; tu
+devras acheter le dernier meuble
+quel que soit son prix, d'accord ?
+&#xE;&#x3;&#x6;&#x0;OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; alors voici de quoi il s'agit :&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;$&#x0;Hé hé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; J'adore quand ça se termine
+comme ça !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Juste pour que ce soit bien clair :&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; tu
+devras acheter le dernier meuble
+quel que soit son prix, d'accord ?
+&#xE;&#x3;&#x6;&#x0;OK,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; alors voici de quoi il s'agit :&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; pour
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;	&#x2;&#x0;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x3;
+&#xB;&#x0;&#xB;&#x0;&#xB;&#x0;&#xB;&#x0;&#xC;&#x0;</original>
+			<edited>&#xE;	&#x3;
+&#xB;&#x0;&#xB;&#x0;&#xB;&#x0;&#xB;&#x0;&#xC;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;C'était une partie vite bouclée, ça&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;Mais t'es tout de suite tombé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; sur
+le meuble de tes rêves, pas vrai ?
+&#xE;&#x3;%&#x0;Dans ce cas, on pouvait pas espérer
+continuer éternellement,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;	&#x0;C'était une partie vite bouclée, ça&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;Mais t'es tout de suite tombé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; sur
+le meuble de tes rêves, pas vrai ?
+&#xE;&#x3;%&#x0;Dans ce cas, on pouvait pas espérer
+continuer éternellement,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Il restait des meubles à choisir, bien
+sûr&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Mais si je te disais lesquels,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; ce
+jeu perdrait tout son intérêt !</original>
+			<edited>&#xE;&#x3;	&#x0;Il restait des meubles à choisir, bien
+sûr&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;$&#x0;Mais si je te disais lesquels,&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; ce
+jeu perdrait tout son intérêt !</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;T'as su prendre la bonne décision
+malgré la pression.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;C'est la marque
+des champions !</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;T'as su prendre la bonne décision
+malgré la pression.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;C'est la marque
+des champions !</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Tu n'as aucun regret, j'espère ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;$&#x0;Très bien, tant mieux pour toi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Tu n'as aucun regret, j'espère ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;$&#x0;Très bien, tant mieux pour toi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;J'ai fixé le prix du dernier meuble
+avant le début de la partie.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; Alors
+m'en veux pas, hein,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;%&#x0;Enfin, j'ai bien vu que tu savais très
+bien ce que tu faisais, de toute
+manière&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;J'ai fixé le prix du dernier meuble
+avant le début de la partie.&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; Alors
+m'en veux pas, hein,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;%&#x0;Enfin, j'ai bien vu que tu savais très
+bien ce que tu faisais, de toute
+manière&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Tu sais ce qu'on dit à propos de ce
+jeu ?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; Que le dernier meuble porte
+chance !&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Alors en fait, c'est une sacrée
+faveur que je t'ai faite !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;T'es l'&#xE;&#xE;&#x6;"&#xE;&#x0;h&#x0;e&#x0;u&#x0;r&#x0;e&#x0;u&#x0;x&#x0;&#x10;&#x0;h&#x0;e&#x0;u&#x0;r&#x0;e&#x0;u&#x0;s&#x0;e&#x0; propriétaire
+d'&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x4;&#x0;
+porte-bonheur, désormais !</original>
+			<edited>&#xE;&#x3;%&#x0;Tu sais ce qu'on dit à propos de ce
+jeu ?&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; Que le dernier meuble porte
+chance !&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0;
+Alors en fait, c'est une sacrée
+faveur que je t'ai faite !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;T'es l'&#xE;&#xE;&#x6;"&#xE;&#x0;h&#x0;e&#x0;u&#x0;r&#x0;e&#x0;u&#x0;x&#x0;&#x10;&#x0;h&#x0;e&#x0;u&#x0;r&#x0;e&#x0;u&#x0;s&#x0;e&#x0; propriétaire
+d'&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x4;&#x0;
+porte-bonheur, désormais !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

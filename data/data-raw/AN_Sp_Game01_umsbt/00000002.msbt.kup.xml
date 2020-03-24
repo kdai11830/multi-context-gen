@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x6;&#x16;&#x8;&#x0;P&#x0;r&#x0;ê&#x0;t&#x0;
+&#x0;P&#x0;r&#x0;ê&#x0;t&#x0;e&#x0; ? On la joue en &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;une manche
+gagnante&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pas d'revanche qui
+tienne, quoi.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Allez, c'est parti !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x6;&#x16;&#x8;&#x0;P&#x0;r&#x0;ê&#x0;t&#x0;
+&#x0;P&#x0;r&#x0;ê&#x0;t&#x0;e&#x0; ? On la joue en &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;une manche
+gagnante&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Pas d'revanche qui
+tienne, quoi.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Allez, c'est parti !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x6;&#x16;&#x8;&#x0;P&#x0;r&#x0;ê&#x0;t&#x0;
+&#x0;P&#x0;r&#x0;ê&#x0;t&#x0;e&#x0; ? Faut remporter &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; manches&#xE;&#x0;&#x3;&#x2;ÿÿ
+pour gagner !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Et c'est parti mon
+kiki !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;&#xE;&#xE;&#x6;&#x16;&#x8;&#x0;P&#x0;r&#x0;ê&#x0;t&#x0;
+&#x0;P&#x0;r&#x0;ê&#x0;t&#x0;e&#x0; ? Faut remporter &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; manches&#xE;&#x0;&#x3;&#x2;ÿÿ
+pour gagner !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Et c'est parti mon
+kiki !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Pierre,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; papier&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. ou ciseaux ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Pierre !
+Ciseaux !
+Papier !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Pierre,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; papier&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. ou ciseaux ?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Pierre !
+Ciseaux !
+Papier !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Pierre !</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Pierre !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Ciseaux !</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Ciseaux !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;Papier !</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;Papier !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Naaaaan !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu m'as eue !</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Naaaaan !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu m'as eue !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;Égalité !&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;On recommence !</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;Égalité !&#xE;&#x7;&#x0;&#x4;&#x19;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;On recommence !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Youhou ! J't'ai &#xE;&#xE;&#x6;&#x1E;&#xC;&#x0;l&#x0;a&#x0;m&#x0;i&#x0;n&#x0;é&#x0;&#xE;&#x0;l&#x0;a&#x0;m&#x0;i&#x0;n&#x0;é&#x0;e&#x0; !</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Youhou ! J't'ai &#xE;&#xE;&#x6;&#x1E;&#xC;&#x0;l&#x0;a&#x0;m&#x0;i&#x0;n&#x0;é&#x0;&#xE;&#x0;l&#x0;a&#x0;m&#x0;i&#x0;n&#x0;é&#x0;e&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Bon, c'est plié&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;C'est toi qui
+l'emportes !</original>
+			<edited>&#xE;&#x3;	&#x0;Bon, c'est plié&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;C'est toi qui
+l'emportes !</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Emballé, c'est pesé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;C'est moi qui
+l'emporte !</original>
+			<edited>Emballé, c'est pesé&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;C'est moi qui
+l'emporte !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

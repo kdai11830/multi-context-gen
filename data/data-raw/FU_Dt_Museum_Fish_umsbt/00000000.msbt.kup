@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm reading a book about different
+types of fish,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and I came here to
+learn even more!
+&#xE;&#x3;&#x0;&#x0;Knowing a little about how each
+fish lives&#xE;&#x3;&#x1;&#x0; makes looking at them
+really fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm reading a book about different
+types of fish,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and I came here to
+learn even more!
+&#xE;&#x3;&#x0;&#x0;Knowing a little about how each
+fish lives&#xE;&#x3;&#x1;&#x0; makes looking at them
+really fun,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>This is just between us, but&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1B;&#x0;I'm so jealous of fish.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I want to be
+able to breathe underwater too!</original>
+			<edited>This is just between us, but&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1B;&#x0;I'm so jealous of fish.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I want to be
+able to breathe underwater too!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Fish are so shiny.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; They really are
+quite beautiful,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; aren't they?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Fish are so shiny.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; They really are
+quite beautiful,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; aren't they?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;It's so quiet here.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x3;%&#x0; It's like a library!</original>
+			<edited>&#xE;&#x3;'&#x0;It's so quiet here.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;&#xE;&#x3;%&#x0; It's like a library!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm going from town to town&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+checking out the fish and learning
+about their natural habitats.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm going from town to town&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+checking out the fish and learning
+about their natural habitats.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

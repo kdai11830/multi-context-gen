@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;OK, Mayor &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Please lead
+me to the spot where you'd like to
+place the &#xE;&#x11;&#x6;&#x2;&#x1;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;OK, Mayor &#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Please lead
+me to the spot where you'd like to
+place the &#xE;&#x11;&#x6;&#x2;&#x1;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Yes,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Mayor!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Is this about where
+you'd like to place the
+&#xE;&#x11;&#x6;&#x2;&#x1;&#x0;?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;(&#x0;
+What do you think?
+Cancel project.
+Nah, somewhere else.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Yes,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Mayor!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Is this about where
+you'd like to place the
+&#xE;&#x11;&#x6;&#x2;&#x1;&#x0;?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;(&#x0;
+What do you think?
+Cancel project.
+Nah, somewhere else.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>I understand.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Well, when you've
+decided on a final placement,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+please let me know!</original>
+			<edited>I understand.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Well, when you've
+decided on a final placement,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+please let me know!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>What do you think?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Is this the spot?&#xE;&#xD;&#x8;&#x2;&#x4;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yep!
+Gotta think this over.</original>
+			<edited>What do you think?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Is this the spot?&#xE;&#xD;&#x8;&#x2;&#x4;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Yep!
+Gotta think this over.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh my,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; is there something you don't
+like about it?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Well, if you find
+another good spot, &#xE;&#x3;&#x1;&#x0;let me know!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh my,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; is there something you don't
+like about it?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Well, if you find
+another good spot, &#xE;&#x3;&#x1;&#x0;let me know!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Understood!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; let's go ahead
+and start the needed preparations!</original>
+			<edited>Understood!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; let's go ahead
+and start the needed preparations!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; I think&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; there are plans&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;to build a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;house for a resident &#xE;&#x0;&#x3;&#x2;ÿÿhere,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+so it'd be hard to put it in this spot.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; I think&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; there are plans&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;to build a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;house for a resident &#xE;&#x0;&#x3;&#x2;ÿÿhere,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+so it'd be hard to put it in this spot.</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;ocean&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would be very
+difficult to place the project here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;ocean&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would be very
+difficult to place the project here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;river&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would be very
+difficult to place the project here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;river&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would be very
+difficult to place the project here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;lake&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would be very
+difficult to place the project here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;lake&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would be very
+difficult to place the project here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;cliff&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would be very
+difficult to place the project here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;cliff&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would be very
+difficult to place the project here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;your
+house&#xE;&#x0;&#x3;&#x2;ÿÿ, Mayor, that I think it would
+be very difficult to place it here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;your
+house&#xE;&#x0;&#x3;&#x2;ÿÿ, Mayor, that I think it would
+be very difficult to place it here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; It's so close &#xE;&#x3;	&#x0;to a
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;resident's home &#xE;&#x0;&#x3;&#x2;ÿÿthat I think it would
+be very tough to place it right here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; It's so close &#xE;&#x3;	&#x0;to a
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;resident's home &#xE;&#x0;&#x3;&#x2;ÿÿthat I think it would
+be very tough to place it right here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; It's so close to the&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ that it'd be
+very difficult to place it right here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; It's so close to the&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ that it'd be
+very difficult to place it right here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;train tracks &#xE;&#x0;&#x3;&#x2;ÿÿthat I think it would be
+very difficult to place it here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's so close to the
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;train tracks &#xE;&#x0;&#x3;&#x2;ÿÿthat I think it would be
+very difficult to place it here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; It's so close &#xE;&#x3;	&#x0;to a
+giant &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;rock&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it'd be very
+difficult to place the project here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; It's so close &#xE;&#x3;	&#x0;to a
+giant &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;rock&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it'd be very
+difficult to place the project here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's a bit too close
+to the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;event plaza&#xE;&#x0;&#x3;&#x2;ÿÿ, so it'd be very
+difficult to place the project here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's a bit too close
+to the &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;event plaza&#xE;&#x0;&#x3;&#x2;ÿÿ, so it'd be very
+difficult to place the project here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's just so close to
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;something else&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would
+be very tough to place it right here.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;It's just so close to
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;something else&#xE;&#x0;&#x3;&#x2;ÿÿ that I think it would
+be very tough to place it right here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;We're planning to put in a new
+&#xE;&#x11;&#x6;&#x2;&#x0;&#x0; this time&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;From where you're standing now,
+Mayor,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; we need an &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;empty section
+of land &#xE;&#x0;&#x3;&#x2;ÿÿthat's &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; left&#xE;&#x0;&#x3;&#x2;ÿÿ and &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;right&#xE;&#x0;&#x3;&#x2;ÿÿ!
+And then another &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x1;&#x0; spaces back&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;Basically, you need a lot of space!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;However,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; if it's going to be next to
+something else,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I think it'd be best
+to have extra space on all sides.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;We're planning to put in a new
+&#xE;&#x11;&#x6;&#x2;&#x0;&#x0; this time&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;From where you're standing now,
+Mayor,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; we need an &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;empty section
+of land &#xE;&#x0;&#x3;&#x2;ÿÿthat's &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x0;&#x0; left&#xE;&#x0;&#x3;&#x2;ÿÿ and &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;right&#xE;&#x0;&#x3;&#x2;ÿÿ!
+And then another &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x6;&#x2;&#x1;&#x0; spaces back&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;Basically, you need a lot of space!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;However,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; if it's going to be next to
+something else,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I think it'd be best
+to have extra space on all sides.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh my&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; You want to cancel
+the project to commission a
+new &#xE;&#x11;&#x6;&#x2;&#x0;&#x0;?&#xE;&#xF;&#x0;&#x4;&#x15;&#x0;(&#x0;
+Yes, let's quit.
+No, let's keep going.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh my&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; You want to cancel
+the project to commission a
+new &#xE;&#x11;&#x6;&#x2;&#x0;&#x0;?&#xE;&#xF;&#x0;&#x4;&#x15;&#x0;(&#x0;
+Yes, let's quit.
+No, let's keep going.</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>Understood.&#xE;&#x7;&#x1;&#x0; In that case,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I'll head
+back to the town hall to work on
+the project-canceling procedures!
+&#xE;&#x3;&#x1;&#x0;It's OK if you decide not to head
+back there yourself, Mayor!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;I'm off to the town hall!</original>
+			<edited>Understood.&#xE;&#x7;&#x1;&#x0; In that case,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I'll head
+back to the town hall to work on
+the project-canceling procedures!
+&#xE;&#x3;&#x1;&#x0;It's OK if you decide not to head
+back there yourself, Mayor!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Well,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;I'm off to the town hall!</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Understood!&#xE;&#x7;&#x1;&#x0;
+Well then,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; let's continue the
+search for a good location!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Understood!&#xE;&#x7;&#x1;&#x0;
+Well then,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; let's continue the
+search for a good location!</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;Yes!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I think this would be perfect!</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;Yes!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; I think this would be perfect!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>We'll need to remove the plants and
+anything buried underground, but if
+that's OK with you,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; this spot is fine!
+&#xE;&#x3;+&#x0;It will probably look something like
+this when it's all finished&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x8;&#x4;(&#x0;&#x0;&#x0;</original>
+			<edited>We'll need to remove the plants and
+anything buried underground, but if
+that's OK with you,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; this spot is fine!
+&#xE;&#x3;+&#x0;It will probably look something like
+this when it's all finished&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x8;&#x4;(&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;It will probably look something like
+this when it's all finished&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x8;&#x4;(&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;+&#x0;It will probably look something like
+this when it's all finished&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x8;&#x4;(&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;All set!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;To help us gather donations to fund
+the &#xE;&#x11;&#x6;&#x2;&#x1;&#x0; is our
+helpful town gyroid, &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lloid&#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;All set!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;To help us gather donations to fund
+the &#xE;&#x11;&#x6;&#x2;&#x1;&#x0; is our
+helpful town gyroid, &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lloid&#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ummmmmm,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;he's basically
+like &#xE;&#x3;&#x1;&#x0;a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;donations box&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;I'm sure I mentioned it to you
+before, but&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;All of the construction costs for
+public works projects in &#xE;&#x5;&#x6;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+are covered entirely by donations.
+&#xE;&#x3;&#x1;&#x0;Of course,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you can chip in some of
+your own money too, Mayor!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Actually&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;'&#x0;I get the feeling we won't
+be able to gather enough funds if
+you don't help us out.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Please don't forget to donate!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ummmmmm,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;he's basically
+like &#xE;&#x3;&#x1;&#x0;a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;donations box&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;I'm sure I mentioned it to you
+before, but&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;All of the construction costs for
+public works projects in &#xE;&#x5;&#x6;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+are covered entirely by donations.
+&#xE;&#x3;&#x1;&#x0;Of course,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you can chip in some of
+your own money too, Mayor!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Actually&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;'&#x0;I get the feeling we won't
+be able to gather enough funds if
+you don't help us out.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Please don't forget to donate!</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;It's going to be hard to wait for all
+the donations to arrive so we have
+our &#xE;&#x11;&#x6;&#x2;&#x1;&#x0;!
+&#xE;&#x3;&#x0;&#x0;Well, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I must return to the town hall!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; You don't need to worry about
+making the trip back, Mayor!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;OK then,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;I'll be taking my leave!</original>
+			<edited>&#xE;&#x3;+&#x0;It's going to be hard to wait for all
+the donations to arrive so we have
+our &#xE;&#x11;&#x6;&#x2;&#x1;&#x0;!
+&#xE;&#x3;&#x0;&#x0;Well, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I must return to the town hall!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; You don't need to worry about
+making the trip back, Mayor!
+&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;OK then,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;I'll be taking my leave!</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;It will be hard to wait for all the
+donations we'll need to complete
+the &#xE;&#x11;&#x6;&#x2;&#x1;&#x0; here!
+&#xE;&#x3;&#x0;&#x0;By the way,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; including this new one,
+we can have a total of &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;three&#xE;&#x0;&#x3;&#x2;ÿÿ bridges
+in town at any one time.
+As such,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; if you want to build a new
+bridge after that,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you'll have to
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;demolish&#xE;&#x0;&#x3;&#x2;ÿÿ an existing bridge first.
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Well then,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'm going to make my
+way back to the town hall!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; There's no need for you to go
+back with me, Mayor!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;I'll just be taking my leave now!</original>
+			<edited>&#xE;&#x3;+&#x0;It will be hard to wait for all the
+donations we'll need to complete
+the &#xE;&#x11;&#x6;&#x2;&#x1;&#x0; here!
+&#xE;&#x3;&#x0;&#x0;By the way,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; including this new one,
+we can have a total of &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;three&#xE;&#x0;&#x3;&#x2;ÿÿ bridges
+in town at any one time.
+As such,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; if you want to build a new
+bridge after that,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; you'll have to
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;demolish&#xE;&#x0;&#x3;&#x2;ÿÿ an existing bridge first.
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Well then,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; I'm going to make my
+way back to the town hall!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; There's no need for you to go
+back with me, Mayor!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;I'll just be taking my leave now!</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Yes, Mayor!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Would you like to set
+the &#xE;&#x11;&#x6;&#x2;&#x1;&#x0;
+somewhere around here then?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+What do you think?
+Cancel project.
+Nah, somewhere else.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Yes, Mayor!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Would you like to set
+the &#xE;&#x11;&#x6;&#x2;&#x1;&#x0;
+somewhere around here then?&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+What do you think?
+Cancel project.
+Nah, somewhere else.</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>I understand.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Very well, when you've
+decided on a place for the bridge,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+please let me know!</original>
+			<edited>I understand.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Very well, when you've
+decided on a place for the bridge,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+please let me know!</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Mayor&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;There's no point in putting
+a bridge anywhere but near a river!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;When you're near a spot &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;next to
+the river &#xE;&#x0;&#x3;&#x2;ÿÿthat you'd like the bridge
+to go, please let me know!</original>
+			<edited>&#xE;&#x3;	&#x0;Mayor&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xD;&#x0;There's no point in putting
+a bridge anywhere but near a river!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;When you're near a spot &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;next to
+the river &#xE;&#x0;&#x3;&#x2;ÿÿthat you'd like the bridge
+to go, please let me know!</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>What's the matter,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Mayor?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Let's finish our work first!</original>
+			<edited>What's the matter,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Mayor?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Let's finish our work first!</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Um...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ummmmmmmm...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Please wait for me!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Um...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ummmmmmmm...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Please wait for me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;The width of the
+river here is different than the
+shape of the bridge.
+I think that would make it difficult
+to build across right here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;The width of the
+river here is different than the
+shape of the bridge.
+I think that would make it difficult
+to build across right here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmmmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;There's already a bridge here, so
+don't you think that's enough&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmmmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;There's already a bridge here, so
+don't you think that's enough&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.?</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; This is so close to
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;your house&#xE;&#x0;&#x3;&#x2;ÿÿ, Mayor!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I think it would
+be difficult to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; This is so close to
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;your house&#xE;&#x0;&#x3;&#x2;ÿÿ, Mayor!&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; I think it would
+be difficult to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Your house &#xE;&#x0;&#x3;&#x2;ÿÿis so
+close on the other side that it would
+be tough to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Your house &#xE;&#x0;&#x3;&#x2;ÿÿis so
+close on the other side that it would
+be tough to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; This is so close to a
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;resident's home&#xE;&#x0;&#x3;&#x2;ÿÿ, so placing a bridge
+here may cause problems&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; This is so close to a
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;resident's home&#xE;&#x0;&#x3;&#x2;ÿÿ, so placing a bridge
+here may cause problems&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There is a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;resident's
+home &#xE;&#x0;&#x3;&#x2;ÿÿso close on the other side!&#xE;&#x0;&#x4;&#x0;I think placing a bridge here might
+cause problems&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There is a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;resident's
+home &#xE;&#x0;&#x3;&#x2;ÿÿso close on the other side!&#xE;&#x0;&#x4;&#x0;I think placing a bridge here might
+cause problems&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There's a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;building
+&#xE;&#x0;&#x3;&#x2;ÿÿin the way, so I think it would be
+difficult to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There's a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;building
+&#xE;&#x0;&#x3;&#x2;ÿÿin the way, so I think it would be
+difficult to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There's a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;building
+&#xE;&#x0;&#x3;&#x2;ÿÿin the way on the other side. It'd
+be difficult to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There's a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;building
+&#xE;&#x0;&#x3;&#x2;ÿÿin the way on the other side. It'd
+be difficult to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There seems to be
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ in the
+way of building.
+I think that would make it difficult
+to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There seems to be
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ in the
+way of building.
+I think that would make it difficult
+to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There seems to be
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ on
+the other side that's in the way.
+As a result, it might be difficult to
+place a bridge right here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There seems to be
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x11;&#x6;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ on
+the other side that's in the way.
+As a result, it might be difficult to
+place a bridge right here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There's a very large
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;rock&#xE;&#x0;&#x3;&#x2;ÿÿ nearby, so I think it would be
+difficult to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There's a very large
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;rock&#xE;&#x0;&#x3;&#x2;ÿÿ nearby, so I think it would be
+difficult to place a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There's a very large
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;rock&#xE;&#x0;&#x3;&#x2;ÿÿ on the other side.&#xE;&#x0;&#x4;&#x0;That's going to make it a lot more
+difficult to build a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There's a very large
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;rock&#xE;&#x0;&#x3;&#x2;ÿÿ on the other side.&#xE;&#x0;&#x4;&#x0;That's going to make it a lot more
+difficult to build a bridge here&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There are plans to
+build a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;home for a future resident&#xE;&#x0;&#x3;&#x2;ÿÿ
+right here.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+I think putting a bridge here would
+cause some problems&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There are plans to
+build a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;home for a future resident&#xE;&#x0;&#x3;&#x2;ÿÿ
+right here.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+I think putting a bridge here would
+cause some problems&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There are plans to
+build a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;home for a resident &#xE;&#x0;&#x3;&#x2;ÿÿon the
+other side of the river.
+I think putting a bridge here would
+cause some problems&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Well, let's see&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0; There are plans to
+build a &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;home for a resident &#xE;&#x0;&#x3;&#x2;ÿÿon the
+other side of the river.
+I think putting a bridge here would
+cause some problems&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I want some huuuuge furniture!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+If you find any, bring it to me,
+will you?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I want some huuuuge furniture!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+If you find any, bring it to me,
+will you?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;If you find any furniture that you
+think would make my house cooler,
+bring it to me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;If you find any furniture that you
+think would make my house cooler,
+bring it to me,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;If you find any smaller furniture that
+I could sort of fit in between what I
+already have, please bring it to me!</original>
+			<edited>&#xE;&#x3;%&#x0;If you find any smaller furniture that
+I could sort of fit in between what I
+already have, please bring it to me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Let me know if you find any
+furniture that's the same size as
+my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Let me know if you find any
+furniture that's the same size as
+my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Let me know if you find
+something to put on top of my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;, OK?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Let me know if you find
+something to put on top of my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;If you find something to replace my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;, please let
+me know!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;If you find something to replace my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;, please let
+me know!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;My walls are so bare.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Let me know
+if you find anything cool to put on
+them,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;'&#x0;My walls are so bare.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Let me know
+if you find anything cool to put on
+them,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;If you find something I could replace
+my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; with,
+please bring it to me.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;If you find something I could replace
+my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; with,
+please bring it to me.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I really want my place to look
+cooler.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; If you find anything that
+would help, please bring it to me!</original>
+			<edited>&#xE;&#x3;%&#x0;I really want my place to look
+cooler.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; If you find anything that
+would help, please bring it to me!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

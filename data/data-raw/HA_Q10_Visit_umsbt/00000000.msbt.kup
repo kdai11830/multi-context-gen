@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;Ooops!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You found me!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;Or wait a
+sec.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're not a seeker, are you?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;What I mean is, I'm in the middle of
+a high-stakes hide-and-seek match
+right now!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; You never saw me!</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;Ooops!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You found me!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;Or wait a
+sec.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're not a seeker, are you?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;What I mean is, I'm in the middle of
+a high-stakes hide-and-seek match
+right now!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; You never saw me!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;I'm playing hide-and-seek!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Keep quiet! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;I'm playing hide-and-seek!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Keep quiet! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'm busy playing hide-and-seek!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;If you tell the seeker where I'm
+hiding, I'll tickle you until you blow
+bubbles out your nose!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Hey!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I'm busy playing hide-and-seek!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;If you tell the seeker where I'm
+hiding, I'll tickle you until you blow
+bubbles out your nose!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;What have you done?!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;What have you done?!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

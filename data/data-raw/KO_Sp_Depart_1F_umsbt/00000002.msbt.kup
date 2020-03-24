@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Je me demande s'il y a des choses
+qu'on ne peut acheter que dans
+cette ville&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Probablement pas.
+&#xE;&#x3;&#x0;&#x0;Mais chez les sœurs Doigts de Fée
+ou au magasin de recyclage...&#xE;&#x0;&#x4;&#x0;... ils proposent des articles avec
+des motifs perso, je crois.</original>
+			<edited>&#xE;&#x3;	&#x0;Je me demande s'il y a des choses
+qu'on ne peut acheter que dans
+cette ville&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Probablement pas.
+&#xE;&#x3;&#x0;&#x0;Mais chez les sœurs Doigts de Fée
+ou au magasin de recyclage...&#xE;&#x0;&#x4;&#x0;... ils proposent des articles avec
+des motifs perso, je crois.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Y'a pas de rayon cosmétiques
+ici,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; donc pas d'effluves de parfum
+pour me donner mal à la tête !</original>
+			<edited>&#xE;&#x3;$&#x0;Y'a pas de rayon cosmétiques
+ici,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; donc pas d'effluves de parfum
+pour me donner mal à la tête !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Si seulement il y avait un rayon
+alimentaire, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ce serait GÉNIAL.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Si seulement il y avait un rayon
+alimentaire, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ce serait GÉNIAL.</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Avec une aussi grande sélection de
+produits,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; je pense que je devrais
+venir ici tous les jours.</original>
+			<edited>&#xE;&#x3;%&#x0;Avec une aussi grande sélection de
+produits,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; je pense que je devrais
+venir ici tous les jours.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>Il n'y a pas &#xE;&#x3;&#x17;&#x0;de centre commercial
+dans ta ville ?</original>
+			<edited>Il n'y a pas &#xE;&#x3;&#x17;&#x0;de centre commercial
+dans ta ville ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;J'adore me balader dans les centres
+commerciaux, même si ça me donne
+le tournis.</original>
+			<edited>&#xE;&#x3;%&#x0;J'adore me balader dans les centres
+commerciaux, même si ça me donne
+le tournis.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

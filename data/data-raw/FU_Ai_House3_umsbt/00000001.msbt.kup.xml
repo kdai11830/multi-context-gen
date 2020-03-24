@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¡Ah, hola!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Te ha gustado mi casa,
+¿eh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¡Ah, hola!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Te ha gustado mi casa,
+¿eh,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hola, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+¿Te has olvidado de decirme
+algo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hola, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+¿Te has olvidado de decirme
+algo,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Me alegro de que te sientas a gusto
+en mi casa.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;¡Es un orgullo&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; saber que
+es acogedora, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;Me alegro de que te sientas a gusto
+en mi casa.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;¡Es un orgullo&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; saber que
+es acogedora, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Holita, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Has venido tantas veces&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; que
+parece que vivas aquí!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Holita, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Has venido tantas veces&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; que
+parece que vivas aquí!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;¡Ay, hola!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;$&#x0;¿Te sientes sol&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;?&#xE;&#x3;&#x1;&#x0; Hoy te has pasado
+mucho por aquí,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;¡Ay, hola!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;$&#x0;¿Te sientes sol&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;?&#xE;&#x3;&#x1;&#x0; Hoy te has pasado
+mucho por aquí,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Ya te echaba de menos!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;La noche
+es joven...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Tenemos tiempo de
+sobra para charlar,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Ya te echaba de menos!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;La noche
+es joven...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x5;&#x0;Tenemos tiempo de
+sobra para charlar,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡Ah, eres tú!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;'&#x0;Parece que tienes muchas cosas
+que contarme,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;...</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡Ah, eres tú!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;'&#x0;Parece que tienes muchas cosas
+que contarme,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;...</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hola, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x1;&#x0;
+Ya sé que es tarde. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Pero quédate
+cuanto quieras,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Hola, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;!&#xE;&#x7;&#x1;&#x0;
+Ya sé que es tarde. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Pero quédate
+cuanto quieras,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

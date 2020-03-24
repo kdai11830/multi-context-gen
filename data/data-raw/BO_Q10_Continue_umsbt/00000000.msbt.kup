@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;You've only got one more hider
+to find, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Good luck!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Wait—forget I said that.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;)&#x0;I totally
+forgot that you're not on my team!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;You've only got one more hider
+to find, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Good luck!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Wait—forget I said that.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;)&#x0;I totally
+forgot that you're not on my team!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Oh no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; If you find one more person,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+we lose!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Oh no!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; If you find one more person,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+we lose!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;There's still two of us left!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;We can totally still win this!</original>
+			<edited>&#xE;&#x3;(&#x0;There's still two of us left!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;We can totally still win this!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;The other two are really good at
+hiding.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;I don't know if you'll be
+able to find them!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;The other two are really good at
+hiding.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;I don't know if you'll be
+able to find them!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

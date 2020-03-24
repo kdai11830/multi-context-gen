@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Esta tienda es de lo más cuqui!
+&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xD;&#x0;¡Es una pena que se pase de mi
+presupuesto!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Esta tienda es de lo más cuqui!
+&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xD;&#x0;¡Es una pena que se pase de mi
+presupuesto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Me gusta venir aquí para absorber
+la elegancia que se respira, ¡aunque
+no compre nada, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Me gusta venir aquí para absorber
+la elegancia que se respira, ¡aunque
+no compre nada, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Esta tienda es ideal para los que
+van a la última, como yo,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Esta tienda es ideal para los que
+van a la última, como yo,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Solo con entrar ya me siento más
+chic, ¿tú no, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Solo con entrar ya me siento más
+chic, ¿tú no, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;¡Como esté mucho rato en estas
+tiendas tan chachis&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; acabaré
+comprándolas enteras!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;¡Como esté mucho rato en estas
+tiendas tan chachis&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; acabaré
+comprándolas enteras!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

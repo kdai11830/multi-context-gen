@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Relax and make yourself at home!
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Relax and make yourself at home!
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;My place is pretty cool, huh?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;My place is pretty cool, huh?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;So does my house look the way you
+pictured it?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; You pictured it, right?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;So does my house look the way you
+pictured it?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; You pictured it, right?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1A;&#x0;I get a little embarrassed when I
+have company over and all my stuff 
+is out in the open, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1A;&#x0;I get a little embarrassed when I
+have company over and all my stuff 
+is out in the open, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;All right!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; "Visit from &#xE;&#x5;&#x8;&#x0;."&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+One more thing to check off the ol'
+bucket list! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;All right!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; "Visit from &#xE;&#x5;&#x8;&#x0;."&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+One more thing to check off the ol'
+bucket list! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Yeah, I think my place is pretty cool.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+I'm pretty happy with it so far.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Yeah, I think my place is pretty cool.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+I'm pretty happy with it so far.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

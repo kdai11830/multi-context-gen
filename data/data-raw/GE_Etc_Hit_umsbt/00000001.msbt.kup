@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xE;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;¡QUÉ DAÑO!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x7;&#x0;¿De qué vas? ¡Deja de pegarme,
+&#xE;&#x5;&#x7;&#x0;!&#xE;&#xB;&#x3;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#xE;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;¡QUÉ DAÑO!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x7;&#x0;¿De qué vas? ¡Deja de pegarme,
+&#xE;&#x5;&#x7;&#x0;!&#xE;&#xB;&#x3;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x7;&#x0;¡Oye, que eso duele!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;Ya puestos,
+¿por qué no me tiras a la cara &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x5;&#x10;&#x2;&#x1;&#x0;, &#xE;&#x5;&#x7;&#x0;?&#xE;&#xB;&#x3;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x7;&#x0;¡Oye, que eso duele!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;Ya puestos,
+¿por qué no me tiras a la cara &#xE;&#xE;&#x2;&#x0;
+&#xE;&#x5;&#x10;&#x2;&#x1;&#x0;, &#xE;&#x5;&#x7;&#x0;?&#xE;&#xB;&#x3;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x7;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;¡AAAAY!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;¿Por qué me pegas? &#xE;&#x7;&#x1;&#x0;Para &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;ya,
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;¡jo, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x7;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;¡AAAAY!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;¿Por qué me pegas? &#xE;&#x7;&#x1;&#x0;Para &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;ya,
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;¡jo, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x8;&#x0;¿Se puede saber qué te pasa?
+&#xE;&#x7;&#x1;&#x0;¡No me gusta la gente que hace
+estas cosas, que lo sepas!&#xE;&#xB;&#x4;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;&#x8;&#x0;¿Se puede saber qué te pasa?
+&#xE;&#x7;&#x1;&#x0;¡No me gusta la gente que hace
+estas cosas, que lo sepas!&#xE;&#xB;&#x4;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</original>
+			<edited>&#xE;	&#x2;&#x8;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;	&#x0;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;On a l'embarras du choix ici !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Pas
+facile de prendre une décision...</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;On a l'embarras du choix ici !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Pas
+facile de prendre une décision...</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Quel que soit ce dont on a besoin,
+on trouve toujours son bonheur ici.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tu ne trouves pas ?</original>
+			<edited>&#xE;&#x3;%&#x0;Quel que soit ce dont on a besoin,
+on trouve toujours son bonheur ici.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Tu ne trouves pas ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Les rayons ne désemplissent jamais,
+ma parole !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ils doivent passer leurs
+matinées à renflouer les stocks !</original>
+			<edited>&#xE;&#x3;%&#x0;Les rayons ne désemplissent jamais,
+ma parole !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ils doivent passer leurs
+matinées à renflouer les stocks !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Je suis venue munie de ma fidèle
+liste de courses pour être sûre de
+ne rien oublier !
+&#xE;&#x3;
+&#x0;Certes, c'est plus efficace, mais
+c'est moins amusant.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; À acheter sans
+péril, on économise sans gloire...</original>
+			<edited>&#xE;&#x3;%&#x0;Je suis venue munie de ma fidèle
+liste de courses pour être sûre de
+ne rien oublier !
+&#xE;&#x3;
+&#x0;Certes, c'est plus efficace, mais
+c'est moins amusant.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; À acheter sans
+péril, on économise sans gloire...</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Tu cherches un cadeau pour un
+voisin ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0; Bien vu :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est plus discret
+de les acheter dans une autre ville !</original>
+			<edited>&#xE;&#x3;%&#x0;Tu cherches un cadeau pour un
+voisin ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0; Bien vu :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est plus discret
+de les acheter dans une autre ville !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Cette boutique est le cauchemar de
+mon porte-monnaie :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; impossible de
+passer devant sans vouloir y entrer !</original>
+			<edited>&#xE;&#x3;%&#x0;Cette boutique est le cauchemar de
+mon porte-monnaie :&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; impossible de
+passer devant sans vouloir y entrer !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

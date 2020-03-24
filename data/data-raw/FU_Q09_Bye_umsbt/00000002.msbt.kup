@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ça m'a fait plaisir de te voir !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Repasse quand tu veux,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ça m'a fait plaisir de te voir !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Repasse quand tu veux,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;J'ai passé un excellent moment !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;J'ai passé un excellent moment !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ça m'a fait plaisir que tu viennes,
+&#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ça m'a fait plaisir que tu viennes,
+&#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Hein ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu t'en vas déjà ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;'&#x0; Il y a tant
+de choses dont je voulais qu'on
+discute !</original>
+			<edited>Hein ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu t'en vas déjà ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x3;'&#x0; Il y a tant
+de choses dont je voulais qu'on
+discute !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Quoi ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Tu ne vas pas me quitter
+comme ça, &#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Reste un
+peu, voyons !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Quoi ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Tu ne vas pas me quitter
+comme ça, &#xE;&#x5;&#x8;&#x0; ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Reste un
+peu, voyons !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Une minute !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Tu n'as quand même
+pas fait tout ce chemin pour 
+repartir aussi vite !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Une minute !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0; Tu n'as quand même
+pas fait tout ce chemin pour 
+repartir aussi vite !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

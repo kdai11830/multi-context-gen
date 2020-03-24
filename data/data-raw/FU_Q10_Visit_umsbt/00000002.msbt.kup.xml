@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;AAAH ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Ne me refais plus jamais
+une frayeur pareille, j'ai bien cru
+que mon compte était bon !
+&#xE;&#x3;&#xD;&#x0;Je suis au beau milieu d'une partie
+de cache-cache !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ne reste pas
+plant&#xE;&#xE;&#x6;
+&#x2;&#x0;é&#x0;&#x4;&#x0;é&#x0;e&#x0; là, tu vas me faire repérer !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;AAAH ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Ne me refais plus jamais
+une frayeur pareille, j'ai bien cru
+que mon compte était bon !
+&#xE;&#x3;&#xD;&#x0;Je suis au beau milieu d'une partie
+de cache-cache !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ne reste pas
+plant&#xE;&#xE;&#x6;
+&#x2;&#x0;é&#x0;&#x4;&#x0;é&#x0;e&#x0; là, tu vas me faire repérer !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;OH ! Ne me parle pas, je suis en
+pleine partie de cache-cache !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;Surtout, tu ne m'as pas vue !</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;OH ! Ne me parle pas, je suis en
+pleine partie de cache-cache !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;Surtout, tu ne m'as pas vue !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Euh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je suis au beau milieu d'une
+partie acharnée de cache-cache&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;
+Alors on discutera plus tard, OK ?</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Euh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; je suis au beau milieu d'une
+partie acharnée de cache-cache&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;
+Alors on discutera plus tard, OK ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;OH NON !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si je reste ici une minute
+de plus, je vais être trouvée !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Vite,
+une autre cachette !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;OH NON !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Si je reste ici une minute
+de plus, je vais être trouvée !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Vite,
+une autre cachette !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

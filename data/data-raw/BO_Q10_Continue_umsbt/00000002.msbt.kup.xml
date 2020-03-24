@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x3;&#x0;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#x5;&#x0;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Plus qu'un joueur à trouver,
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Bonne chance !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Ah... Zut !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;)&#x0;J'ai oublié qu'on était pas
+dans le même camp !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Plus qu'un joueur à trouver,
+&#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Bonne chance !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;Ah... Zut !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;)&#x0;J'ai oublié qu'on était pas
+dans le même camp !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Oh, non !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu n'en as plus qu'un à
+trouver et on perd !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Oh, non !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu n'en as plus qu'un à
+trouver et on perd !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Cool, on va peut-être gagner !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Il y en a encore deux autres à
+trouver !</original>
+			<edited>&#xE;&#x3;%&#x0;Cool, on va peut-être gagner !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;Il y en a encore deux autres à
+trouver !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Les deux autres sont vachement
+forts pour se cacher.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;Hé hé ! Tu vas
+avoir du mal à les trouver !</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Les deux autres sont vachement
+forts pour se cacher.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;Hé hé ! Tu vas
+avoir du mal à les trouver !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

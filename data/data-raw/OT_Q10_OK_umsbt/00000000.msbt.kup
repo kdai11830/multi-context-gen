@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Ha! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;That's what I like to hear.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Now,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; let's head to the event plaza
+and round up a few others!&#xE;&#x7;&#x8;&#x4;X&#x2;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;#&#x0;Ha! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;That's what I like to hear.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Now,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; let's head to the event plaza
+and round up a few others!&#xE;&#x7;&#x8;&#x4;X&#x2;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Well then, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;let's round up a few
+others and meet in the event plaza,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x8;&#x4;X&#x2;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;%&#x0;Well then, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;let's round up a few
+others and meet in the event plaza,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;!&#xE;&#x7;&#x8;&#x4;X&#x2;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;Oh, finally&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Someone who wants to
+do this! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Maybe others will join now.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Let's head to the plaza.&#xE;&#x7;&#x8;&#x4;X&#x2;&#x0;&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;Oh, finally&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Someone who wants to
+do this! &#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0;Maybe others will join now.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Let's head to the plaza.&#xE;&#x7;&#x8;&#x4;X&#x2;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Wait.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; How did it get so late?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1B;&#x0;I know this was my idea, but we'll
+have to do this another time.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Wait.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; How did it get so late?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1B;&#x0;I know this was my idea, but we'll
+have to do this another time.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

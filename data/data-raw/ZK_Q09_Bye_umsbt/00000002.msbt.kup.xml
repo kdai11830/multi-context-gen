@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Ciao, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;À très bientôt !</original>
+			<edited>&#xE;&#x3;%&#x0;Ciao, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;À très bientôt !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Sayonara,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;Sayonara,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hasta luego, &#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;On se
+revoit bientôt, hein ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hasta luego, &#xE;&#x5;&#x8;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;On se
+revoit bientôt, hein ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hein ?!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Tu t'en vas déjà ?!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Mais tu
+viens d'arriver !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Allez, reste encore un moment !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hein ?!&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Tu t'en vas déjà ?!&#xE;&#x7;&#x0;&#x4; &#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Mais tu
+viens d'arriver !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Allez, reste encore un moment !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Hé !&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Le spectacle vient tout juste
+de commencer et toi tu t'en vas ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;T'as encore plein de trucs à
+admirer, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;reste !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Hé !&#xE;&#x7;&#x0;&#x4;&#x10;&#x0;&#x0;&#x0; Le spectacle vient tout juste
+de commencer et toi tu t'en vas ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;T'as encore plein de trucs à
+admirer, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;reste !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Hé, c'est pas poli de partir sans
+même avoir salué son hôte !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Si déjà t'es venu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;, on pourrait
+papoter un peu, quand même.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Hé, c'est pas poli de partir sans
+même avoir salué son hôte !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Si déjà t'es venu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;, on pourrait
+papoter un peu, quand même.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

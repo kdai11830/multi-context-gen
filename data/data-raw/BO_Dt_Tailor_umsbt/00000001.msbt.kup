@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Es hora de que me compre
+ropa nueva!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Es hora de que me compre
+ropa nueva!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1A;&#x0;Cuando alguien me dice: &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;"¡Eso te
+sienta bien!"...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡pues yo la verdad
+es que me lo creo!</original>
+			<edited>&#xE;&#x3;&#x1A;&#x0;Cuando alguien me dice: &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;"¡Eso te
+sienta bien!"...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡pues yo la verdad
+es que me lo creo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;Encontré una camisa nueva
+bastante chachi,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pero me
+apretaba demasiado...</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;Encontré una camisa nueva
+bastante chachi,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; pero me
+apretaba demasiado...</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Esto es totalmente distinto&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+a lo que venden en mi pueblo, 
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>Esto es totalmente distinto&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+a lo que venden en mi pueblo, 
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hum... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Así que esto es lo que
+se lleva&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; en este pueblo, ¿eh?</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hum... &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Así que esto es lo que
+se lleva&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; en este pueblo, ¿eh?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

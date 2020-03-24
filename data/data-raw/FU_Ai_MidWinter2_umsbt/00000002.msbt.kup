@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; coucou, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x19;&#x0;Que fait le soleil ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; J'arrive pas à me
+réveiller sans lui, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Ah,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; coucou, &#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x19;&#x0;Que fait le soleil ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; J'arrive pas à me
+réveiller sans lui, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh, hello, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;Va faire nuit
+comme ça toute la journée, alors
+attention où tu mets les pieds !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh, hello, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;%&#x0;Va faire nuit
+comme ça toute la journée, alors
+attention où tu mets les pieds !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ravie de te voir,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Enfin, « te voir », c'est vite dit avec
+cette obscurité, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ravie de te voir,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Enfin, « te voir », c'est vite dit avec
+cette obscurité, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Bizarre que le soleil ne se montre
+pas.&#xE;&#x3;&#x5;&#x0; &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Mais les expériences bizarres,
+je n'ai rien contre, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;%&#x0;Bizarre que le soleil ne se montre
+pas.&#xE;&#x3;&#x5;&#x0; &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Mais les expériences bizarres,
+je n'ai rien contre, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !
+&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0;Dis, il fait jour ou nuit, là ?
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Comprends plus rien, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0; !
+&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0;Dis, il fait jour ou nuit, là ?
+&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Comprends plus rien, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ah, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0; Étrange journée :
+&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;nuit, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;re-nuit &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et re-nuit-nuit...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Euh... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;re-re-nuit,&#xE;&#x3;&#x2;&#x0; &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ah, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;&#xB;&#x0; Étrange journée :
+&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;nuit, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;re-nuit &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et re-nuit-nuit...&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Euh... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;re-re-nuit,&#xE;&#x3;&#x2;&#x0; &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh, re-coucou, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Il fait froid après une journée...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; de
+nuit. Couvre-toi bien,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x7;&#x6;&#x0;Oh, re-coucou, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0;&#xE;&#x7;&#x7;&#x0;.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Il fait froid après une journée...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; de
+nuit. Couvre-toi bien,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Re-coucou, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;À défaut de soleil, je suis contente
+de t'avoir vu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; aujourd'hui !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Re-coucou, &#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x5;&#x0;À défaut de soleil, je suis contente
+de t'avoir vu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; aujourd'hui !</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Hé, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;
+Quelle journée, mes aïolis ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Pas vrai,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Hé, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x8;&#x0; !&#xE;&#x7;&#x1;&#x0;
+Quelle journée, mes aïolis ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Pas vrai,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0; ?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

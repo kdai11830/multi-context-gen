@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¿Ya has enterrado la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;cápsula&#xE;&#x0;&#x3;&#x2;ÿÿ,
+terroncín?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; La encontrarás en tus
+bolsillos, con tus cartas.
+&#xE;&#x3;%&#x0;¡Ni se te ocurra abrirla!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Solo entiérrala, ¿vale?</original>
+			<edited>&#xE;&#x3;	&#x0;¿Ya has enterrado la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;cápsula&#xE;&#x0;&#x3;&#x2;ÿÿ,
+terroncín?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; La encontrarás en tus
+bolsillos, con tus cartas.
+&#xE;&#x3;%&#x0;¡Ni se te ocurra abrirla!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Solo entiérrala, ¿vale?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¿A que todavía no has enterrado
+la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;cápsula &#xE;&#x0;&#x3;&#x2;ÿÿque te di?&#xE;&#x0;&#x4;&#x0;Está donde guardas tus cartas.
+&#xE;&#x3;%&#x0;¡Entiérrala pronto, por favor, y
+sin mirar dentro!</original>
+			<edited>&#xE;&#x3;	&#x0;¿A que todavía no has enterrado
+la &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;cápsula &#xE;&#x0;&#x3;&#x2;ÿÿque te di?&#xE;&#x0;&#x4;&#x0;Está donde guardas tus cartas.
+&#xE;&#x3;%&#x0;¡Entiérrala pronto, por favor, y
+sin mirar dentro!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¿Todavía no has enterrado
+mi &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;cápsula&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;La tienes en los bolsillos, con
+tus cartas.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Busca un buen sitio
+y entiérrala, ¿vale?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡No la abras!</original>
+			<edited>&#xE;&#x3;	&#x0;¿Todavía no has enterrado
+mi &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;cápsula&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x0;&#x4;&#x0;La tienes en los bolsillos, con
+tus cartas.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Busca un buen sitio
+y entiérrala, ¿vale?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¡No la abras!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

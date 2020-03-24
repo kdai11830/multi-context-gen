@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¿No? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bueno, ya se presentará
+otra ocasión, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;¿No? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bueno, ya se presentará
+otra ocasión, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Vaya, es una lástima. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Te volveré
+a invitar más adelante, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>Vaya, es una lástima. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Te volveré
+a invitar más adelante, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x1;&#x4;&#x4;&#x0;&#x5;&#x0;</original>
+			<edited>&#xE;
+&#x1;&#x4;&#x4;&#x0;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;Solo pretendía ser una buena
+vecina, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Pero si estás
+ocupado, no hay más que hablar.</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;Solo pretendía ser una buena
+vecina, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Pero si estás
+ocupado, no hay más que hablar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Me apetecía pasar un rato contigo,
+cariñín, y hablar de cosas de chicas.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1B;&#x0;Dejémoslo para más adelante.</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Me apetecía pasar un rato contigo,
+cariñín, y hablar de cosas de chicas.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1B;&#x0;Dejémoslo para más adelante.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

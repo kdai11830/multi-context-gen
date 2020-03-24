@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Bye now,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; Next time,
+let's hang out at your place,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Bye now,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x1;&#x0; Next time,
+let's hang out at your place,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I had fun today!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Come back
+anytime,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I had fun today!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Come back
+anytime,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Later, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; I'd like to hang
+out more, but we'll have to do it
+another time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Later, &#xE;&#x5;&#x8;&#x0;!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; I'd like to hang
+out more, but we'll have to do it
+another time,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;Huh?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're going home already?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;You haven't seen anything yet!</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;Huh?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're going home already?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;You haven't seen anything yet!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Leaving already, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;But we barely had a chance to
+talk at all!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Leaving already, &#xE;&#x5;&#x8;&#x0;?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;	&#x0;But we barely had a chance to
+talk at all!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Huh?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're gonna leave without
+saying a word to me?!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xB;&#x0;Are you
+shy or something, &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Huh?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; You're gonna leave without
+saying a word to me?!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#xB;&#x0;Are you
+shy or something, &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

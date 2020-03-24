@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Gimme the regular!</original>
+			<edited>Gimme the regular!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Gimme some java!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; And make it
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Blue Mountain&#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>Gimme some java!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; And make it
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Blue Mountain&#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Gimme a cup of joe! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and you
+can &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;skip the milk&#xE;&#x0;&#x3;&#x2;ÿÿ.</original>
+			<edited>Gimme a cup of joe! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; and you
+can &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;skip the milk&#xE;&#x0;&#x3;&#x2;ÿÿ.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Gimme a slug of mud! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Hey!
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;And &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;hold the sugar&#xE;&#x0;&#x3;&#x2;ÿÿ, will ya?</original>
+			<edited>Gimme a slug of mud! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Hey!
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;And &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;hold the sugar&#xE;&#x0;&#x3;&#x2;ÿÿ, will ya?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>Let's see&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.</original>
+			<edited>Let's see&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; This is the good stuff!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Smooth but with a little kick.&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x1;&#x0;Nice work, kid!&#xE;&#x7;&#x1;&#x0;
+I'll be back.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; See ya!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; This is the good stuff!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Smooth but with a little kick.&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#xE;&#x0;&#xE;&#x3;&#x1;&#x0;Nice work, kid!&#xE;&#x7;&#x1;&#x0;
+I'll be back.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Hmm...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Not bad, I guess.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;But this ain't &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Blue Mountain&#xE;&#x0;&#x3;&#x2;ÿÿ, is it?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;What?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; You thought you could pull a
+fast one?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;Know who's got a nose
+for beans?&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; &#xE;&#x3;&#x7;&#x0;This mole, that's who!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;Do yourself a favor, and remember
+what your customers like!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</original>
+			<edited>&#xE;&#x3;	&#x0;Hmm...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Not bad, I guess.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x0;&#x0;But this ain't &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Blue Mountain&#xE;&#x0;&#x3;&#x2;ÿÿ, is it?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x6;&#x0;What?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; You thought you could pull a
+fast one?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x3;#&#x0;Know who's got a nose
+for beans?&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; &#xE;&#x3;&#x7;&#x0;This mole, that's who!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;Do yourself a favor, and remember
+what your customers like!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;GAAH! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;What's the deal, kid?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+There's &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;milk&#xE;&#x0;&#x3;&#x2;ÿÿ in here.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; MILK!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;My doc's all up in my business 'bout
+cutting down my lactose intake!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;You get what I'm saying? Huh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;No milk!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Burn that into your brain,
+will ya?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya, kid!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;GAAH! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x6;&#x0;What's the deal, kid?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+There's &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;milk&#xE;&#x0;&#x3;&#x2;ÿÿ in here.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; MILK!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;My doc's all up in my business 'bout
+cutting down my lactose intake!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;You get what I'm saying? Huh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;No milk!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Burn that into your brain,
+will ya?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya, kid!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;GAAH!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;You messing with me,
+kid?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; There's &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;sugar&#xE;&#x0;&#x3;&#x2;ÿÿ in here.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; SUGAR!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Know what the doc's been telling
+me 'bout sugar?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x7;&#x0;NO! NO! NO!
+NO SUGAR FOR MOLES!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;That clear?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No sugar!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Don't forget it!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;GAAH!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;You messing with me,
+kid?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; There's &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;sugar&#xE;&#x0;&#x3;&#x2;ÿÿ in here.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; SUGAR!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Know what the doc's been telling
+me 'bout sugar?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x7;&#x0;NO! NO! NO!
+NO SUGAR FOR MOLES!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;That clear?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; No sugar!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Don't forget it!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x3;&#x12;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;Dancing dirt clods!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;&#xD;&#x0;These are the right &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;beans&#xE;&#x0;&#x3;&#x2;ÿÿ, but
+what you did to 'em&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; you could
+be arrested for, pal!
+&#xE;&#x3;	&#x0;I drink this mess and my doc's
+gonna flip his lid.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; KA-BOOM!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Oh well.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ya can't undig a tunnel
+once it's been dug!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;But ya better
+get it right next time!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</original>
+			<edited>
+&#xE;&#x3;&#x12;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;Dancing dirt clods!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;&#xD;&#x0;These are the right &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;beans&#xE;&#x0;&#x3;&#x2;ÿÿ, but
+what you did to 'em&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; you could
+be arrested for, pal!
+&#xE;&#x3;	&#x0;I drink this mess and my doc's
+gonna flip his lid.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; KA-BOOM!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Oh well.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Ya can't undig a tunnel
+once it's been dug!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;But ya better
+get it right next time!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x3;&#x12;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;Earthworm soup!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Ain't no &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;milk&#xE;&#x0;&#x3;&#x2;ÿÿ in here,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; but you did
+something to these beans that ain't
+right.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; And there's sugar!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; BLECH!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I was looking forward to that java.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+What a waste.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; Ya hear me?&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; WASTE!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Oh well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; no use cryin' over spilt dirt.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;Just get it right next time!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</original>
+			<edited>
+&#xE;&#x3;&#x12;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;Earthworm soup!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Ain't no &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;milk&#xE;&#x0;&#x3;&#x2;ÿÿ in here,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; but you did
+something to these beans that ain't
+right.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; And there's sugar!&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; BLECH!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I was looking forward to that java.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+What a waste.&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; Ya hear me?&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; WASTE!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Oh well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; no use cryin' over spilt dirt.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;Just get it right next time!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x3;&#x12;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;Twisted tunnel funk!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;&#xD;&#x0;You got the no &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;sugar&#xE;&#x0;&#x3;&#x2;ÿÿ part,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; but
+the rest of this is a mess.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Urgh!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;What a waste o' joe.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; You let me
+down, kid,&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; ya know?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Oh well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; what's done is done.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;Get your act together!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</original>
+			<edited>
+&#xE;&#x3;&#x12;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;Twisted tunnel funk!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x3;&#xD;&#x0;You got the no &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;sugar&#xE;&#x0;&#x3;&#x2;ÿÿ part,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; but
+the rest of this is a mess.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Urgh!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;What a waste o' joe.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; You let me
+down, kid,&#xE;&#x7;&#x0;&#x4;&#x4;&#x0;&#x0;&#x0; ya know?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Oh well,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; what's done is done.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;Get your act together!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>
+&#xE;&#x7;&#xB;&#x0;&#xE;&#x3;&#x11;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;Moldy mud bath!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;What's this garbage?&#xE;&#x7;&#x0;&#x4;2&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;You tryin' to
+kill me? This ain't coffee!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x7;&#x0;Angry mole! Go! Go! GO!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Hah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;(&#x0;Just messing with you. I'm not
+mad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. Not mad at all.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;Oh well.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; There's no resettin' in
+coffee, right?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;Shape up, kid!
+&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;See ya!</original>
+			<edited>
+&#xE;&#x7;&#xB;&#x0;&#xE;&#x3;&#x11;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;Moldy mud bath!&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;What's this garbage?&#xE;&#x7;&#x0;&#x4;2&#x0;&#x0;&#x0; &#xE;&#x3;&#x6;&#x0;You tryin' to
+kill me? This ain't coffee!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x7;&#x0;Angry mole! Go! Go! GO!&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x0;&#x0;Hah!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;(&#x0;Just messing with you. I'm not
+mad&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. Not mad at all.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x0;&#x0;Oh well.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; There's no resettin' in
+coffee, right?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x6;&#x0;Shape up, kid!
+&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

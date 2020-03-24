@@ -1,0 +1,3035 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="ant00" offset="00" relocatable="true" max_length="0">
+			<original>
+« Ah, si tu étais là ! »</original>
+			<edited>
+« Ah, si tu étais là ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ant01" offset="00" relocatable="true" max_length="0">
+			<original>« Une vie sans risques,
+c'est comme une platine
+sans disque ! »</original>
+			<edited>« Une vie sans risques,
+c'est comme une platine
+sans disque ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ant02" offset="00" relocatable="true" max_length="0">
+			<original>
+« La beauté, ça rend beau ! »</original>
+			<edited>
+« La beauté, ça rend beau ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ant03" offset="00" relocatable="true" max_length="0">
+			<original>« La vie, c'est comme
+une piste de danse !!! »</original>
+			<edited>« La vie, c'est comme
+une piste de danse !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ant04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="ant05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="ant06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="ant07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="ant08" offset="00" relocatable="true" max_length="0">
+			<original>« Suis ton cœur, tu
+trouveras ta maison. »</original>
+			<edited>« Suis ton cœur, tu
+trouveras ta maison. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ant09" offset="00" relocatable="true" max_length="0">
+			<original>
+« Fie-toi à ton pif. »</original>
+			<edited>
+« Fie-toi à ton pif. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea00" offset="00" relocatable="true" max_length="0">
+			<original>« Plus tes bras sont gros,
+plus beau est le magot. »</original>
+			<edited>« Plus tes bras sont gros,
+plus beau est le magot. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea01" offset="00" relocatable="true" max_length="0">
+			<original>« Faites la fête au lieu
+de faire la tête !!! »</original>
+			<edited>« Faites la fête au lieu
+de faire la tête !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea02" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je t'ai à l'œil ! »</original>
+			<edited>
+« Je t'ai à l'œil ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea03" offset="00" relocatable="true" max_length="0">
+			<original>« Toutes les bonnes
+choses ont une fin. »</original>
+			<edited>« Toutes les bonnes
+choses ont une fin. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="bea05" offset="00" relocatable="true" max_length="0">
+			<original>« Les journées passent trop vite.
+Entre les siestes et les repas,
+je n'ai le temps de rien. »</original>
+			<edited>« Les journées passent trop vite.
+Entre les siestes et les repas,
+je n'ai le temps de rien. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea06" offset="00" relocatable="true" max_length="0">
+			<original>« Méfiez-vous de cet
+individu, c'est un nihiliste. »</original>
+			<edited>« Méfiez-vous de cet
+individu, c'est un nihiliste. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea07" offset="00" relocatable="true" max_length="0">
+			<original>
+« Amis pour la vie !!! »</original>
+			<edited>
+« Amis pour la vie !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea08" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="bea09" offset="00" relocatable="true" max_length="0">
+			<original>
+« Le maire, il est fou ! »</original>
+			<edited>
+« Le maire, il est fou ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea10" offset="00" relocatable="true" max_length="0">
+			<original>
+« Faut jamais s'avouer vaincu ! » </original>
+			<edited>
+« Faut jamais s'avouer vaincu ! » </edited>
+			<subEntries />
+		</entry>
+		<entry name="bea11" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="bea12" offset="00" relocatable="true" max_length="0">
+			<original>« Moins de réflexion,
+plus d'action ! »</original>
+			<edited>« Moins de réflexion,
+plus d'action ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea13" offset="00" relocatable="true" max_length="0">
+			<original>« La perfection n'est pas de
+ce monde ? La bonne blague ! »</original>
+			<edited>« La perfection n'est pas de
+ce monde ? La bonne blague ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bea14" offset="00" relocatable="true" max_length="0">
+			<original>
+« Qui crée la mode crée le monde. »</original>
+			<edited>
+« Qui crée la mode crée le monde. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd00" offset="00" relocatable="true" max_length="0">
+			<original>« L'hésitation est mère
+de la déception. »</original>
+			<edited>« L'hésitation est mère
+de la déception. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd01" offset="00" relocatable="true" max_length="0">
+			<original>« Prends toujours soin de tes
+ailes pour pouvoir t'envoler à
+tout moment ! »</original>
+			<edited>« Prends toujours soin de tes
+ailes pour pouvoir t'envoler à
+tout moment ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd02" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je meurs de faim ! »</original>
+			<edited>
+« Je meurs de faim ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd03" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je t'aaaadoooore, toi ! »</original>
+			<edited>
+« Je t'aaaadoooore, toi ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd04" offset="00" relocatable="true" max_length="0">
+			<original>« Si t'es le seul dans ton équipe,
+tu seras toujours le capitaine. »</original>
+			<edited>« Si t'es le seul dans ton équipe,
+tu seras toujours le capitaine. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="brd06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="brd07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="brd08" offset="00" relocatable="true" max_length="0">
+			<original>« Vive la migration : aux premiers
+frimas, fais ton baluchon ! »</original>
+			<edited>« Vive la migration : aux premiers
+frimas, fais ton baluchon ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd09" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="brd10" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="brd11" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="brd12" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="brd13" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="brd14" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="brd15" offset="00" relocatable="true" max_length="0">
+			<original>« Mieux vaut avoir aimé
+et piaillé que de n'avoir
+jamais aimé du tout. »</original>
+			<edited>« Mieux vaut avoir aimé
+et piaillé que de n'avoir
+jamais aimé du tout. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd16" offset="00" relocatable="true" max_length="0">
+			<original>« Les devises, c'est
+complètement naze. »</original>
+			<edited>« Les devises, c'est
+complètement naze. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd17" offset="00" relocatable="true" max_length="0">
+			<original>« La meilleure défense, c'est
+l'attaque. Par contre, l'inverse
+n'est pas vrai... »</original>
+			<edited>« La meilleure défense, c'est
+l'attaque. Par contre, l'inverse
+n'est pas vrai... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="brd18" offset="00" relocatable="true" max_length="0">
+			<original>
+« L'habit fait le moineau. »</original>
+			<edited>
+« L'habit fait le moineau. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bul00" offset="00" relocatable="true" max_length="0">
+			<original>« Même les hommes les plus
+endurcis peuvent pleurer. »</original>
+			<edited>« Même les hommes les plus
+endurcis peuvent pleurer. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bul01" offset="00" relocatable="true" max_length="0">
+			<original>
+« Zzzzzzzzzzzzzzzzz... »</original>
+			<edited>
+« Zzzzzzzzzzzzzzzzz... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bul02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="bul03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="bul04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="bul05" offset="00" relocatable="true" max_length="0">
+			<original>« Attention si vous
+possédez une vache. »</original>
+			<edited>« Attention si vous
+possédez une vache. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bul06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="bul07" offset="00" relocatable="true" max_length="0">
+			<original>« Dupe-moi une fois, tu es une
+fripouille. Dupe-moi deux fois,
+je suis une andouille. »</original>
+			<edited>« Dupe-moi une fois, tu es une
+fripouille. Dupe-moi deux fois,
+je suis une andouille. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="bul08" offset="00" relocatable="true" max_length="0">
+			<original>« Le bonheur vient forcément
+si on l'attend assez longtemps. »</original>
+			<edited>« Le bonheur vient forcément
+si on l'attend assez longtemps. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat00" offset="00" relocatable="true" max_length="0">
+			<original>« Je suis un chat :
+naturellement relax. »</original>
+			<edited>« Je suis un chat :
+naturellement relax. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat01" offset="00" relocatable="true" max_length="0">
+			<original>
+« La pratique, y'a que ça de vrai ! »</original>
+			<edited>
+« La pratique, y'a que ça de vrai ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat02" offset="00" relocatable="true" max_length="0">
+			<original>
+« Bienvenue dans mon fan-club !!! »</original>
+			<edited>
+« Bienvenue dans mon fan-club !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat03" offset="00" relocatable="true" max_length="0">
+			<original>« Les meilleurs amis savent
+vous mettre en valeur ! »</original>
+			<edited>« Les meilleurs amis savent
+vous mettre en valeur ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat04" offset="00" relocatable="true" max_length="0">
+			<original>
+« Qui ne tente rien n'a rien. »</original>
+			<edited>
+« Qui ne tente rien n'a rien. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat05" offset="00" relocatable="true" max_length="0">
+			<original>« Cherchez pas, c'est
+moi la meilleure !!! »</original>
+			<edited>« Cherchez pas, c'est
+moi la meilleure !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat06" offset="00" relocatable="true" max_length="0">
+			<original>
+« Trop cool ! »</original>
+			<edited>
+« Trop cool ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat07" offset="00" relocatable="true" max_length="0">
+			<original>« Ça te pose un problème si je
+fais mes griffes sur ton lit ? »</original>
+			<edited>« Ça te pose un problème si je
+fais mes griffes sur ton lit ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat08" offset="00" relocatable="true" max_length="0">
+			<original>« Je retombe toujours
+sur mes pattes. »</original>
+			<edited>« Je retombe toujours
+sur mes pattes. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat09" offset="00" relocatable="true" max_length="0">
+			<original>« Ce qui est sur la
+table sera mangé. »</original>
+			<edited>« Ce qui est sur la
+table sera mangé. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat10" offset="00" relocatable="true" max_length="0">
+			<original>« Si tu sens fort, c'est que
+t'as fait des efforts ! »</original>
+			<edited>« Si tu sens fort, c'est que
+t'as fait des efforts ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat11" offset="00" relocatable="true" max_length="0">
+			<original>
+« Pas besoin de maquillage... »</original>
+			<edited>
+« Pas besoin de maquillage... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat12" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je m'aime !!! »</original>
+			<edited>
+« Je m'aime !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat13" offset="00" relocatable="true" max_length="0">
+			<original>« Si tu perds le nord, tu
+risques d'être à l'ouest... »</original>
+			<edited>« Si tu perds le nord, tu
+risques d'être à l'ouest... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat14" offset="00" relocatable="true" max_length="0">
+			<original>« On n'est jamais mieux
+servi que par soi-même ! »</original>
+			<edited>« On n'est jamais mieux
+servi que par soi-même ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat15" offset="00" relocatable="true" max_length="0">
+			<original>« Ma botte secrète, c'est
+de viser les yeux. »</original>
+			<edited>« Ma botte secrète, c'est
+de viser les yeux. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat16" offset="00" relocatable="true" max_length="0">
+			<original>« Dis, j'ai pas un truc
+coincé entre les dents ?! »</original>
+			<edited>« Dis, j'ai pas un truc
+coincé entre les dents ?! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat17" offset="00" relocatable="true" max_length="0">
+			<original>
+« Arrêtez les flashs !!! »</original>
+			<edited>
+« Arrêtez les flashs !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat18" offset="00" relocatable="true" max_length="0">
+			<original>
+« Malade qui rit, à moitié guéri. »</original>
+			<edited>
+« Malade qui rit, à moitié guéri. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat19" offset="00" relocatable="true" max_length="0">
+			<original>
+« Tout ce qui brille n'est pas d'or. »</original>
+			<edited>
+« Tout ce qui brille n'est pas d'or. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat20" offset="00" relocatable="true" max_length="0">
+			<original>« Fais en sorte de toujours
+retomber sur tes pieds, sauf si
+tu sais marcher sur les mains. »</original>
+			<edited>« Fais en sorte de toujours
+retomber sur tes pieds, sauf si
+tu sais marcher sur les mains. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cat21" offset="00" relocatable="true" max_length="0">
+			<original>« Les chiens font pas des
+chats, ni les ours, d'ailleurs ! »</original>
+			<edited>« Les chiens font pas des
+chats, ni les ours, d'ailleurs ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr00" offset="00" relocatable="true" max_length="0">
+			<original>« Je t'embarque, on va
+faire les magasins !!! »</original>
+			<edited>« Je t'embarque, on va
+faire les magasins !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr01" offset="00" relocatable="true" max_length="0">
+			<original>
+« Une clochette est une clochette. »</original>
+			<edited>
+« Une clochette est une clochette. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr02" offset="00" relocatable="true" max_length="0">
+			<original>« La chance sourit aux
+audacieux... et aux costauds. »</original>
+			<edited>« La chance sourit aux
+audacieux... et aux costauds. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr03" offset="00" relocatable="true" max_length="0">
+			<original>
+« Tranquille, Émile ! »</original>
+			<edited>
+« Tranquille, Émile ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr04" offset="00" relocatable="true" max_length="0">
+			<original>« Si tu arrives à toucher le ciel,
+essaie d'attraper le soleil ! »</original>
+			<edited>« Si tu arrives à toucher le ciel,
+essaie d'attraper le soleil ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr05" offset="00" relocatable="true" max_length="0">
+			<original>
+« Dodo... »</original>
+			<edited>
+« Dodo... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr06" offset="00" relocatable="true" max_length="0">
+			<original>
+« Un malheur ne vient jamais seul. »</original>
+			<edited>
+« Un malheur ne vient jamais seul. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cbr08" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cbr09" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cbr10" offset="00" relocatable="true" max_length="0">
+			<original>« Alors, c'est qui la meilleure ?! »</original>
+			<edited>« Alors, c'est qui la meilleure ?! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr11" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cbr12" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cbr13" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cbr14" offset="00" relocatable="true" max_length="0">
+			<original>« Le passé, c'est le passé,
+rien ne sert de le ressasser. »</original>
+			<edited>« Le passé, c'est le passé,
+rien ne sert de le ressasser. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr15" offset="00" relocatable="true" max_length="0">
+			<original>
+« Relax, Max ! »</original>
+			<edited>
+« Relax, Max ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr16" offset="00" relocatable="true" max_length="0">
+			<original>
+« Cool, Raoul ! »</original>
+			<edited>
+« Cool, Raoul ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cbr17" offset="00" relocatable="true" max_length="0">
+			<original>
+« Qui s'y frotte s'y pique ! »</original>
+			<edited>
+« Qui s'y frotte s'y pique ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="chn00" offset="00" relocatable="true" max_length="0">
+			<original>« Qui se ressemble s'assemble...
+sauf si les opposés s'attirent. »</original>
+			<edited>« Qui se ressemble s'assemble...
+sauf si les opposés s'attirent. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="chn01" offset="00" relocatable="true" max_length="0">
+			<original>
+« J'suis comme un coq en pâte... »</original>
+			<edited>
+« J'suis comme un coq en pâte... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="chn02" offset="00" relocatable="true" max_length="0">
+			<original>« C'est quand je dors que mes
+neurones travaillent le plus. »</original>
+			<edited>« C'est quand je dors que mes
+neurones travaillent le plus. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="chn03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="chn04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="chn05" offset="00" relocatable="true" max_length="0">
+			<original>« Tôt couché, tôt levé : l'avenir
+appartient à ceux qui méprisent
+la panne d'oreiller ! »</original>
+			<edited>« Tôt couché, tôt levé : l'avenir
+appartient à ceux qui méprisent
+la panne d'oreiller ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="chn06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="chn07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="chn08" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="chn09" offset="00" relocatable="true" max_length="0">
+			<original>« Je te donnerai de l'argent quand
+les poules auront des dents ! »</original>
+			<edited>« Je te donnerai de l'argent quand
+les poules auront des dents ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="chn10" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="chn11" offset="00" relocatable="true" max_length="0">
+			<original>
+« Touche pas à mon nid de poule. »</original>
+			<edited>
+« Touche pas à mon nid de poule. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="chn12" offset="00" relocatable="true" max_length="0">
+			<original>
+« Qui vole un œuf, vole un œuf. »</original>
+			<edited>
+« Qui vole un œuf, vole un œuf. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="chn13" offset="00" relocatable="true" max_length="0">
+			<original>« Que serait un poulet
+sans sa poulette ? »</original>
+			<edited>« Que serait un poulet
+sans sa poulette ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cow00" offset="00" relocatable="true" max_length="0">
+			<original>« Il te va vachement bien,
+ce petit haut !!! »</original>
+			<edited>« Il te va vachement bien,
+ce petit haut !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cow01" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je suis vachement classe, non ? »</original>
+			<edited>
+« Je suis vachement classe, non ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="cow02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cow03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cow04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cow05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cow06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="cow07" offset="00" relocatable="true" max_length="0">
+			<original>« J'adooore regarder
+passer les trains... »</original>
+			<edited>« J'adooore regarder
+passer les trains... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="crd00" offset="00" relocatable="true" max_length="0">
+			<original>« Je ferais bien une
+petite sieste, moi... »</original>
+			<edited>« Je ferais bien une
+petite sieste, moi... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="crd01" offset="00" relocatable="true" max_length="0">
+			<original>
+« L'accro au shopping. »</original>
+			<edited>
+« L'accro au shopping. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="crd02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="crd03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="crd04" offset="00" relocatable="true" max_length="0">
+			<original>« Personne n'a compris que
+les larmes d'un crocodile
+étaient les plus sincères. »</original>
+			<edited>« Personne n'a compris que
+les larmes d'un crocodile
+étaient les plus sincères. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="crd05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="crd06" offset="00" relocatable="true" max_length="0">
+			<original>« Attention à ne pas avoir les
+yeux plus gros que les biceps ! »</original>
+			<edited>« Attention à ne pas avoir les
+yeux plus gros que les biceps ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="crd07" offset="00" relocatable="true" max_length="0">
+			<original>
+« Mieux vaut prévenir que guérir. »</original>
+			<edited>
+« Mieux vaut prévenir que guérir. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="crd08" offset="00" relocatable="true" max_length="0">
+			<original>« Quoi de mieux que
+lézarder au soleil ? »</original>
+			<edited>« Quoi de mieux que
+lézarder au soleil ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der00" offset="00" relocatable="true" max_length="0">
+			<original>« Il n'y a que le premier pas
+qui coûte... sauf s'il y a des
+péages sur l'autoroute ! »</original>
+			<edited>« Il n'y a que le premier pas
+qui coûte... sauf s'il y a des
+péages sur l'autoroute ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der01" offset="00" relocatable="true" max_length="0">
+			<original>« N'attends pas que la
+pluie tombe pour t'acheter
+un parapluie ! »</original>
+			<edited>« N'attends pas que la
+pluie tombe pour t'acheter
+un parapluie ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der02" offset="00" relocatable="true" max_length="0">
+			<original>« M'aimer est le plus beau
+compliment qu'on puisse me faire. »</original>
+			<edited>« M'aimer est le plus beau
+compliment qu'on puisse me faire. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der03" offset="00" relocatable="true" max_length="0">
+			<original>
+« Personne n'est parfait. »</original>
+			<edited>
+« Personne n'est parfait. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der04" offset="00" relocatable="true" max_length="0">
+			<original>« Jambes de gazelle
+et cœur de lionne ! »</original>
+			<edited>« Jambes de gazelle
+et cœur de lionne ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der05" offset="00" relocatable="true" max_length="0">
+			<original>« Qui va à la chasse
+perd sa place. »</original>
+			<edited>« Qui va à la chasse
+perd sa place. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der06" offset="00" relocatable="true" max_length="0">
+			<original>
+« C'est celui qui l'dit qui l'est ! »</original>
+			<edited>
+« C'est celui qui l'dit qui l'est ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der07" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je mangerais bien un morceau... »</original>
+			<edited>
+« Je mangerais bien un morceau... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der08" offset="00" relocatable="true" max_length="0">
+			<original>« À qui sont ces yeux
+de biche ? À moi ! »</original>
+			<edited>« À qui sont ces yeux
+de biche ? À moi ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="der09" offset="00" relocatable="true" max_length="0">
+			<original>« Manger ou dormir,
+il faut choisir. »</original>
+			<edited>« Manger ou dormir,
+il faut choisir. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog00" offset="00" relocatable="true" max_length="0">
+			<original>« On n'a jamais assez de soleil,
+et zut pour les temps de chiens ! »</original>
+			<edited>« On n'a jamais assez de soleil,
+et zut pour les temps de chiens ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog01" offset="00" relocatable="true" max_length="0">
+			<original>
+« Dormir, c'est bien. »</original>
+			<edited>
+« Dormir, c'est bien. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog02" offset="00" relocatable="true" max_length="0">
+			<original>
+« Ouah ! »</original>
+			<edited>
+« Ouah ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog03" offset="00" relocatable="true" max_length="0">
+			<original>
+« Waouh... »</original>
+			<edited>
+« Waouh... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog04" offset="00" relocatable="true" max_length="0">
+			<original>
+« C'est cool, une vie de chien ! »</original>
+			<edited>
+« C'est cool, une vie de chien ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog05" offset="00" relocatable="true" max_length="0">
+			<original>
+« Les pois, c'est indémodable ! »</original>
+			<edited>
+« Les pois, c'est indémodable ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog06" offset="00" relocatable="true" max_length="0">
+			<original>
+« Il faut que j'aille me promener... »</original>
+			<edited>
+« Il faut que j'aille me promener... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog07" offset="00" relocatable="true" max_length="0">
+			<original>« Je suis une chienne normale
+dans un monde de fous ! »</original>
+			<edited>« Je suis une chienne normale
+dans un monde de fous ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog08" offset="00" relocatable="true" max_length="0">
+			<original>« Toujours partante pour une
+virée shopping !!! »</original>
+			<edited>« Toujours partante pour une
+virée shopping !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog09" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="dog10" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="dog11" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="dog12" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="dog13" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="dog14" offset="00" relocatable="true" max_length="0">
+			<original>« Même si la vie vous
+fait des crosses, faut
+savoir rester le boss. »</original>
+			<edited>« Même si la vie vous
+fait des crosses, faut
+savoir rester le boss. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog15" offset="00" relocatable="true" max_length="0">
+			<original>« Ça sent le chien mouillé
+ici, ou c'est moi ? »</original>
+			<edited>« Ça sent le chien mouillé
+ici, ou c'est moi ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog16" offset="00" relocatable="true" max_length="0">
+			<original>« Parfois j'ai l'impression d'être
+un chien dans un jeu de quilles... »</original>
+			<edited>« Parfois j'ai l'impression d'être
+un chien dans un jeu de quilles... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog17" offset="00" relocatable="true" max_length="0">
+			<original>« Les chiens aboient et
+la caravane passe... »</original>
+			<edited>« Les chiens aboient et
+la caravane passe... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="dog18" offset="00" relocatable="true" max_length="0">
+			<original>« Les paparazzi aboient,
+la classitude passe. »</original>
+			<edited>« Les paparazzi aboient,
+la classitude passe. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk00" offset="00" relocatable="true" max_length="0">
+			<original>« La raison du plus musclé
+est toujours la meilleure ! »</original>
+			<edited>« La raison du plus musclé
+est toujours la meilleure ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk01" offset="00" relocatable="true" max_length="0">
+			<original>
+« Ça me cloue le bec ! »</original>
+			<edited>
+« Ça me cloue le bec ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk02" offset="00" relocatable="true" max_length="0">
+			<original>
+« Vive le chocolat !!! »</original>
+			<edited>
+« Vive le chocolat !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk03" offset="00" relocatable="true" max_length="0">
+			<original>« Ma couleur préférée,
+c'est l'orange. Et toi ? »</original>
+			<edited>« Ma couleur préférée,
+c'est l'orange. Et toi ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk04" offset="00" relocatable="true" max_length="0">
+			<original>« Le plus court chemin
+entre deux points, c'est
+celui qui descend. »</original>
+			<edited>« Le plus court chemin
+entre deux points, c'est
+celui qui descend. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk05" offset="00" relocatable="true" max_length="0">
+			<original>« Je suis en retard pour ma
+manucure, tu peux t'occuper
+de ça ?! »</original>
+			<edited>« Je suis en retard pour ma
+manucure, tu peux t'occuper
+de ça ?! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk06" offset="00" relocatable="true" max_length="0">
+			<original>« La couleur pourpre
+symbolise la majesté. »</original>
+			<edited>« La couleur pourpre
+symbolise la majesté. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk07" offset="00" relocatable="true" max_length="0">
+			<original>
+« Vive moi, hi hi !!! »</original>
+			<edited>
+« Vive moi, hi hi !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk08" offset="00" relocatable="true" max_length="0">
+			<original>« Il faut éviter l'excès.
+Sauf si c'est bon. »</original>
+			<edited>« Il faut éviter l'excès.
+Sauf si c'est bon. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk09" offset="00" relocatable="true" max_length="0">
+			<original>« Dis, tu veux bien
+m'inviter à manger ? »</original>
+			<edited>« Dis, tu veux bien
+m'inviter à manger ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk10" offset="00" relocatable="true" max_length="0">
+			<original>« Si tu envies la voiture de
+ton voisin, dis-toi que ton
+voisin envie ta maison. »</original>
+			<edited>« Si tu envies la voiture de
+ton voisin, dis-toi que ton
+voisin envie ta maison. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk11" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="duk12" offset="00" relocatable="true" max_length="0">
+			<original>« Suis mes conseils si tu ne
+veux pas finir le bec dans l'eau. »</original>
+			<edited>« Suis mes conseils si tu ne
+veux pas finir le bec dans l'eau. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk13" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="duk14" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="duk15" offset="00" relocatable="true" max_length="0">
+			<original>« Ce que je préfère dans la
+musique, ce sont les couacs. »</original>
+			<edited>« Ce que je préfère dans la
+musique, ce sont les couacs. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk16" offset="00" relocatable="true" max_length="0">
+			<original>« Les prises de bec,
+très peu pour moi ! »</original>
+			<edited>« Les prises de bec,
+très peu pour moi ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="duk17" offset="00" relocatable="true" max_length="0">
+			<original>« Même mon reflet
+n'a pas ma classe. »</original>
+			<edited>« Même mon reflet
+n'a pas ma classe. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="elp00" offset="00" relocatable="true" max_length="0">
+			<original>
+« C'est bientôt l'heure du thé... »</original>
+			<edited>
+« C'est bientôt l'heure du thé... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="elp01" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je me trompe souvent... »</original>
+			<edited>
+« Je me trompe souvent... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="elp02" offset="00" relocatable="true" max_length="0">
+			<original>« Je n'ai pas peur des souris.
+Je suis prudent quand j'en
+vois une, ce n'est pas pareil. »</original>
+			<edited>« Je n'ai pas peur des souris.
+Je suis prudent quand j'en
+vois une, ce n'est pas pareil. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="elp03" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je ne me trompe jamais ! »</original>
+			<edited>
+« Je ne me trompe jamais ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="elp04" offset="00" relocatable="true" max_length="0">
+			<original>« Avoir la tête dans les nuages
+tout en gardant les pieds sur
+terre, c'est le privilège du sage ! »</original>
+			<edited>« Avoir la tête dans les nuages
+tout en gardant les pieds sur
+terre, c'est le privilège du sage ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="elp05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="elp06" offset="00" relocatable="true" max_length="0">
+			<original>« On a toujours besoin d'un
+plus gringalet que soi. »</original>
+			<edited>« On a toujours besoin d'un
+plus gringalet que soi. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="elp07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="elp08" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="elp09" offset="00" relocatable="true" max_length="0">
+			<original>« Ivoire ? Y voir quoi ?
+Je vois rien, moi ?! »</original>
+			<edited>« Ivoire ? Y voir quoi ?
+Je vois rien, moi ?! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="elp10" offset="00" relocatable="true" max_length="0">
+			<original>« Un thé noir, un bon bouquin,
+et on n'a plus besoin de rien ! »</original>
+			<edited>« Un thé noir, un bon bouquin,
+et on n'a plus besoin de rien ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg00" offset="00" relocatable="true" max_length="0">
+			<original>« Une mauvaise idée n'est pas plus
+facile à avoir qu'une bonne. »</original>
+			<edited>« Une mauvaise idée n'est pas plus
+facile à avoir qu'une bonne. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg01" offset="00" relocatable="true" max_length="0">
+			<original>« L'inactivité est le meilleur moyen
+de voir ses muscles rouiller. »</original>
+			<edited>« L'inactivité est le meilleur moyen
+de voir ses muscles rouiller. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg02" offset="00" relocatable="true" max_length="0">
+			<original>« C'est de la cime de l'arbre
+que la vue est la plus belle ! »</original>
+			<edited>« C'est de la cime de l'arbre
+que la vue est la plus belle ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg03" offset="00" relocatable="true" max_length="0">
+			<original>« Personne ne fait
+attention à moi... »</original>
+			<edited>« Personne ne fait
+attention à moi... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg04" offset="00" relocatable="true" max_length="0">
+			<original>« L'argent n'a pas d'odeur.
+L'or, en revanche... »</original>
+			<edited>« L'argent n'a pas d'odeur.
+L'or, en revanche... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg05" offset="00" relocatable="true" max_length="0">
+			<original>« Je dois vraiment être
+lucide pour voir que tout
+le monde est fou. »</original>
+			<edited>« Je dois vraiment être
+lucide pour voir que tout
+le monde est fou. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg06" offset="00" relocatable="true" max_length="0">
+			<original>
+« Elle est pas belle, la vie ?! »</original>
+			<edited>
+« Elle est pas belle, la vie ?! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg07" offset="00" relocatable="true" max_length="0">
+			<original>« Hmmm... Je goberais bien
+une petite mouche, moi... »</original>
+			<edited>« Hmmm... Je goberais bien
+une petite mouche, moi... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg08" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="flg09" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="flg10" offset="00" relocatable="true" max_length="0">
+			<original>
+« Agis avant de réfléchir. »</original>
+			<edited>
+« Agis avant de réfléchir. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg11" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="flg12" offset="00" relocatable="true" max_length="0">
+			<original>« Si on me donne un bisou,
+je me transforme en prince,
+tu crois ? »</original>
+			<edited>« Si on me donne un bisou,
+je me transforme en prince,
+tu crois ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg13" offset="00" relocatable="true" max_length="0">
+			<original>« Faire la tête, c'est fatigant, alors
+souris, tu vivras longtemps ! »</original>
+			<edited>« Faire la tête, c'est fatigant, alors
+souris, tu vivras longtemps ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg14" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="flg15" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="flg16" offset="00" relocatable="true" max_length="0">
+			<original>« Il paraît qu'il faut se coucher
+tôt pour avoir une belle peau.
+Mais tu me verrais au saut du lit... »</original>
+			<edited>« Il paraît qu'il faut se coucher
+tôt pour avoir une belle peau.
+Mais tu me verrais au saut du lit... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg17" offset="00" relocatable="true" max_length="0">
+			<original>
+« Y'a pas de fumée sans feu. »</original>
+			<edited>
+« Y'a pas de fumée sans feu. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg18" offset="00" relocatable="true" max_length="0">
+			<original>« Tendre l'autre joue ?
+Même pas en rêve ! »</original>
+			<edited>« Tendre l'autre joue ?
+Même pas en rêve ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="flg19" offset="00" relocatable="true" max_length="0">
+			<original>« Un regard de braise vaut
+mieux qu'un long discours. »</original>
+			<edited>« Un regard de braise vaut
+mieux qu'un long discours. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="goa00" offset="00" relocatable="true" max_length="0">
+			<original>« Cours après tes rêves, sans
+trêve ! Mais alors j'espère que
+t'aimes courir, sans rire... »</original>
+			<edited>« Cours après tes rêves, sans
+trêve ! Mais alors j'espère que
+t'aimes courir, sans rire... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="goa01" offset="00" relocatable="true" max_length="0">
+			<original>
+« Boum boum tralala ! »</original>
+			<edited>
+« Boum boum tralala ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="goa02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="goa03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="goa04" offset="00" relocatable="true" max_length="0">
+			<original>« Ne faites pas d'omelette
+sans œufs. »</original>
+			<edited>« Ne faites pas d'omelette
+sans œufs. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="goa05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="goa06" offset="00" relocatable="true" max_length="0">
+			<original>« Apprends à ménager
+la chèvre et le chou. »</original>
+			<edited>« Apprends à ménager
+la chèvre et le chou. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="goa07" offset="00" relocatable="true" max_length="0">
+			<original>« Reste toi-même,
+tant que tu m'aimes. »</original>
+			<edited>« Reste toi-même,
+tant que tu m'aimes. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="goa08" offset="00" relocatable="true" max_length="0">
+			<original>
+« Jeu de main, jeu caprin. »</original>
+			<edited>
+« Jeu de main, jeu caprin. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="gor00" offset="00" relocatable="true" max_length="0">
+			<original>« Ma barbe est morte,
+longue vie à ma moustache ! »</original>
+			<edited>« Ma barbe est morte,
+longue vie à ma moustache ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="gor01" offset="00" relocatable="true" max_length="0">
+			<original>
+« JE SUIS DERRIÈRE TOI ! »</original>
+			<edited>
+« JE SUIS DERRIÈRE TOI ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="gor02" offset="00" relocatable="true" max_length="0">
+			<original>« Pourquoi viser la deuxième place
+quand tu peux être un as ? »</original>
+			<edited>« Pourquoi viser la deuxième place
+quand tu peux être un as ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="gor03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="gor04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="gor05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="gor06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="gor07" offset="00" relocatable="true" max_length="0">
+			<original>« Guenon rime avec fashion !
+Enfin, pas vraiment, mais bon... »</original>
+			<edited>« Guenon rime avec fashion !
+Enfin, pas vraiment, mais bon... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="gor08" offset="00" relocatable="true" max_length="0">
+			<original>
+« J'ai une grosse envie de banane. »</original>
+			<edited>
+« J'ai une grosse envie de banane. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="gor09" offset="00" relocatable="true" max_length="0">
+			<original>« Si je pense que j'ai raison,
+c'est que ça doit être vrai. »</original>
+			<edited>« Si je pense que j'ai raison,
+c'est que ça doit être vrai. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="gor10" offset="00" relocatable="true" max_length="0">
+			<original>« L'amour est aveugle,
+ou alors c'est moi qui
+ai besoin de lunettes. »</original>
+			<edited>« L'amour est aveugle,
+ou alors c'est moi qui
+ai besoin de lunettes. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ham00" offset="00" relocatable="true" max_length="0">
+			<original>« Une oreille saine est une
+oreille bien musclée. »</original>
+			<edited>« Une oreille saine est une
+oreille bien musclée. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ham01" offset="00" relocatable="true" max_length="0">
+			<original>« J'ai mangé ma portion de
+fruits : raisins secs enrobés
+de chocolat, hi hi ! »</original>
+			<edited>« J'ai mangé ma portion de
+fruits : raisins secs enrobés
+de chocolat, hi hi ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ham02" offset="00" relocatable="true" max_length="0">
+			<original>« La connaissance mène
+à tout. La classe aussi. »</original>
+			<edited>« La connaissance mène
+à tout. La classe aussi. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ham03" offset="00" relocatable="true" max_length="0">
+			<original>« Profite du jour présent
+pour pioncer. »</original>
+			<edited>« Profite du jour présent
+pour pioncer. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ham04" offset="00" relocatable="true" max_length="0">
+			<original>
+« Ce qui est petit est mignon. »</original>
+			<edited>
+« Ce qui est petit est mignon. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ham05" offset="00" relocatable="true" max_length="0">
+			<original>« Des fois, j'ai l'impression
+de tourner en rond... »</original>
+			<edited>« Des fois, j'ai l'impression
+de tourner en rond... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ham06" offset="00" relocatable="true" max_length="0">
+			<original>
+« Ras les bajoues des rabat-joie ! »</original>
+			<edited>
+« Ras les bajoues des rabat-joie ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ham07" offset="00" relocatable="true" max_length="0">
+			<original>
+« Les enfants, c'est bien. De loin. »</original>
+			<edited>
+« Les enfants, c'est bien. De loin. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hip00" offset="00" relocatable="true" max_length="0">
+			<original>
+« Tu sens le patchouli ! »</original>
+			<edited>
+« Tu sens le patchouli ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hip01" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="hip02" offset="00" relocatable="true" max_length="0">
+			<original>« Je suis bien maquillée ?!
+Et les fringues ? Ça va ?! »</original>
+			<edited>« Je suis bien maquillée ?!
+Et les fringues ? Ça va ?! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hip03" offset="00" relocatable="true" max_length="0">
+			<original>« Un pique-nique entre
+deux siestes, c'est un
+sandwich de bonheur ! »</original>
+			<edited>« Un pique-nique entre
+deux siestes, c'est un
+sandwich de bonheur ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hip04" offset="00" relocatable="true" max_length="0">
+			<original>« Celui qui arrive deuxième est
+le plus fort des perdants. »</original>
+			<edited>« Celui qui arrive deuxième est
+le plus fort des perdants. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hip05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="hip06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="hip07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="hip08" offset="00" relocatable="true" max_length="0">
+			<original>« La patience, c'est pour ceux
+qui ont du temps à perdre. »</original>
+			<edited>« La patience, c'est pour ceux
+qui ont du temps à perdre. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hip09" offset="00" relocatable="true" max_length="0">
+			<original>
+« Hip, hip, hip Paulito ! »</original>
+			<edited>
+« Hip, hip, hip Paulito ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs00" offset="00" relocatable="true" max_length="0">
+			<original>« Ne perds jamais des
+yeux l'objectif, sauf si
+tu l'as déjà dépassé. »</original>
+			<edited>« Ne perds jamais des
+yeux l'objectif, sauf si
+tu l'as déjà dépassé. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs01" offset="00" relocatable="true" max_length="0">
+			<original>« On ne vit qu'une fois, il faut
+en profiter un max !!! »</original>
+			<edited>« On ne vit qu'une fois, il faut
+en profiter un max !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs02" offset="00" relocatable="true" max_length="0">
+			<original>« Je garde la tête haute en
+toute circonstance, henni
+soit qui mal y pense ! »</original>
+			<edited>« Je garde la tête haute en
+toute circonstance, henni
+soit qui mal y pense ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs03" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je retourne au lit, et au trot ! »</original>
+			<edited>
+« Je retourne au lit, et au trot ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs04" offset="00" relocatable="true" max_length="0">
+			<original>« Attention à ce que tu fais,
+l'œil de Rosco est partout. »</original>
+			<edited>« Attention à ce que tu fais,
+l'œil de Rosco est partout. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs05" offset="00" relocatable="true" max_length="0">
+			<original>« T'as des plans pour ce
+week-end ?! On fait quoi ?! »</original>
+			<edited>« T'as des plans pour ce
+week-end ?! On fait quoi ?! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs06" offset="00" relocatable="true" max_length="0">
+			<original>« Une patte fracturée
+n'est pas une excuse. »</original>
+			<edited>« Une patte fracturée
+n'est pas une excuse. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="hrs08" offset="00" relocatable="true" max_length="0">
+			<original>« Chaque jour est un cadeau
+qu'offre la nuit précédente. »</original>
+			<edited>« Chaque jour est un cadeau
+qu'offre la nuit précédente. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs09" offset="00" relocatable="true" max_length="0">
+			<original>
+« J'ai la fièvre acheteuse ! »</original>
+			<edited>
+« J'ai la fièvre acheteuse ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs10" offset="00" relocatable="true" max_length="0">
+			<original>« On dit que je suis bête à
+manger du foin... C'est pas faux. »</original>
+			<edited>« On dit que je suis bête à
+manger du foin... C'est pas faux. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs11" offset="00" relocatable="true" max_length="0">
+			<original>« Crinière au vent,
+et vent en croupe ! »</original>
+			<edited>« Crinière au vent,
+et vent en croupe ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs12" offset="00" relocatable="true" max_length="0">
+			<original>« L'herbe est toujours
+plus verte chez le voisin. »</original>
+			<edited>« L'herbe est toujours
+plus verte chez le voisin. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="hrs13" offset="00" relocatable="true" max_length="0">
+			<original>« Touche ma corne,
+ça porte bonheur. »</original>
+			<edited>« Touche ma corne,
+ça porte bonheur. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kal00" offset="00" relocatable="true" max_length="0">
+			<original>« Ce n'est pas ce qui est
+beau qui plaît, mais ce qui
+plaît qui est beau. »</original>
+			<edited>« Ce n'est pas ce qui est
+beau qui plaît, mais ce qui
+plaît qui est beau. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kal01" offset="00" relocatable="true" max_length="0">
+			<original>« Vive les quoi ?
+Vive les quoi ?
+Vive les koalas ! »</original>
+			<edited>« Vive les quoi ?
+Vive les quoi ?
+Vive les koalas ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kal02" offset="00" relocatable="true" max_length="0">
+			<original>« Un égoïste, c'est quelqu'un
+qui ne pense pas à moi. »</original>
+			<edited>« Un égoïste, c'est quelqu'un
+qui ne pense pas à moi. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kal03" offset="00" relocatable="true" max_length="0">
+			<original>« Ce n'est pas la girouette qui
+tourne, c'est le vent. »</original>
+			<edited>« Ce n'est pas la girouette qui
+tourne, c'est le vent. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kal04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="kal05" offset="00" relocatable="true" max_length="0">
+			<original>« Je me ferais bien un petit
+sandwich à l'eucalyptus... »</original>
+			<edited>« Je me ferais bien un petit
+sandwich à l'eucalyptus... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kal06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="kal07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="kal08" offset="00" relocatable="true" max_length="0">
+			<original>« Il est jamais trop tard pour
+prendre un nouveau départ... sauf
+quand il est vraiment trop tard. »</original>
+			<edited>« Il est jamais trop tard pour
+prendre un nouveau départ... sauf
+quand il est vraiment trop tard. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kal09" offset="00" relocatable="true" max_length="0">
+			<original>
+« C'est fatigant tout ça... »</original>
+			<edited>
+« C'est fatigant tout ça... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kal10" offset="00" relocatable="true" max_length="0">
+			<original>« Les femmes d'abord !
+Et moi juste après. »</original>
+			<edited>« Les femmes d'abord !
+Et moi juste après. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kgr00" offset="00" relocatable="true" max_length="0">
+			<original>« L'humour, c'est de famille,
+et chez nous, on n'a pas
+notre langue dans la poche ! »</original>
+			<edited>« L'humour, c'est de famille,
+et chez nous, on n'a pas
+notre langue dans la poche ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kgr01" offset="00" relocatable="true" max_length="0">
+			<original>« Mon secret pour avoir
+un poil doux et brillant ?
+Le gel douche à l'eucalyptus. »</original>
+			<edited>« Mon secret pour avoir
+un poil doux et brillant ?
+Le gel douche à l'eucalyptus. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kgr02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="kgr03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="kgr04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="kgr05" offset="00" relocatable="true" max_length="0">
+			<original>« Suis mon conseil :
+suis toujours mes conseils ! »</original>
+			<edited>« Suis mon conseil :
+suis toujours mes conseils ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kgr06" offset="00" relocatable="true" max_length="0">
+			<original>
+« Loin des yeux, loin tout court. »</original>
+			<edited>
+« Loin des yeux, loin tout court. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kgr07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="kgr08" offset="00" relocatable="true" max_length="0">
+			<original>« Le malheur, le bonheur, la pluie,
+le beau temps... c'est dans la tête. »</original>
+			<edited>« Le malheur, le bonheur, la pluie,
+le beau temps... c'est dans la tête. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kgr09" offset="00" relocatable="true" max_length="0">
+			<original>
+« La discrimination, je dis non. »</original>
+			<edited>
+« La discrimination, je dis non. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="kgr10" offset="00" relocatable="true" max_length="0">
+			<original>« Qui se rend chez un ami
+n'a jamais mal aux pieds. »</original>
+			<edited>« Qui se rend chez un ami
+n'a jamais mal aux pieds. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="lon00" offset="00" relocatable="true" max_length="0">
+			<original>« Sans transpirer,
+on ne peut briller. »</original>
+			<edited>« Sans transpirer,
+on ne peut briller. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="lon01" offset="00" relocatable="true" max_length="0">
+			<original>
+« Le roi des animaux. »</original>
+			<edited>
+« Le roi des animaux. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="lon02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="lon03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="lon04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="lon05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="lon06" offset="00" relocatable="true" max_length="0">
+			<original>« Le lion n'a peur que
+d'un autre lion. »</original>
+			<edited>« Le lion n'a peur que
+d'un autre lion. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="lon07" offset="00" relocatable="true" max_length="0">
+			<original>« Toute bataille réussie commence
+par une stratégie bien établie. »</original>
+			<edited>« Toute bataille réussie commence
+par une stratégie bien établie. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="lon08" offset="00" relocatable="true" max_length="0">
+			<original>« Un roi sans divertissement
+est un lion plein de misères. »</original>
+			<edited>« Un roi sans divertissement
+est un lion plein de misères. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mnk00" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="mnk01" offset="00" relocatable="true" max_length="0">
+			<original>« Une tartine qui tombe s'écrase
+toujours du côté beurré. »</original>
+			<edited>« Une tartine qui tombe s'écrase
+toujours du côté beurré. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mnk02" offset="00" relocatable="true" max_length="0">
+			<original>« Arrêter de faire le singe ?
+Mais je ne sais faire que ça ! »</original>
+			<edited>« Arrêter de faire le singe ?
+Mais je ne sais faire que ça ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mnk03" offset="00" relocatable="true" max_length="0">
+			<original>
+« Nan, sérieux ?! Trop fort !!! »</original>
+			<edited>
+« Nan, sérieux ?! Trop fort !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mnk04" offset="00" relocatable="true" max_length="0">
+			<original>
+« Tu veux ma photo ? »</original>
+			<edited>
+« Tu veux ma photo ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mnk05" offset="00" relocatable="true" max_length="0">
+			<original>« Quand on est grande, on ne
+fait plus le singe. Enfin, moins. »</original>
+			<edited>« Quand on est grande, on ne
+fait plus le singe. Enfin, moins. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mnk06" offset="00" relocatable="true" max_length="0">
+			<original>« Pas de blé, pas de farine.
+Pas de farine, pas de gâteau.
+Pas de gâteau... pas de gâteau. »</original>
+			<edited>« Pas de blé, pas de farine.
+Pas de farine, pas de gâteau.
+Pas de gâteau... pas de gâteau. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mnk07" offset="00" relocatable="true" max_length="0">
+			<original>« Rien ne sert de partir à point
+quand on peut courir vite. »</original>
+			<edited>« Rien ne sert de partir à point
+quand on peut courir vite. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mnk08" offset="00" relocatable="true" max_length="0">
+			<original>« C'est à un jeune singe qu'on
+apprend à faire des grimaces. »</original>
+			<edited>« C'est à un jeune singe qu'on
+apprend à faire des grimaces. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus00" offset="00" relocatable="true" max_length="0">
+			<original>« Maigre repas : bon, ça va.
+Impasse sur le fromage, dommage.
+Mais pas de dessert, quel enfer ! »</original>
+			<edited>« Maigre repas : bon, ça va.
+Impasse sur le fromage, dommage.
+Mais pas de dessert, quel enfer ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus01" offset="00" relocatable="true" max_length="0">
+			<original>
+« C'est moi ou ça sent pas bon ? »</original>
+			<edited>
+« C'est moi ou ça sent pas bon ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus02" offset="00" relocatable="true" max_length="0">
+			<original>« Je sais, je devrais tourner ma
+langue sept fois dans ma bouche
+avant de parler, hi hi hi !!! »</original>
+			<edited>« Je sais, je devrais tourner ma
+langue sept fois dans ma bouche
+avant de parler, hi hi hi !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus03" offset="00" relocatable="true" max_length="0">
+			<original>« J'aimerais bien être
+une petite souris pour...
+Oh ! J'en suis une, hi hi ! »</original>
+			<edited>« J'aimerais bien être
+une petite souris pour...
+Oh ! J'en suis une, hi hi ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus04" offset="00" relocatable="true" max_length="0">
+			<original>« Si tu ne peux contourner le
+rocher, pense à faire demi-tour. »</original>
+			<edited>« Si tu ne peux contourner le
+rocher, pense à faire demi-tour. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus05" offset="00" relocatable="true" max_length="0">
+			<original>« Il n'y pas d'adversaire
+trop fort, il n'y a que des
+entraînements trop mous. »</original>
+			<edited>« Il n'y pas d'adversaire
+trop fort, il n'y a que des
+entraînements trop mous. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="mus07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="mus08" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="mus09" offset="00" relocatable="true" max_length="0">
+			<original>« Je crois que j'ai une
+souris à la maison... »</original>
+			<edited>« Je crois que j'ai une
+souris à la maison... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus10" offset="00" relocatable="true" max_length="0">
+			<original>
+« Vivement les soldes !!! »</original>
+			<edited>
+« Vivement les soldes !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus11" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="mus12" offset="00" relocatable="true" max_length="0">
+			<original>« Je sens comme une
+odeur de fromage... »</original>
+			<edited>« Je sens comme une
+odeur de fromage... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus13" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="mus14" offset="00" relocatable="true" max_length="0">
+			<original>« Un rat pris au piège n'hésitera
+pas à mordre le chat. »</original>
+			<edited>« Un rat pris au piège n'hésitera
+pas à mordre le chat. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus15" offset="00" relocatable="true" max_length="0">
+			<original>« Je suis une souris
+de bibliothèque, et
+fière de l'être. »</original>
+			<edited>« Je suis une souris
+de bibliothèque, et
+fière de l'être. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus16" offset="00" relocatable="true" max_length="0">
+			<original>
+« Le monde est un ring de boxe. »</original>
+			<edited>
+« Le monde est un ring de boxe. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus17" offset="00" relocatable="true" max_length="0">
+			<original>
+« Tout ce qui est petit est mimi ! »</original>
+			<edited>
+« Tout ce qui est petit est mimi ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="mus18" offset="00" relocatable="true" max_length="0">
+			<original>« Je ne souris jamais en face
+de mon miroir, ça m'éblouit. »</original>
+			<edited>« Je ne souris jamais en face
+de mon miroir, ça m'éblouit. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="oct00" offset="00" relocatable="true" max_length="0">
+			<original>« La face cachée de la lune n'est
+pas visible à l'œil nu, ça se voit ! »</original>
+			<edited>« La face cachée de la lune n'est
+pas visible à l'œil nu, ça se voit ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="oct01" offset="00" relocatable="true" max_length="0">
+			<original>« Ce n'est pas parce que 
+tu n'as rien à dire qu'il
+faut fermer ta bouche. »</original>
+			<edited>« Ce n'est pas parce que 
+tu n'as rien à dire qu'il
+faut fermer ta bouche. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="oct02" offset="00" relocatable="true" max_length="0">
+			<original>« Si je mange comme quatre,
+c'est parce que j'ai huit bras ! »</original>
+			<edited>« Si je mange comme quatre,
+c'est parce que j'ai huit bras ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ost00" offset="00" relocatable="true" max_length="0">
+			<original>
+« Ce qui est grand est charmant. »</original>
+			<edited>
+« Ce qui est grand est charmant. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ost01" offset="00" relocatable="true" max_length="0">
+			<original>« Sourire, ça ne coûte rien.
+Alors que les larmes sont
+toujours trop salées ! »</original>
+			<edited>« Sourire, ça ne coûte rien.
+Alors que les larmes sont
+toujours trop salées ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ost02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="ost03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="ost04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="ost05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="ost06" offset="00" relocatable="true" max_length="0">
+			<original>« Je n'aime pas courir,
+c'est fatigant. »</original>
+			<edited>« Je n'aime pas courir,
+c'est fatigant. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ost07" offset="00" relocatable="true" max_length="0">
+			<original>
+« Le fan propose, et je dispose. »</original>
+			<edited>
+« Le fan propose, et je dispose. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ost08" offset="00" relocatable="true" max_length="0">
+			<original>« L'expérience fera
+toujours la différence. »</original>
+			<edited>« L'expérience fera
+toujours la différence. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ost09" offset="00" relocatable="true" max_length="0">
+			<original>« C'est au pied du mur
+qu'on voit le mieux le mur. »</original>
+			<edited>« C'est au pied du mur
+qu'on voit le mieux le mur. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="ost10" offset="00" relocatable="true" max_length="0">
+			<original>« La politique de l'autruche ?
+Connais pas. »</original>
+			<edited>« La politique de l'autruche ?
+Connais pas. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pbr00" offset="00" relocatable="true" max_length="0">
+			<original>« Le comble de l'aigle, c'est
+quand il ne serre à rien ! »</original>
+			<edited>« Le comble de l'aigle, c'est
+quand il ne serre à rien ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pbr01" offset="00" relocatable="true" max_length="0">
+			<original>« Se pomponner, c'est aussi vital
+que manger, boire et dormir ! »</original>
+			<edited>« Se pomponner, c'est aussi vital
+que manger, boire et dormir ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pbr02" offset="00" relocatable="true" max_length="0">
+			<original>« Si on te demande de voler,
+demande à quelle hauteur ! »</original>
+			<edited>« Si on te demande de voler,
+demande à quelle hauteur ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pbr03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pbr04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pbr05" offset="00" relocatable="true" max_length="0">
+			<original>
+« Qui a éteint la lumière ? »</original>
+			<edited>
+« Qui a éteint la lumière ? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pbr06" offset="00" relocatable="true" max_length="0">
+			<original>« Quand tu broies du noir, arrête
+et vois la vie en rose ! »</original>
+			<edited>« Quand tu broies du noir, arrête
+et vois la vie en rose ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pbr07" offset="00" relocatable="true" max_length="0">
+			<original>
+« Prudence est mère de sûreté. »</original>
+			<edited>
+« Prudence est mère de sûreté. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pbr08" offset="00" relocatable="true" max_length="0">
+			<original>
+« Tel moi, tel toi. »</original>
+			<edited>
+« Tel moi, tel toi. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pbr09" offset="00" relocatable="true" max_length="0">
+			<original>« 1 000 bonnes intentions ne
+valent pas une bonne action. »</original>
+			<edited>« 1 000 bonnes intentions ne
+valent pas une bonne action. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn00" offset="00" relocatable="true" max_length="0">
+			<original>
+« Garde toujours la tête froide ! »</original>
+			<edited>
+« Garde toujours la tête froide ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn01" offset="00" relocatable="true" max_length="0">
+			<original>« Mieux vaut apprendre à flotter
+avant de vouloir nager... »</original>
+			<edited>« Mieux vaut apprendre à flotter
+avant de vouloir nager... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn02" offset="00" relocatable="true" max_length="0">
+			<original>
+« Cool ! »</original>
+			<edited>
+« Cool ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn03" offset="00" relocatable="true" max_length="0">
+			<original>
+« C'est mon meilleur profil. »</original>
+			<edited>
+« C'est mon meilleur profil. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn04" offset="00" relocatable="true" max_length="0">
+			<original>
+« J'ai toujours le teint frais. »</original>
+			<edited>
+« J'ai toujours le teint frais. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn05" offset="00" relocatable="true" max_length="0">
+			<original>« Pas besoin d'être froide
+et distante pour avoir la
+classe mannequin. »</original>
+			<edited>« Pas besoin d'être froide
+et distante pour avoir la
+classe mannequin. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn06" offset="00" relocatable="true" max_length="0">
+			<original>
+« Relax ! »</original>
+			<edited>
+« Relax ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pgn08" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pgn09" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pgn10" offset="00" relocatable="true" max_length="0">
+			<original>
+« Tranquilou ! »</original>
+			<edited>
+« Tranquilou ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn11" offset="00" relocatable="true" max_length="0">
+			<original>« L'ensemble est supérieur
+à la somme des parties. »</original>
+			<edited>« L'ensemble est supérieur
+à la somme des parties. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn12" offset="00" relocatable="true" max_length="0">
+			<original>« Si jamais tu glisses,
+fais-le avec classe ! »</original>
+			<edited>« Si jamais tu glisses,
+fais-le avec classe ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn13" offset="00" relocatable="true" max_length="0">
+			<original>
+« Ne jamais baisser sa garde. »</original>
+			<edited>
+« Ne jamais baisser sa garde. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pgn14" offset="00" relocatable="true" max_length="0">
+			<original>« Le froid, c'est hyper bon pour
+le teint ! »</original>
+			<edited>« Le froid, c'est hyper bon pour
+le teint ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig00" offset="00" relocatable="true" max_length="0">
+			<original>
+« Tout est bon dans le cochon. »</original>
+			<edited>
+« Tout est bon dans le cochon. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig01" offset="00" relocatable="true" max_length="0">
+			<original>« Après tout, l'argent est fait pour
+être dépensé, non ?! »</original>
+			<edited>« Après tout, l'argent est fait pour
+être dépensé, non ?! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig02" offset="00" relocatable="true" max_length="0">
+			<original>« Arrête de me dévorer des yeux !
+Je ne suis pas une entrecôte ! »</original>
+			<edited>« Arrête de me dévorer des yeux !
+Je ne suis pas une entrecôte ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig03" offset="00" relocatable="true" max_length="0">
+			<original>« Ce n'est pas parce que
+je suis un porc que je ne
+sais pas me tenir à table. »</original>
+			<edited>« Ce n'est pas parce que
+je suis un porc que je ne
+sais pas me tenir à table. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig04" offset="00" relocatable="true" max_length="0">
+			<original>« Pour qui a bon caractère,
+le meilleur est toujours à
+venir... Vivement demain ! »</original>
+			<edited>« Pour qui a bon caractère,
+le meilleur est toujours à
+venir... Vivement demain ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig05" offset="00" relocatable="true" max_length="0">
+			<original>« Je mange comme
+un cochon, c'est vrai. »</original>
+			<edited>« Je mange comme
+un cochon, c'est vrai. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pig07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pig08" offset="00" relocatable="true" max_length="0">
+			<original>« Des muscles bien saillants valent
+mieux qu'une tête bien faite. »</original>
+			<edited>« Des muscles bien saillants valent
+mieux qu'une tête bien faite. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig09" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pig10" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pig11" offset="00" relocatable="true" max_length="0">
+			<original>« Le rose ne va pas à tout le
+monde, c'est clair ! »</original>
+			<edited>« Le rose ne va pas à tout le
+monde, c'est clair ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig12" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="pig13" offset="00" relocatable="true" max_length="0">
+			<original>« Méfie-toi de l'eau qui dort :
+tu risques d'être éclaboussé
+si elle se réveille en sursaut. »</original>
+			<edited>« Méfie-toi de l'eau qui dort :
+tu risques d'être éclaboussé
+si elle se réveille en sursaut. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig14" offset="00" relocatable="true" max_length="0">
+			<original>
+« Un esprit sain dans un porcin. »</original>
+			<edited>
+« Un esprit sain dans un porcin. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig15" offset="00" relocatable="true" max_length="0">
+			<original>
+« Cochon qui s'en dédit ! »</original>
+			<edited>
+« Cochon qui s'en dédit ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig16" offset="00" relocatable="true" max_length="0">
+			<original>« Ne fais pas à autrui
+ce que tu ne voudrais pas
+qu'une autre truie te fasse. »</original>
+			<edited>« Ne fais pas à autrui
+ce que tu ne voudrais pas
+qu'une autre truie te fasse. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="pig17" offset="00" relocatable="true" max_length="0">
+			<original>« Qui sème le vent
+récolte que dalle. »</original>
+			<edited>« Qui sème le vent
+récolte que dalle. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt00" offset="00" relocatable="true" max_length="0">
+			<original>« Interdiction de me
+poser un lapin !!! »</original>
+			<edited>« Interdiction de me
+poser un lapin !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt01" offset="00" relocatable="true" max_length="0">
+			<original>« On est carrément sur la
+même longueur d'onde !!! »</original>
+			<edited>« On est carrément sur la
+même longueur d'onde !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt02" offset="00" relocatable="true" max_length="0">
+			<original>« Ne remets pas à demain
+ce que tu peux faire faire
+par quelqu'un d'autre. »</original>
+			<edited>« Ne remets pas à demain
+ce que tu peux faire faire
+par quelqu'un d'autre. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt03" offset="00" relocatable="true" max_length="0">
+			<original>« N'attaque jamais quelqu'un
+dans le dos... sauf s'il est plus
+fort que toi. »</original>
+			<edited>« N'attaque jamais quelqu'un
+dans le dos... sauf s'il est plus
+fort que toi. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt04" offset="00" relocatable="true" max_length="0">
+			<original>« J'essaie d'imposer un nouveau
+look pour les oreilles. »</original>
+			<edited>« J'essaie d'imposer un nouveau
+look pour les oreilles. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt05" offset="00" relocatable="true" max_length="0">
+			<original>
+« Plus on est de fous, plus on rit ! »</original>
+			<edited>
+« Plus on est de fous, plus on rit ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt06" offset="00" relocatable="true" max_length="0">
+			<original>« Alors, quels sont les
+derniers potins ?! »</original>
+			<edited>« Alors, quels sont les
+derniers potins ?! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt07" offset="00" relocatable="true" max_length="0">
+			<original>« J'ai toujours été mûre pour
+mon âge. Quand j'étais petite,
+j'ai même sauté une classe. »</original>
+			<edited>« J'ai toujours été mûre pour
+mon âge. Quand j'étais petite,
+j'ai même sauté une classe. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt08" offset="00" relocatable="true" max_length="0">
+			<original>« Apprends à te relever,
+car ta volonté est plus
+forte que la gravité. »</original>
+			<edited>« Apprends à te relever,
+car ta volonté est plus
+forte que la gravité. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt09" offset="00" relocatable="true" max_length="0">
+			<original>
+« La honte, je te raconte pas !!! »</original>
+			<edited>
+« La honte, je te raconte pas !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt10" offset="00" relocatable="true" max_length="0">
+			<original>« J'aime bien les carottes,
+mais je préfère le chocolat. »</original>
+			<edited>« J'aime bien les carottes,
+mais je préfère le chocolat. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt11" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="rbt12" offset="00" relocatable="true" max_length="0">
+			<original>
+« Je suis d'humeur bondissante ! »</original>
+			<edited>
+« Je suis d'humeur bondissante ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt13" offset="00" relocatable="true" max_length="0">
+			<original>« Non mais quelle cruche,
+je te jure !!! »</original>
+			<edited>« Non mais quelle cruche,
+je te jure !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt14" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="rbt15" offset="00" relocatable="true" max_length="0">
+			<original>« Ce n'est pas has-been,
+c'est vintage. »</original>
+			<edited>« Ce n'est pas has-been,
+c'est vintage. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt16" offset="00" relocatable="true" max_length="0">
+			<original>« C'est super à la mode,
+j'adooore ! »</original>
+			<edited>« C'est super à la mode,
+j'adooore ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt17" offset="00" relocatable="true" max_length="0">
+			<original>« SI JE PARLE TROP FORT,
+FAUT LE DIRE, LOL !!! »</original>
+			<edited>« SI JE PARLE TROP FORT,
+FAUT LE DIRE, LOL !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt18" offset="00" relocatable="true" max_length="0">
+			<original>« Il faut que je me
+pose un instant... »</original>
+			<edited>« Il faut que je me
+pose un instant... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rbt19" offset="00" relocatable="true" max_length="0">
+			<original>« Gare à quiconque
+essaierait de me carotter. »</original>
+			<edited>« Gare à quiconque
+essaierait de me carotter. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rhn00" offset="00" relocatable="true" max_length="0">
+			<original>« Si t'en as marre de n'être
+qu'un pion, fais donc un peu
+de musculation ! »</original>
+			<edited>« Si t'en as marre de n'être
+qu'un pion, fais donc un peu
+de musculation ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rhn01" offset="00" relocatable="true" max_length="0">
+			<original>« Qui regarde les gens de haut
+marche en baissant la tête. »</original>
+			<edited>« Qui regarde les gens de haut
+marche en baissant la tête. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rhn02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="rhn03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="rhn04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="rhn05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="rhn06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="rhn07" offset="00" relocatable="true" max_length="0">
+			<original>
+« La vie ? C'est du gâteau ! »</original>
+			<edited>
+« La vie ? C'est du gâteau ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="rhn08" offset="00" relocatable="true" max_length="0">
+			<original>
+« Œil pour œil, corne pour corne. »</original>
+			<edited>
+« Œil pour œil, corne pour corne. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp00" offset="00" relocatable="true" max_length="0">
+			<original>
+« Pas touche à ma laine ! »</original>
+			<edited>
+« Pas touche à ma laine ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp01" offset="00" relocatable="true" max_length="0">
+			<original>
+« Ma laine est toujours fraîche ! »</original>
+			<edited>
+« Ma laine est toujours fraîche ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp02" offset="00" relocatable="true" max_length="0">
+			<original>« Pas de brebis galeuse
+dans ma famille ! »</original>
+			<edited>« Pas de brebis galeuse
+dans ma famille ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp03" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="shp04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="shp05" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="shp06" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="shp07" offset="00" relocatable="true" max_length="0">
+			<original>« Ne sois pas un mouton.
+Suis mon conseil. »</original>
+			<edited>« Ne sois pas un mouton.
+Suis mon conseil. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp08" offset="00" relocatable="true" max_length="0">
+			<original>
+« Connais-moi moi-même. »</original>
+			<edited>
+« Connais-moi moi-même. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp09" offset="00" relocatable="true" max_length="0">
+			<original>« Les paillettes,
+ça va avec tout !!! »</original>
+			<edited>« Les paillettes,
+ça va avec tout !!! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp10" offset="00" relocatable="true" max_length="0">
+			<original>
+« Ce qui est fait peut être défait. »</original>
+			<edited>
+« Ce qui est fait peut être défait. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp11" offset="00" relocatable="true" max_length="0">
+			<original>« Demain est un autre
+jour, après-demain aussi. »</original>
+			<edited>« Demain est un autre
+jour, après-demain aussi. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp12" offset="00" relocatable="true" max_length="0">
+			<original>« Qui me cherche me trouve,
+sauf si chuis pas là. »</original>
+			<edited>« Qui me cherche me trouve,
+sauf si chuis pas là. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="shp13" offset="00" relocatable="true" max_length="0">
+			<original>
+« J'ai une faim de loup ! »</original>
+			<edited>
+« J'ai une faim de loup ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ00" offset="00" relocatable="true" max_length="0">
+			<original>« J'ai toujours un petit truc à
+grignoter sur moi ! »</original>
+			<edited>« J'ai toujours un petit truc à
+grignoter sur moi ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ01" offset="00" relocatable="true" max_length="0">
+			<original>« Le gland ne tombe
+jamais loin du chêne...
+ou bien est-ce l'inverse...? »</original>
+			<edited>« Le gland ne tombe
+jamais loin du chêne...
+ou bien est-ce l'inverse...? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ02" offset="00" relocatable="true" max_length="0">
+			<original>« Dommage que nous n'ayons
+pas de noisetier dans cette ville... »</original>
+			<edited>« Dommage que nous n'ayons
+pas de noisetier dans cette ville... »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ03" offset="00" relocatable="true" max_length="0">
+			<original>« Ne dépense pas toutes tes
+clochettes. Fais des économies ! »</original>
+			<edited>« Ne dépense pas toutes tes
+clochettes. Fais des économies ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ04" offset="00" relocatable="true" max_length="0">
+			<original>« On dirait pas, mais
+je suis maquillée, là ! »</original>
+			<edited>« On dirait pas, mais
+je suis maquillée, là ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ05" offset="00" relocatable="true" max_length="0">
+			<original>« Une star est née... le jour
+de ma naissance, hi hi ! »</original>
+			<edited>« Une star est née... le jour
+de ma naissance, hi hi ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ06" offset="00" relocatable="true" max_length="0">
+			<original>
+« Du balai, la poussière ! »</original>
+			<edited>
+« Du balai, la poussière ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ07" offset="00" relocatable="true" max_length="0">
+			<original>« Grand chêne ne veut
+pas dire gros gland. »</original>
+			<edited>« Grand chêne ne veut
+pas dire gros gland. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ08" offset="00" relocatable="true" max_length="0">
+			<original>« Une noisette pourrie, c'est mieux
+que pas de noisette du tout. »</original>
+			<edited>« Une noisette pourrie, c'est mieux
+que pas de noisette du tout. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ09" offset="00" relocatable="true" max_length="0">
+			<original>« Brosse-toi bien les dents.
+Il est important de garder
+des dents saines et fortes ! »</original>
+			<edited>« Brosse-toi bien les dents.
+Il est important de garder
+des dents saines et fortes ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ10" offset="00" relocatable="true" max_length="0">
+			<original>« Mes quenottes, j'y tiens comme
+à la prunelle de mes dents ! »</original>
+			<edited>« Mes quenottes, j'y tiens comme
+à la prunelle de mes dents ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ11" offset="00" relocatable="true" max_length="0">
+			<original>« Tant qu'il y a des noisettes,
+il y a de l'espoir. »</original>
+			<edited>« Tant qu'il y a des noisettes,
+il y a de l'espoir. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ12" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="squ13" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="squ14" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="squ15" offset="00" relocatable="true" max_length="0">
+			<original>« Il n'y a pas d'objectifs
+inatteignables, il n'y a que
+des rêves déraisonnables. »</original>
+			<edited>« Il n'y a pas d'objectifs
+inatteignables, il n'y a que
+des rêves déraisonnables. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ16" offset="00" relocatable="true" max_length="0">
+			<original>« Abandonner, c'est offrir la
+victoire à son adversaire sur
+un plateau d'argent. »</original>
+			<edited>« Abandonner, c'est offrir la
+victoire à son adversaire sur
+un plateau d'argent. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ17" offset="00" relocatable="true" max_length="0">
+			<original>« Profite du jour présent.
+Demain, il ne sera peut-être
+plus à la mode. »</original>
+			<edited>« Profite du jour présent.
+Demain, il ne sera peut-être
+plus à la mode. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="squ18" offset="00" relocatable="true" max_length="0">
+			<original>
+« Faut jamais dire jamais. »</original>
+			<edited>
+« Faut jamais dire jamais. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="tig00" offset="00" relocatable="true" max_length="0">
+			<original>« Tu ferais un excellent
+déjeuner, et tu le sais. »</original>
+			<edited>« Tu ferais un excellent
+déjeuner, et tu le sais. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="tig01" offset="00" relocatable="true" max_length="0">
+			<original>« La défaite est amère comme
+un café servi à l'eau de mer. »</original>
+			<edited>« La défaite est amère comme
+un café servi à l'eau de mer. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="tig02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="tig03" offset="00" relocatable="true" max_length="0">
+			<original>
+« Attention, je griffe ! LOL ! »</original>
+			<edited>
+« Attention, je griffe ! LOL ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="tig04" offset="00" relocatable="true" max_length="0">
+			<original>« Une barre énergétique
+par jour, c'est l'assurance
+d'une forme sans détour. »</original>
+			<edited>« Une barre énergétique
+par jour, c'est l'assurance
+d'une forme sans détour. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="tig05" offset="00" relocatable="true" max_length="0">
+			<original>
+« Mords la vie à pleines dents ! »</original>
+			<edited>
+« Mords la vie à pleines dents ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="tig06" offset="00" relocatable="true" max_length="0">
+			<original>« Mais je parle, je parle... Et toi,
+comment ça va ??? »</original>
+			<edited>« Mais je parle, je parle... Et toi,
+comment ça va ??? »</edited>
+			<subEntries />
+		</entry>
+		<entry name="wol00" offset="00" relocatable="true" max_length="0">
+			<original>« N'espère pas que ça
+soit plus facile, espère
+que tu vas t'améliorer. »</original>
+			<edited>« N'espère pas que ça
+soit plus facile, espère
+que tu vas t'améliorer. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="wol01" offset="00" relocatable="true" max_length="0">
+			<original>« Si c'est pas ce que tu crois, c'est
+que ça doit être autre chose. »</original>
+			<edited>« Si c'est pas ce que tu crois, c'est
+que ça doit être autre chose. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="wol02" offset="00" relocatable="true" max_length="0">
+			<original>« C'est au pied du phare
+qu'il fait le plus sombre. »</original>
+			<edited>« C'est au pied du phare
+qu'il fait le plus sombre. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="wol03" offset="00" relocatable="true" max_length="0">
+			<original>« Réfléchis bien avant
+de me mettre en colère ! »</original>
+			<edited>« Réfléchis bien avant
+de me mettre en colère ! »</edited>
+			<subEntries />
+		</entry>
+		<entry name="wol04" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="wol05" offset="00" relocatable="true" max_length="0">
+			<original>« Je trouve les enfants mignons à
+croquer ! Ce n'est pas pour rien que
+la louve est symbole de maternité. »</original>
+			<edited>« Je trouve les enfants mignons à
+croquer ! Ce n'est pas pour rien que
+la louve est symbole de maternité. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="wol06" offset="00" relocatable="true" max_length="0">
+			<original>
+« Le gris, c'est plus joli. »</original>
+			<edited>
+« Le gris, c'est plus joli. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="wol07" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="wol08" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="wol09" offset="00" relocatable="true" max_length="0">
+			<original>« C'est l'amour qui dirige la terre,
+c'est l'amour qui dirige le monde. »</original>
+			<edited>« C'est l'amour qui dirige la terre,
+c'est l'amour qui dirige le monde. »</edited>
+			<subEntries />
+		</entry>
+		<entry name="wol10" offset="00" relocatable="true" max_length="0">
+			<original>« Si tu ne sais pas penser par
+toi-même, utilise des devises. »</original>
+			<edited>« Si tu ne sais pas penser par
+toi-même, utilise des devises. »</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

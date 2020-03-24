@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Mmmm... Ça sent bon...&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; Ça sent
+vraiment bon chez toi, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Mmmm... Ça sent bon...&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; Ça sent
+vraiment bon chez toi, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;Ça me fait tout drôle d'être chez
+toi, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x4;&#x0;Ça fait tellement
+longtemps que j'attends cet instant.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;Ça me fait tout drôle d'être chez
+toi, &#xE;&#x5;&#x8;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x4;&#x0;Ça fait tellement
+longtemps que j'attends cet instant.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ça ne te dérange pas si je regarde
+un peu comment c'est chez toi ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ça ne te dérange pas si je regarde
+un peu comment c'est chez toi ?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

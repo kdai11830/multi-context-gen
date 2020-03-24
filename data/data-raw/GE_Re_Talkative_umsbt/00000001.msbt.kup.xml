@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Me gustaría quedarme a hablar
+contigo, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;pero es que tengo cosas
+que hacer, ¿sabes?&#xE;&#xB;&#x5;&#x2;&#x8;Í</original>
+			<edited>&#xE;&#x3;	&#x0;Me gustaría quedarme a hablar
+contigo, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;pero es que tengo cosas
+que hacer, ¿sabes?&#xE;&#xB;&#x5;&#x2;&#x8;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¡No!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¡Silencio! ¡Estaba a punto de
+dar con el conjunto perfecto que
+ponerme mañana!
+&#xE;&#x3;&#xB;&#x0;Oye, necesito concentrarme en
+esto. ¿Por qué no hablamos luego?&#xE;&#xB;&#x5;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x3;	&#x0;¡No!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ¡Silencio! ¡Estaba a punto de
+dar con el conjunto perfecto que
+ponerme mañana!
+&#xE;&#x3;&#xB;&#x0;Oye, necesito concentrarme en
+esto. ¿Por qué no hablamos luego?&#xE;&#xB;&#x5;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Oye, lo siento&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; No es que no quiera
+hablar contigo, pero necesito pensar
+en algunas cosas.
+&#xE;&#x3;%&#x0;¿Podrías dejarme sola un rato?&#xE;&#xB;&#x5;&#x2;&#x3;Í</original>
+			<edited>Oye, lo siento&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; No es que no quiera
+hablar contigo, pero necesito pensar
+en algunas cosas.
+&#xE;&#x3;%&#x0;¿Podrías dejarme sola un rato?&#xE;&#xB;&#x5;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

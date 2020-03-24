@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I want to put a big piece of
+furniture in my place. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Something
+that really covers a lot of space!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I want to put a big piece of
+furniture in my place. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Something
+that really covers a lot of space!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm looking for a piece of furniture
+that can fit in nicely with my
+big and small pieces.
+You know, something in between
+that? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Rectangularish? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Anyway,
+try to find that for me, OK?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm looking for a piece of furniture
+that can fit in nicely with my
+big and small pieces.
+You know, something in between
+that? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Rectangularish? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Anyway,
+try to find that for me, OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm looking for a small piece of
+furniture. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Something that won't
+take up much space in my room.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm looking for a small piece of
+furniture. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Something that won't
+take up much space in my room.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I really want to replace my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;I mean, as long as it's the same
+size, any piece of furniture will
+work, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I really want to replace my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;+&#x0;I mean, as long as it's the same
+size, any piece of furniture will
+work, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm looking for something that
+will totally fit on top of my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.
+Find that for me, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;OK, &#xE;&#x5;&#x8;&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm looking for something that
+will totally fit on top of my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.
+Find that for me, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;OK, &#xE;&#x5;&#x8;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm hoping to find a decoration to
+replace my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;It's sitting on top of one of the
+things in my room, so it's got to
+look OK there too, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm hoping to find a decoration to
+replace my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;It's sitting on top of one of the
+things in my room, so it's got to
+look OK there too, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm looking for something cool to
+put on my wall. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Like a shelf, wall
+clock, or light fixture!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm looking for something cool to
+put on my wall. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Like a shelf, wall
+clock, or light fixture!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm looking for something to put
+on my wall to replace my old
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm looking for something to put
+on my wall to replace my old
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;I'm looking for something that will
+look really good in my home.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;I'm looking for something that will
+look really good in my home.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

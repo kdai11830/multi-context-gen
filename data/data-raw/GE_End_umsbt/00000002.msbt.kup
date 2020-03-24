@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>OK. &#xE;&#x3;%&#x0;À plus !</original>
+			<edited>OK. &#xE;&#x3;%&#x0;À plus !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Ah ouais ? &#xE;&#x3;%&#x0;À plus, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>Ah ouais ? &#xE;&#x3;%&#x0;À plus, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Comme tu le sens !</original>
+			<edited>Comme tu le sens !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

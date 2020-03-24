@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Chupi! ¡Yo estoy ocupada hasta las
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x0;Í:00&#xE;&#x0;&#x3;&#x2;ÿÿ, pero a partir de entonces
+estoy libre como un pajarito!
+¿A qué hora quieres que vaya?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Chupi! ¡Yo estoy ocupada hasta las
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x0;Í:00&#xE;&#x0;&#x3;&#x2;ÿÿ, pero a partir de entonces
+estoy libre como un pajarito!
+¿A qué hora quieres que vaya?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Pues cualquier hora a partir
+de las &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x0;Í:30&#xE;&#x0;&#x3;&#x2;ÿÿ sería ideal.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¿A qué hora quedamos?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Pues cualquier hora a partir
+de las &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x0;Í:30&#xE;&#x0;&#x3;&#x2;ÿÿ sería ideal.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¿A qué hora quedamos?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡Hala! ¿Cuándo se ha hecho tan
+tarde?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¡Ya son las &#xE;&#x4;&#x3;&#x0;:&#xE;&#x4;&#x4;&#x0; horas!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Me acercaré a ver tu casa otro día,
+¿vale?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡Hala! ¿Cuándo se ha hecho tan
+tarde?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¡Ya son las &#xE;&#x4;&#x3;&#x0;:&#xE;&#x4;&#x4;&#x0; horas!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;$&#x0;Me acercaré a ver tu casa otro día,
+¿vale?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¿Qué? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¿Has cambiado de idea?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Bueno, quedaremos otro día
+entonces, &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¿Qué? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¿Has cambiado de idea?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Bueno, quedaremos otro día
+entonces, &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;¿Tanta prisa tienes?
+Yo no estoy disponible tan pronto.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;¿Por qué no quedamos un poco
+más tarde, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;	&#x0;¿Tanta prisa tienes?
+Yo no estoy disponible tan pronto.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;¿Por qué no quedamos un poco
+más tarde, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;¡Pues nos vemos a las &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í:00&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¡Hasta luego, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&amp;&#x0;¡Pues nos vemos a las &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í:00&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+¡Hasta luego, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;¡Vale! A las &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í:&#xE;&#x4;&#x11;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿen tu casa.
+¡Hasta entonces, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;¡Vale! A las &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#x10;&#x2;&#x1;Í:&#xE;&#x4;&#x11;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿen tu casa.
+¡Hasta entonces, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Sé que tengo fama de irme a dormir
+a las tantas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. ¡pero yo también
+necesito descansar!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;¿Qué tal si quedamos un poco
+antes y así aprovechamos más
+el tiempo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;	&#x0;Sé que tengo fama de irme a dormir
+a las tantas&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;. ¡pero yo también
+necesito descansar!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;¿Qué tal si quedamos un poco
+antes y así aprovechamos más
+el tiempo, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

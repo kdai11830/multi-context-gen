@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>¿Qué quieres hacer?
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Ahora mismo no puedes guardar
+y continuar la partida.)&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Guardar y salir
+Seguir jugando</original>
+			<edited>¿Qué quieres hacer?
+&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Ahora mismo no puedes guardar
+y continuar la partida.)&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+Guardar y salir
+Seguir jugando</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Preparando el pueblo...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</original>
+			<edited>Preparando el pueblo...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>¿Qué quieres hacer?&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Guardar y salir
+Guardar y continuar
+Seguir jugando</original>
+			<edited>¿Qué quieres hacer?&#xE;&#xD;&#x8;&#x2;&#x3;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Guardar y salir
+Guardar y continuar
+Seguir jugando</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Guardando...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</original>
+			<edited>Guardando...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>¡Se ha guardado la partida!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Hasta pronto!</original>
+			<edited>¡Se ha guardado la partida!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡Hasta pronto!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>No se ha podido guardar la partida.
+Saldrás del juego sin guardar.</original>
+			<edited>No se ha podido guardar la partida.
+Saldrás del juego sin guardar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>Guardando...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</original>
+			<edited>Guardando...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>No se pueden leer los datos
+del juego. El juego se cerrará.</original>
+			<edited>No se pueden leer los datos
+del juego. El juego se cerrará.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>Preparando la partida...
+No toques .</original>
+			<edited>Preparando la partida...
+No toques .</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>No se pueden leer los datos
+de guardado.&#xE;&#x0;&#x4;&#x0;Mantén pulsado  para apagar
+la consola y vuelve a insertar
+la tarjeta de juego.</original>
+			<edited>No se pueden leer los datos
+de guardado.&#xE;&#x0;&#x4;&#x0;Mantén pulsado  para apagar
+la consola y vuelve a insertar
+la tarjeta de juego.</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Los datos de guardado están
+dañados y no se pueden usar.
+¿Quieres borrarlos?</original>
+			<edited>Los datos de guardado están
+dañados y no se pueden usar.
+¿Quieres borrarlos?</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>Sí</original>
+			<edited>Sí</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>No</original>
+			<edited>No</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>Borrando los datos de guardado...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</original>
+			<edited>Borrando los datos de guardado...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>Te estás mudando a otro pueblo.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Termina el traslado para continuar.</original>
+			<edited>Te estás mudando a otro pueblo.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Termina el traslado para continuar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>
+No puedes guardar ahora.</original>
+			<edited>
+No puedes guardar ahora.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>
+No puedes guardar en un sueño.</original>
+			<edited>
+No puedes guardar en un sueño.</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>No puedes guardar en una fiesta
+de cumpleaños.</original>
+			<edited>No puedes guardar en una fiesta
+de cumpleaños.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>No puedes irte mientras
+estés en el bote.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>No puedes irte mientras
+estés en el bote.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>
+¿Qué quieres hacer? &#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Todos a casa
+Guardar
+Déjalo</original>
+			<edited>
+¿Qué quieres hacer? &#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x6;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Todos a casa
+Guardar
+Déjalo</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>Confirmando...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Un momento.&#xE;&#x7;&#x8;&#x4;&lt;&#x0;&#x0;&#x0;</original>
+			<edited>Confirmando...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Un momento.&#xE;&#x7;&#x8;&#x4;&lt;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>
+Saliendo...</original>
+			<edited>
+Saliendo...</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>Intentando guardar...
+</original>
+			<edited>Intentando guardar...
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>
+Vuelve a intentarlo más tarde.</original>
+			<edited>
+Vuelve a intentarlo más tarde.</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>
+¡Todos listos para irse!</original>
+			<edited>
+¡Todos listos para irse!</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>No puedes guardar
+en estos momentos.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>No puedes guardar
+en estos momentos.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>
+No puedes guardar en la isla.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>
+No puedes guardar en la isla.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>No puedes salir mientras
+estés en la isla.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</original>
+			<edited>No puedes salir mientras
+estés en la isla.&#xE;&#x7;&#x8;&#x4;Z&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>Activando StreetPass...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</original>
+			<edited>Activando StreetPass...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>Guardando...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</original>
+			<edited>Guardando...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+No toques .</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>No se pueden usar los datos de
+guardado porque no son los más
+recientes. ¿Quieres borrarlos?</original>
+			<edited>No se pueden usar los datos de
+guardado porque no son los más
+recientes. ¿Quieres borrarlos?</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>Se borrarán todos los datos de
+guardado. ¿Quieres continuar?</original>
+			<edited>Se borrarán todos los datos de
+guardado. ¿Quieres continuar?</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>No podrás recuperar los datos
+que borres. ¿Quieres continuar?</original>
+			<edited>No podrás recuperar los datos
+que borres. ¿Quieres continuar?</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Chuuuut !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu ne vois pas que je joue
+à cache-cache ? Tu vas me faire
+repérer ! File,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Chuuuut !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Tu ne vois pas que je joue
+à cache-cache ? Tu vas me faire
+repérer ! File,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;
+&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;AAAHHH !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Nom d'une
+pizza quatre saisons !
+&#xE;&#x0;&#x2;&#x2;d&#x0;Tu m'as collé une de ces frousses...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Je suis caché, là, je joue à
+cache-cache. Ah, zut ! J'espère
+qu'on ne m'a pas entendu crier !</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;
+&#xE;&#x3;&#x11;&#x0;&#xE;&#x7;&#xB;&#x0;AAAHHH !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Nom d'une
+pizza quatre saisons !
+&#xE;&#x0;&#x2;&#x2;d&#x0;Tu m'as collé une de ces frousses...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xD;&#x0;Je suis caché, là, je joue à
+cache-cache. Ah, zut ! J'espère
+qu'on ne m'a pas entendu crier !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Chuuut !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Mais chuuut, à la fin !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Je
+suis en train de jouer à cache-cache,
+ça ne se voit pas ou quoi ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Tu vas me faire repérer !
+Allez, ouste !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Chuuut !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Mais chuuut, à la fin !&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; Je
+suis en train de jouer à cache-cache,
+ça ne se voit pas ou quoi ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Tu vas me faire repérer !
+Allez, ouste !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;Oh non !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ma cachette !</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;&#xE;&#x7;&#xC;&#x0;Oh non !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Ma cachette !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

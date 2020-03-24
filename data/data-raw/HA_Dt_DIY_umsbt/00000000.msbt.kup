@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>I'm gonna get some tools together
+and start being a do-it-yourselfer!</original>
+			<edited>I'm gonna get some tools together
+and start being a do-it-yourselfer!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Hardware stores are really exciting
+places, aren't they?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; All this cool
+stuff gets my blood pumping!</original>
+			<edited>Hardware stores are really exciting
+places, aren't they?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; All this cool
+stuff gets my blood pumping!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#xB;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; These things are here?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;They have stuff here you just
+wouldn't expect!</original>
+			<edited>&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#xB;&#x0;Whoa!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; These things are here?&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;They have stuff here you just
+wouldn't expect!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Are you buying some stuff too?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Are you buying some stuff too?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Stores like this are much more my
+speed than fancy-schmancy stores.
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Stores like this are much more my
+speed than fancy-schmancy stores.
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

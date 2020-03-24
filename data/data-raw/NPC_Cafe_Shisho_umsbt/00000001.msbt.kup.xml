@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡Anda,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; hola!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¡Anda,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; hola!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x0;&#x4;&#xC;&#x0;&#xE;&#x0;</original>
+			<edited>&#xE;	&#x0;&#x4;&#xC;&#x0;&#xE;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#xC;&#x0;&#xD;&#x0;&#xE;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>El café &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;moca&#xE;&#x0;&#x3;&#x2;ÿÿ que prepara &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Fígaro
+&#xE;&#x0;&#x3;&#x2;ÿÿsiempre triunfa conmigo.&#xE;&#x0;&#x4;&#x0;¡Ojalá yo tuviera un chiste que&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;
+triunfara tanto entre el público!
+Igual un día de estos&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>El café &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;moca&#xE;&#x0;&#x3;&#x2;ÿÿ que prepara &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Fígaro
+&#xE;&#x0;&#x3;&#x2;ÿÿsiempre triunfa conmigo.&#xE;&#x0;&#x4;&#x0;¡Ojalá yo tuviera un chiste que&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;$&#x0;
+triunfara tanto entre el público!
+Igual un día de estos&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>No me gusta nada tomar el café
+solo,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; así que siempre le pido a
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Fígaro &#xE;&#x0;&#x3;&#x2;ÿÿque me lo ponga con &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;leche&#xE;&#x0;&#x3;&#x2;ÿÿ.
+&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;¡Así al menos tengo compañía!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x3;&#x13;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Uf,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x5;&#x0;vaya chiste más malo&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.)&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>No me gusta nada tomar el café
+solo,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; así que siempre le pido a
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Fígaro &#xE;&#x0;&#x3;&#x2;ÿÿque me lo ponga con &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;leche&#xE;&#x0;&#x3;&#x2;ÿÿ.
+&#xE;&#x3;!&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;¡Así al menos tengo compañía!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x7;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x3;&#x13;&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;(Uf,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x5;&#x0;vaya chiste más malo&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.)&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x5;&#x0;&#xE;&#x7;&#x5;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>Yo soy muy de dulce,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por eso
+siempre pido&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;dos azucarillos&#xE;&#x0;&#x3;&#x2;ÿÿ
+con el café.
+&#xE;&#x3;$&#x0;Ya tuve bastantes sensaciones
+amargas cuando me dedicaba
+a la farándula&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>Yo soy muy de dulce,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; por eso
+siempre pido&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;dos azucarillos&#xE;&#x0;&#x3;&#x2;ÿÿ
+con el café.
+&#xE;&#x3;$&#x0;Ya tuve bastantes sensaciones
+amargas cuando me dedicaba
+a la farándula&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x15;&#x0;&#x16;&#x0;&#x17;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x15;&#x0;&#x16;&#x0;&#x17;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x1F;&#x0; &#x0;!&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x1F;&#x0; &#x0;!&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;)&#x0;*&#x0;+&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;)&#x0;*&#x0;+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>¡Anda,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; hola!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Volvemos a vernos.</original>
+			<edited>¡Anda,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; hola!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Volvemos a vernos.</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>Aunque siempre me he dedicado a
+la comedia,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; me levanto casi todos
+los días con el pie izquierdo.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Perdona si todavía no estoy de
+humor para bromas.</original>
+			<edited>Aunque siempre me he dedicado a
+la comedia,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; me levanto casi todos
+los días con el pie izquierdo.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Perdona si todavía no estoy de
+humor para bromas.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x8;&#x10;&#xF;&#x0;&#xF;&#x0;&#x10;&#x0;&#x11;&#x0;&#x11;&#x0;&#x12;&#x0;&#x12;&#x0;&#x13;&#x0;</original>
+			<edited>&#xE;
+&#x8;&#x10;&#xF;&#x0;&#xF;&#x0;&#x10;&#x0;&#x11;&#x0;&#x11;&#x0;&#x12;&#x0;&#x12;&#x0;&#x13;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Qué bien se está
+con este tiempecito tan rico, ¿eh?</original>
+			<edited>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Qué bien se está
+con este tiempecito tan rico, ¿eh?</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qué nublado está
+hoy, ¿no? ¡Menuda lata!</original>
+			<edited>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Qué nublado está
+hoy, ¿no? ¡Menuda lata!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Parece que hoy
+el cielo nos recibe con lluvia.</original>
+			<edited>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Parece que hoy
+el cielo nos recibe con lluvia.</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Menudo fresco
+hace hoy. ¡Toca abrigarse!</original>
+			<edited>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Menudo fresco
+hace hoy. ¡Toca abrigarse!</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Hoy hay pétalos de
+cerezo flotando por todas partes.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+¡El pueblo está precioso!</original>
+			<edited>¡Buenos días!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Hoy hay pétalos de
+cerezo flotando por todas partes.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+¡El pueblo está precioso!</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>He adquirido la costumbre de
+tomarme un café para espabilarme
+&#xE;&#x3;%&#x0;antes de ponerme a trabajar.
+&#xE;&#x3;&#x0;&#x0;El club abre por la noche,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; pero
+tengo que mantenerlo bien limpio
+para los clientes.
+&#xE;&#x3;$&#x0;Ahora que lo pienso,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; creo que
+trabajo más ahora que cuando era
+humorista a tiempo completo&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>He adquirido la costumbre de
+tomarme un café para espabilarme
+&#xE;&#x3;%&#x0;antes de ponerme a trabajar.
+&#xE;&#x3;&#x0;&#x0;El club abre por la noche,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; pero
+tengo que mantenerlo bien limpio
+para los clientes.
+&#xE;&#x3;$&#x0;Ahora que lo pienso,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; creo que
+trabajo más ahora que cuando era
+humorista a tiempo completo&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>¿Te has fijado en los giroides que
+están en el escenario del club?&#xE;&#x0;&#x4;&#x0;No te creas&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que fui yo el que los
+puso ahí.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Aparecieron un día sin
+más. ¡Raro, raro!
+&#xE;&#x3;&#xB;&#x0;Y por si fuera poco,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tengo la
+sensación de que alguien se dedica
+a cambiarlos de vez en cuando&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>¿Te has fijado en los giroides que
+están en el escenario del club?&#xE;&#x0;&#x4;&#x0;No te creas&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que fui yo el que los
+puso ahí.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Aparecieron un día sin
+más. ¡Raro, raro!
+&#xE;&#x3;&#xB;&#x0;Y por si fuera poco,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tengo la
+sensación de que alguien se dedica
+a cambiarlos de vez en cuando&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;
+&#x1A;&#x4;&#x18;&#x0;&#x19;&#x0;</original>
+			<edited>&#xE;
+&#x1A;&#x4;&#x18;&#x0;&#x19;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>¡El club no estaría abierto de
+no ser por tu apoyo, &#xE;&#xE;&#x6;$&#xE;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;&#x12;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;s&#x0;a&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Mi familia os lo agradece a ti y a
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Canela &#xE;&#x0;&#x3;&#x2;ÿÿtodas las mañanas cuando
+nos juntamos para desayunar.</original>
+			<edited>¡El club no estaría abierto de
+no ser por tu apoyo, &#xE;&#xE;&#x6;$&#xE;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;&#x12;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;s&#x0;a&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Mi familia os lo agradece a ti y a
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Canela &#xE;&#x0;&#x3;&#x2;ÿÿtodas las mañanas cuando
+nos juntamos para desayunar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>Si el club está abierto es gracias al
+apoyo de &#xE;&#x5;&#x1C;&#x2;&#x0;Í, &#xE;&#xE;&#x5; &#xE;&#x0;n&#x0;u&#x0;e&#x0;s&#x0;t&#x0;r&#x0;o&#x0;&#xE;&#x0;n&#x0;u&#x0;e&#x0;s&#x0;t&#x0;r&#x0;a&#x0;
+&#xE;&#xE;&#x5;$&#xE;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;&#x12;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;s&#x0;a&#x0;.
+Además de conceder el permiso,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;
+se molestó en recoger las firmas
+necesarias&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Mi familia da las gracias &#xE;&#xE;&#x5;&#x10;&#x4;&#x0;a&#x0;l&#x0;&#x8;&#x0;a&#x0; &#x0;l&#x0;a&#x0;
+&#xE;&#xE;&#x5;$&#xE;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;&#x12;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;s&#x0;a&#x0; y a &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Canela &#xE;&#x0;&#x3;&#x2;ÿÿtodos los días
+a la hora de desayunar.</original>
+			<edited>Si el club está abierto es gracias al
+apoyo de &#xE;&#x5;&#x1C;&#x2;&#x0;Í, &#xE;&#xE;&#x5; &#xE;&#x0;n&#x0;u&#x0;e&#x0;s&#x0;t&#x0;r&#x0;o&#x0;&#xE;&#x0;n&#x0;u&#x0;e&#x0;s&#x0;t&#x0;r&#x0;a&#x0;
+&#xE;&#xE;&#x5;$&#xE;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;&#x12;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;s&#x0;a&#x0;.
+Además de conceder el permiso,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;
+se molestó en recoger las firmas
+necesarias&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Mi familia da las gracias &#xE;&#xE;&#x5;&#x10;&#x4;&#x0;a&#x0;l&#x0;&#x8;&#x0;a&#x0; &#x0;l&#x0;a&#x0;
+&#xE;&#xE;&#x5;$&#xE;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;&#x12;&#x0;a&#x0;l&#x0;c&#x0;a&#x0;l&#x0;d&#x0;e&#x0;s&#x0;a&#x0; y a &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Canela &#xE;&#x0;&#x3;&#x2;ÿÿtodos los días
+a la hora de desayunar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>Cuando era humorista solía&#xE;&#x3;+&#x0; pasar
+las noches pensando chistes
+mientras me tomaba un café.</original>
+			<edited>Cuando era humorista solía&#xE;&#x3;+&#x0; pasar
+las noches pensando chistes
+mientras me tomaba un café.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>El otro día me fijé en que &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Totakeke&#xE;&#x0;&#x3;&#x2;ÿÿ
+llevaba una taza de este local.&#xE;&#x0;&#x4;&#x0;Nunca le he visto por aquí,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+pero por lo visto también
+es cliente habitual.</original>
+			<edited>El otro día me fijé en que &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Totakeke&#xE;&#x0;&#x3;&#x2;ÿÿ
+llevaba una taza de este local.&#xE;&#x0;&#x4;&#x0;Nunca le he visto por aquí,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+pero por lo visto también
+es cliente habitual.</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>Y ya que estamos en el café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; te voy
+a contar lo que solía decir antes de
+salir al escenario para motivarme:
+"Hoy voy a contar un chiste tan
+desternillante que los asistentes
+van a escupir el café".
+Nunca lo conseguí, claro. &#xE;&#x3;$&#x0;
+Eso sí, a veces se enfadaban
+y me perseguían como locos&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>Y ya que estamos en el café,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; te voy
+a contar lo que solía decir antes de
+salir al escenario para motivarme:
+"Hoy voy a contar un chiste tan
+desternillante que los asistentes
+van a escupir el café".
+Nunca lo conseguí, claro. &#xE;&#x3;$&#x0;
+Eso sí, a veces se enfadaban
+y me perseguían como locos&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>Todo lo que sé de comedia me lo
+enseñó mi mentor, el &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Dr. Sote&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Es un profesional como la copa de
+un pino. En el mundillo se le conoce
+como "El Maestro de las Risas".
+&#xE;&#x3;&#xB;&#x0;Soñaba con ser tan bueno como él
+algún día. ¡Hasta tenía la esperanza
+de superarle!
+&#xE;&#x3;&#x0;&#x0;Pero lo dejé antes de que mi sueño
+se hiciera realidad.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¿Eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Quieres saber a qué se
+dedica ahora el viejo &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Dr. Sote&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Lleva muchos años jubilado,
+pero tan fresco como el primer día.
+¡Si no actúa es porque no quiere!</original>
+			<edited>Todo lo que sé de comedia me lo
+enseñó mi mentor, el &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Dr. Sote&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Es un profesional como la copa de
+un pino. En el mundillo se le conoce
+como "El Maestro de las Risas".
+&#xE;&#x3;&#xB;&#x0;Soñaba con ser tan bueno como él
+algún día. ¡Hasta tenía la esperanza
+de superarle!
+&#xE;&#x3;&#x0;&#x0;Pero lo dejé antes de que mi sueño
+se hiciera realidad.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;¿Eh?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿Quieres saber a qué se
+dedica ahora el viejo &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Dr. Sote&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Lleva muchos años jubilado,
+pero tan fresco como el primer día.
+¡Si no actúa es porque no quiere!</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>Sin ser demasiado famoso,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+siempre he tenido mi grupito
+de incondicionales.
+Algunos de ellos se pasan por el
+club antes de las funciones para
+ver cómo me va la cosa.
+A veces hasta me traen algún
+detalle,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; así que no podría estar
+más agradecido.
+Cuando les cuento uno de mis
+chistes viejos y se ríen,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;me hacen
+recordar los buenos tiempos.
+&#xE;&#x3;$&#x0;Je, je&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Es una sensación que no
+tengo muy a menudo&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>Sin ser demasiado famoso,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+siempre he tenido mi grupito
+de incondicionales.
+Algunos de ellos se pasan por el
+club antes de las funciones para
+ver cómo me va la cosa.
+A veces hasta me traen algún
+detalle,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; así que no podría estar
+más agradecido.
+Cuando les cuento uno de mis
+chistes viejos y se ríen,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;me hacen
+recordar los buenos tiempos.
+&#xE;&#x3;$&#x0;Je, je&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Es una sensación que no
+tengo muy a menudo&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>Últimamente se pasan muchos
+chavales por el club cuando lo
+estoy preparando para la función.&#xE;&#x0;&#x4;&#x0;"Tengo que hacerme una foto para
+el &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;DRP&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¿Me enseñas a poner una
+cara graciosa?"&#xE;&#x0;&#x4;&#x0;Parece que se ha puesto de moda.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Estos jovenzuelos&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1B;&#x0;¿Para qué
+querrán una foto así en el DRP?</original>
+			<edited>Últimamente se pasan muchos
+chavales por el club cuando lo
+estoy preparando para la función.&#xE;&#x0;&#x4;&#x0;"Tengo que hacerme una foto para
+el &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;DRP&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; ¿Me enseñas a poner una
+cara graciosa?"&#xE;&#x0;&#x4;&#x0;Parece que se ha puesto de moda.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Estos jovenzuelos&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1B;&#x0;¿Para qué
+querrán una foto así en el DRP?</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

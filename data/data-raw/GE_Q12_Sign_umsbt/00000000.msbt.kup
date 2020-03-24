@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Huh? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;But I've already signed this.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;Did you forget?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Huh? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;But I've already signed this.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#xD;&#x0;Did you forget?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;What? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;But I already signed that!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;What? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;But I already signed that!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What? Hey, I already signed that!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What? Hey, I already signed that!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;You want me to sign this?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;So &#xE;&#x12;&#x1;&#x0;,
+huh?
+&#xE;&#x3;&#x1;&#x0;Sorry, but I don't think I'm the
+right kind of person to sign
+that petition. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Thanks, anyway.</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;You want me to sign this?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;So &#xE;&#x12;&#x1;&#x0;,
+huh?
+&#xE;&#x3;&#x1;&#x0;Sorry, but I don't think I'm the
+right kind of person to sign
+that petition. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Thanks, anyway.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You want me to sign this?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;Hmm. &#xE;&#x12;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Is that a new cause or something?
+&#xE;&#x3;(&#x0;I don't think I can get behind that.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's just not my thing. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Thanks for
+asking me, though.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;What? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You want me to sign this?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;Hmm. &#xE;&#x12;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Is that a new cause or something?
+&#xE;&#x3;(&#x0;I don't think I can get behind that.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's just not my thing. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0;Thanks for
+asking me, though.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Hey? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is a petition, right?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;Hmm. &#xE;&#x12;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+You want me to sign this?
+&#xE;&#x3;%&#x0;Sorry. I don't think I can get behind
+that cause. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;But thanks for thinking
+of me, &#xE;&#x5;&#x8;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Hey? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is a petition, right?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;Hmm. &#xE;&#x12;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+You want me to sign this?
+&#xE;&#x3;%&#x0;Sorry. I don't think I can get behind
+that cause. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;But thanks for thinking
+of me, &#xE;&#x5;&#x8;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;What? You want me to sign this?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;&#xE;&#x12;&#x1;&#x0;, huh?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Wow, that sounds great! I'll give
+you my signature for sure!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;What? You want me to sign this?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;&#xE;&#x12;&#x1;&#x0;, huh?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Wow, that sounds great! I'll give
+you my signature for sure!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Hmm? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You want my signature?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;&#xE;&#x12;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Is it
+some new cause?
+&#xE;&#x3;&#x5;&#x0;Well, I totally love it! I'll sign that
+right away.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Hmm? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;You want my signature?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;&#xE;&#x12;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Is it
+some new cause?
+&#xE;&#x3;&#x5;&#x0;Well, I totally love it! I'll sign that
+right away.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Hey? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is a petition, isn't it?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;Hmm. &#xE;&#x12;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I bet you want my signature.
+&#xE;&#x3;&amp;&#x0;Well, you got it! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is a cause
+that I can get behind!</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Hey? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is a petition, isn't it?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xB;&#x0;Hmm. &#xE;&#x12;&#x1;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I bet you want my signature.
+&#xE;&#x3;&amp;&#x0;Well, you got it! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is a cause
+that I can get behind!</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;There you go. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hey, I think it's so
+awesome you came all the way to
+our town for this, &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;&#x5;&#x0;You must be really dedicated to
+this cause! Good luck getting
+more signatures!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;There you go. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hey, I think it's so
+awesome you came all the way to
+our town for this, &#xE;&#x5;&#x7;&#x0;.
+&#xE;&#x3;&#x5;&#x0;You must be really dedicated to
+this cause! Good luck getting
+more signatures!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;OK, signed it. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I hope you find even
+more people to join this cause!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;You came a long way to get my
+signature. That makes me feel
+so important, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;OK, signed it. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I hope you find even
+more people to join this cause!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;You came a long way to get my
+signature. That makes me feel
+so important, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;There. Glad to put my name down
+for such a major cause!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Yeah, this must be important if
+you came all the way to our town
+for signatures, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;There. Glad to put my name down
+for such a major cause!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Yeah, this must be important if
+you came all the way to our town
+for signatures, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;There you go. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hey, I'm the last
+signature you need, right?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Then be sure to take this list back
+to the person who gave it to you,
+&#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is so exciting!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;There you go. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Hey, I'm the last
+signature you need, right?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x5;&#x0;Then be sure to take this list back
+to the person who gave it to you,
+&#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;This is so exciting!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;OK, signed it. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I hope you find even
+more people to join.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x11;&#x0;WAIT!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I was the last one you needed.
+&#xE;&#x3;&#xD;&#x0;Then return this list to the one
+who gave it to you! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, it's so neat
+this many of us signed up!</original>
+			<edited>&#xE;&#x3;%&#x0;OK, signed it. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;I hope you find even
+more people to join.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x11;&#x0;WAIT!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+I was the last one you needed.
+&#xE;&#x3;&#xD;&#x0;Then return this list to the one
+who gave it to you! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, it's so neat
+this many of us signed up!</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;There. I'm happy to put my name
+down for this. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;And hey, your
+list is totally full now!
+&#xE;&#x3;&#x15;&#x0;Yeah, you're done. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Now you
+should return this list to whoever
+started this whole petition!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;There. I'm happy to put my name
+down for this. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;And hey, your
+list is totally full now!
+&#xE;&#x3;&#x15;&#x0;Yeah, you're done. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Now you
+should return this list to whoever
+started this whole petition!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;It's in a man's nature to dig holes!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;I wanna dig some secret tunnels!</original>
+			<edited>&#xE;&#x3;#&#x0;It's in a man's nature to dig holes!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;I wanna dig some secret tunnels!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;It's in a man's nature to catch bugs!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I wanna catch bugs bigger than
+anyone else has ever caught!</original>
+			<edited>&#xE;&#x3;#&#x0;It's in a man's nature to catch bugs!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I wanna catch bugs bigger than
+anyone else has ever caught!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;It's in a man's nature to fish!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I wanna catch bigger fish than
+any man has ever caught before!</original>
+			<edited>&#xE;&#x3;#&#x0;It's in a man's nature to fish!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I wanna catch bigger fish than
+any man has ever caught before!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Horticulture is in a man's blood!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I wanna grow a garden that
+makes everyone else jealous!</original>
+			<edited>&#xE;&#x3;#&#x0;Horticulture is in a man's blood!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;I wanna grow a garden that
+makes everyone else jealous!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;Nowadays, nobody values guys who
+refuse to use umbrellas in the rain.</original>
+			<edited>&#xE;&#x3;$&#x0;Nowadays, nobody values guys who
+refuse to use umbrellas in the rain.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

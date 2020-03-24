@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Holà... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;l'impression de déjà-vu qui
+tue ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0;Je te raconte pas l'angoisse,
+&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Holà... &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;l'impression de déjà-vu qui
+tue ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0;Je te raconte pas l'angoisse,
+&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Fais comme chez toi !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+C'est qu'un rêve de toute façon,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+non ? &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Fais comme chez toi !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+C'est qu'un rêve de toute façon,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+non ? &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;C'est un rêve, non ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Alors on peut
+faire tout ce qui nous chante sans
+conséquence au réveil ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Cooool !</original>
+			<edited>&#xE;&#x3;%&#x0;C'est un rêve, non ?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Alors on peut
+faire tout ce qui nous chante sans
+conséquence au réveil ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Cooool !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;On est en train de rêver, pas vrai ?
+Alors on peut avoir tout ce qui nous
+chante, suffit de se l'imaginer...
+Bon, alors je veux.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0; !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xF;&#x0; Hein...?
+Marche pas ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Ça bogue, là, ou quoi !</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;On est en train de rêver, pas vrai ?
+Alors on peut avoir tout ce qui nous
+chante, suffit de se l'imaginer...
+Bon, alors je veux.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0; !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xF;&#x0; Hein...?
+Marche pas ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Ça bogue, là, ou quoi !</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;#&#x0;Bienvenue dans la fabuleuse Villa
+&#xE;&#x5;&#x1;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Difficile de rêver
+mieux, hein ? Hé hé...</original>
+			<edited>&#xE;&#x3;#&#x0;Bienvenue dans la fabuleuse Villa
+&#xE;&#x5;&#x1;&#x0; ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Difficile de rêver
+mieux, hein ? Hé hé...</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,675 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning, Mayor &#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>Good morning, Mayor &#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>Good morning, &#xE;&#x5;&#x0;&#x0;!</original>
+			<edited>Good morning, &#xE;&#x5;&#x0;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Take a look in your mailbox.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I may have dropped a little
+something in there for you.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Take a look in your mailbox.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+I may have dropped a little
+something in there for you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;As you can see, I'm busy delivering
+the mail this morning.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;As you can see, I'm busy delivering
+the mail this morning.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;"&#x0;Phew! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;I swear...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;huff...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;these people
+are mailing bricks to each other just
+to spite me.</original>
+			<edited>&#xE;&#x3;"&#x0;Phew! &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;I swear...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;huff...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;these people
+are mailing bricks to each other just
+to spite me.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x19;&#x0;Ya&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;awn&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I was up late last night thinking
+about &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Why do I always do
+this to myself?
+&#xE;&#x3;&#x1;&#x0;Delivering the mail is my livelihood,
+so I can't afford to be tired.</original>
+			<edited>&#xE;&#x3;&#x19;&#x0;Ya&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;awn&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I was up late last night thinking
+about &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Why do I always do
+this to myself?
+&#xE;&#x3;&#x1;&#x0;Delivering the mail is my livelihood,
+so I can't afford to be tired.</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>Good evening, Mayor!</original>
+			<edited>Good evening, Mayor!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>Hi there, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>Hi there, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Have you checked your mailbox?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I just delivered a letter for you.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Have you checked your mailbox?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;I just delivered a letter for you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>The evening shift is always the
+hardest. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;It's a tough job, but
+somebody's gotta do it!</original>
+			<edited>The evening shift is always the
+hardest. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;It's a tough job, but
+somebody's gotta do it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>As soon as I clock out, I'm going to
+eat this fish I've been keeping in my
+bill pouch.&#xE;&#x3;&#x15;&#x0;</original>
+			<edited>As soon as I clock out, I'm going to
+eat this fish I've been keeping in my
+bill pouch.&#xE;&#x3;&#x15;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>Man, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;time flies when you're not
+using your wings. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;It's already
+evening, for Pete's sake!
+&#xE;&#x3;&#x1F;&#x0;Ha! Get it?! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;"For Pete's sake."&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Because of my name? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x2;&#x0;Ha ha ha!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Oh, man.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I crack myself up.
+&#xE;&#x3;&#x0;&#x0;Anyway&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;. &#xE;&#x3;+&#x0;I wonder what &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ is
+doing tonight. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Probably working.&#xE;&#x3;&#x0;&#x0;
+Oh, erm...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Sorry. I get kind of loopy toward
+the end of my shift. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;Catch ya later!</original>
+			<edited>Man, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;time flies when you're not
+using your wings. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;It's already
+evening, for Pete's sake!
+&#xE;&#x3;&#x1F;&#x0;Ha! Get it?! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;"For Pete's sake."&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Because of my name? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x2;&#x0;Ha ha ha!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Oh, man.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I crack myself up.
+&#xE;&#x3;&#x0;&#x0;Anyway&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;. &#xE;&#x3;+&#x0;I wonder what &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ is
+doing tonight. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Probably working.&#xE;&#x3;&#x0;&#x0;
+Oh, erm...&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+Sorry. I get kind of loopy toward
+the end of my shift. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3; &#x0;Catch ya later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#xB;&#x0;&#xE;&#x3;&#xD;&#x0;AHHH! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I'm behind schedule!
+Gotta get a move on!</original>
+			<edited>&#xE;&#x7;&#xB;&#x0;&#xE;&#x3;&#xD;&#x0;AHHH! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I'm behind schedule!
+Gotta get a move on!</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;"&#x0;Wow, this mailbag is HEAVY!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Haven't these people ever heard
+of a phone conversation?</original>
+			<edited>&#xE;&#x3;"&#x0;Wow, this mailbag is HEAVY!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Haven't these people ever heard
+of a phone conversation?</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>I can't make out the address on this
+letter because the handwriting is so
+sloppy.
+Not that I'm surprised. Most of the
+town's residents don't even have
+opposable thumbs.</original>
+			<edited>I can't make out the address on this
+letter because the handwriting is so
+sloppy.
+Not that I'm surprised. Most of the
+town's residents don't even have
+opposable thumbs.</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1B;&#x0;No time to talk!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Gotta get the rest
+of these letters delivered!</original>
+			<edited>&#xE;&#x3;&#x1B;&#x0;No time to talk!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Gotta get the rest
+of these letters delivered!</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>Sure, e-mail and text messages
+might be faster, more convenient,
+and better for the environment.
+&#xE;&#x3;&#x15;&#x0;But there's nothing quite like
+receiving a handwritten letter
+in the mail.
+That's why I do it!</original>
+			<edited>Sure, e-mail and text messages
+might be faster, more convenient,
+and better for the environment.
+&#xE;&#x3;&#x15;&#x0;But there's nothing quite like
+receiving a handwritten letter
+in the mail.
+That's why I do it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>Whenever I see a letter that came
+from overseas, I think to myself:&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1F;&#x0;"Wow, the bird who carried that
+must be EXHAUSTED!"</original>
+			<edited>Whenever I see a letter that came
+from overseas, I think to myself:&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1F;&#x0;"Wow, the bird who carried that
+must be EXHAUSTED!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>The residents of &#xE;&#x5;&#x5;&#x0; sure
+send A LOT of letters.&#xE;&#x0;&#x4;&#x0;Not that I'm complaining.
+&#xE;&#x3;,&#x0;Job security, right?!</original>
+			<edited>The residents of &#xE;&#x5;&#x5;&#x0; sure
+send A LOT of letters.&#xE;&#x0;&#x4;&#x0;Not that I'm complaining.
+&#xE;&#x3;,&#x0;Job security, right?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>People sometimes think that all the
+letters are just magically delivered
+into their mailboxes.
+&#xE;&#x3;&#x1B;&#x0;That's not how it works at all.&#xE;&#x3;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;I deliver each letter by hand, but I
+work so fast that nobody sees me
+drop the letters off.
+&#xE;&#x3;!&#x0;I'm like a postal ninja!</original>
+			<edited>People sometimes think that all the
+letters are just magically delivered
+into their mailboxes.
+&#xE;&#x3;&#x1B;&#x0;That's not how it works at all.&#xE;&#x3;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;I deliver each letter by hand, but I
+work so fast that nobody sees me
+drop the letters off.
+&#xE;&#x3;!&#x0;I'm like a postal ninja!</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;You know how there are two girls
+working at the post office, right?&#xE;&#x0;&#x4;&#x0;There's &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly&#xE;&#x0;&#x3;&#x2;ÿÿ, who works during
+the day,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; and &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ, who works
+at night.
+This might be a weird question,
+but &#xE;&#x3;&#x17;&#x0;who do you think is cuter?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Pelly.
+Phyllis.
+Umm...</original>
+			<edited>&#xE;&#x3;'&#x0;You know how there are two girls
+working at the post office, right?&#xE;&#x0;&#x4;&#x0;There's &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly&#xE;&#x0;&#x3;&#x2;ÿÿ, who works during
+the day,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; and &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ, who works
+at night.
+This might be a weird question,
+but &#xE;&#x3;&#x17;&#x0;who do you think is cuter?&#xE;&#xF;&#x1;&#x6;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+Pelly.
+Phyllis.
+Umm...</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;The rumor about me and &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+Not true at all.&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly &#xE;&#x0;&#x3;&#x2;ÿÿis a really nice person and all,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+but I just can't stop thinking about
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ.
+There's just something about her,
+you know?&#xE;&#x0;&#x4;&#x0;But I guess I could see myself with
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly&#xE;&#x0;&#x3;&#x2;ÿÿ. I don't know.&#xE;&#x0;&#x4;&#x0;Anyway, thanks for listening.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;The rumor about me and &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x7;&#x1;&#x0;
+Not true at all.&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly &#xE;&#x0;&#x3;&#x2;ÿÿis a really nice person and all,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+but I just can't stop thinking about
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ.
+There's just something about her,
+you know?&#xE;&#x0;&#x4;&#x0;But I guess I could see myself with
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly&#xE;&#x0;&#x3;&#x2;ÿÿ. I don't know.&#xE;&#x0;&#x4;&#x0;Anyway, thanks for listening.</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;You know what today is, don't you?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;It's &#xE;&#x7;
+&#x0;WEDNESDAY!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Today's the day I ask &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+out to dinner!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;I hope she says yes this time...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;You know what today is, don't you?!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x5;&#x0;It's &#xE;&#x7;
+&#x0;WEDNESDAY!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Today's the day I ask &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+out to dinner!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;I hope she says yes this time...</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x0;AHHHHHHHH! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Guess what?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1A;&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; blew me a kiss today!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;She put her hand up to her mouth
+and went&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;
+&#x0;mwah&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;-choo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Then she blew her nose into a tissue
+and someone said bless you.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;Whatever. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I know what I saw.</original>
+			<edited>&#xE;&#x3;&#x5;&#x0;AHHHHHHHH! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Guess what?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1A;&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; blew me a kiss today!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x4;&#x0;She put her hand up to her mouth
+and went&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x7;
+&#x0;mwah&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;-choo!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Then she blew her nose into a tissue
+and someone said bless you.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Hmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x6;&#x0;Whatever. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;I know what I saw.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Friday already? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;That was quick.&#xE;&#x0;&#x4;&#x0;I like to kick back on Friday nights
+and just let my feathers hang loose.
+&#xE;&#x3;&#x1F;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Makes me feel as free as a bird!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;I wonder if &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ is free tonight.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;She's a bird too, you know. &#xE;&#x3;&amp;&#x0;It'd only
+make sense that she'd be up for it!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Friday already? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;That was quick.&#xE;&#x0;&#x4;&#x0;I like to kick back on Friday nights
+and just let my feathers hang loose.
+&#xE;&#x3;&#x1F;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Makes me feel as free as a bird!&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;I wonder if &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ is free tonight.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x15;&#x0;She's a bird too, you know. &#xE;&#x3;&amp;&#x0;It'd only
+make sense that she'd be up for it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;$&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly&#xE;&#x0;&#x3;&#x2;ÿÿ, huh?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Sure,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly &#xE;&#x0;&#x3;&#x2;ÿÿis great if you want a
+girl who's nice,&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0; sweet,&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0; and girly&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;!&#x0;But if you want a girl who's&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0; feisty,&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0;
+moody,&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0; and abrasive,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis &#xE;&#x0;&#x3;&#x2;ÿÿis
+absolutely better.
+She can be a bit...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;prickly...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;at times,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+but that's just the way she shows
+affection.
+&#xE;&#x3;&#x4;&#x0;I just love the way her bill wrinkles
+up in disgust every time she sees
+me. I know what she really means...</original>
+			<edited>&#xE;&#x3;$&#x0;&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly&#xE;&#x0;&#x3;&#x2;ÿÿ, huh?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Sure,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Pelly &#xE;&#x0;&#x3;&#x2;ÿÿis great if you want a
+girl who's nice,&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0; sweet,&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0; and girly&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;!&#x0;But if you want a girl who's&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0; feisty,&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0;
+moody,&#xE;&#x7;&#x0;&#x4;#&#x0;&#x0;&#x0; and abrasive,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis &#xE;&#x0;&#x3;&#x2;ÿÿis
+absolutely better.
+She can be a bit...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;prickly...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;at times,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+but that's just the way she shows
+affection.
+&#xE;&#x3;&#x4;&#x0;I just love the way her bill wrinkles
+up in disgust every time she sees
+me. I know what she really means...</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;WHOA!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Really?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I thought I was the
+only one who understood &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ's
+charm and sophistication!
+&#xE;&#x3;&#x4;&#x0;The cold, unfeeling eyes hidden
+under those long lashes...&#xE;&#x0;&#x4;&#x0;The tangy smell of her feathers
+when she's molting...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;If only she were mine...</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#xB;&#x0;WHOA!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Really?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I thought I was the
+only one who understood &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ's
+charm and sophistication!
+&#xE;&#x3;&#x4;&#x0;The cold, unfeeling eyes hidden
+under those long lashes...&#xE;&#x0;&#x4;&#x0;The tangy smell of her feathers
+when she's molting...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;
+&#x0;&#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;If only she were mine...</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>"Umm"? What do you mean,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; "Umm"?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;You can't decide who's cuter?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;If you're not sure, why not vote for&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;She might come off as rude
+sometimes, but she's not rude.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+She's just misunderstood.
+&#xE;&#x3;
+&#x0;I really wish everyone could see
+what I see in her.</original>
+			<edited>"Umm"? What do you mean,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; "Umm"?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;You can't decide who's cuter?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;If you're not sure, why not vote for&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;She might come off as rude
+sometimes, but she's not rude.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+She's just misunderstood.
+&#xE;&#x3;
+&#x0;I really wish everyone could see
+what I see in her.</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;+&#x0;Weather like this makes me want to
+stretch my wings and fly until the
+sun goes down!
+&#xE;&#x3;&#x1;&#x0;I better deliver these letters quickly
+before the weather turns.</original>
+			<edited>&#xE;&#x3;+&#x0;Weather like this makes me want to
+stretch my wings and fly until the
+sun goes down!
+&#xE;&#x3;&#x1;&#x0;I better deliver these letters quickly
+before the weather turns.</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;I won't stop until &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;every&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; last&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; letter&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; is
+delivered to its intended recipient.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x7;&#x0;&#xE;&#x7;&#xB;&#x0;RAIN OR SHINE!
+&#xE;&#x3;&#x2;&#x0;But I'm really glad it's sunny today.&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;I won't stop until &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;every&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; last&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; letter&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; is
+delivered to its intended recipient.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x7;&#x0;&#xE;&#x7;&#xB;&#x0;RAIN OR SHINE!
+&#xE;&#x3;&#x2;&#x0;But I'm really glad it's sunny today.&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Hmm. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;It's pretty gloomy out today.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Seems like a good day to stay
+inside and write a letter!&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;This message brought to you by the &#xE;&#x5;&#x5;&#x0;
+post office.&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;&#x3;	&#x0;Hmm. &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;It's pretty gloomy out today.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Seems like a good day to stay
+inside and write a letter!&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x2;&#x2;K&#x0;This message brought to you by the &#xE;&#x5;&#x5;&#x0;
+post office.&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Oh...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;uh...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hey,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;I know I must really look like I just
+stepped out of the shower&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;, but it's
+only because it's raining today.
+&#xE;&#x3;&#xC;&#x0;I hope I don't run into &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis &#xE;&#x0;&#x3;&#x2;ÿÿin this
+sad, soggy condition...</original>
+			<edited>&#xE;&#x3;	&#x0;Oh...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;uh...&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hey,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;I know I must really look like I just
+stepped out of the shower&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;, but it's
+only because it's raining today.
+&#xE;&#x3;&#xC;&#x0;I hope I don't run into &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis &#xE;&#x0;&#x3;&#x2;ÿÿin this
+sad, soggy condition...</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Man,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; it's raining cats and dogs out
+here today!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;
+&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Is that rude? &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I don't want to
+upset any of our feline or canine
+residents.</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Man,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; it's raining cats and dogs out
+here today!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;
+&#x0;&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Is that rude? &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I don't want to
+upset any of our feline or canine
+residents.</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x14;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Br&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;so &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;cold&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I can't feel my feathers!</original>
+			<edited>&#xE;&#x3;&#x14;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Br&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r&#xE;&#x7;&#x0;&#x4;&#x6;&#x0;&#x0;&#x0;r!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+It's &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;so &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;cold&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I can't feel my feathers!</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x6;&#x0;This blizzard is intense,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but I'll never
+give up!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; I'll never quit!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Wherever mail sits undelivered...&#xE;&#x7;&#x1;&#x0;
+Wherever letters lie unread...&#xE;&#x7;&#x1;&#x0;
+That's where I'll be!
+Because I am a postman in the great
+city of &#xE;&#x5;&#x5;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; and the mail
+&#xE;&#x3;&#x7;&#x0;&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;
+&#x0;MUST&#xE;&#x7;&#x0;&#x4;2&#x0;&#x0;&#x0; &#xE;&#x7;
+&#x0;BE&#xE;&#x7;&#x0;&#x4;2&#x0;&#x0;&#x0; &#xE;&#x7;&#xC;&#x0;DELIVERED!
+&#xE;&#x3;&#xD;&#x0;Man... &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I wish &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis &#xE;&#x0;&#x3;&#x2;ÿÿwas here to
+hear that.</original>
+			<edited>&#xE;&#x3;&#x6;&#x0;This blizzard is intense,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; but I'll never
+give up!&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; I'll never quit!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Wherever mail sits undelivered...&#xE;&#x7;&#x1;&#x0;
+Wherever letters lie unread...&#xE;&#x7;&#x1;&#x0;
+That's where I'll be!
+Because I am a postman in the great
+city of &#xE;&#x5;&#x5;&#x0;,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; and the mail
+&#xE;&#x3;&#x7;&#x0;&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x7;
+&#x0;MUST&#xE;&#x7;&#x0;&#x4;2&#x0;&#x0;&#x0; &#xE;&#x7;
+&#x0;BE&#xE;&#x7;&#x0;&#x4;2&#x0;&#x0;&#x0; &#xE;&#x7;&#xC;&#x0;DELIVERED!
+&#xE;&#x3;&#xD;&#x0;Man... &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;I wish &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis &#xE;&#x0;&#x3;&#x2;ÿÿwas here to
+hear that.</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Such beautiful and, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;uh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;fragrant&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+weather we're having today.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x19;&#x0;It makes working so&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; much&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; more&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+r&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;e&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;l&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;x&#xE;&#x3;-&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;i&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;n&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;g...</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Such beautiful and, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;uh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;fragrant&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+weather we're having today.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x19;&#x0;It makes working so&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; much&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; more&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+r&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;e&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;l&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;a&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;x&#xE;&#x3;-&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;i&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;n&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;g...</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>Hey! You have a letter from
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Oh,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; but it looks like you have too
+many letters already and can't
+receive this one.
+Why don't you clear out some of
+your old letters, and I'll stop by
+later to deliver this one. All right?</original>
+			<edited>Hey! You have a letter from
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Oh,&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; but it looks like you have too
+many letters already and can't
+receive this one.
+Why don't you clear out some of
+your old letters, and I'll stop by
+later to deliver this one. All right?</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>You have a letter from
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!</original>
+			<edited>You have a letter from
+&#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>OK, looks like you're all set!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;See you later!</original>
+			<edited>OK, looks like you're all set!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;See you later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;So many letters!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+So little time!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;So many letters!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+So little time!</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Read any good letters lately?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1F;&#x0;Any with some juicy gossip?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; None of my business.</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Read any good letters lately?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1F;&#x0;Any with some juicy gossip?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;Sorry.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; None of my business.</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;I still have a lot of deliveries to
+make...</original>
+			<edited>&#xE;&#x3;
+&#x0;I still have a lot of deliveries to
+make...</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>People say I talk too much while
+I'm out making deliveries.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I disagree.</original>
+			<edited>People say I talk too much while
+I'm out making deliveries.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; I disagree.</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>A lot of people ask me why I walk
+instead of fly when I deliver the
+mail.
+Well, &#xE;&#x3;&#x1B;&#x0;flying is pretty exhausting
+when you're carrying a bag full of
+mail and packages.
+Also, there was this kid at my old
+job who used to knock me out
+of the sky with a slingshot.
+&#xE;&#x3;&#xC;&#x0;Kind of ruined flying for me.</original>
+			<edited>A lot of people ask me why I walk
+instead of fly when I deliver the
+mail.
+Well, &#xE;&#x3;&#x1B;&#x0;flying is pretty exhausting
+when you're carrying a bag full of
+mail and packages.
+Also, there was this kid at my old
+job who used to knock me out
+of the sky with a slingshot.
+&#xE;&#x3;&#xC;&#x0;Kind of ruined flying for me.</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Great timing!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I have an express delivery for you
+from &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I'll just stick it in your mailbox,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+so make sure you check it ASAP!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3; &#x0;Catch you later!</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Great timing!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;I have an express delivery for you
+from &#xE;&#x0;&#x3;&#x2;&#x3;&#x0;&#xE;&#x12;"&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;I'll just stick it in your mailbox,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+so make sure you check it ASAP!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3; &#x0;Catch you later!</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;great timing, &#xE;&#x5;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I have a bunch of letters addressed
+to you, but I can't deliver them
+because your mailbox is full!
+&#xE;&#x3;&#x15;&#x0;Please clear out some of your old
+letters so I can deliver the new
+ones!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;great timing, &#xE;&#x5;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I have a bunch of letters addressed
+to you, but I can't deliver them
+because your mailbox is full!
+&#xE;&#x3;&#x15;&#x0;Please clear out some of your old
+letters so I can deliver the new
+ones!</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;great timing, &#xE;&#x5;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I have a bunch of letters addressed
+to &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;, but &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;'s
+mailbox is full!
+&#xE;&#x3;&#x15;&#x0;Could you ask &#xE;&#x11;&#x0;&#x2;&#x0;&#x0; to clear
+out some old letters so I can deliver
+the new ones?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;great timing, &#xE;&#x5;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;I have a bunch of letters addressed
+to &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;, but &#xE;&#x11;&#x0;&#x2;&#x0;&#x0;'s
+mailbox is full!
+&#xE;&#x3;&#x15;&#x0;Could you ask &#xE;&#x11;&#x0;&#x2;&#x0;&#x0; to clear
+out some old letters so I can deliver
+the new ones?</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;I'm counting on you!</original>
+			<edited>&#xE;&#x3; &#x0;I'm counting on you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>Also, please ask the other players
+who have full mailboxes to clear
+them out.
+&#xE;&#x3; &#x0;Thank you!</original>
+			<edited>Also, please ask the other players
+who have full mailboxes to clear
+them out.
+&#xE;&#x3; &#x0;Thank you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>It would be a shame if a really
+important letter went undelivered
+because of a full mailbox.
+&#xE;&#x3;&#x1;&#x0;I'm counting on you!</original>
+			<edited>It would be a shame if a really
+important letter went undelivered
+because of a full mailbox.
+&#xE;&#x3;&#x1;&#x0;I'm counting on you!</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>Well,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; back to work!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;See ya!</original>
+			<edited>Well,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; back to work!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x3; &#x0;See ya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>I'd love to stay and chat, maybe
+have a cup of tea. But &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ
+would be really upset.
+&#xE;&#x0;&#x2;&#x2;P&#x0;She has eyes everywhere...&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>I'd love to stay and chat, maybe
+have a cup of tea. But &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Phyllis&#xE;&#x0;&#x3;&#x2;ÿÿ
+would be really upset.
+&#xE;&#x0;&#x2;&#x2;P&#x0;She has eyes everywhere...&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="060" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

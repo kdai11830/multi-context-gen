@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡El juego de los gestos!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Sabes cómo va, ¿no?&#xE;&#x0;&#x4;&#x0;Yo te describo una cosa con gestos
+y tú tienes que averiguar lo que es.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;¿Estás list&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡El juego de los gestos!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Sabes cómo va, ¿no?&#xE;&#x0;&#x4;&#x0;Yo te describo una cosa con gestos
+y tú tienes que averiguar lo que es.&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x6;&#x0;¿Estás list&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xC;&#x0;¡Fallaste!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;¡La respuesta correcta
+era "&#xE;&#x12;&#x13;&#x2;&#x0;Í"!
+¡Si estaba clarísimo!</original>
+			<edited>&#xE;&#x3;&#xC;&#x0;¡Fallaste!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;¡La respuesta correcta
+era "&#xE;&#x12;&#x13;&#x2;&#x0;Í"!
+¡Si estaba clarísimo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;(&#x0;¡Incorrecto!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;¡La respuesta correcta era&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+"&#xE;&#x12;&#x13;&#x2;&#x0;Í"!</original>
+			<edited>&#xE;&#x3;(&#x0;¡Incorrecto!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;¡La respuesta correcta era&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+"&#xE;&#x12;&#x13;&#x2;&#x0;Í"!</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;¡Síii!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Lo has clavado!</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;¡Síii!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; ¡Lo has clavado!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1D;&#x0;¡Felicidades, &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;has acertado!</original>
+			<edited>&#xE;&#x3;&#x1D;&#x0;¡Felicidades, &#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;has acertado!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

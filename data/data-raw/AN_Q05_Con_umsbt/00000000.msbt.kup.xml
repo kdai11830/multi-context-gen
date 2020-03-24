@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;Just bring me some big furniture!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Doesn't matter what kind.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Bring me
+what ya got, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;Just bring me some big furniture!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Doesn't matter what kind.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Bring me
+what ya got, &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I'm looking for furniture to fill a
+kind of in-between space!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Not big or small.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Just bring me
+something kind of in the middle!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;I'm looking for furniture to fill a
+kind of in-between space!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Not big or small.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Just bring me
+something kind of in the middle!
+&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;I need small furniture!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Something
+that will conveniently fill in the gaps
+in this place!
+&#xE;&#x3;%&#x0;If you have something like that,
+hand it over, OK? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;I need small furniture!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Something
+that will conveniently fill in the gaps
+in this place!
+&#xE;&#x3;%&#x0;If you have something like that,
+hand it over, OK? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;I'm looking for something the same
+size as my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Bring me a replacement, would ya?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;I'm looking for something the same
+size as my &#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;%&#x0;Bring me a replacement, would ya?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;I'm looking for something to put on
+top of a table!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Do you have anything
+like that for me?</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;I'm looking for something to put on
+top of a table!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;&#xE;&#x3;%&#x0; Do you have anything
+like that for me?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;I'm looking for something to put
+on top of a table in place of my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.
+&#xE;&#x3;%&#x0;Bring me something good!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;I'm looking for something to put
+on top of a table in place of my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;.
+&#xE;&#x3;%&#x0;Bring me something good!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;I want something to hang on a wall!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;If you've got something good,
+bring it to me! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;I want something to hang on a wall!&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;If you've got something good,
+bring it to me! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;I'm looking for something to put
+on a wall in place of my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!
+If you know something good,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; bring it
+to me, OK? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;I'm looking for something to put
+on a wall in place of my
+&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;!
+If you know something good,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; bring it
+to me, OK? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x15;&#x0;I want furniture that'll make a real
+impact just being in the room!
+Something with some pop!
+&#xE;&#x3;%&#x0;Any kind will do.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Just make it 
+something good! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&#x15;&#x0;I want furniture that'll make a real
+impact just being in the room!
+Something with some pop!
+&#xE;&#x3;%&#x0;Any kind will do.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Just make it 
+something good! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

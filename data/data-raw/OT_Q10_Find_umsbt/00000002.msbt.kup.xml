@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;non ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Tu m'as eue !</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;non ! &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Tu m'as eue !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; déjà ? &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;Et moi qui pensais avoir
+trouvé une bonne cachette...</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Oh,&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; déjà ? &#xE;&#x7;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;Et moi qui pensais avoir
+trouvé une bonne cachette...</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;non... &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Tu m'as déjà trouvée !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1B;&#x0;Bon. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je suppose que je dois t'en
+féliciter,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;-&#x0;&#x0;&#x0;Alors bravo.</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;non... &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Tu m'as déjà trouvée !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1B;&#x0;Bon. &#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;Je suppose que je dois t'en
+féliciter,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x8;&#x0;. &#xE;&#x7;&#x0;&#x4;-&#x0;&#x0;&#x0;Alors bravo.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

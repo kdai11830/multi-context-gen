@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu veux me parler ? Encore ?
+Houlà,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu veux me parler ? Encore ?
+Houlà,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>T'as encore envie de papoter,
+&#xE;&#x5;&#x8;&#x0; ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Je suis toujours
+partante, &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>T'as encore envie de papoter,
+&#xE;&#x5;&#x8;&#x0; ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;Je suis toujours
+partante, &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>Oh là là, la pipelette !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Hi hi, c'est
+pas moi qui te lancerai le premier
+boulet, comme on dit !
+&#xE;&#x3; &#x0;Vive les pipelettes !</original>
+			<edited>Oh là là, la pipelette !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Hi hi, c'est
+pas moi qui te lancerai le premier
+boulet, comme on dit !
+&#xE;&#x3; &#x0;Vive les pipelettes !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ? Je le crois pas !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;T'es trop trop chou de me parler
+aussi souvent,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x8;&#x0; ? Je le crois pas !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x1;&#x0;T'es trop trop chou de me parler
+aussi souvent,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

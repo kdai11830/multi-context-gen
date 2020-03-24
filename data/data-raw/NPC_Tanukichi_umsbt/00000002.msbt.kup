@@ -1,0 +1,1825 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Merci, à bientôt !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Merci, à bientôt !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Bienvenue, bienvenue !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Bienvenue, bienvenue !</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Juste ciel !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0; !
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Quel plaisir de te voir !</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Juste ciel !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0; !
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Quel plaisir de te voir !</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x17;&#x0;Les travaux sont terminés chez toi,
+non ? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Parfait.&#xE;&#x0;&#x4;&#x0;Si tu as besoin de quoi que ce soit
+d'autre, fais-moi signe, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;hm ?</original>
+			<edited>&#xE;&#x3;&#x17;&#x0;Les travaux sont terminés chez toi,
+non ? &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;Parfait.&#xE;&#x0;&#x4;&#x0;Si tu as besoin de quoi que ce soit
+d'autre, fais-moi signe, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Merci d'avoir remboursé le prêt
+pour ta maison si promptement !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Oui, oui, c'est une très bonne chose.
+&#xE;&#x3;&#x1;&#x0;Je savais que je pouvais te faire
+confiance. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Et c'est important pour
+les affaires, la confiance, hm ?
+&#xE;&#x3;&#x0;&#x0;Mais dis-moi&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Tu ne te sens pas
+déjà à l'étroit dans ta petite
+maison ?
+&#xE;&#x3;&#x0;&#x0;Oui, oui, c'est aussi mon sentiment...&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x6;&amp;&#x10;&#x0;U&#x0;n&#x0; &#x0;h&#x0;o&#x0;m&#x0;m&#x0;e&#x0;&#x12;&#x0;U&#x0;n&#x0;e&#x0; &#x0;f&#x0;e&#x0;m&#x0;m&#x0;e&#x0; de ton importance se
+doit de posséder une demeure à sa
+juste mesure, hm ?
+&#xE;&#x3;&#x15;&#x0;Et qui dit plus de place dit plus de
+meubles et de fantaisie dans la
+décoration !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Si cela t'intéresse, je suis là pour te
+renseigner, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ?</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Merci d'avoir remboursé le prêt
+pour ta maison si promptement !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Oui, oui, c'est une très bonne chose.
+&#xE;&#x3;&#x1;&#x0;Je savais que je pouvais te faire
+confiance. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Et c'est important pour
+les affaires, la confiance, hm ?
+&#xE;&#x3;&#x0;&#x0;Mais dis-moi&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Tu ne te sens pas
+déjà à l'étroit dans ta petite
+maison ?
+&#xE;&#x3;&#x0;&#x0;Oui, oui, c'est aussi mon sentiment...&#xE;&#x0;&#x4;&#x0;&#xE;&#xE;&#x6;&amp;&#x10;&#x0;U&#x0;n&#x0; &#x0;h&#x0;o&#x0;m&#x0;m&#x0;e&#x0;&#x12;&#x0;U&#x0;n&#x0;e&#x0; &#x0;f&#x0;e&#x0;m&#x0;m&#x0;e&#x0; de ton importance se
+doit de posséder une demeure à sa
+juste mesure, hm ?
+&#xE;&#x3;&#x15;&#x0;Et qui dit plus de place dit plus de
+meubles et de fantaisie dans la
+décoration !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Si cela t'intéresse, je suis là pour te
+renseigner, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Merci d'avoir remboursé le prêt
+pour la rénovation de ta maison !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Oui, oui, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;très bien, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;très bien.
+&#xE;&#x3;&#xB;&#x0;Peut-être que tu étais pressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; de le
+faire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; pour pouvoir passer aux
+prochains travaux, hm ?
+&#xE;&#x3;&#x2;&#x0;Mais oui, voyons, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;c'est naturel, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;nous
+en voulons toujours plus, n'est-ce
+pas ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Heureusement, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;je suis là.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;Je peux me charger des travaux
+d'agrandissement de ta maison,
+&#xE;&#x5;&#x0;&#x0; !
+&#xE;&#x3;&#x1;&#x0;Mais parlons de cela à tête reposée,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+lorsque tu auras un peu de ton
+précieux temps à m'accorder, hm ?</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Merci d'avoir remboursé le prêt
+pour la rénovation de ta maison !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Oui, oui, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;très bien, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;très bien.
+&#xE;&#x3;&#xB;&#x0;Peut-être que tu étais pressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; de le
+faire&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; pour pouvoir passer aux
+prochains travaux, hm ?
+&#xE;&#x3;&#x2;&#x0;Mais oui, voyons, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;c'est naturel, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;nous
+en voulons toujours plus, n'est-ce
+pas ?&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; Heureusement, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;je suis là.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+&#xE;&#x3;&amp;&#x0;Je peux me charger des travaux
+d'agrandissement de ta maison,
+&#xE;&#x5;&#x0;&#x0; !
+&#xE;&#x3;&#x1;&#x0;Mais parlons de cela à tête reposée,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+lorsque tu auras un peu de ton
+précieux temps à m'accorder, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Eh bien, une bonne chose de faite !
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Tu as remboursé le prêt pour la
+rénovation de ta maison ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Merci !
+&#xE;&#x3;&#xB;&#x0;Naturellement, il est trop tôt pour
+te parler&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; de ma prochaine offre,
+hm ?
+&#xE;&#x3;&#x2;&#x0;Non ? Ah, parfait, je vois que nous
+nous comprenons,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;Tu veux une maison de rêve, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et moi
+je n'ai qu'un seul but : &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;t'aider à
+réaliser ce rêve !
+&#xE;&#x3;&#x1;&#x0;Parfait,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; oui, oui. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Viens me voir
+lorsque tu voudras discuter les
+détails, hm ?</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Eh bien, une bonne chose de faite !
+&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Tu as remboursé le prêt pour la
+rénovation de ta maison ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Merci !
+&#xE;&#x3;&#xB;&#x0;Naturellement, il est trop tôt pour
+te parler&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0; de ma prochaine offre,
+hm ?
+&#xE;&#x3;&#x2;&#x0;Non ? Ah, parfait, je vois que nous
+nous comprenons,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;Tu veux une maison de rêve, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et moi
+je n'ai qu'un seul but : &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;t'aider à
+réaliser ce rêve !
+&#xE;&#x3;&#x1;&#x0;Parfait,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; oui, oui. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Viens me voir
+lorsque tu voudras discuter les
+détails, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Oui, oui, je vois !&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Tu as remboursé
+le prêt pour la rénovation de ta
+maison rubis sur l'ongle !
+&#xE;&#x3;&#x0;&#x0;Les affaires, c'est avant tout une
+relation de confiance...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Et j'aime les clients qui me
+donnent toute leur confiance,
+&#xE;&#x5;&#x0;&#x0; !
+À ce propos, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;j'ai une offre à te
+faire que tu ne pourras pas refuser,
+&#xE;&#x5;&#x0;&#x0;...
+&#xE;&#x3;!&#x0;Je suis sûr que tu approuveras les
+plans, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;alors fais-moi signe quand tu
+seras disposé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à en discuter, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;hm ?</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Oui, oui, je vois !&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; Tu as remboursé
+le prêt pour la rénovation de ta
+maison rubis sur l'ongle !
+&#xE;&#x3;&#x0;&#x0;Les affaires, c'est avant tout une
+relation de confiance...&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Et j'aime les clients qui me
+donnent toute leur confiance,
+&#xE;&#x5;&#x0;&#x0; !
+À ce propos, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;j'ai une offre à te
+faire que tu ne pourras pas refuser,
+&#xE;&#x5;&#x0;&#x0;...
+&#xE;&#x3;!&#x0;Je suis sûr que tu approuveras les
+plans, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;alors fais-moi signe quand tu
+seras disposé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à en discuter, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Ô joie ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ça y est, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;le prêt pour la
+rénovation de ta maison est
+remboursé !
+&#xE;&#x3;&#xB;&#x0;Tu es trop rapide, &#xE;&#x5;&#x0;&#x0;, je ne
+peux pas suivre ton rythme !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Pourtant&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;#&#x0;J'ai peut-être encore une affaire
+susceptible de t'intéresser... hm ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Oui, oui, je serai ravi de t'en parler
+plus en détail. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;Viens me voir quand
+tu voudras, oui, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;quand tu voudras !</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Ô joie ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ça y est, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;le prêt pour la
+rénovation de ta maison est
+remboursé !
+&#xE;&#x3;&#xB;&#x0;Tu es trop rapide, &#xE;&#x5;&#x0;&#x0;, je ne
+peux pas suivre ton rythme !&#xE;&#x7;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+Pourtant&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.
+&#xE;&#x3;#&#x0;J'ai peut-être encore une affaire
+susceptible de t'intéresser... hm ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Oui, oui, je serai ravi de t'en parler
+plus en détail. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;Viens me voir quand
+tu voudras, oui, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;quand tu voudras !</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Merci, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;merci pour tout !&#xE;&#x0;&#x4;&#x0;Tu as réussi l'exploit &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;de rembourser
+l'intégralité du prêt pour la
+rénovation de ta maison, oui, oui !
+&#xE;&#x3;&#xB;&#x0;Et avec quelle diligence&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;Sortir
+tout cet argent de son chapeau,
+c'est de la magie !
+&#xE;&#x3;&#x1;&#x0;Avec une maison aussi magnifique et
+zéro dette, &#xE;&#x3;&#x2;&#x0;ta vie à &#xE;&#x5;&#x5;&#x0; sera
+assurément tranquille, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+&#xE;&#x3;(&#x0;Aucun superlatif n'est trop fort
+pour qualifier cette prouesse !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;C'est
+formidable,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; admirable,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; mémorable !
+&#xE;&#x3;&#x16;&#x0;D'ailleurs,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;tu as bien mérité une
+récompense... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;(&#x0;Pas une ristourne,
+non !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;Quelque chose de plus...
+&#xE;&#x3;&#x10;&#x0;Je sais !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Une chanson traditionnelle
+des Nook, une ode de jadis qu'on
+réserve aux grandes occasions !
+&#xE;&#x3;!&#x0;Elle a rythmé l'histoire de ma
+famille à travers les générations.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x0;&#x0;
+Attention&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x5;&#x0;&#xE;&#x7;
+&#x0;GL-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;L-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;L-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;KSK ! KEH-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;KEEEH ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x7;
+&#x0;FST ! FST !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; RrrrrrrrrrrrKLAGH ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x7;
+&#x0;CH-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;CH-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ch-ch-mmmMMMmmm ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Oui,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est un très vieux morceau&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1A;&#x0;
+écrit dans la langue de mes aïeux,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;
+le haut ratonnien.
+&#xE;&#x3;&#x0;&#x0;Bref, ta maison a fière allure,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;mais
+tu ne comptes pas en rester là,
+j'imagine.
+&#xE;&#x3;&#x15;&#x0;J'espère que tu continueras à
+améliorer l'intérieur et l'extérieur
+de ta demeure, hm ?
+&#xE;&#x3;&#x1;&#x0;Si tu as besoin de conseils à ce
+sujet, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;adresse-toi à &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ ou à
+moi-même,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; oui ?
+&#xE;&#x3;&#x0;&#x0;Nous t'aiderons volontiers !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ah, et
+n'oublie pas de saluer &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x3; &#x0;lui
+aussi tient à te féliciter !
+&#xE;&#x3;&#x0;&#x0;Oui, oui, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;Nook Immobilier sait
+choyer ses meilleurs clients.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+À bientôt !</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Merci, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;merci pour tout !&#xE;&#x0;&#x4;&#x0;Tu as réussi l'exploit &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;de rembourser
+l'intégralité du prêt pour la
+rénovation de ta maison, oui, oui !
+&#xE;&#x3;&#xB;&#x0;Et avec quelle diligence&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;Sortir
+tout cet argent de son chapeau,
+c'est de la magie !
+&#xE;&#x3;&#x1;&#x0;Avec une maison aussi magnifique et
+zéro dette, &#xE;&#x3;&#x2;&#x0;ta vie à &#xE;&#x5;&#x5;&#x0; sera
+assurément tranquille, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;
+&#xE;&#x3;(&#x0;Aucun superlatif n'est trop fort
+pour qualifier cette prouesse !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&amp;&#x0;C'est
+formidable,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; admirable,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; mémorable !
+&#xE;&#x3;&#x16;&#x0;D'ailleurs,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x15;&#x0;tu as bien mérité une
+récompense... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;(&#x0;Pas une ristourne,
+non !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;Quelque chose de plus...
+&#xE;&#x3;&#x10;&#x0;Je sais !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Une chanson traditionnelle
+des Nook, une ode de jadis qu'on
+réserve aux grandes occasions !
+&#xE;&#x3;!&#x0;Elle a rythmé l'histoire de ma
+famille à travers les générations.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x0;&#x0;
+Attention&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.
+&#xE;&#x3;&#x5;&#x0;&#xE;&#x7;
+&#x0;GL-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;L-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;L-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;KSK ! KEH-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;KEEEH ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x7;
+&#x0;FST ! FST !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; RrrrrrrrrrrrKLAGH ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x7;
+&#x0;CH-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;CH-&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;ch-ch-mmmMMMmmm ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;$&#x0;Oui,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; c'est un très vieux morceau&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1A;&#x0;
+écrit dans la langue de mes aïeux,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1B;&#x0;
+le haut ratonnien.
+&#xE;&#x3;&#x0;&#x0;Bref, ta maison a fière allure,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#xB;&#x0;mais
+tu ne comptes pas en rester là,
+j'imagine.
+&#xE;&#x3;&#x15;&#x0;J'espère que tu continueras à
+améliorer l'intérieur et l'extérieur
+de ta demeure, hm ?
+&#xE;&#x3;&#x1;&#x0;Si tu as besoin de conseils à ce
+sujet, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;adresse-toi à &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ ou à
+moi-même,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; oui ?
+&#xE;&#x3;&#x0;&#x0;Nous t'aiderons volontiers !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Ah, et
+n'oublie pas de saluer &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x3; &#x0;lui
+aussi tient à te féliciter !
+&#xE;&#x3;&#x0;&#x0;Oui, oui, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&amp;&#x0;Nook Immobilier sait
+choyer ses meilleurs clients.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+À bientôt !</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>La construction de ta maison est
+terminée, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;Tu es content&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; du résultat ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x2;&#x0;Tu vas enfin pouvoir vivre
+dignement, hm ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Mais revenons sur terre&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Déduction faite de l'acompte, il te
+reste&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿà
+rembourser !
+C'est une somme modeste pour un
+prêt, tu en conviendras, oui ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Hm ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Oh non, tu n'as pas à me
+payer directement. &#xE;&#x3;&#x1;&#x0;Utilise le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;DAC
+du bureau de poste&#xE;&#x0;&#x3;&#x2;ÿÿ, s'il te plaît.
+Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et il n'y a aucune échéance.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Rembourse simplement à ton
+rythme, hm ?</original>
+			<edited>La construction de ta maison est
+terminée, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x17;&#x0;Tu es content&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; du résultat ?&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x2;&#x0;Tu vas enfin pouvoir vivre
+dignement, hm ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x15;&#x0;Mais revenons sur terre&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Déduction faite de l'acompte, il te
+reste&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0; clochettes &#xE;&#x0;&#x3;&#x2;ÿÿà
+rembourser !
+C'est une somme modeste pour un
+prêt, tu en conviendras, oui ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Hm ? &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Oh non, tu n'as pas à me
+payer directement. &#xE;&#x3;&#x1;&#x0;Utilise le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;DAC
+du bureau de poste&#xE;&#x0;&#x3;&#x2;ÿÿ, s'il te plaît.
+Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et il n'y a aucune échéance.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Rembourse simplement à ton
+rythme, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oui, oui,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;encore un détail&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Tous les propriétaires d'une maison&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+doivent devenir membres de
+l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Académie des Joyeux Décorateurs&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Nous passons de temps en temps
+inspecter une maison.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Une chance
+pour l'heureux bénéficiaire !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;L'inspection concerne les meubles,
+l'arrangement de l'intérieur, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;le
+niveau de propreté, et cætera.
+&#xE;&#x3;&#x1;&#x0;Si tu obtiens une note élevée, tu
+peux même recevoir un superbe prix
+pour récompenser tes efforts !
+&#xE;&#x3;&#x0;&#x0;L'AJD s'occupe de planifier les
+inspections, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;donc tu n'as à te
+soucier de rien. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Simple, hm ?
+Quoi d'autre&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Oui, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;les membres
+ont aussi accès au &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;village-témoin&#xE;&#x0;&#x3;&#x2;ÿÿ,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;derrière la rue commerçante.
+&#xE;&#x3;&#x0;&#x0;Quand tu auras reçu la lettre
+confirmant ton adhésion, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;passe
+donc y faire un tour !
+&#xE;&#x3;&#x1;&#x0;Très bien, oui. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et viens me voir
+si tu veux discuter de tes prochains
+travaux de rénovation,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hm ?</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oui, oui,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;encore un détail&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;Tous les propriétaires d'une maison&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+doivent devenir membres de
+l'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Académie des Joyeux Décorateurs&#xE;&#x0;&#x3;&#x2;ÿÿ.
+Nous passons de temps en temps
+inspecter une maison.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Une chance
+pour l'heureux bénéficiaire !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;L'inspection concerne les meubles,
+l'arrangement de l'intérieur, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;le
+niveau de propreté, et cætera.
+&#xE;&#x3;&#x1;&#x0;Si tu obtiens une note élevée, tu
+peux même recevoir un superbe prix
+pour récompenser tes efforts !
+&#xE;&#x3;&#x0;&#x0;L'AJD s'occupe de planifier les
+inspections, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;donc tu n'as à te
+soucier de rien. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Simple, hm ?
+Quoi d'autre&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Oui, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;les membres
+ont aussi accès au &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;village-témoin&#xE;&#x0;&#x3;&#x2;ÿÿ,
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;derrière la rue commerçante.
+&#xE;&#x3;&#x0;&#x0;Quand tu auras reçu la lettre
+confirmant ton adhésion, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;passe
+donc y faire un tour !
+&#xE;&#x3;&#x1;&#x0;Très bien, oui. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;et viens me voir
+si tu veux discuter de tes prochains
+travaux de rénovation,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oui, oui ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Fort bien, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;que puis-je
+faire pour toi ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+J'ai apporté l'acompte !
+Rien.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oui, oui ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Fort bien, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;que puis-je
+faire pour toi ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x0;&#x0;&#x0;&#x0;
+J'ai apporté l'acompte !
+Rien.</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>Hm ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Vraiment ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Bien, lorsque tu
+voudras verser l'acompte,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; passe me
+voir.</original>
+			<edited>Hm ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Vraiment ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Bien, lorsque tu
+voudras verser l'acompte,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; passe me
+voir.</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu as apporté l'argent ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Hé hé, chez
+les Nook, on a un sixième sens pour
+sentir les clochettes !
+&#xE;&#x3;&#xB;&#x0;Voyons voir...
+&#xE;&#x3;&#x0;&#x0;Mais, mais, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Le compte
+n'y est pas ! Loin de là !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;L'acompte de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000 clochettes
+&#xE;&#x0;&#x3;&#x2;ÿÿdoit être réglé en une fois, oui ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Ça doit pas être le must du confort
+sous ta tente...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Tu préférerais pas
+une bonne petite maison, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu as apporté l'argent ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Hé hé, chez
+les Nook, on a un sixième sens pour
+sentir les clochettes !
+&#xE;&#x3;&#xB;&#x0;Voyons voir...
+&#xE;&#x3;&#x0;&#x0;Mais, mais, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#xD;&#x0;&#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Le compte
+n'y est pas ! Loin de là !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;	&#x0;L'acompte de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000 clochettes
+&#xE;&#x0;&#x3;&#x2;ÿÿdoit être réglé en une fois, oui ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Ça doit pas être le must du confort
+sous ta tente...&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Tu préférerais pas
+une bonne petite maison, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu as apporté l'argent ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; 
+&#xE;&#x3;&#xB;&#x0;Voyons voir, hm ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;Oui, oui ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ,
+précisément !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Cela me fait plaisir, je
+dois l'admettre.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu as apporté l'argent ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; 
+&#xE;&#x3;&#xB;&#x0;Voyons voir, hm ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&amp;&#x0;Oui, oui ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ,
+précisément !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Cela me fait plaisir, je
+dois l'admettre.</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Fort bien, fort bien ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Ce léger détail
+étant réglé, la construction de ta
+maison va pouvoir commencer.
+&#xE;&#x3;&#x0;&#x0;Tu peux d'ailleurs choisir la couleur
+de ton futur toit.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Alors, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;laquelle
+te plairait, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Fort bien, fort bien ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Ce léger détail
+étant réglé, la construction de ta
+maison va pouvoir commencer.
+&#xE;&#x3;&#x0;&#x0;Tu peux d'ailleurs choisir la couleur
+de ton futur toit.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Alors, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;laquelle
+te plairait, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Entendu !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je vais m'assurer que tu
+puisses emménager dès demain
+matin.
+&#xE;&#x3;&#xB;&#x0;Quoi d'autre, hm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, oui, oui,
+naturellement !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Je dois te parler des
+travaux de rénovation !
+&#xE;&#x3;&#x0;&#x0;Une fois ta maison terminée,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je
+peux te proposer un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;relooking de
+l'extérieur&#xE;&#x0;&#x3;&#x2;ÿÿ : toit, porte et clôture !
+&#xE;&#x3;&#x1;&#x0;J'exposerai de nouveaux modèles
+dans mon agence tous les jours,
+alors n'hésite pas à passer.
+Mais pour l'instant,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tu as juste hâte
+d'être à demain matin,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hm ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;Merci
+pour ta confiance !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Entendu !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Je vais m'assurer que tu
+puisses emménager dès demain
+matin.
+&#xE;&#x3;&#xB;&#x0;Quoi d'autre, hm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, oui, oui,
+naturellement !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Je dois te parler des
+travaux de rénovation !
+&#xE;&#x3;&#x0;&#x0;Une fois ta maison terminée,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je
+peux te proposer un &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;relooking de
+l'extérieur&#xE;&#x0;&#x3;&#x2;ÿÿ : toit, porte et clôture !
+&#xE;&#x3;&#x1;&#x0;J'exposerai de nouveaux modèles
+dans mon agence tous les jours,
+alors n'hésite pas à passer.
+Mais pour l'instant,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tu as juste hâte
+d'être à demain matin,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; hm ?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3; &#x0;Merci
+pour ta confiance !</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>Je suis navré ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je n'ai pas les permis
+nécessaires pour effectuer des
+travaux en dehors de cette ville.
+Cependant, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;si l'un des modèles
+exposés t'intéresse, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;fais-moi signe,
+oui ?
+&#xE;&#x3;&#x1;&#x0;Je contacterai l'agent immobilier de
+ta ville&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; et je lui demanderai de
+commander l'article de tes rêves.</original>
+			<edited>Je suis navré ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je n'ai pas les permis
+nécessaires pour effectuer des
+travaux en dehors de cette ville.
+Cependant, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;si l'un des modèles
+exposés t'intéresse, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;fais-moi signe,
+oui ?
+&#xE;&#x3;&#x1;&#x0;Je contacterai l'agent immobilier de
+ta ville&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; et je lui demanderai de
+commander l'article de tes rêves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ta commande sera prête dans un
+instant. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;C'est l'affaire de quelques
+coups de fil, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;oui ?
+&#xE;&#x3;&#x0;&#x0;Quand tu rentreras chez toi, assure-
+toi d'aller à ton agence immobilière
+avant sa fermeture, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ta commande sera prête dans un
+instant. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;C'est l'affaire de quelques
+coups de fil, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;oui ?
+&#xE;&#x3;&#x0;&#x0;Quand tu rentreras chez toi, assure-
+toi d'aller à ton agence immobilière
+avant sa fermeture, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oui, oui ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Tu souhaites &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;parler
+affaires, hm ?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Rénover ma maison !
+Non, rien.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oui, oui ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0;Tu souhaites &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;parler
+affaires, hm ?&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Rénover ma maison !
+Non, rien.</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;vraiment ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si tu as une question
+au sujet de ta maison, n'hésite pas à
+venir me voir, hm ?</original>
+			<edited>Oh, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;vraiment ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si tu as une question
+au sujet de ta maison, n'hésite pas à
+venir me voir, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Je suis vraiment navré&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;On ne peut pas entreprendre
+d'autres travaux tant que le prêt en
+cours n'a pas été remboursé.
+&#xE;&#x3;&#x1;&#x0;Utilise pour cela le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;DAC du bureau
+de poste&#xE;&#x0;&#x3;&#x2;ÿÿ, accessible 24 heures sur
+24.
+Une fois que la somme aura été
+réglée, nous en reparlerons, hm ?</original>
+			<edited>&#xE;&#x3;	&#x0;Je suis vraiment navré&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;On ne peut pas entreprendre
+d'autres travaux tant que le prêt en
+cours n'a pas été remboursé.
+&#xE;&#x3;&#x1;&#x0;Utilise pour cela le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;DAC du bureau
+de poste&#xE;&#x0;&#x3;&#x2;ÿÿ, accessible 24 heures sur
+24.
+Une fois que la somme aura été
+réglée, nous en reparlerons, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0; ? Il est temps
+d'agrandir ta maison, oui, oui.&#xE;&#x0;&#x4;&#x0;Un modeste prêt de &#xE;&#x3;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0;
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ suffira à faire de ce rêve
+une réalité. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;On se lance, hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Allons-y !
+Non merci.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0; ? Il est temps
+d'agrandir ta maison, oui, oui.&#xE;&#x0;&#x4;&#x0;Un modeste prêt de &#xE;&#x3;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0;
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ suffira à faire de ce rêve
+une réalité. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;On se lance, hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Allons-y !
+Non merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Je réfléchissais&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Je pense que ta
+maison serait bien plus agréable
+avec un peu plus d'espace, oui, oui.
+La somme nécessaire est si ridicule
+que j'ose à peine te l'annoncer&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Pour une
+maison plus vaste, c'est donné,
+oui ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Allons-y !
+Non merci.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Je réfléchissais&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Je pense que ta
+maison serait bien plus agréable
+avec un peu plus d'espace, oui, oui.
+La somme nécessaire est si ridicule
+que j'ose à peine te l'annoncer&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Pour une
+maison plus vaste, c'est donné,
+oui ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Allons-y !
+Non merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Voyons&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Écoute, &#xE;&#x5;&#x0;&#x0;, il
+manque un étage à ta maison pour
+en faire un endroit plus coquet.
+Dire qu'il suffirait de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0;
+clochettes &#xE;&#x0;&#x3;&#x2;ÿÿpour améliorer ton
+confort... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Comment résister, hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Allons-y !
+Non merci.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Voyons&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Écoute, &#xE;&#x5;&#x0;&#x0;, il
+manque un étage à ta maison pour
+en faire un endroit plus coquet.
+Dire qu'il suffirait de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0;
+clochettes &#xE;&#x0;&#x3;&#x2;ÿÿpour améliorer ton
+confort... &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;Comment résister, hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Allons-y !
+Non merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, tu ne te sens
+pas un peu à l'étroit dans cette
+maison ?
+&#xE;&#x3;&#x0;&#x0;Tout agent immobilier digne de ce
+nom te dirait que ce qu'il te faut,
+c'est une nouvelle pièce&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, tu ne te sens
+pas un peu à l'étroit dans cette
+maison ?
+&#xE;&#x3;&#x0;&#x0;Tout agent immobilier digne de ce
+nom te dirait que ce qu'il te faut,
+c'est une nouvelle pièce&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Voyons&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, tu devrais
+songer à agrandir un chouïa ta
+maison, oui, oui.
+&#xE;&#x3;&#x0;&#x0;Si tu veux, je peux te conseiller.
+J'ai déjà deux ou trois idées...</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Voyons&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, tu devrais
+songer à agrandir un chouïa ta
+maison, oui, oui.
+&#xE;&#x3;&#x0;&#x0;Si tu veux, je peux te conseiller.
+J'ai déjà deux ou trois idées...</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Il te faut plus de place
+chez toi, &#xE;&#x5;&#x0;&#x0;, oui ? Ou peut-
+être une pièce supplémentaire, hm ?
+&#xE;&#x3;&#x17;&#x0;Bien sûr, je peux me charger des
+travaux. Qu'en dis-tu ?&#xE;&#xF;&#x6;&#x6;&#x15;&#x0;&#x15;&#x0;(&#x0;
+Une autre pièce !
+Plus d'espace !
+Rien, merci.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Il te faut plus de place
+chez toi, &#xE;&#x5;&#x0;&#x0;, oui ? Ou peut-
+être une pièce supplémentaire, hm ?
+&#xE;&#x3;&#x17;&#x0;Bien sûr, je peux me charger des
+travaux. Qu'en dis-tu ?&#xE;&#xF;&#x6;&#x6;&#x15;&#x0;&#x15;&#x0;(&#x0;
+Une autre pièce !
+Plus d'espace !
+Rien, merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oui, oui ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Alors dis-moi, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;où
+allons-nous bâtir la nouvelle pièce,
+hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oui, oui ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Alors dis-moi, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;où
+allons-nous bâtir la nouvelle pièce,
+hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Parfait ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Alors dis-moi, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;quelle pièce
+souhaites-tu agrandir, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Parfait ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Alors dis-moi, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;quelle pièce
+souhaites-tu agrandir, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Une nouvelle pièce sera ajoutée au
+rez-de-chaussée, à gauche, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Une nouvelle pièce sera ajoutée au
+rez-de-chaussée, à gauche, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Une nouvelle pièce sera ajoutée au
+rez-de-chaussée, à droite, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Une nouvelle pièce sera ajoutée au
+rez-de-chaussée, à droite, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="034" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Une nouvelle pièce sera ajoutée au
+rez-de-chaussée, à l'arrière, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Une nouvelle pièce sera ajoutée au
+rez-de-chaussée, à l'arrière, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="035" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oui, oui, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;un sous-sol. C'est ce que tu
+veux, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oui, oui, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;un sous-sol. C'est ce que tu
+veux, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="036" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir la pièce située au
+rez-de-chaussée, à gauche, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir la pièce située au
+rez-de-chaussée, à gauche, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="037" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir la pièce située au
+rez-de-chaussée, à droite, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir la pièce située au
+rez-de-chaussée, à droite, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="038" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir la pièce située au
+rez-de-chaussée, à l'arrière, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir la pièce située au
+rez-de-chaussée, à l'arrière, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir le sous-sol, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir le sous-sol, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir la pièce à l'étage,
+hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Tu veux agrandir la pièce à l'étage,
+hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>Bien, ton prêt s'élèvera alors à
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;C'est tout à
+fait raisonnable, oui ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, allons-y !
+Euh, laisse tomber.</original>
+			<edited>Bien, ton prêt s'élèvera alors à
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;C'est tout à
+fait raisonnable, oui ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+OK, allons-y !
+Euh, laisse tomber.</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Fort bien ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Nous allons effectuer les
+travaux sans attendre, hm ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Ils seront terminés demain matin.
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu dois être excité&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; comme une
+puce, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;oui, oui !</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Fort bien ! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Nous allons effectuer les
+travaux sans attendre, hm ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Ils seront terminés demain matin.
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu dois être excité&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; comme une
+puce, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;oui, oui !</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Alors, tu te plais dans ta belle
+maison ?&#xE;&#x7;&#x1;&#x0; Si tu veux modifier son
+aspect extérieur, dis-le-moi, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Alors, tu te plais dans ta belle
+maison ?&#xE;&#x7;&#x1;&#x0; Si tu veux modifier son
+aspect extérieur, dis-le-moi, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="044" offset="00" relocatable="true" max_length="0">
+			<original>Mes excuses, &#xE;&#x5;&#x0;&#x0;, mais on ne
+peut pas agrandir davantage ta
+maison. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;C'est impossible.
+&#xE;&#x3;&#x1;&#x0;Néanmoins, tu peux toujours en
+modifier l'extérieur. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je te demande
+d'y réfléchir, hm ?</original>
+			<edited>Mes excuses, &#xE;&#x5;&#x0;&#x0;, mais on ne
+peut pas agrandir davantage ta
+maison. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;C'est impossible.
+&#xE;&#x3;&#x1;&#x0;Néanmoins, tu peux toujours en
+modifier l'extérieur. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je te demande
+d'y réfléchir, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="045" offset="00" relocatable="true" max_length="0">
+			<original>Je suis navré, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je ne peux pas te
+concéder un prêt pour les
+rénovations extérieures, hm ?
+Mais la bonne nouvelle, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;c'est que les
+prix sont ridicules comparés au coût
+des réaménagements intérieurs !</original>
+			<edited>Je suis navré, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je ne peux pas te
+concéder un prêt pour les
+rénovations extérieures, hm ?
+Mais la bonne nouvelle, &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;c'est que les
+prix sont ridicules comparés au coût
+des réaménagements intérieurs !</edited>
+			<subEntries />
+		</entry>
+		<entry name="046" offset="00" relocatable="true" max_length="0">
+			<original>La rénovation de ta maison est
+terminée,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;hm ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;C'est une vie
+nouvelle qui s'offre à toi, oui, oui !
+Sinon&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</original>
+			<edited>La rénovation de ta maison est
+terminée,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;hm ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;C'est une vie
+nouvelle qui s'offre à toi, oui, oui !
+Sinon&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="047" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0; ! Ta maison sera prête
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;demain dans la matinée. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Plutôt
+excitant, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0; ! Ta maison sera prête
+&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;demain dans la matinée. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Plutôt
+excitant, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="048" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;L'extension de ta maison sera
+terminée demain dans la matinée,
+&#xE;&#x5;&#x0;&#x0; !
+Dur de trouver le sommeil dans ces
+conditions, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;L'extension de ta maison sera
+terminée demain dans la matinée,
+&#xE;&#x5;&#x0;&#x0; !
+Dur de trouver le sommeil dans ces
+conditions, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="049" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Les travaux de ta maison seront
+terminés demain dans la matinée,
+&#xE;&#x5;&#x0;&#x0; !
+Moi-même j'ai hâte de voir le
+résultat, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;oui, oui.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Les travaux de ta maison seront
+terminés demain dans la matinée,
+&#xE;&#x5;&#x0;&#x0; !
+Moi-même j'ai hâte de voir le
+résultat, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;oui, oui.</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>Les travaux de rénovation de ta
+maison &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;sont terminés, oui ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;C'est un changement mineur,
+peut-être,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; mais qui a son
+importance, hm ?</original>
+			<edited>Les travaux de rénovation de ta
+maison &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;sont terminés, oui ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;C'est un changement mineur,
+peut-être,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; mais qui a son
+importance, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>Ta maison &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;est bien plus spacieuse,
+hm ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;J'espère que ça va changer ta
+vie ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Oui, oui !</original>
+			<edited>Ta maison &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;est bien plus spacieuse,
+hm ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;J'espère que ça va changer ta
+vie ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Oui, oui !</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Ta maison possède désormais un
+étage, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ?&#xE;&#x0;&#x4;&#x0;Avec tout cet espace additionnel à
+décorer, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;tu dois te réjouir, oui, oui !&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Ta maison possède désormais un
+étage, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ?&#xE;&#x0;&#x4;&#x0;Avec tout cet espace additionnel à
+décorer, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x15;&#x0;tu dois te réjouir, oui, oui !&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>Les travaux d'extension &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;sont
+terminés, hm ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;C'est comme si tu
+avais changé de maison. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Oui, oui !</original>
+			<edited>Les travaux d'extension &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;sont
+terminés, hm ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;C'est comme si tu
+avais changé de maison. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Oui, oui !</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>Tu as &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;inspecté ta maison ?&#xE;&#x7;&#x1;&#x0; Elle est
+unique, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;on ne trouve pas un tel
+savoir-faire partout, hm ?</original>
+			<edited>Tu as &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;inspecté ta maison ?&#xE;&#x7;&#x1;&#x0; Elle est
+unique, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;on ne trouve pas un tel
+savoir-faire partout, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="056" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Les bons comptes font les
+bonnes affaires,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; parlons chiffres...&#xE;&#x0;&#x4;&#x0;Oui, oui, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;le modique coût de
+l'extension est de &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0;
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;Un peu d'argent de poche, guère
+plus, oui ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Non, non !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Tu ne peux pas me régler
+directement ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Utilise le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;DAC du
+bureau de poste&#xE;&#x0;&#x3;&#x2;ÿÿ, hm ?</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Bien&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Les bons comptes font les
+bonnes affaires,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; parlons chiffres...&#xE;&#x0;&#x4;&#x0;Oui, oui, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;le modique coût de
+l'extension est de &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x3;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x4;&#xC;&#x2;&#x1;&#x0;
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;#&#x0;Un peu d'argent de poche, guère
+plus, oui ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Non, non !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Tu ne peux pas me régler
+directement ! &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Utilise le &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;DAC du
+bureau de poste&#xE;&#x0;&#x3;&#x2;ÿÿ, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="057" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;D'avance, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;un grand merci, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ? </original>
+			<edited>&#xE;&#x3; &#x0;D'avance, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;un grand merci, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;hm ? </edited>
+			<subEntries />
+		</entry>
+		<entry name="058" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x0;Au fait, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ta maison a
+atteint sa taille maximale, nous ne
+pouvons plus l'agrandir désormais. 
+&#xE;&#x3; &#x0;J'espère que c'est bien clair entre
+nous, hm ? &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Merci pour ta confiance !</original>
+			<edited>&#xE;&#x3;&#x0;&#x0;Au fait, &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x0;&#x0;, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ta maison a
+atteint sa taille maximale, nous ne
+pouvons plus l'agrandir désormais. 
+&#xE;&#x3; &#x0;J'espère que c'est bien clair entre
+nous, hm ? &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Merci pour ta confiance !</edited>
+			<subEntries />
+		</entry>
+		<entry name="059" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x1;&#x0; J'y pense, &#xE;&#x5;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x16;&#x0;&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x1;&#x0; J'y pense, &#xE;&#x5;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="061" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour l'extérieur de ta maison.
+Cependant, &#xE;&#x5;&#x0;&#x0;, des travaux
+sont déjà prévus chez toi,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;alors tu
+pourras acheter ça plus tard, hm ?</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour l'extérieur de ta maison.
+Cependant, &#xE;&#x5;&#x0;&#x0;, des travaux
+sont déjà prévus chez toi,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;alors tu
+pourras acheter ça plus tard, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="062" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour l'extérieur de ta maison.
+Mais celle-ci n'est pas terminée,
+&#xE;&#x5;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu achèteras ça quand
+les travaux seront finis, hm ?&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour l'extérieur de ta maison.
+Mais celle-ci n'est pas terminée,
+&#xE;&#x5;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Tu achèteras ça quand
+les travaux seront finis, hm ?&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="063" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour la porte de ta maison, hm ?</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour la porte de ta maison, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="064" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour le toit de ta maison, hm ?</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour le toit de ta maison, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="065" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+de l'aspect extérieur de ta maison.
+Si jamais tu passes commande, ta
+maison ressemblera exactement à
+ça ! Oui, oui !
+&#xE;&#x3;&#x1;&#x0;En revanche,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; les finitions telles que
+la couleur du toit ou des murs ne
+font pas partie du forfait, hm ?
+Mine de rien, ce genre de détails
+demande du travail, oui ? &#xE;&#x3;&#x2;&#x0;Et tout
+travail mérite salaire.&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+de l'aspect extérieur de ta maison.
+Si jamais tu passes commande, ta
+maison ressemblera exactement à
+ça ! Oui, oui !
+&#xE;&#x3;&#x1;&#x0;En revanche,&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; les finitions telles que
+la couleur du toit ou des murs ne
+font pas partie du forfait, hm ?
+Mine de rien, ce genre de détails
+demande du travail, oui ? &#xE;&#x3;&#x2;&#x0;Et tout
+travail mérite salaire.&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="066" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+de l'aspect extérieur de ta maison.
+&#xE;&#x3;&#x1;&#x0;Agrandis-la d'abord, et ensuite,
+nous pourrons réaliser des travaux
+de plus grande ampleur si tu veux.</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+de l'aspect extérieur de ta maison.
+&#xE;&#x3;&#x1;&#x0;Agrandis-la d'abord, et ensuite,
+nous pourrons réaliser des travaux
+de plus grande ampleur si tu veux.</edited>
+			<subEntries />
+		</entry>
+		<entry name="067" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour ta boîte aux lettres, hm ?</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour ta boîte aux lettres, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="068" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour ta clôture, hm ?</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour ta clôture, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="069" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour tes murs extérieurs, hm ?</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour tes murs extérieurs, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="070" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour les dalles de ta cour, hm ?</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour les dalles de ta cour, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="071" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+cette porte chez toi, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+cette porte chez toi, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="072" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+ce toit chez toi, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+ce toit chez toi, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="073" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ta maison a
+déjà cet aspect, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ta maison a
+déjà cet aspect, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="074" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+cette boîte aux lettres, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+cette boîte aux lettres, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="075" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+cette clôture chez toi, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+cette clôture chez toi, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="076" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+ces murs extérieurs, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;tu as déjà
+ces murs extérieurs, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="077" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ta terrasse
+ressemble déjà à ça, &#xE;&#x5;&#x0;&#x0;.</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0; ?&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;Si
+ma mémoire est bonne, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;ta terrasse
+ressemble déjà à ça, &#xE;&#x5;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="078" offset="00" relocatable="true" max_length="0">
+			<original>Cela coûte &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;, hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+J'achète !
+Non merci.</original>
+			<edited>Cela coûte &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x4;&#xC;&#x2;&#x0;&#x0; clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+&#xE;&#x3;&#x17;&#x0;Intéressé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0;, hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+J'achète !
+Non merci.</edited>
+			<subEntries />
+		</entry>
+		<entry name="079" offset="00" relocatable="true" max_length="0">
+			<original>Je vois&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Aucun souci, aucun souci.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+Tu finiras sûrement par trouver ton
+bonheur, hm ?</original>
+			<edited>Je vois&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Aucun souci, aucun souci.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+Tu finiras sûrement par trouver ton
+bonheur, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="080" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="081" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Merci beau&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Hm ?!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Euh... &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Comment
+dire...? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Tu n'as pas assez d'argent,
+non, non !
+&#xE;&#x3;&#x0;&#x0;Comme je te le disais, je ne propose
+pas de prêt pour les rénovations
+extérieures.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Tu comprends, oui ?</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Merci beau&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;!&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x17;&#x0;Hm ?!&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;	&#x0;Euh... &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Comment
+dire...? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Tu n'as pas assez d'argent,
+non, non !
+&#xE;&#x3;&#x0;&#x0;Comme je te le disais, je ne propose
+pas de prêt pour les rénovations
+extérieures.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Tu comprends, oui ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="082" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;Merci beaucoup !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Je vais faire le nécessaire pour que
+les travaux soient terminés...&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;
+demain ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Exaltant, hm ?</original>
+			<edited>&#xE;&#x3;&amp;&#x0;Merci beaucoup !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x0;&#x0;Je vais faire le nécessaire pour que
+les travaux soient terminés...&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#x1;&#x0;
+demain ! &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Exaltant, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="083" offset="00" relocatable="true" max_length="0">
+			<original>Hm, &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;...
+Hélas,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu ne vis pas ici, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;alors je ne
+peux pas traiter ta commande, non.
+Je vais contacter l'agent immobilier
+de ta ville &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;pour qu'il &#xE;&#xE;&#x8;&#x12;&#x0;Í&#x4;&#x0;l&#x0;e&#x0;&#x4;&#x0;l&#x0;a&#x0;&#x2;&#x0;0&#x0; commande
+de son côté. &#xE;&#x3;&#x17;&#x0;Ça te convient ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Ça marche !
+Non, tant pis.</original>
+			<edited>Hm, &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;...
+Hélas,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; tu ne vis pas ici, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;alors je ne
+peux pas traiter ta commande, non.
+Je vais contacter l'agent immobilier
+de ta ville &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;pour qu'il &#xE;&#xE;&#x8;&#x12;&#x0;Í&#x4;&#x0;l&#x0;e&#x0;&#x4;&#x0;l&#x0;a&#x0;&#x2;&#x0;0&#x0; commande
+de son côté. &#xE;&#x3;&#x17;&#x0;Ça te convient ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Ça marche !
+Non, tant pis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="084" offset="00" relocatable="true" max_length="0">
+			<original>Oui, &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;...&#xE;&#x0;&#x4;&#x0;Hélas,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je ne peux contacter l'agent
+immobilier de ta ville que pour un
+article à la fois.
+En revanche, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;je peux lui dire
+d'annuler la commande précédente
+pour la remplacer par celle-ci. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;OK ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Ça marche !
+Non, tant pis.</original>
+			<edited>Oui, &#xE;&#xE;&#x2;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;...&#xE;&#x0;&#x4;&#x0;Hélas,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; je ne peux contacter l'agent
+immobilier de ta ville que pour un
+article à la fois.
+En revanche, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;je peux lui dire
+d'annuler la commande précédente
+pour la remplacer par celle-ci. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x17;&#x0;OK ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Ça marche !
+Non, tant pis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="085" offset="00" relocatable="true" max_length="0">
+			<original>Fort bien, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je comprends.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Si tu
+souhaites commander quelque
+chose, n'hésite pas.</original>
+			<edited>Fort bien, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;je comprends.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Si tu
+souhaites commander quelque
+chose, n'hésite pas.</edited>
+			<subEntries />
+		</entry>
+		<entry name="086" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Entendu. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je m'assurerai que l'article
+soit disponible dans ton agence
+lorsque tu rentreras chez toi.
+&#xE;&#x3;&#x0;&#x0;Une fois dans ta ville, rends-toi à
+l'agence immobilière avant la
+fermeture, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Entendu. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Je m'assurerai que l'article
+soit disponible dans ton agence
+lorsque tu rentreras chez toi.
+&#xE;&#x3;&#x0;&#x0;Une fois dans ta ville, rends-toi à
+l'agence immobilière avant la
+fermeture, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="087" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Fort bien ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;J'annule la commande
+précédente et je fais livrer le nouvel
+article dans ton agence.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Fort bien ! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;J'annule la commande
+précédente et je fais livrer le nouvel
+article dans ton agence.</edited>
+			<subEntries />
+		</entry>
+		<entry name="088" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour l'extérieur de ta maison, hm ?
+&#xE;&#x3;&#x1;&#x0;C'est l'une des nombreuses options
+de personnalisation pour les heureux
+propriétaires de grandes maisons !</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; que
+voici est un exemple de rénovation
+pour l'extérieur de ta maison, hm ?
+&#xE;&#x3;&#x1;&#x0;C'est l'une des nombreuses options
+de personnalisation pour les heureux
+propriétaires de grandes maisons !</edited>
+			<subEntries />
+		</entry>
+		<entry name="089" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, pardon,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tu étais occupé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à
+choisir un article, oui ?</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh, pardon,&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; tu étais occupé&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à
+choisir un article, oui ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="091" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Bien, &#xE;&#x5;&#x0;&#x0;, j'ai fait les
+comptes concernant le prêt pour
+ta maison, oui, oui.
+&#xE;&#x3;&#x0;&#x0;Maintenant, parlons du prix&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Vois-tu, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;nous ne pouvons pas te
+construire de maison tant que tu ne
+nous l'as pas demandé, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;hm ?
+&#xE;&#x3;&#x3;&#x0;Pour démarrer les travaux, un léger
+acompte de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ est
+nécessaire.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Qu'en dis-tu ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Ça marche !
+Je n'ai pas les moyens !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Bien, &#xE;&#x5;&#x0;&#x0;, j'ai fait les
+comptes concernant le prêt pour
+ta maison, oui, oui.
+&#xE;&#x3;&#x0;&#x0;Maintenant, parlons du prix&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#xB;&#x0;Vois-tu, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;nous ne pouvons pas te
+construire de maison tant que tu ne
+nous l'as pas demandé, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;hm ?
+&#xE;&#x3;&#x3;&#x0;Pour démarrer les travaux, un léger
+acompte de &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000 clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ est
+nécessaire.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; Qu'en dis-tu ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Ça marche !
+Je n'ai pas les moyens !</edited>
+			<subEntries />
+		</entry>
+		<entry name="092" offset="00" relocatable="true" max_length="0">
+			<original>Super ! &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Mais impossible de lancer
+la construction de ta maison tant
+que l'acompte n'est pas réglé, hm ?</original>
+			<edited>Super ! &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Mais impossible de lancer
+la construction de ta maison tant
+que l'acompte n'est pas réglé, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="093" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Hein ?! Non ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Eh bien pas de souci !&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Du tout !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Il est inutile d'avancer la
+moindre clochette pour l'instant !
+&#xE;&#x3;&#x5;&#x0;Je suis un commerçant généreux !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x2;&#x0;Mais oui, bien sûr que ça existe,
+voyons !
+J'ai un cœur de la taille d'un duplex
+six pièces, piscine, avec vue sur la
+mer&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1A;&#x0; Hem, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;pardon, je m'emporte !
+&#xE;&#x3;&#x0;&#x0;Cela dit&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; L'acompte doit être versé
+afin que la construction de ta
+maison puisse commencer, oui ?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Hein ?! Non ?&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Eh bien pas de souci !&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Du tout !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Il est inutile d'avancer la
+moindre clochette pour l'instant !
+&#xE;&#x3;&#x5;&#x0;Je suis un commerçant généreux !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x2;&#x0;Mais oui, bien sûr que ça existe,
+voyons !
+J'ai un cœur de la taille d'un duplex
+six pièces, piscine, avec vue sur la
+mer&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1A;&#x0; Hem, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;pardon, je m'emporte !
+&#xE;&#x3;&#x0;&#x0;Cela dit&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; L'acompte doit être versé
+afin que la construction de ta
+maison puisse commencer, oui ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="094" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x2;&#x0;Et ne t'inquiète pas !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Il est très
+facile de se faire de l'argent dans
+cette ville !
+&#xE;&#x3;&#xB;&#x0;Tu peux ramasser des &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fruits &#xE;&#x0;&#x3;&#x2;ÿÿet des
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;coquillages&#xE;&#x0;&#x3;&#x2;ÿÿ pour les vendre au
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;magasin de recyclage&#xE;&#x0;&#x3;&#x2;ÿÿ, oui ?
+&#xE;&#x3;&#x0;&#x0;Dès que tu le pourras, achète un
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;filet &#xE;&#x0;&#x3;&#x2;ÿÿet une &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;canne à pêche &#xE;&#x0;&#x3;&#x2;ÿÿau
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mélimélo&#xE;&#x0;&#x3;&#x2;ÿÿ de la rue commerçante...
+&#xE;&#x3;&#x1;&#x0;Ça te permettra d'aller attraper&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; des
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;insectes &#xE;&#x0;&#x3;&#x2;ÿÿet des &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;poissons &#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;que tu
+revendras à bon prix, hm ?
+&#xE;&#x3;&#x2;&#x0;De l'argent facile, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;je te le dis !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Pourquoi s'embêter avec un travail
+abrutissant et mal payé, &#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;oui ?
+&#xE;&#x3;&#x0;&#x0;Alors, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;quand tu auras réuni &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;viens me voir, surtout !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Bon courage, bon courage !</original>
+			<edited>&#xE;&#x3;&#x2;&#x0;Et ne t'inquiète pas !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#x1;&#x0;Il est très
+facile de se faire de l'argent dans
+cette ville !
+&#xE;&#x3;&#xB;&#x0;Tu peux ramasser des &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;fruits &#xE;&#x0;&#x3;&#x2;ÿÿet des
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;coquillages&#xE;&#x0;&#x3;&#x2;ÿÿ pour les vendre au
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;magasin de recyclage&#xE;&#x0;&#x3;&#x2;ÿÿ, oui ?
+&#xE;&#x3;&#x0;&#x0;Dès que tu le pourras, achète un
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;filet &#xE;&#x0;&#x3;&#x2;ÿÿet une &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;canne à pêche &#xE;&#x0;&#x3;&#x2;ÿÿau
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Mélimélo&#xE;&#x0;&#x3;&#x2;ÿÿ de la rue commerçante...
+&#xE;&#x3;&#x1;&#x0;Ça te permettra d'aller attraper&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; des
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;insectes &#xE;&#x0;&#x3;&#x2;ÿÿet des &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;poissons &#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;que tu
+revendras à bon prix, hm ?
+&#xE;&#x3;&#x2;&#x0;De l'argent facile, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;je te le dis !&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;
+Pourquoi s'embêter avec un travail
+abrutissant et mal payé, &#xE;&#x3;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;oui ?
+&#xE;&#x3;&#x0;&#x0;Alors, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;quand tu auras réuni &#xE;&#x0;&#x3;&#x2;&#x2;&#x0;10 000
+clochettes&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;viens me voir, surtout !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;Bon courage, bon courage !</edited>
+			<subEntries />
+		</entry>
+		<entry name="095" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;C'est toi !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;Es-tu enfin
+prêt&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à emménager ?</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Ah, &#xE;&#x5;&#x0;&#x0; !&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#x1;&#x0;C'est toi !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;Es-tu enfin
+prêt&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; à emménager ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="096" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;te
+plairait, hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui !
+Attends !</original>
+			<edited>&#xE;&#xE;&#x3;&#x0;&#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x1;&#x0; &#xE;&#x3;&#x17;&#x0;te
+plairait, hm ?&#xE;&#xD;&#x8;&#x2;&#x2;Í&#xE;&#xF;&#x5;&#x4;&#x15;&#x0;(&#x0;
+Oui !
+Attends !</edited>
+			<subEntries />
+		</entry>
+		<entry name="097" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Je me permets de te reposer la
+question... Quelle couleur de toit
+souhaites-tu, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Je me permets de te reposer la
+question... Quelle couleur de toit
+souhaites-tu, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="098" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, je crois que cette
+partie de ta maison est déjà en
+cours de travaux, oui, oui !
+&#xE;&#x3;&#x0;&#x0;Et malheureusement, il n'est pas du
+tout possible d'annuler des travaux
+qui ont démarré, non, non !
+Si tu tiens vraiment à modifier
+cette partie, il faudra le faire
+plus tard, hm ?</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, je crois que cette
+partie de ta maison est déjà en
+cours de travaux, oui, oui !
+&#xE;&#x3;&#x0;&#x0;Et malheureusement, il n'est pas du
+tout possible d'annuler des travaux
+qui ont démarré, non, non !
+Si tu tiens vraiment à modifier
+cette partie, il faudra le faire
+plus tard, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="099" offset="00" relocatable="true" max_length="0">
+			<original>Ah, &#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+qui va servir à rénover ta maison ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Je comprends ton impatience, oui,
+oui ! Une si belle pièce... &#xE;&#xE;&#x8;&#x14;&#x0;Í&#x4;&#x0;I&#x0;l&#x0;&#x8;&#x0;E&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; ornera
+ta demeure dès demain matin, hm ?</original>
+			<edited>Ah, &#xE;&#xE;&#x1;&#x0;&#xE;&#x11;&#x3;&#x2;&#x0;&#x0;
+qui va servir à rénover ta maison ?&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Je comprends ton impatience, oui,
+oui ! Une si belle pièce... &#xE;&#xE;&#x8;&#x14;&#x0;Í&#x4;&#x0;I&#x0;l&#x0;&#x8;&#x0;E&#x0;l&#x0;l&#x0;e&#x0;&#x0;&#x0; ornera
+ta demeure dès demain matin, hm ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="101" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oui !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;tu arrives à point
+nommé !&#xE;&#x7;&#x1;&#x0; J'aimerais te présenter
+quelqu'un.
+&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;Voici &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;président de
+l'Académie des Joyeux Décorateurs.&#xE;&#x0;&#x4;&#x0;&#xE;&#xC;&#x3;&#x0;&#xE;&#x3;&#x1;&#x0;Il viendra régulièrement ici apporter
+ses conseils pour l'édification de
+splendides demeures.&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oui !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;tu arrives à point
+nommé !&#xE;&#x7;&#x1;&#x0; J'aimerais te présenter
+quelqu'un.
+&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;Voici &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;président de
+l'Académie des Joyeux Décorateurs.&#xE;&#x0;&#x4;&#x0;&#xE;&#xC;&#x3;&#x0;&#xE;&#x3;&#x1;&#x0;Il viendra régulièrement ici apporter
+ses conseils pour l'édification de
+splendides demeures.&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="102" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Hé. Toi. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ravi de te rencontrer.&#xE;&#x0;&#x4;&#x0;Moi ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Comme &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Nook&#xE;&#x0;&#x3;&#x2;ÿÿ disait&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Je suis 
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ, de l'Académie des Joyeux
+Décorateurs.
+J'en suis le président local. Hop.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Qu'est-ce que tu dis de ça ?&#xE;
+&#x1A;&#x4;g&#x0;h&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x2;&#x0;&#xE;&#xC;&#x4;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Hé. Toi. &#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;Ravi de te rencontrer.&#xE;&#x0;&#x4;&#x0;Moi ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Comme &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Nook&#xE;&#x0;&#x3;&#x2;ÿÿ disait&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; Je suis 
+&#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ, de l'Académie des Joyeux
+Décorateurs.
+J'en suis le président local. Hop.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+Qu'est-ce que tu dis de ça ?&#xE;
+&#x1A;&#x4;g&#x0;h&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="103" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Tu es le maire ? De cette ville ?
+Quelle veine.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Tu as une maison à &#xE;&#x5;&#x5;&#x0; ?
+Bravo. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu es &#xE;&#xE;&#x6;8&#x18;&#x0;u&#x0;n&#x0; &#x0;c&#x0;h&#x0;i&#x0;c&#x0; &#x0;t&#x0;y&#x0;p&#x0;e&#x0;&#x1C;&#x0;u&#x0;n&#x0;e&#x0; &#x0;c&#x0;h&#x0;i&#x0;c&#x0; &#x0;f&#x0;i&#x0;l&#x0;l&#x0;e&#x0; !</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Tu es le maire ? De cette ville ?
+Quelle veine.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Tu as une maison à &#xE;&#x5;&#x5;&#x0; ?
+Bravo. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu es &#xE;&#xE;&#x6;8&#x18;&#x0;u&#x0;n&#x0; &#x0;c&#x0;h&#x0;i&#x0;c&#x0; &#x0;t&#x0;y&#x0;p&#x0;e&#x0;&#x1C;&#x0;u&#x0;n&#x0;e&#x0; &#x0;c&#x0;h&#x0;i&#x0;c&#x0; &#x0;f&#x0;i&#x0;l&#x0;l&#x0;e&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="104" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0; ? Chouette coin. Tu as
+acheté une maison ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bravo !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;&#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x5;&#x0; ? Chouette coin. Tu as
+acheté une maison ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Bravo !</edited>
+			<subEntries />
+		</entry>
+		<entry name="105" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Voici les faits. Pas de blabla. Juste
+les faits.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; L'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Académie des Joyeux
+Décorateurs&#xE;&#x0;&#x3;&#x2;ÿÿ ?
+Avant, juste une pièce. Pas de
+chichi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; Maintenant ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Des pièces ?
+Hop. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Toutes les pièces ? Hop hop.
+On fait tout ça. Tout le toutim.&#xE;&#x0;&#x4;&#x0;Maisons heureuses ? Gens heureux !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Correct ? Correct. &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;On est des
+experts. On assure. Hop !
+&#xE;&#x3;&#x1;&#x0;Un grand pas en avant pour nous. Le
+monde change. On change le monde.
+On est prêts.
+&#xE;&#x3;&#x0;&#x0;Ça ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Nook Immobilier a créé ce
+stand. Juste pour &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ. Hop !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Pourquoi ? Moi. Toi. Occasions.
+B.a.-ba des affaires. Là. Tout de
+suite. Juste pour les membres.
+&#xE;&#x3;&#x1;&#x0;Tu veux parler, &#xE;&#x5;&#x0;&#x0; ? Tu sais
+où me trouver. &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Viens me voir. Hop.&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Voici les faits. Pas de blabla. Juste
+les faits.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; L'&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;Académie des Joyeux
+Décorateurs&#xE;&#x0;&#x3;&#x2;ÿÿ ?
+Avant, juste une pièce. Pas de
+chichi&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x3;&#x0;&#x0; Maintenant ? &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Des pièces ?
+Hop. &#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;Toutes les pièces ? Hop hop.
+On fait tout ça. Tout le toutim.&#xE;&#x0;&#x4;&#x0;Maisons heureuses ? Gens heureux !&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+Correct ? Correct. &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;On est des
+experts. On assure. Hop !
+&#xE;&#x3;&#x1;&#x0;Un grand pas en avant pour nous. Le
+monde change. On change le monde.
+On est prêts.
+&#xE;&#x3;&#x0;&#x0;Ça ? &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Nook Immobilier a créé ce
+stand. Juste pour &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ. Hop !&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x3;&#x0;Pourquoi ? Moi. Toi. Occasions.
+B.a.-ba des affaires. Là. Tout de
+suite. Juste pour les membres.
+&#xE;&#x3;&#x1;&#x0;Tu veux parler, &#xE;&#x5;&#x0;&#x0; ? Tu sais
+où me trouver. &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;Viens me voir. Hop.&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="106" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Plutôt bien résumé, hm ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Si jamais tu as besoin de conseils en
+matière de déco,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ devrait
+pouvoir t'aider, oui ?</original>
+			<edited>&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x5;&#x0;&#xE;&#xC;&#x1;&#x0;&#xE;&#xC;&#x3;&#x0;&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Plutôt bien résumé, hm ?&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Si jamais tu as besoin de conseils en
+matière de déco,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ devrait
+pouvoir t'aider, oui ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="107" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="108" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="109" offset="00" relocatable="true" max_length="0">
+			<original>Ta maison ressemblera à &#xE;&#xE;&#x8;&#x18;&#x0;Í&#x6;&#x0;c&#x0;e&#x0;t&#x0;
+&#x0;c&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x8;"&#x0;Í&#xC;&#x0;e&#x0;x&#x0;q&#x0;u&#x0;i&#x0;s&#x0;&#xE;&#x0;e&#x0;x&#x0;q&#x0;u&#x0;i&#x0;s&#x0;e&#x0;&#x0;&#x0; &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; dès
+demain matin ! Oui, oui !
+&#xE;&#x3;&#x1;&#x0;Elle en sera sublimée, hm ? Tu ne
+vas pas en croire tes yeux !</original>
+			<edited>Ta maison ressemblera à &#xE;&#xE;&#x8;&#x18;&#x0;Í&#x6;&#x0;c&#x0;e&#x0;t&#x0;
+&#x0;c&#x0;e&#x0;t&#x0;t&#x0;e&#x0;&#x0;&#x0;
+&#xE;&#xE;&#x8;"&#x0;Í&#xC;&#x0;e&#x0;x&#x0;q&#x0;u&#x0;i&#x0;s&#x0;&#xE;&#x0;e&#x0;x&#x0;q&#x0;u&#x0;i&#x0;s&#x0;e&#x0;&#x0;&#x0; &#xE;&#x11;&#x3;&#x2;&#x0;&#x0; dès
+demain matin ! Oui, oui !
+&#xE;&#x3;&#x1;&#x0;Elle en sera sublimée, hm ? Tu ne
+vas pas en croire tes yeux !</edited>
+			<subEntries />
+		</entry>
+		<entry name="110" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;J'ai failli oublier,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0; !</original>
+			<edited>&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oh !&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1;&#x0;J'ai failli oublier,&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0; &#xE;&#x5;&#x0;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="111" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#xC;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oui !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;tu arrives à point
+nommé !&#xE;&#x7;&#x1;&#x0; J'aimerais te présenter
+quelqu'un.
+&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;Voici &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;président de
+l'Académie des Joyeux Décorateurs.&#xE;&#x0;&#x4;&#x0;&#xE;&#xC;&#x3;&#x0;&#xE;&#x3;&#x1;&#x0;Il viendra régulièrement ici apporter
+ses conseils pour l'édification de
+splendides demeures, oui, oui.&#xE;&#xC;	&#x0;</original>
+			<edited>&#xE;&#xC;&#x1;&#x0;&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x3;&#xF;&#x0;&#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Oui !&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#xE;&#x3;&#x0;&#xE;&#x5;&#x0;&#x0;, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;tu arrives à point
+nommé !&#xE;&#x7;&#x1;&#x0; J'aimerais te présenter
+quelqu'un.
+&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x8;&#x0;&#xE;&#x3;&#x0;&#x0;&#xE;&#xC;&#x0;&#x0;&#xE;&#xC;&#x7;&#x0;&#xE;&#xC;&#x1;&#x0;Voici &#xE;&#x0;&#x3;&#x2;&#x4;&#x0;Lionel&#xE;&#x0;&#x3;&#x2;ÿÿ, &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;président de
+l'Académie des Joyeux Décorateurs.&#xE;&#x0;&#x4;&#x0;&#xE;&#xC;&#x3;&#x0;&#xE;&#x3;&#x1;&#x0;Il viendra régulièrement ici apporter
+ses conseils pour l'édification de
+splendides demeures, oui, oui.&#xE;&#xC;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="112" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x3;&#x0;Tu es le maire ? De cette ville ?
+Quelle veine.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Tu as emménagé à &#xE;&#x5;&#x5;&#x0; ?
+Pour diriger la ville ? Bravo. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu es
+&#xE;&#xE;&#x6;8&#x18;&#x0;u&#x0;n&#x0; &#x0;c&#x0;h&#x0;i&#x0;c&#x0; &#x0;t&#x0;y&#x0;p&#x0;e&#x0;&#x1C;&#x0;u&#x0;n&#x0;e&#x0; &#x0;c&#x0;h&#x0;i&#x0;c&#x0; &#x0;f&#x0;i&#x0;l&#x0;l&#x0;e&#x0; !</original>
+			<edited>&#xE;&#x3;&#x3;&#x0;Tu es le maire ? De cette ville ?
+Quelle veine.&#xE;&#x0;&#x4;&#x0;&#xE;&#x3;&#x1;&#x0;Tu as emménagé à &#xE;&#x5;&#x5;&#x0; ?
+Pour diriger la ville ? Bravo. &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Tu es
+&#xE;&#xE;&#x6;8&#x18;&#x0;u&#x0;n&#x0; &#x0;c&#x0;h&#x0;i&#x0;c&#x0; &#x0;t&#x0;y&#x0;p&#x0;e&#x0;&#x1C;&#x0;u&#x0;n&#x0;e&#x0; &#x0;c&#x0;h&#x0;i&#x0;c&#x0; &#x0;f&#x0;i&#x0;l&#x0;l&#x0;e&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

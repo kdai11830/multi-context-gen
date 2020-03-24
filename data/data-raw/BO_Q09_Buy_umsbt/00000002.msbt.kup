@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Cool !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Content de pouvoir te faire
+plaisir !</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Cool !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Content de pouvoir te faire
+plaisir !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Cool.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est à toi, maintenant.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Cool.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; C'est à toi, maintenant.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3; &#x0;OK !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Marché conclu,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3; &#x0;OK !&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Marché conclu,&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>Tu as fait une affaire, &#xE;&#x5;&#x8;&#x0;.</original>
+			<edited>Tu as fait une affaire, &#xE;&#x5;&#x8;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;'&#x0;Ça fait déjà un moment que ça
+traîne ici,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; mais on voit que j'en ai
+pris soin.</original>
+			<edited>&#xE;&#x3;'&#x0;Ça fait déjà un moment que ça
+traîne ici,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; mais on voit que j'en ai
+pris soin.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>C'est un plaisir de faire des affaires
+avec toi.</original>
+			<edited>C'est un plaisir de faire des affaires
+avec toi.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

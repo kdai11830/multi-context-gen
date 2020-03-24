@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Si je commence par ça,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; il faudra 
+que je fasse attention à ce truc.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Mais je risque d'oublier ce machin...
+&#xE;&#x3;&#xF;&#x0;Oh ! Je ne t'ai pas vu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; venir, je suis
+en pleine réflexion là.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; On reparle
+plus tard, OK ? </original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Si je commence par ça,&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; il faudra 
+que je fasse attention à ce truc.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Mais je risque d'oublier ce machin...
+&#xE;&#x3;&#xF;&#x0;Oh ! Je ne t'ai pas vu&#xE;&#xE;&#x6;&#x6;&#x0;&#x0;&#x2;&#x0;e&#x0; venir, je suis
+en pleine réflexion là.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0; On reparle
+plus tard, OK ? </edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je suis en train de me
+demander ce que je vais manger
+ce soir&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+On pourra discuter une prochaine
+fois, si tu veux.</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Hmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Je suis en train de me
+demander ce que je vais manger
+ce soir&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+On pourra discuter une prochaine
+fois, si tu veux.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;Pardon, mais je ne peux pas te
+parler maintenant.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; J'ai quelque
+chose sur le feu !</original>
+			<edited>&#xE;&#x3;	&#x0;Pardon, mais je ne peux pas te
+parler maintenant.&#xE;&#x7;&#x0;&#x4;(&#x0;&#x0;&#x0; J'ai quelque
+chose sur le feu !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

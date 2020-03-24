@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Hmm?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Your face is looking kinda
+tired there.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Don't overdo it!</original>
+			<edited>Hmm?&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; Your face is looking kinda
+tired there.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Don't overdo it!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>I might be overstepping my bounds,
+but if you're tired, don't push it.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Be sure you get some rest, OK?!</original>
+			<edited>I might be overstepping my bounds,
+but if you're tired, don't push it.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;
+&#xE;&#x3;%&#x0;Be sure you get some rest, OK?!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x19;&#x0;Mmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;I'm gettin' kinda tired.&#xE;&#x0;&#x4;&#x0;You shouldn't push yourself too
+much, either.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Make sure you take a
+break every so often, all right?!</original>
+			<edited>&#xE;&#x3;&#x19;&#x0;Mmmmm&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x3;&#x0;&#x0;I'm gettin' kinda tired.&#xE;&#x0;&#x4;&#x0;You shouldn't push yourself too
+much, either.&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0; &#xE;&#x3;%&#x0;Make sure you take a
+break every so often, all right?!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

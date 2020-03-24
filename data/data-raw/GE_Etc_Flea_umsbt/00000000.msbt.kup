@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Ewww! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Did you just find a flea
+on me?! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xD;&#x0;Yuck-&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;yuck-&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;yuck!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Ewww! &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Did you just find a flea
+on me?! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;&#xD;&#x0;Yuck-&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;yuck-&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;yuck!</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;Ugh! Was that a FLEA?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Th-&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;thanks, I guess!</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;Ugh! Was that a FLEA?!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+Th-&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;thanks, I guess!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x12;&#x0;Eeeek! A flea? On ME? No way!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;That did not just happen!</original>
+			<edited>&#xE;&#x3;&#x12;&#x0;Eeeek! A flea? On ME? No way!&#xE;&#x7;&#x1;&#x0;
+&#xE;&#x3;&#xD;&#x0;That did not just happen!</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</original>
+			<edited>&#xE;	&#x1;&#x6;&#x5;&#x0;&#x6;&#x0;&#x7;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;	&#x0;I swear I bathe all the time!&#xE;&#x7;&#x1;&#x0;
+But maybe that &#xE;&#x5;&#xE;&#x2;&#x1;&#x0;
+bubble bath was a bad idea.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</original>
+			<edited>&#xE;&#x3;	&#x0;I swear I bathe all the time!&#xE;&#x7;&#x1;&#x0;
+But maybe that &#xE;&#x5;&#xE;&#x2;&#x1;&#x0;
+bubble bath was a bad idea.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;I'm totally relieved you caught that
+pest before anyone ELSE saw it,
+&#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;%&#x0;I'm totally relieved you caught that
+pest before anyone ELSE saw it,
+&#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xD;&#x0;Please, &#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;please, &#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;please! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Don't tell
+anyone about this! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Especially
+not &#xE;&#x5;&#x2;&#x0;!</original>
+			<edited>&#xE;&#x3;&#xD;&#x0;Please, &#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;please, &#xE;&#x7;&#x0;&#x4;&#x3;&#x0;&#x0;&#x0;please! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Don't tell
+anyone about this! &#xE;&#x7;&#x0;&#x4;
+&#x0;&#x0;&#x0;Especially
+not &#xE;&#x5;&#x2;&#x0;!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

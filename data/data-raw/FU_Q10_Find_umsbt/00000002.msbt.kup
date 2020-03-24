@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh ! Tu m'as trouvée ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;'&#x0;Moi qui étais
+si contente de ma cachette...&#xE;&#x0;&#x4;&#x0;Tu ne nous avais pas dit que tu étais
+champio&#xE;&#xE;&#x6;&#xC;&#x2;&#x0;n&#x0;&#x6;&#x0;n&#x0;n&#x0;e&#x0; de cache-cache,
+&#xE;&#x5;&#x8;&#x0; !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh ! Tu m'as trouvée ! &#xE;&#x7;&#x1;&#x0;&#xE;&#x3;'&#x0;Moi qui étais
+si contente de ma cachette...&#xE;&#x0;&#x4;&#x0;Tu ne nous avais pas dit que tu étais
+champio&#xE;&#xE;&#x6;&#xC;&#x2;&#x0;n&#x0;&#x6;&#x0;n&#x0;n&#x0;e&#x0; de cache-cache,
+&#xE;&#x5;&#x8;&#x0; !</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x11;&#x0;Oh, comment tu as fait pour me
+trouver, &#xE;&#x5;&#x8;&#x0; ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Tu as un
+radar ou quoi ?</original>
+			<edited>&#xE;&#x3;&#x11;&#x0;Oh, comment tu as fait pour me
+trouver, &#xE;&#x5;&#x8;&#x0; ? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x3;&#x1;&#x0;Tu as un
+radar ou quoi ?</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x10;&#x0;Oh, tu m'as trouvée !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;	&#x0; Je pensais
+t'échapper ici, mais visiblement,
+je t'ai sous-estim&#xE;&#xE;&#x6;
+&#x2;&#x0;é&#x0;&#x4;&#x0;é&#x0;e&#x0; !</original>
+			<edited>&#xE;&#x3;&#x10;&#x0;Oh, tu m'as trouvée !&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;	&#x0; Je pensais
+t'échapper ici, mais visiblement,
+je t'ai sous-estim&#xE;&#xE;&#x6;
+&#x2;&#x0;é&#x0;&#x4;&#x0;é&#x0;e&#x0; !</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

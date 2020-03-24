@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>Oh yeah?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Talk to you later then.</original>
+			<edited>Oh yeah?&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; Talk to you later then.</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Forgot what you were going to 
+say? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Happens to me all the time,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Forgot what you were going to 
+say? &#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;Happens to me all the time,
+&#xE;&#x7;&#x0;&#x4;&#x8;&#x0;&#x0;&#x0;&#xE;&#x5;&#x7;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;Oh.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; OK then.</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;Oh.&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; OK then.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

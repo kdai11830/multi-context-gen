@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xF;&#x0;¡Eh! Esto me suena mucho.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0;
+¿No estaré soñando, &#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;&#xF;&#x0;¡Eh! Esto me suena mucho.&#xE;&#x7;&#x1;&#x0;&#xE;&#x3;%&#x0;
+¿No estaré soñando, &#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&amp;&#x0;¡Pasa, pasa, como si estuvieras
+en tu casa, &#xE;&#x5;&#x7;&#x0;!</original>
+			<edited>&#xE;&#x3;&amp;&#x0;¡Pasa, pasa, como si estuvieras
+en tu casa, &#xE;&#x5;&#x7;&#x0;!</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;%&#x0;Es un sueño...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿o una ilusión,
+&#xE;&#x5;&#x7;&#x0;?</original>
+			<edited>&#xE;&#x3;%&#x0;Es un sueño...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; ¿o una ilusión,
+&#xE;&#x5;&#x7;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#xB;&#x0;Esto es un sueño, ¿no?&#xE;&#x7;&#x1;&#x0;
+Entonces, cualquier cosa que
+imaginemos se hará realidad.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+A ver: ¡&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0;
+gigante!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;Vaya, no ha funcionado,
+&#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1B;&#x0;Qué pena...</original>
+			<edited>&#xE;&#x3;&#xB;&#x0;Esto es un sueño, ¿no?&#xE;&#x7;&#x1;&#x0;
+Entonces, cualquier cosa que
+imaginemos se hará realidad.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;.&#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;
+A ver: ¡&#xE;&#xE;&#x2;&#x0;&#xE;&#x5;&#x10;&#x2;&#x0;&#x0;
+gigante!&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; &#xE;&#x3;&#xF;&#x0;Vaya, no ha funcionado,
+&#xE;&#x5;&#x7;&#x0;.&#xE;&#x7;&#x1;&#x0; &#xE;&#x3;&#x1B;&#x0;Qué pena...</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x1;&#x0;¡Bienvenid&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0; a Villa &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x1;&#x0;!
+Es un lugar de ensueño...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡literalmente!</original>
+			<edited>&#xE;&#x3;&#x1;&#x0;¡Bienvenid&#xE;&#xE;&#x6;&#x8;&#x2;&#x0;o&#x0;&#x2;&#x0;a&#x0; a Villa &#xE;&#x7;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0;&#xE;&#x5;&#x1;&#x0;!
+Es un lugar de ensueño...&#xE;&#x7;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+¡literalmente!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>
