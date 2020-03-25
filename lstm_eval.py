@@ -11,7 +11,7 @@ import random
 from models.char_lstm import CharLSTM
 from models.w2v_lstm import EmbeddingLSTM
 
-rootdir = 'C:\\Users\\kdai1\\Desktop\\Schoolwork\\Thesis\\rnn_4_epoch_all_data_w2v.net'
+rootdir = 'C:\\Users\\kdai1\\Desktop\\Schoolwork\\Thesis\\multi-context-gen\\models\\trained\\rnn_4_epoch_all_data_w2v.net'
 
 def load_checkpoint(path):
     checkpoint = torch.load(path, map_location=torch.device('cpu'))

@@ -112,10 +112,10 @@ if __name__ == '__main__':
 
     if 'Windows' in plf:
         # rootdir = 'C:\\Users\\Kevin Dai\\Desktop\\Schoolwork\\Thesis\\data\\3-classes-replaced-tags'
-        rootdir = 'C:\\Users\\kdai1\\Desktop\\Schoolwork\\Thesis'
+        rootdir = 'C:\\Users\\kdai1\\Desktop\\Schoolwork\\Thesis\\multi-context-gen'
         split_key = '\\'
     else:
-        rootdir = '/n/home13/kdai'
+        rootdir = '/n/home13/kdai/multi-context-gen'
         split_key = '/'
 
     # Check if GPU is available
