@@ -172,9 +172,9 @@ if __name__ == '__main__':
     print(net)
 
     # Declaring the hyperparameters
-    batch_size = 32 # smaller => less memory used
+    batch_size = 64 # smaller => less memory used
     seq_length = 100
-    n_epochs = 10 # start smaller if you are just testing initial behavior
+    n_epochs = 20 # start smaller if you are just testing initial behavior
 
     # print(net)
 
@@ -184,10 +184,10 @@ if __name__ == '__main__':
     net.train()
 
     # train the model
-    train(net, encoded, epochs=n_epochs, batch_size=batch_size, seq_length=seq_length, lr=0.001, print_every=2, train_on_gpu=train_on_gpu)
+    train(net, encoded, epochs=n_epochs, batch_size=batch_size, seq_length=seq_length, lr=0.01, print_every=2, train_on_gpu=train_on_gpu)
 
     # Saving the model
-    model_name = 'rnn_4_epoch_all_data_w2v.net'
+    model_name = 'models' + split_key + 'rnn_' + str(n_epochs) + '_epoch_all_data_w2v.net'
 
     checkpoint = {'n_hidden': net.n_hidden,
                   'n_layers': net.n_layers,
