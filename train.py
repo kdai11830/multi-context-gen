@@ -172,7 +172,7 @@ if __name__ == '__main__':
     print(net)
 
     # Declaring the hyperparameters
-    batch_size = 64 # smaller => less memory used
+    batch_size = 128 # smaller => less memory used
     seq_length = 100
     n_epochs = 20 # start smaller if you are just testing initial behavior
 
