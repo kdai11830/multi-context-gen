@@ -173,7 +173,7 @@ def get_pretrained_weights(model_path=None, data=None, lower=True):
     # tokenize into words
     word_tokens = tokenize_data(data, lower)
     if model_path is None:
-        model = Word2Vec(word_tokens, min_count=3) # for now use default params, later cross validate(?)
+        model = Word2Vec(word_tokens, min_count=3, size=300) # for now use default params, later cross validate(?)
         model.save('models' + split_key + 'trained' + split_key + 'w2v_embeddings.model')
         # return model.wv, word_tokens
     return model, word_tokens
