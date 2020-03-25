@@ -66,13 +66,10 @@ class EmbeddingLSTM(nn.Module):
         # print('is cuda: ', hidden[1].is_cuda)
         # print(hidden)
         x = x.type(torch.LongTensor)
-        print(type(x))
-        print(x.size())
         if self.train_on_gpu:
             x = x.to(torch.device('cuda'))
             
         # print(self.embedding(x))
-        print(self.embedding(x).size())
         r_output, hidden = self.lstm(self.embedding(x), hidden)
         
         #pass through a dropout layer

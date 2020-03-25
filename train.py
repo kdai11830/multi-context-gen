@@ -136,7 +136,8 @@ if __name__ == '__main__':
     w2v_model_path = rootdir + split_key + 'models' + split_key + 'trained' + split_key + 'w2v_embeddings.model'
     w2v_model, word_tokens = get_pretrained_weights(model_path=None, data=data)
     weights = w2v_model.wv
-    word_tokens = list(chain.from_iterable(word_tokens))
+    # word_tokens = list(chain.from_iterable(word_tokens))
+    word_tokens = list(w2v_model.wv.vocab.keys())
     print('word tokens length: ', len(word_tokens))
 
     print('--------EXAMPLE--------\n',text[:1000],'\n------------------------\n')
@@ -173,7 +174,7 @@ if __name__ == '__main__':
     # Declaring the hyperparameters
     batch_size = 32 # smaller => less memory used
     seq_length = 100
-    n_epochs = 4 # start smaller if you are just testing initial behavior
+    n_epochs = 10 # start smaller if you are just testing initial behavior
 
     # print(net)
 

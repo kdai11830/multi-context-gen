@@ -56,7 +56,7 @@ def predict(net, token, h=None, top_k=None, train_on_gpu=False):
     return net.int2token[token], h
             
 # Declaring a method to generate new text
-def sample(net, lines=1, stop_after=5000, prime='the', top_k=None, train_on_gpu=False):
+def sample(net, lines=1, stop_after=500, prime='the', top_k=None, train_on_gpu=False):
             
     if(train_on_gpu):
         net.cuda()
@@ -75,9 +75,9 @@ def sample(net, lines=1, stop_after=5000, prime='the', top_k=None, train_on_gpu=
             tokens.append(token)
     elif isinstance(net, EmbeddingLSTM):
         tokens = word_tokenize(prime)
-        print(tokens)
+        # print(tokens)
         h = net.init_hidden(1)
-        for token in tokens:
+        for token in word_tokenize(prime):
             token, h = predict(net, prime, h, top_k=top_k)
             tokens.append(token)
     else:
@@ -97,7 +97,7 @@ def sample(net, lines=1, stop_after=5000, prime='the', top_k=None, train_on_gpu=
         stop += 1
 
 
-    return ''.join(tokens)
+    return ' '.join(tokens)
 
 
 if __name__ == '__main__':
