@@ -204,7 +204,7 @@ if __name__ == '__main__':
     train(net, encoded, epochs=n_epochs, batch_size=batch_size, seq_length=seq_length, lr=lr, print_every=2, train_on_gpu=train_on_gpu)
 
     # Saving the model
-    model_name = 'models' + split_key + 'rnn_' + str(n_epochs) + '_epoch_all_data_w2v.net'
+    model_name = 'models' + split_key + 'trained' + split_key + 'rnn_' + str(n_epochs) + '_epoch_all_data_w2v.net'
 
     checkpoint = {'n_hidden': net.n_hidden,
                   'n_layers': net.n_layers,

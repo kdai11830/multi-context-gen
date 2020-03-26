@@ -12,4 +12,4 @@
 module load cuda/9.0-fasrc02
 module load Anaconda3/5.0.1-fasrc01
 source activate myenv
-python ./train.py
+python ./train.py data/3-classes-replaced-tags models/trained/w2v_embeddings.model -b 16 -e 40 -lr 0.001 
