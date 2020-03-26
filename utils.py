@@ -26,6 +26,19 @@ if 'Windows' in plf:
 else:
     split_key = '/'
 
+################################## MISC ##################################
+
+def str2bool(v):
+    if isinstance(v, bool):
+       return v
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+
+################################## DATA LOADING ##################################
 
 def load_data(rootdir, n_files=0):
     # print("start loading data")
@@ -164,18 +177,20 @@ def get_pretrained_weights(model_path=None, data=None, lower=True):
         print("WRONG INPUTS")
         return
 
-    # load model if exists
-    if model_path is not None:
-        model = gensim.models.KeyedVectors.load_word2vec_format(model_path)
-
-    # else train new w2v model
-
     # tokenize into words
     word_tokens = tokenize_data(data, lower)
-    if model_path is None:
-        model = Word2Vec(word_tokens, min_count=3, size=300) # for now use default params, later cross validate(?)
-        model.save('models' + split_key + 'trained' + split_key + 'w2v_embeddings.model')
-        # return model.wv, word_tokens
+    # load model if exists
+    if model_path is not None:
+        if os.path.exists(model_path):
+            model = Word2Vec.load(model_path)
+        else:
+            model = Word2Vec(word_tokens, min_count=3, size=300) # for now use default params, later cross validate(?)
+            model.save('models' + split_key + 'trained' + split_key + 'w2v_embeddings.model')
+
+    else:
+        print('PROVIDE W2V FILE PATH') # should never reach here due to command line args
+        return
+
     return model, word_tokens
 
 

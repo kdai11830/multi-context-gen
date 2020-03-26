@@ -13,10 +13,12 @@ from itertools import chain
 import shutil
 import re
 import random
+import argparse
 
 from models.char_lstm import CharLSTM
 from models.w2v_lstm import EmbeddingLSTM
 
+import utils
 from utils import load_data, clean_data, load_data_edited, tokenize_data, one_hot_encode, get_batches, get_pretrained_weights, create_embedding
 
 from eval import predict, sample
@@ -106,6 +108,7 @@ def train(net, data, epochs=10, batch_size=10, seq_length=50, lr=0.001, clip=5, 
 
 if __name__ == '__main__':
 
+    # os variables 
     plf = platform.system()
     rootdir = ''
     split_key = ''
@@ -118,6 +121,19 @@ if __name__ == '__main__':
         rootdir = '/n/home13/kdai/multi-context-gen'
         split_key = '/'
 
+    # declare and parse command line arguments
+    parser = argparse.ArgumentParser(description='Training script')
+    parser.add_argument('data_path', type=str, help='path to training data')
+    parser.add_argument('w2v_path', type=str, help='path to Word2Vec model')
+    parser.add_argument('-n', '--n_hidden', type=int, nargs='?', default=512, help='n_hidden')
+    parser.add_argument('-l', '--n_layers', type=int, nargs='?', default=2, help='n_layers')
+    parser.add_argument('-b', '--batch_size', type=int, nargs='?', default=32, help='mini batch size')
+    parser.add_argument('-s', '--seq_length', type=int, nargs='?', default=100, help='sequence length')
+    parser.add_argument('-e', '--n_epochs', type=int, nargs='?', default=10, help='training epochs')
+    parser.add_argument('-r', '--lr', type=float, nargs='?', default=0.0001, help='learning rate')
+
+    namespace = parser.parse_args()
+
     # Check if GPU is available
     train_on_gpu = torch.cuda.is_available()
     if(train_on_gpu):
@@ -127,14 +143,14 @@ if __name__ == '__main__':
 
     # data = load_data(rootdir, n_files=0)
     # data = clean_data(data)
-    data = load_data_edited(rootdir + split_key + 'data' + split_key + '3-classes-replaced-tags')
+    data = load_data_edited(rootdir + split_key + namespace.data_path)
     random.shuffle(data)
     print('data length: ', len(data))
     text = '\n'.join(data)
     print('text length: ', len(text))
     print('training W2V model...')
-    w2v_model_path = rootdir + split_key + 'models' + split_key + 'trained' + split_key + 'w2v_embeddings.model'
-    w2v_model, word_tokens = get_pretrained_weights(model_path=None, data=data)
+    w2v_model_path = rootdir + split_key + namespace.w2v_path
+    w2v_model, word_tokens = get_pretrained_weights(model_path=w2v_model_path, data=data)
     weights = w2v_model.wv
     # word_tokens = list(chain.from_iterable(word_tokens))
     word_tokens = list(w2v_model.wv.vocab.keys())
@@ -164,17 +180,18 @@ if __name__ == '__main__':
     # encoded[:100]
                           
     # Define and print the net
-    n_hidden=512
-    n_layers=2
+    n_hidden=namespace.n_hidden
+    n_layers=namespace.n_layers
 
     # net = CharLSTM(chars, n_hidden, n_layers, train_on_gpu=train_on_gpu)
     net = EmbeddingLSTM(tokens, n_hidden, n_layers, train_on_gpu=train_on_gpu, w2v=w2v_model)
     print(net)
 
     # Declaring the hyperparameters
-    batch_size = 128 # smaller => less memory used
-    seq_length = 100
-    n_epochs = 20 # start smaller if you are just testing initial behavior
+    batch_size = namespace.batch_size # smaller => less memory used
+    seq_length = namespace.seq_length
+    n_epochs = namespace.n_epochs # start smaller if you are just testing initial behavior
+    lr = namespace.lr
 
     # print(net)
 
@@ -184,7 +201,7 @@ if __name__ == '__main__':
     net.train()
 
     # train the model
-    train(net, encoded, epochs=n_epochs, batch_size=batch_size, seq_length=seq_length, lr=0.1, print_every=2, train_on_gpu=train_on_gpu)
+    train(net, encoded, epochs=n_epochs, batch_size=batch_size, seq_length=seq_length, lr=lr, print_every=2, train_on_gpu=train_on_gpu)
 
     # Saving the model
     model_name = 'models' + split_key + 'rnn_' + str(n_epochs) + '_epoch_all_data_w2v.net'
@@ -208,4 +225,4 @@ if __name__ == '__main__':
     # load_model(net, model_name)
         
     # Generating new text
-    print(sample(net, lines=20, prime='an', top_k=5, train_on_gpu=train_on_gpu))
+    print(sample(net, lines=20, prime='an', top_k=8, train_on_gpu=train_on_gpu))
