@@ -12,4 +12,4 @@
 module load cuda/9.0-fasrc02
 module load Anaconda3/5.0.1-fasrc01
 source activate myenv
-python ./encoder-agnostic-model/train.py -config ./encoder-agnostic-model/config/ac/transformer_ac_psa.yml -run_name psa -gpt2_params_path ./encoder-agnostic-model/gpt2/models/124M/ -gpt2_init_embanddec
+python ./encoder-agnostic-model/train.py -config ./encoder-agnostic-model/config/ac/transformer_ac_psa.yml -save_config ./encoder-agnostic-model/config/ac/transformer_ac_psa2.yml -run_name psa -gpt2_params_path ./encoder-agnostic-model/gpt2/models/124M/ -gpt2_init_embanddec
