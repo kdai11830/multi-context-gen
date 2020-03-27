@@ -464,6 +464,7 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
                                 try:
                                     assert pointer_i.shape == array.shape or padded_vocab
                                 except AssertionError as e:
+                                    logger.info(pointer)
                                     e.args += (pointer_i.shape, array.shape)
                                     raise
                                 if init_something:
