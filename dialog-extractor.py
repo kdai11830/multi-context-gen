@@ -3,10 +3,15 @@ import re
 import codecs
 import shutil
 import xml.etree.ElementTree as ET
-import html
+# import html
 from collections import Counter
 from itertools import islice
 import platform
+
+import nltk
+from nltk.tokenize import word_tokenize
+
+import random
 
 plf = platform.system()
 rootdir = ''
@@ -14,10 +19,10 @@ split_key = ''
 
 if 'Windows' in plf:
     # rootdir = 'C:\\Users\\Kevin Dai\\Desktop\\Schoolwork\\Thesis\\Talk'
-    rootdir = 'C:\\Users\\Kevin Dai\\Desktop\\Schoolwork\\Thesis\\Talk'
+    rootdir = 'C:\\Users\\kdai1\\Desktop\\Schoolwork\\Thesis\\multi-context-gen'
     split_key = '\\'
 else:
-    rootdir = '/n/home13/kdai/Talk'
+    rootdir = '/n/home13/kdai/multi-context-gen'
     split_key = '/'
 
 
@@ -259,6 +264,76 @@ def check_encodings():
 			print('UnicodeDecodeError reached with', c, ' encoding')
 
 
+# combine all data into one file
+# separate into labels and data points
+def compile_data(rootdir, target_dir):
+	data = []
+	directory = os.fsencode(rootdir)
+	for file in os.listdir(directory):
+		filename = os.fsdecode(file)
+		print(filename)
+		with open(rootdir + split_key + filename, 'r') as rf:
+			for line in rf.readlines():
+				data.append(line)
+
+	random.shuffle(data)
+
+	labels = []
+	utterances = []
+	for line in data:
+		words = word_tokenize(line)
+		label = ' '.join(words[:3])
+		utterance = ' '.join(words[3:])
+		labels.append(label)
+		utterances.append(utterance)
+
+	# split to train, test, and validation
+	test_idx = len(data) // 2
+	test_label = labels[:test_idx]
+	test_data = utterances[:test_idx]
+
+	train_idx = len(data) - int(len(data) * 0.08)
+	train_label = labels[test_idx:train_idx]
+	train_data = utterances[test_idx:train_idx]
+
+	val_label = labels[train_idx:]
+	val_data = utterances[train_idx:]
+
+	# write all to files
+	with open(target_dir + split_key + 'test.src', 'w') as wlabels:
+		for label in test_label:
+			wlabels.write(label + '\n')
+	with open(target_dir + split_key + 'train.src', 'w') as wlabels:
+		for label in train_label:
+			wlabels.write(label + '\n')
+	with open(target_dir + split_key + 'valid.src', 'w') as wlabels:
+		for label in val_label:
+			wlabels.write(label + '\n')
+	with open(target_dir + split_key + 'test.tgt', 'w') as wdata:
+		for utterance in test_data:
+			utterance = utterance.replace('$ ENTITY', '$ENTITY')
+			wdata.write(utterance + '\n')
+	with open(target_dir + split_key + 'train.tgt', 'w') as wdata:
+		for utterance in train_data:
+			utterance = utterance.replace('$ ENTITY', '$ENTITY')
+			wdata.write(utterance + '\n')
+	with open(target_dir + split_key + 'valid.tgt', 'w') as wdata:
+		for utterance in val_data:
+			utterance = utterance.replace('$ ENTITY', '$ENTITY')
+			wdata.write(utterance + '\n')
+
+def get_vocab(rootdir):
+	script = []
+	with open(rootdir, 'r', encoding='utf-8') as f:
+		for line in f.readlines():
+			words = word_tokenize(line)
+			script += words
+
+	vocab = list(set(script))
+	with open(rootdir + '.txt', 'w', encoding='utf-8') as wf:
+		for term in vocab:
+			wf.write(term + '\n')
+
 
 def main():
 	minimum_size = 3
@@ -337,4 +412,6 @@ def main():
 if __name__ == '__main__':
 	# main()
 	# check_encodings()
-	replace_tags()
+	# replace_tags()
+	# compile_data(rootdir + split_key + 'data' + split_key + '3-classes-replaced-tags', rootdir + split_key + 'data' + split_key + 'data-compiled')
+	get_vocab(rootdir + split_key + 'data' + split_key + 'data-compiled' + split_key + 'data.txt.bpe')
