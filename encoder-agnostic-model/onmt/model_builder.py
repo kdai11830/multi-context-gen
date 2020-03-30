@@ -154,6 +154,7 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
 
     # Build decoder.
     tgt_field = fields["tgt"]
+    print('ASDGasdhasdhasdhasehaehadfhadH', tgt_field)
     tgt_emb = build_embeddings(model_opt, tgt_field, for_encoder=False)
 
     # Share the embedding matrix - preprocess with share_vocab required.
@@ -339,6 +340,7 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
                 if model_opt.GPT_representation_mode != 'none':
                     load_embs = []
                     if model_opt.GPT_representation_loc in ['both', 'src']:
+                        print("qiuaghjkacbnm,asdbnjk")
                         load_models.append(src_emb.gpt_model)
                         load_embs.append(src_emb)
                     if model_opt.GPT_representation_loc in ['both', 'tgt']:
@@ -347,11 +349,13 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
                     
                 else:
                     if model_opt.gpt2_init_embanddec or model_opt.simple_fusion:
+                        print("ASDHAEJAEJADFAJAJ")
                         load_models = [load_decoder]
                     elif model_opt.gpt2_init_embandenc:
                         load_models = [encoder]
                 
                 it_list = list(checkpoint['gpt2_params'])
+                print('it_list: ', len(it_list))
                 for lm_idx, load_model in enumerate(load_models):
                     #print(lm_idx, load_model)
                     for name, array in it_list:
@@ -370,7 +374,10 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
                                 pointer = [load_embs[lm_idx].make_embedding.emb_luts[0].weight, gen_linear.weight]
                             else:
                                 pointer = [load_model.embeddings.make_embedding.emb_luts[0].weight]
+                                # print(load_model)
+                                print(lm_idx, pointer[0].shape)
                                 if not model_opt.nopretrain_decemb:
+                                    #print(gen_linear.weight.shape)
                                     pointer.append(gen_linear.weight)
                                 if model_opt.simple_fusion and model_opt.sf_pretrain_dec_emb:
                                     pointer.append(decoder.embeddings.make_embedding.emb_luts[0].weight)
@@ -390,6 +397,7 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
                                 assigned = True
                                 pointer = pointer.self_attn
                                 full_data = torch.from_numpy(array)
+                                # print(full_data.size())
                                 if name[2] == 'c_attn':
                                     end_size = full_data.shape[-1]//3
                                     assert full_data.shape[-1] % 3 == 0
@@ -459,12 +467,12 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
                                 pointer = [pointer]
                             for pointer_i in pointer:
                                 target_size = int(math.ceil(array.shape[0]/8))*8
+                                print(name, target_size, pointer_i.shape[0])
                                 padded_vocab = name[0] == 'wte' and pointer_i.shape[0] == target_size
                                 padded_vocab = padded_vocab and pointer_i.shape[1:] == array.shape[1:]
                                 try:
                                     assert pointer_i.shape == array.shape or padded_vocab
                                 except AssertionError as e:
-                                    logger.info(pointer)
                                     e.args += (pointer_i.shape, array.shape)
                                     raise
                                 if init_something:

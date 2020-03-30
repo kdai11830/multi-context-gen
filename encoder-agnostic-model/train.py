@@ -15,6 +15,7 @@ from onmt.utils.parse import ArgumentParser
 
 
 def main(opt):
+    # print(opt)
     ArgumentParser.validate_train_opts(opt)
     ArgumentParser.update_model_opts(opt)
     ArgumentParser.validate_model_opts(opt)
